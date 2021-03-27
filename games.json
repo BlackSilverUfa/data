@@ -2405,8 +2405,16 @@
       { "twitch": "958844668", "subrefs": [
         { "name": "The Eternal Cylinder" },
         { "name": "Wanted Raccoon", "start": "4:09:54" }
-      ] },
-      { "name": "It Takes Two", "twitch": "963666663" }
+      ] }
+    ]
+  },
+  {
+    "name": "It Takes Two",
+    "category": "ongoing",
+    "id": "it-takes-two",
+    "streams": [
+      { "name": "1", "twitch": "963666663" },
+      { "name": "2", "twitch": "965027459" }
     ]
   },
   {
