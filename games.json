@@ -2410,11 +2410,12 @@
   },
   {
     "name": "It Takes Two",
-    "category": "ongoing",
+    "category": "finished",
     "id": "it-takes-two",
     "streams": [
       { "name": "1", "twitch": "963666663" },
-      { "name": "2", "twitch": "965027459" }
+      { "name": "2", "twitch": "965027459" },
+      { "name": "3", "twitch": "966354094" }
     ]
   },
   {
