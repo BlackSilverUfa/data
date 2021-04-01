@@ -2404,7 +2404,15 @@
         { "name": "The Eternal Cylinder" },
         { "name": "Wanted Raccoon", "start": "4:09:54" }
       ] },
-      { "name": "Spacebase Startopia", "twitch": "967584774" }
+      { "name": "Spacebase Startopia", "twitch": "967584774" },
+      {
+        "name": "Super Seducer 3", "twitch": "971240375",
+        "blacklist": {
+          "messages": [
+            "^[0-9a-fас]$"
+          ]
+        }
+      }
     ]
   },
   {

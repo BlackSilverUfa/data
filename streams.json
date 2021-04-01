@@ -1571,5 +1571,9 @@
   "966354094": { "youtube": "g2c-TnN8ww0", "official": false },
   "967584774": { "youtube": "Y9naef8VpXI", "official": false },
   "968731343": { "youtube": "RAYrop1JRrQ", "official": false },
-  "970047432": { "youtube": "ZhnYhPNDjCM", "official": false }
+  "970047432": { "youtube": "ZhnYhPNDjCM", "official": false },
+  "971240375": {
+    "cuts": ["2:56:20~3:31:12"],
+    "note": "Запись повреждена из-за ошибки в скрипте записи и удаления VOD почти сразу после этого. Потеряно 34 минуты и 52 секунды. Чат восстановлен из логов IRC."
+  }
 }
