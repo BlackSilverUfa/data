@@ -370,7 +370,8 @@
         { "name": "Unlasting Horror", "start": "2:03:16" },
         { "name": "Hide and Seek", "start": "2:31:05" },
         { "name": "Golf Party", "start": "2:53:21" }
-      ] }
+      ] },
+      { "name": "Knockout City (WLG, Bale)", "twitch": "975061581", "start": "3:11:26" }
     ]
   },
   {
@@ -1888,7 +1889,8 @@
       { "name": "Розыгрыш Asus ROG Strix Scope", "twitch": "676500778" },
       { "name": "Розыгрыш Asus ROG GA502IV", "twitch": "768182935" },
       { "name": "Розыгрыш флешек Asus ROG и ACRONYM", "twitch": "815193918" },
-      { "name": "Розыгрыш NVIDIA GeForce RTX 2080 Super", "twitch": "823035178" }
+      { "name": "Розыгрыш NVIDIA GeForce RTX 2080 Super", "twitch": "823035178" },
+      { "name": "Игровые коллекции зрителей", "twitch": "975061581", "start": "2:41:02" }
     ]
   },
   {
@@ -3943,7 +3945,8 @@
       { "name": "3", "twitch": "370111835", "segment": 0 },
       { "name": "4 (Клэр \"A\" от первого лица)", "twitch": "376053722" },
       { "name": "5 (DLC - Выжившие призраки)", "twitch": "383771606" },
-      { "name": "6 (Every enemy is Mr. X)", "twitch": "527412040" }
+      { "name": "6 (Every enemy is Mr. X)", "twitch": "527412040" },
+      { "name": "7 (заново)", "twitch": "975061581" }
     ],
     "cover": 1
   },
