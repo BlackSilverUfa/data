@@ -2416,10 +2416,16 @@
         }
       },
       { "name": "Last Oasis", "twitch": "972475218" },
-      { "twitch": "979835510", "subrefs": [
-        { "name": "Oddworld: Soulstorm" },
-        { "name": "Silent Hill", "start": "2:03:45" }
-      ] }
+      { "name": "Oddworld: Soulstorm", "twitch": "979835510" }
+    ]
+  },
+  {
+    "name": "Silent Hill",
+    "category": "finished",
+    "id": "sh",
+    "streams": [
+      { "name": "1", "twitch": "979835510", "start": "2:03:45" },
+      { "name": "2", "twitch": "980365564" }
     ]
   },
   {
