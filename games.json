@@ -2416,8 +2416,7 @@
         }
       },
       { "name": "Last Oasis", "twitch": "972475218" },
-      { "name": "Oddworld: Soulstorm", "twitch": "979835510" },
-      { "name": "Silent Hill 2", "twitch": "981050724" }
+      { "name": "Oddworld: Soulstorm", "twitch": "979835510" }
     ]
   },
   {
@@ -2427,6 +2426,15 @@
     "streams": [
       { "name": "1", "twitch": "979835510", "start": "2:03:45" },
       { "name": "2", "twitch": "980365564" }
+    ]
+  },
+  {
+    "name": "Silent Hill 2",
+    "category": "finished",
+    "id": "sh2",
+    "streams": [
+      { "name": "1", "twitch": "981050724" },
+      { "name": "2", "twitch": "982375076" }
     ]
   },
   {
