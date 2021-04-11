@@ -2438,6 +2438,14 @@
     ]
   },
   {
+    "name": "Silent Hill 3",
+    "category": "ongoing",
+    "id": "sh3",
+    "streams": [
+      { "name": "1", "twitch": "983663320" }
+    ]
+  },
+  {
     "name": "Outriders",
     "category": "ongoing",
     "id": "outriders",
