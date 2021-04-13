@@ -2442,10 +2442,11 @@
   },
   {
     "name": "Silent Hill 3",
-    "category": "ongoing",
+    "category": "finished",
     "id": "sh3",
     "streams": [
-      { "name": "1", "twitch": "983663320" }
+      { "name": "1", "twitch": "983663320" },
+      { "name": "2", "twitch": "985933335" }
     ]
   },
   {
@@ -3012,7 +3013,8 @@
         { "name": "14", "start": "9:30:59" }
       ] },
       { "name": "15", "twitch": "937766301", "start": "4:04:18" },
-      { "name": "16", "twitch": "958844668", "start": "5:02:53" }
+      { "name": "16", "twitch": "958844668", "start": "5:02:53" },
+      { "name": "17", "twitch": "985933335", "start": "4:48:01" }
     ]
   },
   {
