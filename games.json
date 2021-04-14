@@ -2450,6 +2450,14 @@
     ]
   },
   {
+    "name": "Silent Hill 4: The Room",
+    "category": "ongoing",
+    "id": "sh4",
+    "streams": [
+      { "name": "1", "twitch": "987111954" }
+    ]
+  },
+  {
     "name": "Outriders",
     "category": "ongoing",
     "id": "outriders",
