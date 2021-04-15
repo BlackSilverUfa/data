@@ -1224,7 +1224,8 @@
       { "name": "неПрофессиональный The Game Awards 2020", "twitch": "832197729", "segment": 1, "start": "12:34:01" },
       { "name": "State of Play 2021", "twitch": "927781155", "start": "8:58:26" },
       { "name": "ROG Phone 5 Launch Event", "twitch": "943938218" },
-      { "name": "Square Enix Presents (Весна 2021)", "twitch": "953865835", "start": "3:04:45" }
+      { "name": "Square Enix Presents (Весна 2021)", "twitch": "953865835", "start": "3:04:45" },
+      { "name": "Resident Evil Showcase (Апрель 2021)", "twitch": "988804108", "start": "27:07" }
     ]
   },
   {
@@ -2419,7 +2420,11 @@
       },
       { "name": "Last Oasis", "twitch": "972475218" },
       { "name": "Oddworld: Soulstorm", "twitch": "979835510" },
-      { "name": "Say No! More", "twitch": "984801715" }
+      { "name": "Say No! More", "twitch": "984801715" },
+      { "twitch": "988804108", "subrefs": [
+        { "name": "Resident Evil Re:Verse" },
+        { "name": "Resident Evil Re:Verse", "start": "54:20" }
+      ] }
     ]
   },
   {
