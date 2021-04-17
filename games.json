@@ -1651,6 +1651,14 @@
     ]
   },
   {
+    "name": "Зайчик (Tiny Bunny)",
+    "category": "ongoing",
+    "id": "tiny-bunny",
+    "streams": [
+      { "name": "1", "twitch": "990810001" }
+    ]
+  },
+  {
     "name": "Evil Inside",
     "category": "finished",
     "id": "evil-inside",
@@ -2425,10 +2433,16 @@
         { "name": "Resident Evil Re:Verse" },
         { "name": "Resident Evil Re:Verse", "start": "54:20" }
       ] },
-      { "twitch": "989503848", "subrefs": [
-        { "name": "Demon Skin" },
-        { "name": "Enlisted", "start": "2:01:02" }
-      ] }
+      { "name": "Demon Skin", "twitch": "989503848" }
+    ]
+  },
+  {
+    "name": "Enlisted",
+    "category": "co-op",
+    "id": "enlisted",
+    "streams": [
+      { "name": "1", "twitch": "989503848", "start": "2:01:02" },
+      { "name": "2", "twitch": "990810001", "start": "2:05:11" }
     ]
   },
   {
