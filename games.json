@@ -1641,13 +1641,24 @@
         { "name": "Noch (демо)" },
         { "name": "Dom Rusalok", "start": "2:17:12" }
       ] },
-      { "name": "Resident Evil Village (демо)", "twitch": "883419848" },
       { "name": "The Medium", "twitch": "891206240" },
       { "name": "NUTS", "twitch": "901835689", "start": "2:43:48" },
       { "name": "Narita Boy (демо)", "twitch": "905895866", "start": "3:25:42" },
       { "name": "Voyage", "twitch": "937766301" },
       { "name": "Mundaun", "twitch": "952632063" },
       { "name": "Paradise Lost", "twitch": "961225183" }
+    ]
+  },
+  {
+    "name": "Resident Evil Village",
+    "category": "ongoing",
+    "id": "re8",
+    "streams": [
+      { "name": "Maiden (демо)", "twitch": "883419848" },
+      { "twitch": "992035730", "subrefs": [
+        { "name": "Maiden (демо)", "start": "4:37:56" },
+        { "name": "Gameplay (демо)", "start": "4:01:51" }
+      ] }
     ]
   },
   {
@@ -2433,7 +2444,8 @@
         { "name": "Resident Evil Re:Verse" },
         { "name": "Resident Evil Re:Verse", "start": "54:20" }
       ] },
-      { "name": "Demon Skin", "twitch": "989503848" }
+      { "name": "Demon Skin", "twitch": "989503848" },
+      { "name": "Resident Evil Zero", "twitch": "992035730" }
     ]
   },
   {
