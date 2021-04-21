@@ -1666,7 +1666,8 @@
     "category": "ongoing",
     "id": "tiny-bunny",
     "streams": [
-      { "name": "1", "twitch": "990810001" }
+      { "name": "Эпизод 1", "twitch": "990810001" },
+      { "name": "Эпизод 2", "twitch": "995413784" }
     ]
   },
   {
@@ -2454,7 +2455,8 @@
     "id": "enlisted",
     "streams": [
       { "name": "1", "twitch": "989503848", "start": "2:01:02" },
-      { "name": "2", "twitch": "990810001", "start": "2:05:11" }
+      { "name": "2", "twitch": "990810001", "start": "2:05:11" },
+      { "name": "3", "twitch": "995413784", "start": "3:44:14" }
     ]
   },
   {
