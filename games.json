@@ -2448,7 +2448,6 @@
       ] },
       { "name": "Demon Skin", "twitch": "989503848" },
       { "name": "Resident Evil Zero", "twitch": "992035730" },
-      { "name": "NieR Replicant", "twitch": "996609423" },
       {
         "name": "Don't Forget Me", "twitch": "997843732",
         "blacklist": {
@@ -2457,6 +2456,15 @@
           ]
         }
       }
+    ]
+  },
+  {
+    "name": "NieR Replicant",
+    "category": "ongoing",
+    "id": "nier-replicant",
+    "streams": [
+      { "name": "1", "twitch": "996609423" },
+      { "name": "2", "twitch": "999099020" }
     ]
   },
   {
