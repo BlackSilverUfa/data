@@ -361,10 +361,7 @@
       ] },
       { "name": "In Silence", "twitch": "827759529", "start": "2:17:29" },
       { "name": "Granny Simulator", "twitch": "855161482", "start": "1:28:04" },
-      { "twitch": "895496717", "subrefs": [
-        { "name": "Devour" },
-        { "name": "Hand Simulator: Horror", "start": "1:21:31" }
-      ] },
+      { "name": "Hand Simulator: Horror", "twitch": "895496717", "start": "1:21:31" },
       { "twitch": "957785419", "subrefs": [
         { "name": "Draw & Guess" },
         { "name": "Unlasting Horror", "start": "2:03:16" },
@@ -372,7 +369,17 @@
         { "name": "Golf Party", "start": "2:53:21" }
       ] },
       { "name": "Knockout City (WLG, Bale)", "twitch": "975061581", "start": "3:11:26" },
-      { "name": "First Class Trouble", "twitch": "984801715", "start": "3:45:57" }
+      { "name": "First Class Trouble", "twitch": "984801715", "start": "3:45:57" },
+      { "name": "Chivalry 2", "twitch": "1000457538" }
+    ]
+  },
+  {
+    "name": "Devour",
+    "category": "co-op",
+    "id": "devour",
+    "streams": [
+      { "name": "1", "twitch": "895496717" },
+      { "name": "2", "twitch": "1000457538", "start": "2:59:40" }
     ]
   },
   {
@@ -1658,7 +1665,8 @@
       { "name": "Maiden (демо)", "twitch": "883419848" },
       { "twitch": "992035730", "subrefs": [
         { "name": "Maiden (демо)", "start": "3:37:56" },
-        { "name": "Gameplay (демо)", "start": "4:01:51" }
+        { "name": "Gameplay (демо)", "start": "4:01:51" },
+        { "name": "Gameplay 2 (демо)", "twitch": "1000457538", "start": "2:15:23" }
       ] }
     ]
   },
