@@ -1665,9 +1665,9 @@
       { "name": "Maiden (демо)", "twitch": "883419848" },
       { "twitch": "992035730", "subrefs": [
         { "name": "Maiden (демо)", "start": "3:37:56" },
-        { "name": "Gameplay (демо)", "start": "4:01:51" },
-        { "name": "Gameplay 2 (демо)", "twitch": "1000457538", "start": "2:15:23" }
-      ] }
+        { "name": "Gameplay (демо)", "start": "4:01:51" }
+      ] },
+      { "name": "Gameplay 2 (демо)", "twitch": "1000457538", "start": "2:15:23" }
     ]
   },
   {
