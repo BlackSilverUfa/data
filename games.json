@@ -2468,12 +2468,13 @@
   },
   {
     "name": "NieR Replicant",
-    "category": "ongoing",
+    "category": "finished",
     "id": "nier-replicant",
     "streams": [
       { "name": "1", "twitch": "996609423" },
       { "name": "2", "twitch": "999099020" },
-      { "name": "3", "twitch": "1001445798" }
+      { "name": "3", "twitch": "1001445798" },
+      { "name": "4", "twitch": "1002673460" }
     ]
   },
   {
