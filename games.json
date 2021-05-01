@@ -2469,8 +2469,16 @@
             "^_"
           ]
         }
-      },
-      { "name": "Returnal", "twitch": "1005904918" }
+      }
+    ]
+  },
+  {
+    "name": "Returnal",
+    "category": "ongoing",
+    "id": "returnal",
+    "streams": [
+      { "name": "1", "twitch": "1005904918" },
+      { "name": "2", "twitch": "1007193234" }
     ]
   },
   {
