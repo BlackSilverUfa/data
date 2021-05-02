@@ -1673,7 +1673,8 @@
         { "name": "Maiden (демо)", "start": "3:37:56" },
         { "name": "Gameplay (демо)", "start": "4:01:51" }
       ] },
-      { "name": "Gameplay 2 (демо)", "twitch": "1000457538", "start": "2:15:23" }
+      { "name": "Gameplay 2 (демо)", "twitch": "1000457538", "start": "2:15:23" },
+      { "name": "Gameplay 1 и 2 (демо)", "twitch": "1008423983", "start": "4:29:21" }
     ]
   },
   {
@@ -2478,7 +2479,8 @@
     "id": "returnal",
     "streams": [
       { "name": "1", "twitch": "1005904918" },
-      { "name": "2", "twitch": "1007193234" }
+      { "name": "2", "twitch": "1007193234" },
+      { "name": "3", "twitch": "1008423983" }
     ]
   },
   {
