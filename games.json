@@ -2475,13 +2475,14 @@
   },
   {
     "name": "Returnal",
-    "category": "ongoing",
+    "category": "finished",
     "id": "returnal",
     "streams": [
       { "name": "1", "twitch": "1005904918" },
       { "name": "2", "twitch": "1007193234" },
       { "name": "3", "twitch": "1008423983" },
-      { "name": "4", "twitch": "1010778171" }
+      { "name": "4", "twitch": "1010778171" },
+      { "name": "5", "twitch": "1011964836" }
     ]
   },
   {
