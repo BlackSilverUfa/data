@@ -1308,7 +1308,9 @@
     "offsets": ["0:00", "7:32:13", "14:13:20", "17:13:32"]
   },
   "658127870": { "youtube": "Rb25ko56u-s" },
-  "659080815": { "youtube": "55mPQ6P-1ao", "official": false },
+  "659080815": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/659080815.mp4"
+  },
   "660069027": { "youtube": "6F2ns__XHvQ", "official": false },
   "661040084": { "youtube": "Ei_Em7xbrbU" },
   "663012938": { "youtube": "pWu8cdmPllk" },
