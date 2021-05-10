@@ -446,8 +446,7 @@
   "267726322": { "youtube": "ng5A3gOPBzo", "official": false },
   "268055630": { "youtube": "RjQzoSnVkLs", "official": false },
   "268114023": {
-    "youtube": "VzqWyytjckQ", "official": false,
-    "note": "Просмотр заблокирован в Японии."
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/268114023.mp4"
   },
   "268497396": { "youtube": "qtiSoPbuteM", "official": false },
   "268900992": {
@@ -1436,10 +1435,7 @@
   "796958566": { "youtube": "iAhHsKTjKcI" },
   "797983663": { "youtube": "XlWQs5dExRg" },
   "799135139": { "youtube": "2z92zj8luok" },
-  "800233089": [
-    { "youtube": "CSjEpw0w5gE", "official": false },
-    { "youtube": "XcOSWStaSB0", "offset": "2:34:24" }
-  ],
+  "800233089": { "youtube": "CSjEpw0w5gE", "official": false },
   "801377729": [
     { "youtube": "plgno45snwg", "official": false },
     { "youtube": "DTRtUFC-uvg" }
