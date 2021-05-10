@@ -1971,7 +1971,8 @@
       ] },
       { "name": "Sony PlayStation 5", "twitch": "806256296" },
       { "name": "Asus ROG Zephyrus G14", "twitch": "812974689" },
-      { "name": "ROG Flow X13", "twitch": "962439245" }
+      { "name": "ROG Flow X13", "twitch": "962439245" },
+      { "name": "ROG Gladius III", "twitch": "1017725694" }
     ]
   },
   {
@@ -2480,7 +2481,11 @@
             "^_"
           ]
         }
-      }
+      },
+      { "twitch": "1017725694", "subrefs": [
+        { "name": "Starless", "start": "1:48:28" },
+        { "name": "War Mongrels", "start": "2:04:40" }
+      ] }
     ]
   },
   {
@@ -4040,7 +4045,8 @@
       { "name": "Sam's Story #1 (часть 1)", "twitch": "550381390" },
       { "name": "Sam's Story #1 (часть 2)", "twitch": "550387516" },
       { "name": "Sam's Story #2 (часть 1)", "twitch": "550791781" },
-      { "name": "Sam's Story #2 (часть 2)", "twitch": "550874352" }
+      { "name": "Sam's Story #2 (часть 2)", "twitch": "550874352" },
+      { "name": "Enhanced Edition", "twitch": "1017725694", "2:29:52" }
     ]
   },
   {
