@@ -2328,7 +2328,6 @@
       ] },
       { "name": "SOLUM", "twitch": "644774531", "start": "4:30:33" },
       { "name": "The Disappearance of the Mitchels", "twitch": "645734946", "start": "5:15:53" },
-      { "name": "In Sound Mind (демо)", "twitch": "650534841", "start": "1:31:36" },
       { "twitch": "653411860", "subrefs": [
         { "name": "Hardspace: Shipbreaker", "start": "1:53:28" },
         { "name": "Gloomwood", "start": "2:33:58" },
@@ -2485,7 +2484,23 @@
       { "twitch": "1017725694", "subrefs": [
         { "name": "Starless", "start": "1:48:28" },
         { "name": "War Mongrels", "start": "2:04:40" }
+      ] },
+      { "twitch": "1021117640", "subrefs": [
+        { "name": "Until We Die (демо)" },
+        { "name": "Severed Steel (демо)", "start": "1:56:32" },
+        { "name": "Happy Game (демо)", "start": "2:32:45" },
+        { "name": "Gravewood High (демо)", "start": "2:47:15" },
+        { "name": "SCP: Escape Together", "start": "2:55:12" }
       ] }
+    ]
+  },
+  {
+    "name": "In Sound Mind",
+    "category": "ongoing",
+    "id": "in-sound-mind",
+    "streams": [
+      { "name": "1 (демо)", "twitch": "650534841", "start": "1:31:36" },
+      { "name": "2 (демо)", "twitch": "1021117640", "start": "2:11:38" }
     ]
   },
   {
@@ -4119,7 +4134,8 @@
       { "name": "4 (часть 2)", "twitch": "863375029" },
       { "name": "5", "twitch": "870760177", "start": "2:35:17" },
       { "name": "6", "twitch": "871972944" },
-      { "name": "7", "twitch": "873197357" }
+      { "name": "7", "twitch": "873197357" },
+      { "name": "8", "twitch": "1021117640", "start": "4:54:56" }
     ]
   },
   {
@@ -4387,7 +4403,8 @@
       { "name": "2", "twitch": "278566845", "segment": 1 },
       { "name": "3", "twitch": "676500778", "start": "58:38" },
       { "name": "4", "twitch": "677524120", "start": "2:00:30" },
-      { "name": "5", "twitch": "678368491", "start": "5:15:33" }
+      { "name": "5", "twitch": "678368491", "start": "5:15:33" },
+      { "name": "6", "twitch": "1021117640", "start": "3:21:35" }
     ]
   },
   {
