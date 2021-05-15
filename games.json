@@ -2491,8 +2491,24 @@
         { "name": "Happy Game (демо)", "start": "2:32:45" },
         { "name": "Gravewood High (демо)", "start": "2:47:15" },
         { "name": "SCP: Escape Together", "start": "2:55:12" }
-      ] },
-      { "name": "Mass Effect: Legendary Edition", "twitch": "1022192586" }
+      ] }
+    ]
+  },
+  {
+    "name": "Mass Effect: Legendary Edition",
+    "category": "finished",
+    "id": "me",
+    "streams": [
+      { "name": "1", "twitch": "1022192586" },
+      { "name": "2", "twitch": "1023398734" }
+    ]
+  },
+  {
+    "name": "Mass Effect 2: Legendary Edition",
+    "category": "ongoing",
+    "id": "me2",
+    "streams": [
+      { "name": "1", "twitch": "1023398734", "start": "7:45:40" }
     ]
   },
   {
