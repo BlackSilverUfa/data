@@ -368,7 +368,6 @@
         { "name": "Hide and Seek", "start": "2:31:05" },
         { "name": "Golf Party", "start": "2:53:21" }
       ] },
-      { "name": "Knockout City (WLG, Bale)", "twitch": "975061581", "start": "3:11:26" },
       { "name": "First Class Trouble", "twitch": "984801715", "start": "3:45:57" },
       { "name": "Chivalry 2", "twitch": "1000457538" },
       { "twitch": "1003719769", "subrefs": [
@@ -376,6 +375,15 @@
         { "name": "Horror Squad", "start": "4:09:00" }
       ] },
       { "name": "Dread Hunger", "twitch": "1024777649" }
+    ]
+  },
+  {
+    "name": "Knockout City",
+    "category": "co-op",
+    "id": "knockout-city",
+    "streams": [
+      { "name": "1 (с WeLoveGames и Bale)", "twitch": "975061581", "start": "3:11:26" },
+      { "name": "2 (с Куплиновым и Дангаром)", "twitch": "1030127769", "start": "2:05:54" }
     ]
   },
   {
@@ -2494,7 +2502,8 @@
         { "name": "Happy Game (демо)", "start": "2:32:45" },
         { "name": "Gravewood High (демо)", "start": "2:47:15" },
         { "name": "SCP: Escape Together", "start": "2:55:12" }
-      ] }
+      ] },
+      { "name": "Phantom Abyss", "twitch": "1030127769" }
     ]
   },
   {
