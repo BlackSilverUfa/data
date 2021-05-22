@@ -2503,7 +2503,16 @@
         { "name": "Gravewood High (демо)", "start": "2:47:15" },
         { "name": "SCP: Escape Together", "start": "2:55:12" }
       ] },
-      { "name": "Phantom Abyss", "twitch": "1030127769" }
+      { "name": "Sniper Ghost Warrior Contracts 2 (демо)", "twitch": "1031332081" }
+    ]
+  },
+  {
+    "name": "Phantom Abyss",
+    "category": "infinite",
+    "id": "phantom-abyss",
+    "streams": [
+      { "name": "1", "twitch": "1030127769" },
+      { "name": "2", "twitch": "1031332081", "start": "1:35:24" }
     ]
   },
   {
