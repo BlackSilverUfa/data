@@ -374,7 +374,11 @@
         { "name": "Ranch Simulator", "start": "2:08:59" },
         { "name": "Horror Squad", "start": "4:09:00" }
       ] },
-      { "name": "Dread Hunger", "twitch": "1024777649" }
+      { "name": "Dread Hunger", "twitch": "1024777649" },
+      { "twitch": "1031432095", "subrefs": [
+        { "name": "Just Die Already" },
+        { "name": "A House of Thieves", "start": "1:12:01" }
+      ] }
     ]
   },
   {
