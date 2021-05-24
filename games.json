@@ -2507,7 +2507,11 @@
         { "name": "Gravewood High (демо)", "start": "2:47:15" },
         { "name": "SCP: Escape Together", "start": "2:55:12" }
       ] },
-      { "name": "Sniper Ghost Warrior Contracts 2 (демо)", "twitch": "1031332081" }
+      { "name": "Sniper Ghost Warrior Contracts 2 (демо)", "twitch": "1031332081" },
+      { "twitch": "1033590091", "subrefs": [
+        { "name": "Pathfinder: Wrath of the Righteous (демо)" },
+        { "name": "Biomutant", "start": "1:59:10" }
+      ] }
     ]
   },
   {
