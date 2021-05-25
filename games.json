@@ -2508,10 +2508,16 @@
         { "name": "SCP: Escape Together", "start": "2:55:12" }
       ] },
       { "name": "Sniper Ghost Warrior Contracts 2 (демо)", "twitch": "1031332081" },
-      { "twitch": "1033590091", "subrefs": [
-        { "name": "Pathfinder: Wrath of the Righteous (демо)" },
-        { "name": "Biomutant", "start": "1:59:10" }
-      ] }
+      { "name": "Pathfinder: Wrath of the Righteous (демо)", "twitch": "1033590091" }
+    ]
+  },
+  {
+    "name": "Biomutant",
+    "category": "ongoing",
+    "id": "biomutant",
+    "streams": [
+      { "name": "1", "twitch": "1033590091", "start": "1:59:10" },
+      { "name": "2", "twitch": "1034612378" }
     ]
   },
   {
