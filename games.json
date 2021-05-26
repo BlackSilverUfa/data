@@ -386,8 +386,9 @@
     "category": "co-op",
     "id": "knockout-city",
     "streams": [
-      { "name": "1 (с WeLoveGames и Bale)", "twitch": "975061581", "start": "3:11:26" },
-      { "name": "2 (с Куплиновым и Дангаром)", "twitch": "1030127769", "start": "2:05:54" }
+      { "name": "1 (с WeLoveGames и Бейлом)", "twitch": "975061581", "start": "3:11:26" },
+      { "name": "2 (с Куплиновым и Дангаром)", "twitch": "1030127769", "start": "2:05:54" },
+      { "name": "3 (с WeLoveGames и Бейлом)", "twitch": "1035840249", "start": "2:17:35" }
     ]
   },
   {
@@ -2508,7 +2509,8 @@
         { "name": "SCP: Escape Together", "start": "2:55:12" }
       ] },
       { "name": "Sniper Ghost Warrior Contracts 2 (демо)", "twitch": "1031332081" },
-      { "name": "Pathfinder: Wrath of the Righteous (демо)", "twitch": "1033590091" }
+      { "name": "Pathfinder: Wrath of the Righteous (демо)", "twitch": "1033590091" },
+      { "name": "Siege Survival: Gloria Victis", "twitch": "1035840249" }
     ]
   },
   {
