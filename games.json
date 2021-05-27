@@ -369,7 +369,6 @@
         { "name": "Golf Party", "start": "2:53:21" }
       ] },
       { "name": "First Class Trouble", "twitch": "984801715", "start": "3:45:57" },
-      { "name": "Chivalry 2", "twitch": "1000457538" },
       { "twitch": "1003719769", "subrefs": [
         { "name": "Ranch Simulator", "start": "2:08:59" },
         { "name": "Horror Squad", "start": "4:09:00" }
@@ -378,6 +377,18 @@
       { "twitch": "1031432095", "subrefs": [
         { "name": "Just Die Already" },
         { "name": "A House of Thieves", "start": "1:12:01" }
+      ] }
+    ]
+  },
+  {
+    "name": "Chivalry 2",
+    "category": "co-op",
+    "id": "chivalry-2",
+    "streams": [
+      { "name": "1", "twitch": "1000457538" },
+      { "twitch": "1036865162", "subrefs": [
+        { "name": "2", "start": "4:44:19" },
+        { "name": "2", "start": "6:36:49" }
       ] }
     ]
   },
@@ -1241,19 +1252,42 @@
     "type": "list",
     "id": "expos",
     "streams": [
-      { "name": "неПрофессиональный The Game Awards 2018", "twitch": "345649019" },
-      { "name": "Gamescom 2019", "twitch": "469393130" },
       { "name": "BlizzCon 2019 (обзор)", "twitch": "502940448" },
-      { "name": "State of Play 2019", "twitch": "519609666" },
-      { "name": "The Game Awards 2019 (обзор)", "twitch": "520877239" },
       { "name": "Презентация PlayStation 5", "twitch": "569683310", "start": "3:03:45" },
       { "name": "Xbox Inside 2020", "twitch": "613793616", "start": "1:59:40" },
-      { "name": "Gamescom 2020", "twitch": "723011325", "start": "4:48:39" },
-      { "name": "неПрофессиональный The Game Awards 2020", "twitch": "832197729", "segment": 1, "start": "12:34:01" },
-      { "name": "State of Play 2021", "twitch": "927781155", "start": "8:58:26" },
       { "name": "ROG Phone 5 Launch Event", "twitch": "943938218" },
       { "name": "Square Enix Presents (Весна 2021)", "twitch": "953865835", "start": "3:04:45" },
-      { "name": "Resident Evil Showcase (Апрель 2021)", "twitch": "988804108", "start": "27:07" }
+      { "name": "Resident Evil Showcase (Апрель 2021)", "twitch": "988804108", "start": "27:07" },
+      { "name": "Dying 2 Know - Dying Light 2", "twitch": "1036865162", "start": "5:58:40" }
+    ]
+  },
+  {
+    "name": "The Game Awards",
+    "category": "expos",
+    "id": "tga",
+    "streams": [
+      { "name": "2018", "twitch": "345649019" },
+      { "name": "2019 (обзор)", "twitch": "520877239" },
+      { "name": "2020", "twitch": "832197729", "segment": 1, "start": "12:34:01" }
+    ]
+  },
+  {
+    "name": "Gamescom",
+    "category": "expos",
+    "id": "gamescom",
+    "streams": [
+      { "name": "2019", "twitch": "469393130" },
+      { "name": "2020", "twitch": "723011325", "start": "4:48:39" }
+    ]
+  },
+  {
+    "name": "State of Play",
+    "category": "expos",
+    "id": "sony-sop",
+    "streams": [
+      { "name": "2019", "twitch": "519609666" },
+      { "name": "2021", "twitch": "927781155", "start": "8:58:26" },
+      { "name": "Horizon Forbidden West", "twitch": "1036865162", "start": "8:00:27" }
     ]
   },
   {
@@ -2437,7 +2471,6 @@
       ] },
       { "twitch": "905895866", "subrefs": [
         { "name": "Potentia (демо)", "start": "1:51:53" },
-        { "name": "Graven (демо)", "start": "2:16:54" },
         { "name": "Minute of Islands (демо)", "start": "4:51:05" },
         { "name": "Escape (демо)", "start": "5:35:43" },
         { "name": "Slender Threads (демо)", "start": "5:41:00" },
@@ -2510,7 +2543,17 @@
       ] },
       { "name": "Sniper Ghost Warrior Contracts 2 (демо)", "twitch": "1031332081" },
       { "name": "Pathfinder: Wrath of the Righteous (демо)", "twitch": "1033590091" },
-      { "name": "Siege Survival: Gloria Victis", "twitch": "1035840249" }
+      { "name": "Siege Survival: Gloria Victis", "twitch": "1035840249" },
+      { "name": "Scarlet Nexus (демо)", "twitch": "1036865162" }
+    ]
+  },
+  {
+    "name": "Graven",
+    "category": "ongoing",
+    "id": "graven",
+    "streams": [
+      { "name": "Демо", "twitch": "905895866", "start": "2:16:54" },
+      { "name": "1", "twitch": "1036865162", "start": "1:44:31" }
     ]
   },
   {
