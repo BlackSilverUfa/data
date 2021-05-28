@@ -1948,7 +1948,6 @@
       { "name": "PlayStation Classic (все игры)", "twitch": "348094949" },
       { "name": "Godzilla (PS4, NES, Sega, PS2)", "twitch": "431084407" },
       { "name": "RTX-стрим", "twitch": "438447673" },
-      { "name": "Xbox Game Pass Ultimate", "twitch": "526521156" },
       {
         "name": "Трейлеры и нарезки", "twitch": "687309207",
         "note": "Первый стрим, где было так много трейлеров, что на игры не хватило времени."
@@ -1956,6 +1955,15 @@
       { "name": "Клаустрофобия - The Dark Pictures: Little Hope", "twitch": "784351602", "start": "3:49:20" },
       { "name": "Тест Xbox Series X", "twitch": "793751031" },
       { "name": "Трейлеры и арты", "twitch": "895436223" }
+    ]
+  },
+  {
+    "name": "Xbox Game Pass",
+    "category": "other",
+    "id": "xbox-gp",
+    "streams": [
+      { "name": "1", "twitch": "526521156" },
+      { "name": "2", "twitch": "1037951212,1037962598,1038035275,1038124022" }
     ]
   },
   {
@@ -2360,10 +2368,7 @@
         { "name": "The Persistence", "start": "2:55:31" },
         { "name": "Black Book", "start": "4:14:31" }
       ] },
-      { "twitch": "628517071", "subrefs": [
-        { "name": "ManEater" },
-        { "name": "Saints Row: The Third", "start": "2:04:17" }
-      ] },
+      { "name": "Saints Row: The Third", "twitch": "628517071", "start": "2:04:17" },
       { "twitch": "629544387", "subrefs": [
         { "name": "What the Golf?" },
         { "name": "Startup Valley Adventure", "start": "37:29" },
@@ -2544,7 +2549,21 @@
       { "name": "Sniper Ghost Warrior Contracts 2 (демо)", "twitch": "1031332081" },
       { "name": "Pathfinder: Wrath of the Righteous (демо)", "twitch": "1033590091" },
       { "name": "Siege Survival: Gloria Victis", "twitch": "1035840249" },
-      { "name": "Scarlet Nexus (демо)", "twitch": "1036865162" }
+      { "name": "Scarlet Nexus (демо)", "twitch": "1036865162" },
+      { "twitch": "1037951212,1037962598,1038035275,1038124022", "subrefs": [
+        { "name": "Wolfenstein: The Old Blood" },
+        { "name": "Spiritfarer", "start": "50:36" },
+        { "name": "DOOM 64", "start": "1:20:46" }
+      ] }
+    ]
+  },
+  {
+    "name": "Maneater",
+    "category": "infinite",
+    "id": "maneater",
+    "streams": [
+      { "name": "1", "twitch": "628517071" },
+      { "name": "2", "twitch": "1037951212,1037962598,1038035275,1038124022", "start": "1:37:45" }
     ]
   },
   {
@@ -4485,6 +4504,14 @@
       { "name": "4", "twitch": "291816147", "segment": 2 },
       { "name": "5", "twitch": "292591348", "start": "3:43:37" },
       { "name": "6", "twitch": "298475700" }
+    ]
+  },
+  {
+    "name": "Resident Evil 6",
+    "category": "ongoing",
+    "id": "re6",
+    "streams": [
+      { "name": "1", "twitch": "1037951212,1037962598,1038035275,1038124022", "start": "2:29:35" }
     ]
   },
   {
