@@ -368,16 +368,32 @@
         { "name": "Hide and Seek", "start": "2:31:05" },
         { "name": "Golf Party", "start": "2:53:21" }
       ] },
-      { "name": "First Class Trouble", "twitch": "984801715", "start": "3:45:57" },
       { "twitch": "1003719769", "subrefs": [
         { "name": "Ranch Simulator", "start": "2:08:59" },
         { "name": "Horror Squad", "start": "4:09:00" }
       ] },
-      { "name": "Dread Hunger", "twitch": "1024777649" },
       { "twitch": "1031432095", "subrefs": [
         { "name": "Just Die Already" },
         { "name": "A House of Thieves", "start": "1:12:01" }
       ] }
+    ]
+  },
+  {
+    "name": "Dread Hunger",
+    "category": "co-op",
+    "id": "dread-hunger",
+    "streams": [
+      { "name": "1", "twitch": "1024777649" },
+      { "name": "2", "twitch": "1043310851", "start": "4:52:38" }
+    ]
+  },
+  {
+    "name": "First Class Trouble",
+    "category": "co-op",
+    "id": "fct",
+    "streams": [
+      { "name": "1", "twitch": "984801715", "start": "3:45:57" },
+      { "name": "2", "twitch": "1043310851", "start": "3:14:59" }
     ]
   },
   {
@@ -2554,7 +2570,8 @@
         { "name": "Wolfenstein: The Old Blood" },
         { "name": "Spiritfarer", "start": "50:36" },
         { "name": "DOOM 64", "start": "1:20:46" }
-      ] }
+      ] },
+      { "name": "Necromunda: Hired Gun", "twitch": "1043310851" }
     ]
   },
   {
