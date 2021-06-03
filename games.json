@@ -2575,6 +2575,14 @@
     ]
   },
   {
+    "name": "Operation: Tango",
+    "category": "ongoing",
+    "id": "op-tango",
+    "streams": [
+      { "name": "1 (часть 1)", "twitch": "1044426110", "start": "4:01:41" }
+    ]
+  },
+  {
     "name": "Maneater",
     "category": "infinite",
     "id": "maneater",
@@ -2935,12 +2943,13 @@
     ]
   },
   {
-    "name": "World of Warcraft: Shadowlands",
+    "name": "World of Warcraft",
     "category": "ongoing",
-    "id": "wow-shadowlands",
+    "id": "wow",
     "streams": [
-      { "name": "1", "twitch": "728015486" },
-      { "name": "2", "twitch": "814088106" }
+      { "name": "1 (Shadowlands)", "twitch": "728015486" },
+      { "name": "2", "twitch": "814088106" },
+      { "name": "1 (заново)", "twitch": "1044426110" }
     ]
   },
   {
@@ -3242,7 +3251,8 @@
       { "name": "2", "twitch": "622728652", "start": "4:02:25" },
       { "name": "3", "twitch": "626564087", "start": "5:19:20" },
       { "name": "4", "twitch": "649632498", "start": "3:28:40" },
-      { "name": "5", "twitch": "663976925" }
+      { "name": "5", "twitch": "663976925" },
+      { "name": "6", "twitch": "1044426110", "start": "3:33:15" }
     ]
   },
   {
