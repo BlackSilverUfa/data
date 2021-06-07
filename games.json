@@ -2557,7 +2557,6 @@
         { "name": "War Mongrels", "start": "2:04:40" }
       ] },
       { "twitch": "1021117640", "subrefs": [
-        { "name": "Until We Die (демо)" },
         { "name": "Severed Steel (демо)", "start": "1:56:32" },
         { "name": "Happy Game (демо)", "start": "2:32:45" },
         { "name": "Gravewood High (демо)", "start": "2:47:15" },
@@ -2572,7 +2571,17 @@
         { "name": "Spiritfarer", "start": "50:36" },
         { "name": "DOOM 64", "start": "1:20:46" }
       ] },
-      { "name": "Necromunda: Hired Gun", "twitch": "1043310851" }
+      { "name": "Necromunda: Hired Gun", "twitch": "1043310851" },
+      { "name": "Skinwalker Hunt", "twitch": "1048673954", "start": "56:52" }
+    ]
+  },
+  {
+    "name": "Until We Die",
+    "category": "ongoing",
+    "id": "until-we-die",
+    "streams": [
+      { "name": "Демо", "twitch": "1021117640" },
+      { "name": "1", "twitch": "1048673954" }
     ]
   },
   {
@@ -3254,7 +3263,8 @@
       { "name": "3", "twitch": "626564087", "start": "5:19:20" },
       { "name": "4", "twitch": "649632498", "start": "3:28:40" },
       { "name": "5", "twitch": "663976925" },
-      { "name": "6", "twitch": "1044426110", "start": "3:33:15" }
+      { "name": "6", "twitch": "1044426110", "start": "3:33:15" },
+      { "name": "7", "twitch": "1048673954", "start": "5:09:18" }
     ]
   },
   {
@@ -3285,7 +3295,8 @@
       { "name": "15", "twitch": "937766301", "start": "4:04:18" },
       { "name": "16", "twitch": "958844668", "start": "5:02:53" },
       { "name": "17", "twitch": "985933335", "start": "4:48:01" },
-      { "name": "18", "twitch": "1027931171", "start": "4:02:07" }
+      { "name": "18", "twitch": "1027931171", "start": "4:02:07" },
+      { "name": "19", "twitch": "1048673954", "start": "3:27:57" }
     ]
   },
   {
