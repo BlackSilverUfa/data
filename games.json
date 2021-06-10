@@ -406,7 +406,8 @@
       { "twitch": "1036865162", "subrefs": [
         { "name": "2", "start": "4:44:19" },
         { "name": "2", "start": "6:36:49" }
-      ] }
+      ] },
+      { "name": "3", "twitch": "1051795746,1052015039,1052084349" }
     ]
   },
   {
@@ -1275,7 +1276,8 @@
       { "name": "ROG Phone 5 Launch Event", "twitch": "943938218" },
       { "name": "Square Enix Presents (Весна 2021)", "twitch": "953865835", "start": "3:04:45" },
       { "name": "Resident Evil Showcase (Апрель 2021)", "twitch": "988804108", "start": "27:07" },
-      { "name": "Dying 2 Know - Dying Light 2", "twitch": "1036865162", "start": "5:58:40" }
+      { "name": "Dying 2 Know - Dying Light 2", "twitch": "1036865162", "start": "5:58:40" },
+      { "name": "Summer Game Fest 2021", "twitch": "1051795746,1052015039,1052084349", "start": "4:30:41" }
     ]
   },
   {
