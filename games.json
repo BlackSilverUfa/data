@@ -1732,6 +1732,14 @@
     ]
   },
   {
+    "name": "Ratchet & Clank: Rift Apart",
+    "category": "ongoing",
+    "id": "rc-rift-apart",
+    "streams": [
+      { "name": "1", "twitch": "1052761973" }
+    ]
+  },
+  {
     "name": "Resident Evil Village",
     "category": "finished",
     "id": "re8",
