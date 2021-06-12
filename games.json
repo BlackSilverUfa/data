@@ -1276,8 +1276,7 @@
       { "name": "ROG Phone 5 Launch Event", "twitch": "943938218" },
       { "name": "Square Enix Presents (Весна 2021)", "twitch": "953865835", "start": "3:04:45" },
       { "name": "Resident Evil Showcase (Апрель 2021)", "twitch": "988804108", "start": "27:07" },
-      { "name": "Dying 2 Know - Dying Light 2", "twitch": "1036865162", "start": "5:58:40" },
-      { "name": "Summer Game Fest 2021", "twitch": "1051795746,1052015039,1052084349", "start": "4:30:41" }
+      { "name": "Dying 2 Know - Dying Light 2", "twitch": "1036865162", "start": "5:58:40" }
     ]
   },
   {
@@ -1408,6 +1407,19 @@
         { "name": "Microsoft", "start": "2:57:55" }
       ] },
       { "name": "Ubisoft (осень)", "twitch": "736906091", "segment": 0, "start": "5:28:27" }
+    ]
+  },
+  {
+    "name": "неПрофессиональный E3 2021",
+    "category": "expos",
+    "id": "e3_2021",
+    "streams": [
+      { "name": "Summer Game Fest", "twitch": "1051795746,1052015039,1052084349", "start": "4:30:41" },
+      { "twitch": "1053861574,1053916259,1054022725", "subrefs": [
+        { "name": "Ubisoft Forward", "start": "7:29:36" },
+        { "name": "Devolver Digital", "start": "9:11:15" },
+        { "name": "Gearbox", "start": "9:40:41" }
+      ] }
     ]
   },
   {
@@ -1733,10 +1745,11 @@
   },
   {
     "name": "Ratchet & Clank: Rift Apart",
-    "category": "ongoing",
+    "category": "finished",
     "id": "rc-rift-apart",
     "streams": [
-      { "name": "1", "twitch": "1052761973" }
+      { "name": "1", "twitch": "1052761973" },
+      { "name": "2", "twitch": "1053861574,1053916259,1054022725" }
     ]
   },
   {
