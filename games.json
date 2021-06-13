@@ -408,7 +408,12 @@
         { "name": "2", "start": "6:36:49" }
       ] },
       { "name": "3", "twitch": "1051795746,1052015039,1052084349" },
-      { "name": "4 (часть 1)", "twitch": "1054943681", "start": "2:06:35" }
+      { "name": "4 (часть 1)", "twitch": "1054943681", "start": "2:06:35" },
+      { "twitch": "1055052153", "subrefs": [
+        { "name": "4 (часть 2)" },
+        { "name": "4 (часть 2)", "start": "2:48:30" },
+        { "name": "4 (часть 2)", "start": "4:18:03" }
+      ] }
     ]
   },
   {
@@ -1420,6 +1425,12 @@
         { "name": "Ubisoft Forward", "start": "7:29:36" },
         { "name": "Devolver Digital", "start": "9:11:15" },
         { "name": "Gearbox", "start": "9:40:41" }
+      ] },
+      { "twitch": "1055052153", "subrefs": [
+        { "name": "Xbox & Bethesda Showcase", "start": "1:15:12" },
+        { "name": "Square Enix Presents", "start": "3:33:03" },
+        { "name": "PC Gaming Show", "start": "5:20:16" },
+        { "name": "Future Games Show", "start": "7:18:05" }
       ] }
     ]
   },
