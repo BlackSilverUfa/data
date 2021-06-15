@@ -1436,7 +1436,8 @@
       { "twitch": "1055969948", "subrefs": [
         { "name": "Take-Two Interactive" },
         { "name": "Capcom", "start": "6:29:45" }
-      ] }
+      ] },
+      { "name": "Nintendo Direct", "twitch": "1056977056", "start": "1:17:42" }
     ]
   },
   {
@@ -2613,7 +2614,8 @@
         { "name": "DOOM 64", "start": "1:20:46" }
       ] },
       { "name": "Necromunda: Hired Gun", "twitch": "1043310851" },
-      { "name": "Skinwalker Hunt", "twitch": "1048673954", "start": "56:52" }
+      { "name": "Skinwalker Hunt", "twitch": "1048673954", "start": "56:52" },
+      { "name": "Sable (демо)", "twitch": "1056977056" }
     ]
   },
   {
