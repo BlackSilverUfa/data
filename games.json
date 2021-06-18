@@ -375,7 +375,8 @@
       { "twitch": "1031432095", "subrefs": [
         { "name": "Just Die Already" },
         { "name": "A House of Thieves", "start": "1:12:01" }
-      ] }
+      ] },
+      { "name": "The Red Solstice 2: Survivors", "twitch": "1059978031" }
     ]
   },
   {
@@ -1758,7 +1759,14 @@
       { "name": "Voyage", "twitch": "937766301" },
       { "name": "Mundaun", "twitch": "952632063" },
       { "name": "Paradise Lost", "twitch": "961225183" },
-      { "name": "Scene Investigators (демо)", "twitch": "1003719769" }
+      { "name": "Scene Investigators (демо)", "twitch": "1003719769" },
+      { "twitch": "1059978031", "subrefs": [
+        { "name": "Industria (демо)", "start": "2:30:31" },
+        { "name": "Greak: Memories of Azur (демо)", "start": "3:06:53" },
+        { "name": "Chasing Static (демо)", "start": "3:54:29" },
+        { "name": "Song of Iron (демо)", "start": "4:19:39" },
+        { "name": "Undying Symphony (демо)", "start": "5:24:46" }
+      ] }
     ]
   },
   {
@@ -2615,7 +2623,12 @@
       ] },
       { "name": "Necromunda: Hired Gun", "twitch": "1043310851" },
       { "name": "Skinwalker Hunt", "twitch": "1048673954", "start": "56:52" },
-      { "name": "Sable (демо)", "twitch": "1056977056" }
+      { "name": "Sable (демо)", "twitch": "1056977056" },
+      { "twitch": "1059978031", "subrefs": [
+        { "name": "Death Trash (демо)", "start": "4:57:24" },
+        { "name": "Bandit Simulator (демо)", "start": "5:40:49" },
+        { "name": "Super Bomberman R Online", "start": "5:49:35" }
+      ] }
     ]
   },
   {
