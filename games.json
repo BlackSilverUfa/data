@@ -2159,7 +2159,15 @@
       { "name": "8", "twitch": "643897384" },
       { "name": "9", "twitch": "650534841", "start": "3:07:07" },
       { "name": "10", "twitch": "663976925", "start": "2:06:38" },
-      { "name": "11", "twitch": "676500778", "start": "2:07:50" }
+      { "name": "11", "twitch": "676500778", "start": "2:07:50" },
+      {
+        "name": "12 (A Pirate's Life)", "twitch": "1067131113",
+        "blacklist": {
+          "messages": [
+            "^I just claimed (.*?)! Thanks for the Drops @BlackUFA"
+          ]
+        }
+      }
     ]
   },
   {
