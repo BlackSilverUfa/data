@@ -2420,7 +2420,6 @@
         { "name": "Red Dead Redemption 2 (PC)", "start": "2:06:04" }
       ] },
       { "name": "Planet Zoo", "twitch": "504672487", "start": "3:50:24" },
-      { "name": "Untitled Goose Game", "twitch": "508178551", "start": "3:20:41" },
       { "name": "Shenmue III", "twitch": "510472726", "start": "3:19:55" },
       { "name": "Gothic - Playable Teaser", "twitch": "521336731" },
       { "twitch": "524865260", "subrefs": [
@@ -2657,7 +2656,17 @@
       { "twitch": "1066067703", "subrefs": [
         { "name": "Stranger of Paradise: Final Fantasy Origin (демо)", "start": "3:39:08" },
         { "name": "Guilty Gear: Strive", "start": "5:06:26" }
-      ] }
+      ] },
+      { "name": "Open Country", "twitch": "1070208965" }
+    ]
+  },
+  {
+    "name": "Untitled Goose Game",
+    "category": "finished",
+    "id": "goose",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "508178551", "start": "3:20:41" },
+      { "name": "Кооп", "twitch": "1070208965", "start": "4:03:24" }
     ]
   },
   {
@@ -4681,7 +4690,8 @@
     "streams": [
       { "name": "1", "twitch": "274651226" },
       { "name": "2 (часть 1)", "twitch": "275043417" },
-      { "name": "2 (часть 2)", "twitch": "275127021" }
+      { "name": "2 (часть 2)", "twitch": "275127021" },
+      { "name": "3 (заново)", "twitch": "1070208965", "start": "2:03:59" }
     ]
   },
   {
