@@ -2657,7 +2657,13 @@
         { "name": "Stranger of Paradise: Final Fantasy Origin (демо)", "start": "3:39:08" },
         { "name": "Guilty Gear: Strive", "start": "5:06:26" }
       ] },
-      { "name": "Open Country", "twitch": "1070208965" }
+      { "name": "Open Country", "twitch": "1070208965" },
+      { "twitch": "1072311121", "subrefs": [
+        { "name": "Call of Duty: Mobile" },
+        { "name": "Genshin Impact", "start": "42:29" },
+        { "name": "Клуб Романтики", "start": "2:11:33" },
+        { "name": "Sky: Children of the Light", "start": "2:39:25" }
+      ] }
     ]
   },
   {
