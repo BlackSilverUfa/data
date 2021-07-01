@@ -1285,8 +1285,16 @@
       { "name": "Xbox Inside 2020", "twitch": "613793616", "start": "1:59:40" },
       { "name": "ROG Phone 5 Launch Event", "twitch": "943938218" },
       { "name": "Square Enix Presents (Весна 2021)", "twitch": "953865835", "start": "3:04:45" },
-      { "name": "Resident Evil Showcase (Апрель 2021)", "twitch": "988804108", "start": "27:07" },
-      { "name": "Dying 2 Know - Dying Light 2", "twitch": "1036865162", "start": "5:58:40" }
+      { "name": "Resident Evil Showcase (Апрель 2021)", "twitch": "988804108", "start": "27:07" }
+    ]
+  },
+  {
+    "name": "Dying 2 Know",
+    "category": "expos",
+    "id": "dying-2-know",
+    "streams": [
+      { "name": "1", "twitch": "1036865162", "start": "5:58:40" },
+      { "name": "2", "twitch": "1073309664", "start": "7:01:48" }
     ]
   },
   {
@@ -2663,6 +2671,10 @@
         { "name": "Genshin Impact", "start": "42:29" },
         { "name": "Клуб Романтики", "start": "2:11:33" },
         { "name": "Sky: Children of the Light", "start": "2:39:25" }
+      ] },
+      { "twitch": "1073309664", "subrefs": [
+        { "name": "Dying Light" },
+        { "name": "Dying Light", "start": "7:36:53" }
       ] }
     ]
   },
