@@ -445,7 +445,9 @@
   "265768902": { "youtube": "M0dROx0oTrA", "offset": "34:57" },
   "267726322": { "youtube": "ng5A3gOPBzo", "official": false },
   "268055630": { "youtube": "RjQzoSnVkLs", "official": false },
-  "268114023": { "youtube": "Ns8Ubv7E0Rk", "official": false },
+  "268114023": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/268114023.mp4"
+  },
   "268497396": { "youtube": "qtiSoPbuteM", "official": false },
   "268900992": {
     "youtube": "uopqo7R-zxI", "official": false,
