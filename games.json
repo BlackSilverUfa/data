@@ -1787,7 +1787,8 @@
         { "name": "Tormented Souls", "start": "2:26:24" },
         { "name": "Ebola 2 Survival (демо)", "start": "3:45:39" }
       ] },
-      { "name": "Barbie in The 12 Dancing Princesses", "twitch": "1062093790" }
+      { "name": "Barbie in The 12 Dancing Princesses", "twitch": "1062093790" },
+      { "name": "Reminiscence", "twitch": "1086385946,1086545283", "start": "3:13:47" }
     ]
   },
   {
@@ -2579,18 +2580,6 @@
         { "name": "Slender Threads (демо)", "start": "5:41:00" },
         { "name": "Tasomachi (демо)", "start": "5:48:58" }
       ] },
-      {
-        "name": "SuchArt: Genius Artist Simulator", "twitch": "912392953", "start": "2:40:39",
-        "blacklist": {
-          "users": [
-            "blackufa"
-          ],
-          "messages": [
-            "^!?(хлоп|фу)!?$",
-            "^[0-9]+$"
-          ]
-        }
-      },
       { "name": "What Lives Below (демо)", "twitch": "916293705" },
       { "name": "System Shock (демо)", "twitch": "928993182" },
       { "name": "HellSign", "twitch": "932891083" },
@@ -2678,8 +2667,27 @@
         { "name": "Dying Light" },
         { "name": "Dying Light", "start": "7:36:53" }
       ] },
-      { "name": "Black Skylands", "twitch": "1081385499,1081403044", "start": "1:48:42" }
+      { "name": "Black Skylands", "twitch": "1081385499,1081403044", "start": "1:48:42" },
+      { "name": "Farmer's Life: Prologue", "twitch": "1086385946,1086545283" }
     ]
+  },
+  {
+    "name": "SuchArt: Genius Artist Simulator",
+    "category": "infinite",
+    "id": "suchart",
+    "streams": [
+      { "name": "1", "twitch": "912392953", "start": "2:40:39" },
+      { "name": "2", "twitch": "1086385946,1086545283", "start": "3:49:32" }
+    ],
+    "blacklist": {
+      "users": [
+        "blackufa"
+      ],
+      "messages": [
+        "^!?(хлоп|фу)!?$",
+        "^[0-9]+$"
+      ]
+    }
   },
   {
     "name": "Untitled Goose Game",
