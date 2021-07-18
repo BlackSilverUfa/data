@@ -2660,7 +2660,6 @@
       { "name": "Open Country", "twitch": "1070208965" },
       { "twitch": "1072311121", "subrefs": [
         { "name": "Call of Duty: Mobile" },
-        { "name": "Genshin Impact", "start": "42:29" },
         { "name": "Клуб Романтики", "start": "2:11:33" },
         { "name": "Sky: Children of the Light", "start": "2:39:25" }
       ] },
@@ -2671,6 +2670,15 @@
       { "name": "Black Skylands", "twitch": "1081385499,1081403044", "start": "1:48:42" },
       { "name": "Farmer's Life: Prologue", "twitch": "1086385946,1086545283" },
       { "name": "The Legend of Zelda: Skyward Sword HD", "twitch": "1089427413" }
+    ]
+  },
+  {
+    "name": "Genshin Impact",
+    "category": "ongoing",
+    "id": "genshin-impact",
+    "streams": [
+      { "name": "1", "twitch": "1072311121", "start": "42:29" },
+      { "name": "2 (заново, PC)", "twitch": "1090437240" }
     ]
   },
   {
