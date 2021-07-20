@@ -2069,7 +2069,8 @@
       { "name": "2", "twitch": "740853378", "start": "1:54:01" },
       { "name": "3", "twitch": "754538542" },
       { "name": "4 (новогодний выпуск)", "twitch": "856402931" },
-      { "name": "5", "twitch": "907145168" }
+      { "name": "5", "twitch": "907145168" },
+      { "name": "6", "twitch": "1092418023" }
     ]
   },
   {
@@ -2673,7 +2674,13 @@
       ] },
       { "name": "Black Skylands", "twitch": "1081385499,1081403044", "start": "1:48:42" },
       { "name": "Farmer's Life: Prologue", "twitch": "1086385946,1086545283" },
-      { "name": "The Legend of Zelda: Skyward Sword HD", "twitch": "1089427413" }
+      { "name": "The Legend of Zelda: Skyward Sword HD", "twitch": "1089427413" },
+      { "twitch": "1092418023", "subrefs": [
+        { "name": "Death's Door" },
+        { "name": "Underwater", "start": "1:21:45" },
+        { "name": "I'm on Observation Duty", "start": "1:43:53" },
+        { "name": "Raid: Shadow Legends", "start": "4:45:18" }
+      ] }
     ]
   },
   {
