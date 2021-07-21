@@ -107,7 +107,9 @@
   },
   "001605270": { "youtube": "PcBR7_DPG3A", "official": false },
   "001605310": { "youtube": "wtig_YaME6A", "official": false },
-  "001607030": { "youtube": "s3W09ew-nOk", "official": false },
+  "001607030": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/001607030.mp4"
+  },
   "001607100": { "youtube": "MghUVl30hbM" },
   "001607230": { "youtube": "GApKHWo_Cuc" },
   "001607280": { "youtube": "CjwoACbIcRQ" },
