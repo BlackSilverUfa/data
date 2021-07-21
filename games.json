@@ -2674,13 +2674,21 @@
       ] },
       { "name": "Black Skylands", "twitch": "1081385499,1081403044", "start": "1:48:42" },
       { "name": "Farmer's Life: Prologue", "twitch": "1086385946,1086545283" },
-      { "name": "The Legend of Zelda: Skyward Sword HD", "twitch": "1089427413" },
       { "twitch": "1092418023", "subrefs": [
         { "name": "Death's Door" },
         { "name": "Underwater", "start": "1:21:45" },
         { "name": "I'm on Observation Duty", "start": "1:43:53" },
         { "name": "Raid: Shadow Legends", "start": "4:45:18" }
       ] }
+    ]
+  },
+  {
+    "name": "The Legend of Zelda: Skyward Sword HD",
+    "category": "ongoing",
+    "id": "tloz-sshd",
+    "streams": [
+      { "name": "1", "twitch": "1089427413" },
+      { "name": "2", "twitch": "1093482724,1093514203" }
     ]
   },
   {
