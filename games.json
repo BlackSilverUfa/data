@@ -2190,7 +2190,8 @@
             "^I just claimed (.*?)! Thanks for the Drops @BlackUFA"
           ]
         }
-      }
+      },
+      { "name": "13 (A Pirate's Life)", "twitch": "1101797325" }
     ]
   },
   {
@@ -5099,7 +5100,7 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "name": "1101797325", "twitch": "1101797325" }
+
     ]
   }
 ]
