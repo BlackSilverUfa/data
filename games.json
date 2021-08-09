@@ -2678,7 +2678,6 @@
         { "name": "Dying Light", "start": "7:36:53" }
       ] },
       { "name": "Black Skylands", "twitch": "1081385499,1081403044", "start": "1:48:42" },
-      { "name": "Farmer's Life: Prologue", "twitch": "1086385946,1086545283" },
       { "twitch": "1092418023", "subrefs": [
         { "name": "Death's Door" },
         { "name": "Underwater", "start": "1:21:45" },
@@ -2691,7 +2690,20 @@
       { "twitch": "1102702263", "subrefs": [
         { "name": "Microsoft Flight Simulator" },
         { "name": "The Ascent", "start": "3:30:17" }
+      ] },
+      { "twitch": "1105750453", "subrefs": [
+        { "name": "Star Wars - Redemption" },
+        { "name": "Horror Tales: The Wine", "start": "3:38:58" }
       ] }
+    ]
+  },
+  {
+    "name": "Farmer's Life",
+    "category": "ongoing",
+    "id": "farmers-life",
+    "streams": [
+      { "name": "Prologue", "twitch": "1086385946,1086545283" },
+      { "name": "1", "twitch": "1105750453", "start": "1:36:01" }
     ]
   },
   {
@@ -5123,7 +5135,6 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "name": "1105750453", "twitch": "1105750453" },
       { "name": "1106771829", "twitch": "1106771829" },
       { "name": "1108872519", "twitch": "1108872519" },
       { "name": "1109866143", "twitch": "1109866143" },
