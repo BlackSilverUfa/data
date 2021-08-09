@@ -2352,7 +2352,6 @@
         "name": "Total Chaos", "twitch": "332769459",
         "note": "Начало игры доступно на <a href=\"https://youtu.be/z5sgJou7Tfw\">YouTube</a>."
       },
-      { "name": "Fallout 76", "twitch": "335751293", "segment": 0 },
       { "name": "Pokemon: Let's Go, Pikachu!", "twitch": "337051811" },
       { "name": "Metal Gear Solid 3: Snake Eater", "twitch": "338345713", "segment": 1 },
       { "name": "Darksiders 3", "twitch": "340934900" },
@@ -2693,6 +2692,15 @@
         { "name": "Microsoft Flight Simulator" },
         { "name": "The Ascent", "start": "3:30:17" }
       ] }
+    ]
+  },
+  {
+    "name": "Fallout 76",
+    "category": "ongoing",
+    "id": "fallout-76",
+    "streams": [
+      { "name": "1 (с WeLoveGames)", "twitch": "335751293", "segment": 0 },
+      { "name": "2 (с Дашей и Джеком)", "twitch": "1103759348" }
     ]
   },
   {
@@ -5115,7 +5123,6 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "name": "1103759348", "twitch": "1103759348" },
       { "name": "1105750453", "twitch": "1105750453" },
       { "name": "1106771829", "twitch": "1106771829" },
       { "name": "1108872519", "twitch": "1108872519" },
