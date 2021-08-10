@@ -377,8 +377,16 @@
         { "name": "A House of Thieves", "start": "1:12:01" }
       ] },
       { "name": "The Red Solstice 2: Survivors", "twitch": "1059978031" },
-      { "name": "Dungeons & Dragons: Dark Alliance", "twitch": "1065051420", "start": "2:07:10" },
-      { "name": "Back 4 Blood", "twitch": "1108872519", "start": "5:08:33" }
+      { "name": "Dungeons & Dragons: Dark Alliance", "twitch": "1065051420", "start": "2:07:10" }
+    ]
+  },
+  {
+    "name": "Back 4 Blood",
+    "category": "co-op",
+    "id": "b4b",
+    "streams": [
+      { "name": "1", "twitch": "1108872519", "start": "5:08:33" },
+      { "name": "2", "twitch": "1109866143", "start": "3:05:42" }
     ]
   },
   {
@@ -1800,7 +1808,8 @@
         { "name": "Z Mutants" },
         { "name": "Summer of '58", "start": "3:41:14" },
         { "name": "From Day To Day (демо)", "start": "5:35:50" }
-      ] }
+      ] },
+      { "name": "Trenches", "twitch": "1109866143" }
     ]
   },
   {
@@ -2698,10 +2707,7 @@
         { "name": "HighFleet" },
         { "name": "Deca", "start": "3:42:40" }
       ] },
-      { "name": "1108872519", "twitch": "1108872519", "subrefs": [
-        { "name": "LiBER" },
-        { "name": "Trenches", "start": "1:54:08" }
-      ] }
+      { "name": "LiBER", "twitch": "1108872519" }
     ]
   },
   {
@@ -3503,7 +3509,8 @@
       { "name": "6", "twitch": "1044426110", "start": "3:33:15" },
       { "name": "7", "twitch": "1048673954", "start": "5:09:18" },
       { "name": "8", "twitch": "1088456849,1088621069" },
-      { "name": "9", "twitch": "1095567001,1095811167", "start": "5:33:11" }
+      { "name": "9", "twitch": "1095567001,1095811167", "start": "5:33:11" },
+      { "name": "10", "twitch": "1109866143", "start": "2:41:10" }
     ]
   },
   {
@@ -5151,7 +5158,6 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "name": "1109866143", "twitch": "1109866143" },
       { "name": "1111966540", "twitch": "1111966540" }
     ]
   }
