@@ -2691,10 +2691,20 @@
         { "name": "Microsoft Flight Simulator" },
         { "name": "The Ascent", "start": "3:30:17" }
       ] },
-      { "twitch": "1105750453", "subrefs": [
-        { "name": "Star Wars - Redemption" },
-        { "name": "Horror Tales: The Wine", "start": "3:38:58" }
+      { "name": "Star Wars - Redemption", "twitch": "1105750453" },
+      { "twitch": "1106771829", "subrefs": [
+        { "name": "HighFleet" },
+        { "name": "Deca", "start": "3:42:40" }
       ] }
+    ]
+  },
+  {
+    "name": "Horror Tales: The Wine",
+    "category": "finished",
+    "id": "ht-wine",
+    "streams": [
+      { "name": "1", "twitch": "1105750453", "start": "3:38:58" },
+      { "name": "2", "twitch": "1106771829", "start": "2:54:24" }
     ]
   },
   {
@@ -5135,7 +5145,6 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "name": "1106771829", "twitch": "1106771829" },
       { "name": "1108872519", "twitch": "1108872519" },
       { "name": "1109866143", "twitch": "1109866143" },
       { "name": "1111966540", "twitch": "1111966540" }
