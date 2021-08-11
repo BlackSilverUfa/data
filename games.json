@@ -2579,7 +2579,7 @@
       ] },
       { "twitch": "824147065", "subrefs": [
         { "name": "Morbid: The Seven Acolytes" },
-        { "name": "The Life and Suffering of Sir Brante", "start": "2:57:48" }
+        { "name": "The Life and Suffering of SirПервый вз Brante", "start": "2:57:48" }
       ] },
       { "twitch": "828815728", "subrefs": [
         { "name": "El Hijo: A Wild West Game" },
@@ -2715,11 +2715,26 @@
       ] },
       { "name": "LiBER", "twitch": "1108872519" },
       { "name": "NEO: The World Ends with You", "twitch": "1111966540" },
-      { "twitch": "1113958095", "subrefs": [
-        { "name": "ColdSide" },
-        { "name": "Almost My Floor", "start": "2:43:46" },
-        { "name": "SCP Terror Hunt", "start": "4:37:48" }
-      ] }
+      { "name": "ColdSide", "twitch": "1113958095" },
+      { "name": "Glitchpunk", "twitch": "1114974794" }
+    ]
+  },
+  {
+    "name": "SCP Terror Hunt",
+    "category": "infinite",
+    "id": "scp-terror-hunt",
+    "streams": [
+      { "name": "1", "twitch": "1113958095", "start": "4:37:48" },
+      { "name": "2", "twitch": "1114974794", "start": "4:35:24" }
+    ]
+  },
+  {
+    "name": "Almost My Floor",
+    "category": "finished",
+    "id": "amfloor",
+    "streams": [
+      { "name": "1", "twitch": "1113958095", "start": "2:43:46" },
+      { "name": "2", "twitch": "1114974794", "start": "2:51:59" }
     ]
   },
   {
