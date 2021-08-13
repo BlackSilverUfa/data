@@ -523,7 +523,8 @@
       { "name": "2", "twitch": "781406533", "start": "1:11:41" },
       { "name": "3 (с Джеком)", "twitch": "782383170" },
       { "name": "4 (с Джеком и Дашей)", "twitch": "784351602" },
-      { "name": "5 (с Артёмом, Джеком и Gamelife)", "twitch": "786440219", "start": "2:11:20" }
+      { "name": "5 (с Артёмом, Джеком и Gamelife)", "twitch": "786440219", "start": "2:11:20" },
+      { "name": "6 (с Куплиновым и Дангаром)", "twitch": "1117002114", "start": "2:29:14" }
     ]
   },
   {
@@ -2718,7 +2719,8 @@
       { "name": "LiBER", "twitch": "1108872519" },
       { "name": "NEO: The World Ends with You", "twitch": "1111966540" },
       { "name": "ColdSide", "twitch": "1113958095" },
-      { "name": "Glitchpunk", "twitch": "1114974794" }
+      { "name": "Glitchpunk", "twitch": "1114974794" },
+      { "name": "VoidTrain", "twitch": "1117002114" }
     ]
   },
   {
