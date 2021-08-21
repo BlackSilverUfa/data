@@ -525,7 +525,8 @@
       { "name": "3 (с Джеком)", "twitch": "782383170" },
       { "name": "4 (с Джеком и Дашей)", "twitch": "784351602" },
       { "name": "5 (с Артёмом, Джеком и Gamelife)", "twitch": "786440219", "start": "2:11:20" },
-      { "name": "6 (с Куплиновым и Дангаром)", "twitch": "1117002114", "start": "2:29:14" }
+      { "name": "6 (с Куплиновым и Дангаром)", "twitch": "1117002114", "start": "2:29:14" },
+      { "name": "7 (с Куплиновым и Дангаром)", "twitch": "1125116646", "start": "1:05:24" }
     ]
   },
   {
@@ -2158,7 +2159,8 @@
       { "name": "ROG Flow X13", "twitch": "962439245" },
       { "name": "ROG Gladius III", "twitch": "1017725694" },
       { "name": "Sony BloggerCam ZV-1", "twitch": "1065051420" },
-      { "name": "ROG Phone 5", "twitch": "1066067703" }
+      { "name": "ROG Phone 5", "twitch": "1066067703" },
+      { "name": "ROG Zephyrus G14 Alan Walker", "twitch": "1125116646" }
     ]
   },
   {
@@ -2707,10 +2709,7 @@
         { "name": "Underwater", "start": "1:21:45" },
         { "name": "Raid: Shadow Legends", "start": "4:45:18" }
       ] },
-      { "twitch": "1095567001,1095811167", "subrefs": [
-        { "name": "Noosphere" },
-        { "name": "Ghost Hunters Corp", "start": "5:07:28" }
-      ] },
+      { "name": "Noosphere", "twitch": "1095567001,1095811167" },
       { "twitch": "1102702263", "subrefs": [
         { "name": "Microsoft Flight Simulator" },
         { "name": "The Ascent", "start": "3:30:17" }
@@ -2726,6 +2725,15 @@
       { "name": "Glitchpunk", "twitch": "1114974794" },
       { "name": "VoidTrain", "twitch": "1117002114" },
       { "name": "Humankind", "twitch": "1120971330" }
+    ]
+  },
+  {
+    "name": "Ghost Hunters Corp",
+    "id": "ghcorp",
+    "category": "infinite",
+    "streams": [
+      { "name": "1", "twitch": "1095567001,1095811167", "start": "5:07:28" },
+      { "name": "2", "twitch": "1125116646", "start": "3:40:37" }
     ]
   },
   {
