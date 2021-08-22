@@ -356,7 +356,6 @@
         { "name": "Cake Bash", "start": "4:36:33" },
         { "name": "Bake 'n Switch", "start": "5:26:33" },
         { "name": "Never Breakup", "start": "6:01:37" },
-        { "name": "Labyrinthine", "start": "6:07:31" },
         { "name": "Escape From Kyoto House", "start": "6:24:11" }
       ] },
       { "name": "In Silence", "twitch": "827759529", "start": "2:17:29" },
@@ -382,7 +381,17 @@
         { "name": "Camping Simulator", "start": "2:44:54" },
         { "name": "The Greatest Penguin Heist of All Time", "start": "3:48:44" },
         { "name": "Haunt Chaser", "start": "4:51:19" }
-      ] }
+      ] },
+      { "name": "Chased by Darkness", "twitch": "1125993129", "start": "4:53:22" }
+    ]
+  },
+  {
+    "name": "Labyrinthine",
+    "category": "co-op",
+    "id": "labyrinthine",
+    "streams": [
+      { "name": "1", "twitch": "795935885", "start": "6:07:31" },
+      { "name": "2", "twitch": "1125993129", "start": "6:14:01" }
     ]
   },
   {
@@ -792,12 +801,13 @@
     ]
   },
   {
-    "name": "Half Dead 2",
+    "name": "Half Dead",
     "category": "co-op",
-    "id": "half-dead-2",
+    "id": "half-dead",
     "streams": [
-      { "name": "1", "twitch": "389704750", "start": "1:22:33" },
-      { "name": "2", "twitch": "452195101", "start": "3:07:18" }
+      { "name": "Часть 2 #1", "twitch": "389704750", "start": "1:22:33" },
+      { "name": "Часть 2 #2", "twitch": "452195101", "start": "3:07:18" },
+      { "name": "Часть 3", "twitch": "1125993129", "start": "4:13:57" }
     ]
   },
   {
@@ -1755,7 +1765,6 @@
         { "name": "Re:Turn (демо)", "start": "4:16:10" }
       ] },
       { "name": "UnMetal (демо)", "twitch": "700057034" },
-      { "name": "Ghost of Tsushima", "twitch": "681457263,682267155,683282462" },
       { "name": "Contraband Police (демо)", "twitch": "749640613" },
       { "twitch": "767249770", "subrefs": [
         { "name": "Xuan-Yuan Sword VII (демо)" },
@@ -1822,6 +1831,15 @@
       ] },
       { "name": "Trenches", "twitch": "1109866143" },
       { "name": "Twelve Minutes", "twitch": "1123005766", "start": "2:58:37" }
+    ]
+  },
+  {
+    "name": "Ghost of Tsushima",
+    "category": "finished",
+    "id": "tsushima",
+    "streams": [
+      { "name": "Прохождение", "twitch": "681457263,682267155,683282462" },
+      { "name": "Director's Cut", "twitch": "1125993129" }
     ]
   },
   {
