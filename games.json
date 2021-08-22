@@ -2729,8 +2729,8 @@
   },
   {
     "name": "Ghost Hunters Corp",
-    "id": "ghcorp",
     "category": "infinite",
+    "id": "ghcorp",
     "streams": [
       { "name": "1", "twitch": "1095567001,1095811167", "start": "5:07:28" },
       { "name": "2", "twitch": "1125116646", "start": "3:40:37" }
