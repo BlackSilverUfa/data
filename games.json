@@ -382,7 +382,11 @@
         { "name": "The Greatest Penguin Heist of All Time", "start": "3:48:44" },
         { "name": "Haunt Chaser", "start": "4:51:19" }
       ] },
-      { "name": "Chased by Darkness", "twitch": "1125993129", "start": "4:53:22" }
+      { "name": "Chased by Darkness", "twitch": "1125993129", "start": "4:53:22" },
+      { "twitch": "1127979772", "subrefs": [
+        { "name": "Aliens: Fireteam Elite" },
+        { "name": "Aliens: Fireteam Elite", "start": "5:14:46" }
+      ] }
     ]
   },
   {
@@ -1318,7 +1322,8 @@
       { "name": "ROG Phone 5 Launch Event", "twitch": "943938218" },
       { "name": "Square Enix Presents (Весна 2021)", "twitch": "953865835", "start": "3:04:45" },
       { "name": "Resident Evil Showcase (Апрель 2021)", "twitch": "988804108", "start": "27:07" },
-      { "name": "WitcherCon", "twitch": "1081385499,1081403044", "start": "4:01:35" }
+      { "name": "WitcherCon", "twitch": "1081385499,1081403044", "start": "4:01:35" },
+      { "name": "Gamescom 2021 - Xbox", "twitch": "1127979772", "start": "4:01:49" }
     ]
   },
   {
