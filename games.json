@@ -1322,8 +1322,16 @@
       { "name": "ROG Phone 5 Launch Event", "twitch": "943938218" },
       { "name": "Square Enix Presents (Весна 2021)", "twitch": "953865835", "start": "3:04:45" },
       { "name": "Resident Evil Showcase (Апрель 2021)", "twitch": "988804108", "start": "27:07" },
-      { "name": "WitcherCon", "twitch": "1081385499,1081403044", "start": "4:01:35" },
-      { "name": "Gamescom 2021 - Xbox", "twitch": "1127979772", "start": "4:01:49" }
+      { "name": "WitcherCon", "twitch": "1081385499,1081403044", "start": "4:01:35" }
+    ]
+  },
+  {
+    "name": "Gamescom 2021",
+    "category": "expos",
+    "id": "gamescom-21",
+    "streams": [
+      { "name": "Xbox Stream", "twitch": "1127979772", "start": "4:01:49" },
+      { "name": "Opening Night Live", "twitch": "1128973572,1129122818", "start": "4:45:01" }
     ]
   },
   {
@@ -2747,7 +2755,11 @@
       { "name": "ColdSide", "twitch": "1113958095" },
       { "name": "Glitchpunk", "twitch": "1114974794" },
       { "name": "VoidTrain", "twitch": "1117002114" },
-      { "name": "Humankind", "twitch": "1120971330" }
+      { "name": "Humankind", "twitch": "1120971330" },
+      { "twitch": "1128973572,1129122818", "subrefs": [
+        { "name": "Bum Simulator" },
+        { "name": "King's Bounty 2", "start": "2:26:28" }
+      ] }
     ]
   },
   {
