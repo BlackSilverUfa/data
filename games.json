@@ -382,11 +382,19 @@
         { "name": "The Greatest Penguin Heist of All Time", "start": "3:48:44" },
         { "name": "Haunt Chaser", "start": "4:51:19" }
       ] },
-      { "name": "Chased by Darkness", "twitch": "1125993129", "start": "4:53:22" },
+      { "name": "Chased by Darkness", "twitch": "1125993129", "start": "4:53:22" }
+    ]
+  },
+  {
+    "name": "Aliens: Fireteam Elite",
+    "category": "co-op",
+    "id": "aliens-fe",
+    "streams": [
       { "twitch": "1127979772", "subrefs": [
-        { "name": "Aliens: Fireteam Elite" },
-        { "name": "Aliens: Fireteam Elite", "start": "5:14:46" }
-      ] }
+        { "name": "1" },
+        { "name": "1", "start": "5:14:46" }
+      ] },
+      { "name": "2", "twitch": "1129996087", "start": "3:03:01" }
     ]
   },
   {
@@ -1331,7 +1339,11 @@
     "id": "gamescom-21",
     "streams": [
       { "name": "Xbox Stream", "twitch": "1127979772", "start": "4:01:49" },
-      { "name": "Opening Night Live", "twitch": "1128973572,1129122818", "start": "4:45:01" }
+      { "name": "Opening Night Live", "twitch": "1128973572,1129122818", "start": "4:45:01" },
+      { "twitch": "1129996087", "subrefs": [
+        { "name": "Awesome Indies", "start": "5:17:29" },
+        { "name": "Future Games Show", "start": "7:00:38" }
+      ] }
     ]
   },
   {
@@ -2759,7 +2771,8 @@
       { "twitch": "1128973572,1129122818", "subrefs": [
         { "name": "Bum Simulator" },
         { "name": "King's Bounty 2", "start": "2:26:28" }
-      ] }
+      ] },
+      { "name": "Riders Republic", "twitch": "1129996087" }
     ]
   },
   {
