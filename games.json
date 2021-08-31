@@ -383,7 +383,8 @@
         { "name": "Haunt Chaser", "start": "4:51:19" }
       ] },
       { "name": "Chased by Darkness", "twitch": "1125993129", "start": "4:53:22" },
-      { "name": "Call of Duty: Vanguard", "twitch": "1130997492", "start": "3:16:56" }
+      { "name": "Call of Duty: Vanguard", "twitch": "1130997492", "start": "3:16:56" },
+      { "name": "KeyWe", "twitch": "1134934289", "start": "4:42:17" }
     ]
   },
   {
@@ -1333,7 +1334,8 @@
       { "name": "ROG Phone 5 Launch Event", "twitch": "943938218" },
       { "name": "Square Enix Presents (Весна 2021)", "twitch": "953865835", "start": "3:04:45" },
       { "name": "Resident Evil Showcase (Апрель 2021)", "twitch": "988804108", "start": "27:07" },
-      { "name": "WitcherCon", "twitch": "1081385499,1081403044", "start": "4:01:35" }
+      { "name": "WitcherCon", "twitch": "1081385499,1081403044", "start": "4:01:35" },
+      { "name": "Dead Space Remake Dev Stream", "twitch": "1134934289", "start": "3:57:26" }
     ]
   },
   {
@@ -2170,7 +2172,8 @@
       { "name": "Розыгрыш ROG Gladius III", "twitch": "1025736815" },
       { "name": "Розыгрыш Resident Evil Village", "twitch": "1054943681" },
       { "name": "Розыгрыш Dying Light", "twitch": "1081385499,1081403044" },
-      { "name": "Розыгрыш Final Fantasy", "twitch": "1115988176" }
+      { "name": "Розыгрыш Final Fantasy", "twitch": "1115988176" },
+      { "name": "Розыгрыш Hades", "twitch": "1134934289", "start": "1:51:16" }
     ]
   },
   {
@@ -3229,7 +3232,8 @@
     "id": "hades",
     "streams": [
       { "name": "1", "twitch": "747742325", "start": "1:24:49" },
-      { "name": "2 (без комментариев)", "twitch": "858724132" }
+      { "name": "2 (без комментариев)", "twitch": "858724132" },
+      { "name": "3 (PS5)", "twitch": "1134934289" }
     ]
   },
   {
