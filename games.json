@@ -2720,7 +2720,6 @@
         { "name": "SCP: Escape Together", "start": "2:55:12" }
       ] },
       { "name": "Sniper Ghost Warrior Contracts 2 (демо)", "twitch": "1031332081" },
-      { "name": "Pathfinder: Wrath of the Righteous (демо)", "twitch": "1033590091" },
       { "name": "Siege Survival: Gloria Victis", "twitch": "1035840249" },
       { "twitch": "1037951212,1037962598,1038035275,1038124022", "subrefs": [
         { "name": "Wolfenstein: The Old Blood" },
@@ -2782,7 +2781,20 @@
       { "twitch": "1130997492", "subrefs": [
         { "name": "Return to Nangrim (демо)", "start": "1:11:40" },
         { "name": "ANNO: Mutationem (демо)", "start": "2:42:36" }
+      ] },
+      { "twitch": "1139746620", "subrefs": [
+        { "name": "The Dark Pictures: House of Ashes (демо)" },
+        { "name": "Lake", "start": "4:14:28" }
       ] }
+    ]
+  },
+  {
+    "name": "Pathfinder: Wrath of the Righteous",
+    "category": "ongoing",
+    "id": "pathfinder",
+    "streams": [
+      { "name": "Демо", "twitch": "1033590091" },
+      { "name": "1", "twitch": "1139746620", "start": "3:16:46" }
     ]
   },
   {
