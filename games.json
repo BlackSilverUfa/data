@@ -1789,7 +1789,6 @@
       { "name": "House on the Hill", "twitch": "695229266", "start": "2:06:58" },
       { "twitch": "697191590", "subrefs": [
         { "name": "There Are Ghosts in These Stalls", "start": "1:17:36" },
-        { "name": "The Baby in Yellow", "start": "1:22:58" },
         { "name": "Lapso: NIMBO", "start": "1:41:50" },
         { "name": "Redundancy", "start": "2:07:25" },
         { "name": "Re:Turn (демо)", "start": "4:16:10" }
@@ -1860,7 +1859,17 @@
         { "name": "From Day To Day (демо)", "start": "5:35:50" }
       ] },
       { "name": "Trenches", "twitch": "1109866143" },
-      { "name": "Twelve Minutes", "twitch": "1123005766", "start": "2:58:37" }
+      { "name": "Twelve Minutes", "twitch": "1123005766", "start": "2:58:37" },
+      { "name": "Burger & Frights", "twitch": "1140665211" }
+    ]
+  },
+  {
+    "name": "The Baby in Yellow",
+    "category": "finished",
+    "id": "baby-in-yellow",
+    "streams": [
+      { "name": "1", "twitch": "697191590", "start": "1:22:58" },
+      { "name": "2", "twitch": "1140665211", "start": "1:32:21" }
     ]
   },
   {
@@ -2458,7 +2467,6 @@
       { "name": "Alien: Blackout", "twitch": "371758027" },
       { "name": "Genesis Alpha One", "twitch": "372293257", "segment": 1 },
       { "name": "Praey for the Gods", "twitch": "374556455" },
-      { "name": "SCP: Blackout (демо)", "twitch": "390719635", "segment": 0 },
       { "twitch": "396376161", "subrefs": [
         { "name": "SCP Containment Breach - Nine Tailed Fox Mod" },
         { "name": "ШХД: Зима", "start": "2:58:46" }
@@ -2785,7 +2793,17 @@
       { "twitch": "1139746620", "subrefs": [
         { "name": "The Dark Pictures: House of Ashes (демо)" },
         { "name": "Lake", "start": "4:14:28" }
-      ] }
+      ] },
+      { "name": "Granny 3", "twitch": "1140665211", "start": "1:50:42" }
+    ]
+  },
+  {
+    "name": "SCP: Blackout",
+    "category": "infinite",
+    "id": "scp-blackout",
+    "streams": [
+      { "name": "1", "twitch": "390719635", "segment": 0 },
+      { "name": "2", "twitch": "1140665211", "start": "2:11:09" }
     ]
   },
   {
@@ -2832,7 +2850,8 @@
       { "name": "1", "twitch": "1113958095", "start": "4:37:48" },
       { "name": "2", "twitch": "1114974794", "start": "4:35:24" },
       { "name": "3", "twitch": "1115988176", "start": "2:09:42" },
-      { "name": "4", "twitch": "1123005766" }
+      { "name": "4", "twitch": "1123005766" },
+      { "name": "5", "twitch": "1140665211", "start": "3:06:42" }
     ]
   },
   {
@@ -3679,7 +3698,8 @@
       { "name": "16", "twitch": "958844668", "start": "5:02:53" },
       { "name": "17", "twitch": "985933335", "start": "4:48:01" },
       { "name": "18", "twitch": "1027931171", "start": "4:02:07" },
-      { "name": "19", "twitch": "1048673954", "start": "3:27:57" }
+      { "name": "19", "twitch": "1048673954", "start": "3:27:57" },
+      { "name": "20", "twitch": "1140665211", "start": "4:07:15" }
     ]
   },
   {
