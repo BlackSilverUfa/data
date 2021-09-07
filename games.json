@@ -2646,7 +2646,7 @@
       ] },
       { "twitch": "824147065", "subrefs": [
         { "name": "Morbid: The Seven Acolytes" },
-        { "name": "The Life and Suffering of SirПервый вз Brante", "start": "2:57:48" }
+        { "name": "The Life and Suffering of Sir Brante", "start": "2:57:48" }
       ] },
       { "twitch": "828815728", "subrefs": [
         { "name": "El Hijo: A Wild West Game" },
@@ -2794,7 +2794,8 @@
         { "name": "The Dark Pictures: House of Ashes (демо)" },
         { "name": "Lake", "start": "4:14:28" }
       ] },
-      { "name": "Granny 3", "twitch": "1140665211", "start": "1:50:42" }
+      { "name": "Granny 3", "twitch": "1140665211", "start": "1:50:42" },
+      { "name": "Outlast", "twitch": "1141635163" }
     ]
   },
   {
@@ -2851,7 +2852,8 @@
       { "name": "2", "twitch": "1114974794", "start": "4:35:24" },
       { "name": "3", "twitch": "1115988176", "start": "2:09:42" },
       { "name": "4", "twitch": "1123005766" },
-      { "name": "5", "twitch": "1140665211", "start": "3:06:42" }
+      { "name": "5", "twitch": "1140665211", "start": "3:06:42" },
+      { "name": "6", "twitch": "1141635163", "start": "4:07:22" }
     ]
   },
   {
