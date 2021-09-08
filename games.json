@@ -2182,7 +2182,8 @@
       { "name": "Розыгрыш Resident Evil Village", "twitch": "1054943681" },
       { "name": "Розыгрыш Dying Light", "twitch": "1081385499,1081403044" },
       { "name": "Розыгрыш Final Fantasy", "twitch": "1115988176" },
-      { "name": "Розыгрыш Hades", "twitch": "1134934289", "start": "1:51:16" }
+      { "name": "Розыгрыш Hades", "twitch": "1134934289", "start": "1:51:16" },
+      { "name": "Розыгрыш ROG Zephyrus G14 Alan Walker", "twitch": "1142576899" }
     ]
   },
   {
@@ -2794,8 +2795,16 @@
         { "name": "The Dark Pictures: House of Ashes (демо)" },
         { "name": "Lake", "start": "4:14:28" }
       ] },
-      { "name": "Granny 3", "twitch": "1140665211", "start": "1:50:42" },
-      { "name": "Outlast", "twitch": "1141635163" }
+      { "name": "Granny 3", "twitch": "1140665211", "start": "1:50:42" }
+    ]
+  },
+  {
+    "name": "Outlast",
+    "category": "finished",
+    "id": "outlast",
+    "streams": [
+      { "name": "1", "twitch": "1141635163" },
+      { "name": "2", "twitch": "1142576899", "start": "42:34" }
     ]
   },
   {
