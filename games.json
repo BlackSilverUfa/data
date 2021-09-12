@@ -1804,10 +1804,7 @@
       ] },
       { "name": "UnMetal (демо)", "twitch": "700057034" },
       { "name": "Contraband Police (демо)", "twitch": "749640613" },
-      { "twitch": "767249770", "subrefs": [
-        { "name": "Xuan-Yuan Sword VII (демо)" },
-        { "name": "Webbed (демо)", "start": "1:35:51" }
-      ] },
+      { "name": "Xuan-Yuan Sword VII (демо)", "twitch": "767249770" },
       { "name": "Amnesia: Rebirth", "twitch": "775167526,776153173" },
       { "name": "Harry Potter and the Sorcerer's Stone", "twitch": "779201810" },
       { "name": "Кужлёвка (демо)", "twitch": "785416056" },
@@ -1870,6 +1867,15 @@
       { "name": "Trenches", "twitch": "1109866143" },
       { "name": "Twelve Minutes", "twitch": "1123005766", "start": "2:58:37" },
       { "name": "Burger & Frights", "twitch": "1140665211" }
+    ]
+  },
+  {
+    "name": "Webbed",
+    "category": "ongoing",
+    "id": "webbed",
+    "streams": [
+      { "name": "Демо", "twitch": "767249770", "start": "1:35:51" },
+      { "name": "1", "twitch": "1146553591" }
     ]
   },
   {
@@ -2817,7 +2823,8 @@
     "id": "outlast",
     "streams": [
       { "name": "1", "twitch": "1141635163" },
-      { "name": "2", "twitch": "1142576899", "start": "42:34" }
+      { "name": "2", "twitch": "1142576899", "start": "42:34" },
+      { "name": "Whistleblower", "twitch": "1146553591", "start": "1:23:20" }
     ]
   },
   {
@@ -2867,7 +2874,7 @@
   },
   {
     "name": "SCP Terror Hunt",
-    "category": "infinite",
+    "category": "finished",
     "id": "scp-terror-hunt",
     "streams": [
       { "name": "1", "twitch": "1113958095", "start": "4:37:48" },
@@ -2875,7 +2882,8 @@
       { "name": "3", "twitch": "1115988176", "start": "2:09:42" },
       { "name": "4", "twitch": "1123005766" },
       { "name": "5", "twitch": "1140665211", "start": "3:06:42" },
-      { "name": "6", "twitch": "1141635163", "start": "4:07:22" }
+      { "name": "6", "twitch": "1141635163", "start": "4:07:22" },
+      { "name": "7", "twitch": "1146553591", "start": "5:05:37" }
     ]
   },
   {
