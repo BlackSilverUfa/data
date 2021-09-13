@@ -2814,7 +2814,8 @@
       { "twitch": "1143525237", "subrefs": [
         { "name": "Tales of Arise" },
         { "name": "Life is Strange: True Colors", "start": "2:58:42" }
-      ] }
+      ] },
+      { "name": "Deathloop", "twitch": "1147476304" }
     ]
   },
   {
