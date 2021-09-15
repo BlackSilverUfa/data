@@ -2819,11 +2819,12 @@
   },
   {
     "name": "Deathloop",
-    "category": "ongoing",
+    "category": "finished",
     "id": "deathloop",
     "streams": [
       { "name": "1", "twitch": "1147476304" },
-      { "name": "2", "twitch": "1148404879" }
+      { "name": "2", "twitch": "1148404879" },
+      { "name": "3", "twitch": "1149326407" }
     ]
   },
   {
