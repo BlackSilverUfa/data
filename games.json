@@ -2812,10 +2812,16 @@
         { "name": "Lake", "start": "4:14:28" }
       ] },
       { "name": "Granny 3", "twitch": "1140665211", "start": "1:50:42" },
-      { "twitch": "1143525237", "subrefs": [
-        { "name": "Tales of Arise" },
-        { "name": "Life is Strange: True Colors", "start": "2:58:42" }
-      ] }
+      { "name": "Tales of Arise", "twitch": "1143525237" }
+    ]
+  },
+  {
+    "name": "Life is Strange: True Colors",
+    "category": "finished",
+    "id": "life-is-strange-3",
+    "streams": [
+      { "name": "1", "twitch": "1143525237", "start": "2:58:42" },
+      { "name": "2", "twitch": "1153177731" }
     ]
   },
   {
