@@ -1867,7 +1867,8 @@
       ] },
       { "name": "Trenches", "twitch": "1109866143" },
       { "name": "Twelve Minutes", "twitch": "1123005766", "start": "2:58:37" },
-      { "name": "Burger & Frights", "twitch": "1140665211" }
+      { "name": "Burger & Frights", "twitch": "1140665211" },
+      { "name": "Bright Lights of Svetlov", "twitch": "1154121803" }
     ]
   },
   {
@@ -2812,7 +2813,12 @@
         { "name": "Lake", "start": "4:14:28" }
       ] },
       { "name": "Granny 3", "twitch": "1140665211", "start": "1:50:42" },
-      { "name": "Tales of Arise", "twitch": "1143525237" }
+      { "name": "Tales of Arise", "twitch": "1143525237" },
+      { "twitch": "1154121803", "subrefs": [
+        { "name": "Peace, Death! 2", "start": "2:21:59" },
+        { "name": "I Am Fish", "start": "2:54:36" },
+        { "name": "Despot's Game", "start": "4:00:17" }
+      ] }
     ]
   },
   {
