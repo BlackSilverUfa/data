@@ -383,7 +383,8 @@
         { "name": "Haunt Chaser", "start": "4:51:19" }
       ] },
       { "name": "Chased by Darkness", "twitch": "1125993129", "start": "4:53:22" },
-      { "name": "KeyWe", "twitch": "1134934289", "start": "4:42:17" }
+      { "name": "KeyWe", "twitch": "1134934289", "start": "4:42:17" },
+      { "name": "Fortnite (с Дашей и Джеком)", "twitch": "1155904215", "start": "5:03:18" }
     ]
   },
   {
@@ -2819,10 +2820,16 @@
         { "name": "I Am Fish", "start": "2:54:36" },
         { "name": "Despot's Game", "start": "4:00:17" }
       ] },
-      { "twitch": "1155016315", "subrefs": [
-        { "name": "Kena: Bridge of Spirits" },
-        { "name": "Potion Craft", "start": "3:59:00" }
-      ] }
+      { "name": "Potion Craft", "twitch": "1155016315", "start": "3:59:00" }
+    ]
+  },
+  {
+    "name": "Kena: Bridge of Spirits",
+    "category": "ongoing",
+    "id": "kena-bos",
+    "streams": [
+      { "name": "1", "twitch": "1155016315" },
+      { "name": "2", "twitch": "1155904215" }
     ]
   },
   {
