@@ -1806,7 +1806,6 @@
         { "name": "Redundancy", "start": "2:07:25" },
         { "name": "Re:Turn (демо)", "start": "4:16:10" }
       ] },
-      { "name": "UnMetal (демо)", "twitch": "700057034" },
       { "name": "Contraband Police (демо)", "twitch": "749640613" },
       { "name": "Xuan-Yuan Sword VII (демо)", "twitch": "767249770" },
       { "name": "Amnesia: Rebirth", "twitch": "775167526,776153173" },
@@ -1872,6 +1871,15 @@
       { "name": "Twelve Minutes", "twitch": "1123005766", "start": "2:58:37" },
       { "name": "Burger & Frights", "twitch": "1140665211" },
       { "name": "Bright Lights of Svetlov", "twitch": "1154121803" }
+    ]
+  },
+  {
+    "name": "UnMetal",
+    "category": "ongoing",
+    "id": "unmetal",
+    "streams": [
+      { "name": "Демо", "twitch": "700057034" },
+      { "name": "1", "twitch": "1161558202,1161662373", "start": "5:28:08" }
     ]
   },
   {
@@ -4261,7 +4269,8 @@
       { "name": "2", "twitch": "505944491" },
       { "name": "3", "twitch": "506424196" },
       { "name": "4", "twitch": "506857937" },
-      { "name": "1 (заново, PC)", "twitch": "679308738", "start": "2:13:34" }
+      { "name": "PC (заново)", "twitch": "679308738", "start": "2:13:34" },
+      { "name": "5 (Director's Cut)", "twitch": "1161558202,1161662373" }
     ]
   },
   {
