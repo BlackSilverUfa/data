@@ -1879,7 +1879,8 @@
     "id": "unmetal",
     "streams": [
       { "name": "Демо", "twitch": "700057034" },
-      { "name": "1", "twitch": "1161558202,1161662373", "start": "5:28:08" }
+      { "name": "1", "twitch": "1161558202,1161662373", "start": "5:28:08" },
+      { "name": "2", "twitch": "1162515299", "start": "5:04:36" }
     ]
   },
   {
@@ -2831,7 +2832,12 @@
         { "name": "Despot's Game", "start": "4:00:17" }
       ] },
       { "name": "Potion Craft", "twitch": "1155016315", "start": "3:59:00" },
-      { "name": "Tails of Iron", "twitch": "1156860249" }
+      { "name": "Tails of Iron", "twitch": "1156860249" },
+      { "twitch": "1162515299", "subrefs": [
+        { "name": "Outbreak Island (демо)" },
+        { "name": "Dagon (демо)", "start": "2:59:51" },
+        { "name": "Inscryption (демо)", "start": "3:42:03" }
+      ] }
     ]
   },
   {
