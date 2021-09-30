@@ -384,8 +384,16 @@
       ] },
       { "name": "Chased by Darkness", "twitch": "1125993129", "start": "4:53:22" },
       { "name": "KeyWe", "twitch": "1134934289", "start": "4:42:17" },
-      { "name": "Fortnite (с Дашей и Джеком)", "twitch": "1155904215", "start": "5:03:18" },
-      { "name": "World War Z: Aftermath (с Дашей и Джеком)", "twitch": "1156860249", "start": "3:04:21" }
+      { "name": "Fortnite (с Дашей и Джеком)", "twitch": "1155904215", "start": "5:03:18" }
+    ]
+  },
+  {
+    "name": "World War Z: Aftermath (с Дашей и Джеком)",
+    "category": "co-op",
+    "id": "wwz-aftermath",
+    "streams": [
+      { "name": "1", "twitch": "1156860249", "start": "3:04:21" },
+      { "name": "2", "twitch": "1163417606" }
     ]
   },
   {
@@ -1370,7 +1378,8 @@
     "id": "dying-2-know",
     "streams": [
       { "name": "1", "twitch": "1036865162", "start": "5:58:40" },
-      { "name": "2", "twitch": "1073309664", "start": "7:01:48" }
+      { "name": "2", "twitch": "1073309664", "start": "7:01:48" },
+      { "name": "3", "twitch": "1163417606", "start": "6:03:42" }
     ]
   },
   {
@@ -2786,10 +2795,6 @@
         { "name": "Клуб Романтики", "start": "2:11:33" },
         { "name": "Sky: Children of the Light", "start": "2:39:25" }
       ] },
-      { "twitch": "1073309664", "subrefs": [
-        { "name": "Dying Light" },
-        { "name": "Dying Light", "start": "7:36:53" }
-      ] },
       { "name": "Black Skylands", "twitch": "1081385499,1081403044", "start": "1:48:42" },
       { "twitch": "1092418023", "subrefs": [
         { "name": "Death's Door" },
@@ -2838,6 +2843,18 @@
         { "name": "Dagon (демо)", "start": "2:59:51" },
         { "name": "Inscryption (демо)", "start": "3:42:03" }
       ] }
+    ]
+  },
+  {
+    "name": "Dying Light",
+    "category": "ongoing",
+    "id": "dying-light",
+    "streams": [
+      { "twitch": "1073309664", "subrefs": [
+        { "name": "1" },
+        { "name": "1", "start": "7:36:53" }
+      ] },
+      { "name": "2", "twitch": "1163417606", "start": "6:25:41" }
     ]
   },
   {
