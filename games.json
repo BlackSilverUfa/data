@@ -1880,7 +1880,8 @@
       { "name": "Twelve Minutes", "twitch": "1123005766", "start": "2:58:37" },
       { "name": "Burger & Frights", "twitch": "1140665211" },
       { "name": "Bright Lights of Svetlov", "twitch": "1154121803" },
-      { "name": "Industria", "twitch": "1164327068" }
+      { "name": "Industria", "twitch": "1164327068" },
+      { "name": "Matanga 2", "twitch": "1166311485" }
     ]
   },
   {
@@ -1890,7 +1891,8 @@
     "streams": [
       { "name": "Демо", "twitch": "700057034" },
       { "name": "1", "twitch": "1161558202,1161662373", "start": "5:28:08" },
-      { "name": "2", "twitch": "1162515299", "start": "5:04:36" }
+      { "name": "2", "twitch": "1162515299", "start": "5:04:36" },
+      { "name": "3", "twitch": "1166311485", "start": "1:21:33" }
     ]
   },
   {
