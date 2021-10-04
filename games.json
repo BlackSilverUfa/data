@@ -2842,6 +2842,10 @@
         { "name": "Outbreak Island (демо)" },
         { "name": "Dagon (демо)", "start": "2:59:51" },
         { "name": "Inscryption (демо)", "start": "3:42:03" }
+      ] },
+      { "twitch": "1167157790", "subrefs": [
+        { "name": "Alan Wake Remastered" },
+        { "name": "Far Cry 6", "start": "3:40:41" }
       ] }
     ]
   },
