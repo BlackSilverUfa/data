@@ -384,7 +384,8 @@
       ] },
       { "name": "Chased by Darkness", "twitch": "1125993129", "start": "4:53:22" },
       { "name": "KeyWe", "twitch": "1134934289", "start": "4:42:17" },
-      { "name": "Fortnite (с Дашей и Джеком)", "twitch": "1155904215", "start": "5:03:18" }
+      { "name": "Fortnite (с Дашей и Джеком)", "twitch": "1155904215", "start": "5:03:18" },
+      { "name": "Battlefield 2042 (Артём, Даша, Таня)", "twitch": "1168913564", "start": "4:00:53" }
     ]
   },
   {
@@ -2852,7 +2853,8 @@
     "id": "alan-wake",
     "streams": [
       { "name": "1", "twitch": "1167157790" },
-      { "name": "2", "twitch": "1168006082" }
+      { "name": "2", "twitch": "1168006082" },
+      { "name": "3", "twitch": "1168913564" }
     ]
   },
   {
