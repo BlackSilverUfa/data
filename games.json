@@ -385,7 +385,7 @@
       { "name": "Chased by Darkness", "twitch": "1125993129", "start": "4:53:22" },
       { "name": "KeyWe", "twitch": "1134934289", "start": "4:42:17" },
       { "name": "Fortnite (с Дашей и Джеком)", "twitch": "1155904215", "start": "5:03:18" },
-      { "name": "Battlefield 2042 (Артём, Даша, Таня)", "twitch": "1168913564", "start": "4:00:53" }
+      { "name": "Battlefield 2042 (бета)", "twitch": "1168913564", "start": "4:00:53" }
     ]
   },
   {
@@ -2843,8 +2843,16 @@
         { "name": "Outbreak Island (демо)" },
         { "name": "Dagon (демо)", "start": "2:59:51" },
         { "name": "Inscryption (демо)", "start": "3:42:03" }
-      ] },
-      { "name": "Far Cry 6", "twitch": "1167157790", "start": "3:40:19" }
+      ] }
+    ]
+  },
+  {
+    "name": "Far Cry 6",
+    "category": "ongoing",
+    "id": "far-cry-6",
+    "streams": [
+      { "name": "1", "twitch": "1167157790", "start": "3:40:19" },
+      { "name": "2", "twitch": "1169865722" }
     ]
   },
   {
