@@ -2564,7 +2564,6 @@
         { "name": "Cooking Simulator" },
         { "name": "House Flipper", "start": "2:37:41" }
       ] },
-      { "name": "Outlast 2", "twitch": "502487271", "start": "3:34:11" },
       { "twitch": "504248004", "subrefs": [
         { "name": "Need for Speed Heat" },
         { "name": "Red Dead Redemption 2 (PC)", "start": "2:06:04" }
@@ -2846,6 +2845,15 @@
         { "name": "Inscryption (демо)", "start": "3:42:03" }
       ] },
       { "name": "Metroid Dread", "twitch": "1170802962" }
+    ]
+  },
+  {
+    "name": "Outlast 2",
+    "category": "ongoing",
+    "id": "outlast-2",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "502487271", "start": "3:34:11" },
+      { "name": "1", "twitch": "1173702188" }
     ]
   },
   {
