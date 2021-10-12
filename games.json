@@ -2849,11 +2849,12 @@
   },
   {
     "name": "Outlast 2",
-    "category": "ongoing",
+    "category": "finished",
     "id": "outlast-2",
     "streams": [
       { "name": "Первый взгляд", "twitch": "502487271", "start": "3:34:11" },
-      { "name": "1", "twitch": "1173702188" }
+      { "name": "1", "twitch": "1173702188" },
+      { "name": "2", "twitch": "1174614634" }
     ]
   },
   {
