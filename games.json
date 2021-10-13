@@ -432,10 +432,11 @@
     "category": "co-op",
     "id": "b4b",
     "streams": [
-      { "name": "1 (Артём, Даша, Таня)", "twitch": "1108872519", "start": "5:08:33" },
-      { "name": "2 (Артём, Даша, Таня)", "twitch": "1109866143", "start": "3:05:42" },
+      { "name": "1", "twitch": "1108872519", "start": "5:08:33" },
+      { "name": "2", "twitch": "1109866143", "start": "3:05:42" },
       { "name": "3 (Артём, Дима)", "twitch": "1115988176", "start": "5:58:08" },
-      { "name": "4 (Артём, Даша, Таня)", "twitch": "1170802962", "start": "5:10:17" }
+      { "name": "4", "twitch": "1170802962", "start": "5:10:17" },
+      { "name": "5", "twitch": "1175536520", "start": "3:47:42" }
     ]
   },
   {
@@ -494,7 +495,8 @@
     "id": "devour",
     "streams": [
       { "name": "1", "twitch": "895496717" },
-      { "name": "2", "twitch": "1000457538", "start": "2:59:40" }
+      { "name": "2", "twitch": "1000457538", "start": "2:59:40" },
+      { "name": "3", "twitch": "1175536520", "start": "2:03:31" }
     ]
   },
   {
@@ -2843,8 +2845,16 @@
         { "name": "Outbreak Island (демо)" },
         { "name": "Dagon (демо)", "start": "2:59:51" },
         { "name": "Inscryption (демо)", "start": "3:42:03" }
-      ] },
-      { "name": "Metroid Dread", "twitch": "1170802962" }
+      ] }
+    ]
+  },
+  {
+    "name": "Metroid Dread",
+    "category": "ongoing",
+    "id": "metroid-dread",
+    "streams": [
+      { "name": "1", "twitch": "1170802962" },
+      { "name": "2", "twitch": "1175536520" }
     ]
   },
   {
