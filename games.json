@@ -1798,10 +1798,7 @@
       { "name": "Project Nightmares Case 36: Henrietta Kedward", "twitch": "491017258" },
       { "name": "Superliminal", "twitch": "508178551", "start": "32:49" },
       { "name": "Lost Ember", "twitch": "512697561" },
-      { "twitch": "524865260", "subrefs": [
-        { "name": "Suite 776", "start": "43:20" },
-        { "name": "The Alien Cube (демо)", "start": "2:06:17" }
-      ] },
+      { "name": "Suite 776", "twitch": "524865260", "start": "43:20" },
       { "name": "Walking Simulator", "twitch": "563856575", "start": "1:22:25" },
       { "name": "The Complex", "twitch": "594489443", "start": "2:46:52" },
       { "name": "Locked Up", "twitch": "603199458", "start": "3:50:00" },
@@ -1888,6 +1885,15 @@
       { "name": "Bright Lights of Svetlov", "twitch": "1154121803" },
       { "name": "Industria", "twitch": "1164327068" },
       { "name": "Matanga 2", "twitch": "1166311485" }
+    ]
+  },
+  {
+    "name": "The Alien Cube",
+    "category": "finished",
+    "id": "alien-cube",
+    "streams": [
+      { "name": "Демо", "twitch": "524865260", "start": "2:06:17" },
+      { "name": "Прохождение", "twitch": "1180156009" }
     ]
   },
   {
@@ -2881,7 +2887,7 @@
   },
   {
     "name": "Alan Wake Remastered",
-    "category": "ongoing",
+    "category": "finished",
     "id": "alan-wake",
     "streams": [
       { "name": "1", "twitch": "1167157790" },
