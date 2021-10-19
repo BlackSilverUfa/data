@@ -1795,7 +1795,6 @@
       { "name": "Duck Season", "twitch": "454019548", "segment": 1 },
       { "name": "Amnesia: The Silver Dream", "twitch": "481343199" },
       { "name": "Little Misfortune", "twitch": "488372344", "segment": 0 },
-      { "name": "Project Nightmares Case 36: Henrietta Kedward", "twitch": "491017258" },
       { "name": "Superliminal", "twitch": "508178551", "start": "32:49" },
       { "name": "Lost Ember", "twitch": "512697561" },
       { "name": "Suite 776", "twitch": "524865260", "start": "43:20" },
@@ -1855,7 +1854,6 @@
       { "twitch": "1059978031", "subrefs": [
         { "name": "Industria (демо)", "start": "2:30:31" },
         { "name": "Greak: Memories of Azur (демо)", "start": "3:06:53" },
-        { "name": "Chasing Static (демо)", "start": "3:54:29" },
         { "name": "Song of Iron (демо)", "start": "4:19:39" },
         { "name": "Undying Symphony (демо)", "start": "5:24:46" }
       ] },
@@ -1884,7 +1882,26 @@
       { "name": "Burger & Frights", "twitch": "1140665211" },
       { "name": "Bright Lights of Svetlov", "twitch": "1154121803" },
       { "name": "Industria", "twitch": "1164327068" },
-      { "name": "Matanga 2", "twitch": "1166311485" }
+      { "name": "Matanga 2", "twitch": "1166311485" },
+      { "name": "Poppy Playtime", "twitch": "1181039582" }
+    ]
+  },
+  {
+    "name": "Project Nightmares Case 36: Henrietta Kedward",
+    "category": "finished",
+    "id": "project-nightmares-36",
+    "streams": [
+      { "name": "Прохождение (ранний доступ)", "twitch": "491017258" },
+      { "name": "1 (релиз)", "twitch": "1181039582", "start": "4:54:45" }
+    ]
+  },
+  {
+    "name": "Chasing Static",
+    "category": "finished",
+    "id": "chasing-static",
+    "streams": [
+      { "name": "Демо", "twitch": "1059978031", "start": "3:54:29" },
+      { "name": "Прохождение", "twitch": "1181039582", "start": "2:06:44" }
     ]
   },
   {
