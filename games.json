@@ -385,7 +385,8 @@
       { "name": "Chased by Darkness", "twitch": "1125993129", "start": "4:53:22" },
       { "name": "KeyWe", "twitch": "1134934289", "start": "4:42:17" },
       { "name": "Fortnite (с Дашей и Джеком)", "twitch": "1155904215", "start": "5:03:18" },
-      { "name": "Battlefield 2042 (бета)", "twitch": "1168913564", "start": "4:00:53" }
+      { "name": "Battlefield 2042 (бета)", "twitch": "1168913564", "start": "4:00:53" },
+      { "name": "Occult", "twitch": "1181935075", "start": "4:07:18" }
     ]
   },
   {
@@ -2868,9 +2869,17 @@
       { "name": "Tails of Iron", "twitch": "1156860249" },
       { "twitch": "1162515299", "subrefs": [
         { "name": "Outbreak Island (демо)" },
-        { "name": "Dagon (демо)", "start": "2:59:51" },
-        { "name": "Inscryption (демо)", "start": "3:42:03" }
+        { "name": "Dagon (демо)", "start": "2:59:51" }
       ] }
+    ]
+  },
+  {
+    "name": "Inscryption",
+    "category": "ongoing",
+    "id": "inscryption",
+    "streams": [
+      { "name": "Демо", "twitch": "1162515299", "start": "3:42:03" },
+      { "name": "Релиз", "twitch": "1181935075" }
     ]
   },
   {
@@ -3063,7 +3072,8 @@
     "id": "fallout-76",
     "streams": [
       { "name": "1 (с WeLoveGames)", "twitch": "335751293", "segment": 0 },
-      { "name": "2 (с Дашей и Джеком)", "twitch": "1103759348" }
+      { "name": "2 (с Дашей и Джеком)", "twitch": "1103759348" },
+      { "name": "3 (с Артёмом)", "twitch": "1181935075", "start": "1:59:34" }
     ]
   },
   {
