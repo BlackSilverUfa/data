@@ -2855,10 +2855,7 @@
         { "name": "Return to Nangrim (демо)", "start": "1:11:40" },
         { "name": "ANNO: Mutationem (демо)", "start": "2:42:36" }
       ] },
-      { "twitch": "1139746620", "subrefs": [
-        { "name": "The Dark Pictures: House of Ashes (демо)" },
-        { "name": "Lake", "start": "4:14:28" }
-      ] },
+      { "name": "Lake", "twitch": "1139746620", "start": "4:14:28" },
       { "name": "Granny 3", "twitch": "1140665211", "start": "1:50:42" },
       { "name": "Tales of Arise", "twitch": "1143525237" },
       { "twitch": "1154121803", "subrefs": [
@@ -3601,7 +3598,16 @@
         { "name": "Демо" },
         { "name": "Демо", "start": "1:37:24" }
       ] },
-      { "name": "1", "twitch": "787564730" }
+      { "name": "Прохождение", "twitch": "787564730" }
+    ]
+  },
+  {
+    "name": "The Dark Pictures: House of Ashes",
+    "category": "finished",
+    "id": "house-of-ashes",
+    "streams": [
+      { "name": "Демо", "twitch": "1139746620" },
+      { "name": "Прохождение", "twitch": "1183729753" }
     ]
   },
   {
