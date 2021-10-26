@@ -2868,8 +2868,16 @@
       { "twitch": "1162515299", "subrefs": [
         { "name": "Outbreak Island (демо)" },
         { "name": "Dagon (демо)", "start": "2:59:51" }
-      ] },
-      { "name": "Marvel's Guardians of the Galaxy", "twitch": "1186535358" }
+      ] }
+    ]
+  },
+  {
+    "name": "Marvel's Guardians of the Galaxy",
+    "category": "ongoing",
+    "id": "marvel-gotg",
+    "streams": [
+      { "name": "1", "twitch": "1186535358" },
+      { "name": "2", "twitch": "1187388604" }
     ]
   },
   {
