@@ -1884,7 +1884,8 @@
       { "name": "Bright Lights of Svetlov", "twitch": "1154121803" },
       { "name": "Industria", "twitch": "1164327068" },
       { "name": "Matanga 2", "twitch": "1166311485" },
-      { "name": "Poppy Playtime", "twitch": "1181039582" }
+      { "name": "Poppy Playtime", "twitch": "1181039582" },
+      { "name": "Last Days of Lazarus (демо)", "twitch": "1190164000", "start": "4:25:09" }
     ]
   },
   {
@@ -2868,6 +2869,10 @@
       { "twitch": "1162515299", "subrefs": [
         { "name": "Outbreak Island (демо)" },
         { "name": "Dagon (демо)", "start": "2:59:51" }
+      ] },
+      { "twitch": "1190164000", "subrefs": [
+        { "name": "Prognostic" },
+        { "name": "Horror Story: Hallowseed", "start": "3:06:06" }
       ] }
     ]
   },
