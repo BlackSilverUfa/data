@@ -386,7 +386,11 @@
       { "name": "KeyWe", "twitch": "1134934289", "start": "4:42:17" },
       { "name": "Fortnite (с Дашей и Джеком)", "twitch": "1155904215", "start": "5:03:18" },
       { "name": "Battlefield 2042 (бета)", "twitch": "1168913564", "start": "4:00:53" },
-      { "name": "Occult", "twitch": "1181935075", "start": "4:07:18" }
+      { "name": "Occult", "twitch": "1181935075", "start": "4:07:18" },
+      { "twitch": "1191176581", "subrefs": [
+        { "name": "Pico Park", "start": "2:19:51" },
+        { "name": "Fling to the Finish", "start": "4:15:05" }
+      ] }
     ]
   },
   {
@@ -530,7 +534,8 @@
     "streams": [
       { "name": "1", "twitch": "877211836", "start": "2:59:45" },
       { "name": "2", "twitch": "886277729" },
-      { "name": "3", "twitch": "984801715", "start": "2:46:23" }
+      { "name": "3", "twitch": "984801715", "start": "2:46:23" },
+      { "name": "4", "twitch": "1191176581", "start": "1:27:45" }
     ]
   },
   {
@@ -2292,7 +2297,8 @@
       { "name": "ROG Gladius III", "twitch": "1017725694" },
       { "name": "Sony BloggerCam ZV-1", "twitch": "1065051420" },
       { "name": "ROG Phone 5", "twitch": "1066067703" },
-      { "name": "ROG Zephyrus G14 Alan Walker", "twitch": "1125116646" }
+      { "name": "ROG Zephyrus G14 Alan Walker", "twitch": "1125116646" },
+      { "name": "ROG Zephyrus S17", "twitch": "1191176581" }
     ]
   },
   {
