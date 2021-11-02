@@ -1899,7 +1899,8 @@
     "id": "project-nightmares-36",
     "streams": [
       { "name": "Прохождение (ранний доступ)", "twitch": "491017258" },
-      { "name": "1 (релиз)", "twitch": "1181039582", "start": "4:54:45" }
+      { "name": "1 (релиз)", "twitch": "1181039582", "start": "4:54:45" },
+      { "name": "2", "twitch": "1193856809", "start": "3:37:21" }
     ]
   },
   {
@@ -2262,7 +2263,8 @@
       { "name": "Розыгрыш Dying Light", "twitch": "1081385499,1081403044" },
       { "name": "Розыгрыш Final Fantasy", "twitch": "1115988176" },
       { "name": "Розыгрыш Hades", "twitch": "1134934289", "start": "1:51:16" },
-      { "name": "Розыгрыш ROG Zephyrus G14 Alan Walker", "twitch": "1142576899" }
+      { "name": "Розыгрыш ROG Zephyrus G14 Alan Walker", "twitch": "1142576899" },
+      { "name": "Розыгрыш ROG Spatha Black USB", "twitch": "1193856809" }
     ]
   },
   {
@@ -2880,6 +2882,11 @@
       { "twitch": "1190164000", "subrefs": [
         { "name": "Prognostic" },
         { "name": "Horror Story: Hallowseed", "start": "3:06:06" }
+      ] },
+      { "twitch": "1193856809", "subrefs": [
+        { "name": "The Mortuary Assistant (демо)", "start": "40:06" },
+        { "name": "Devil Inside Us: Root of Evil (демо)", "start": "1:52:04" },
+        { "name": "The Radio Station", "start": "2:18:12" }
       ] }
     ]
   },
