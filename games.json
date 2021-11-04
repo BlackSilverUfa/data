@@ -391,7 +391,8 @@
         { "name": "Pico Park", "start": "2:19:51" },
         { "name": "Fling to the Finish", "start": "4:15:05" }
       ] },
-      { "name": "Apex Legends", "twitch": "1194875760" }
+      { "name": "Apex Legends", "twitch": "1194875760" },
+      { "name": "Arena of Valor", "twitch": "1195666882", "start": "4:59:28" }
     ]
   },
   {
@@ -1489,7 +1490,8 @@
       { "name": "10", "twitch": "207478875" },
       { "name": "11", "twitch": "210024030" },
       { "name": "PS4-версия (часть 1)", "twitch": "426011884" },
-      { "name": "PS4-версия (часть 2)", "twitch": "426022824", "segment": 0 }
+      { "name": "PS4-версия (часть 2)", "twitch": "426022824", "segment": 0 },
+      { "name": "1 (заново)", "twitch": "1195666882", "start": "3:12:18" }
     ],
     "cover": 1
   },
@@ -2888,7 +2890,8 @@
         { "name": "The Mortuary Assistant (демо)", "start": "40:06" },
         { "name": "Devil Inside Us: Root of Evil (демо)", "start": "1:52:04" },
         { "name": "The Radio Station", "start": "2:18:12" }
-      ] }
+      ] },
+      { "name": "Forza Horizon 5", "twitch": "1195666882" }
     ]
   },
   {
