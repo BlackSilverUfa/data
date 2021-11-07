@@ -391,8 +391,16 @@
         { "name": "Pico Park", "start": "2:19:51" },
         { "name": "Fling to the Finish", "start": "4:15:05" }
       ] },
-      { "name": "Apex Legends", "twitch": "1194875760" },
-      { "name": "Arena of Valor", "twitch": "1195666882", "start": "4:59:28" }
+      { "name": "Apex Legends", "twitch": "1194875760" }
+    ]
+  },
+  {
+    "name": "Arena of Valor",
+    "category": "co-op",
+    "id": "arena-of-valor",
+    "streams": [
+      { "name": "1", "twitch": "1195666882", "start": "4:59:28" },
+      { "name": "2", "twitch": "1198691880", "start": "3:58:01" }
     ]
   },
   {
@@ -1904,7 +1912,8 @@
     "streams": [
       { "name": "Прохождение (ранний доступ)", "twitch": "491017258" },
       { "name": "1 (релиз)", "twitch": "1181039582", "start": "4:54:45" },
-      { "name": "2", "twitch": "1193856809", "start": "3:37:21" }
+      { "name": "2", "twitch": "1193856809", "start": "3:37:21" },
+      { "name": "3", "twitch": "1198691880" }
     ]
   },
   {
@@ -2053,7 +2062,8 @@
       { "name": "1 (Глава 1)", "twitch": "317879826" },
       { "name": "2 (Глава 2)", "twitch": "448154135" },
       { "name": "3", "twitch": "448568048", "segment": 1 },
-      { "name": "4 (заново, релиз)", "twitch": "853883043", "start": "2:57:29" }
+      { "name": "4 (заново, релиз)", "twitch": "853883043", "start": "2:57:29" },
+      { "name": "5 (заново)", "twitch": "1198691880", "start": "2:57:41" }
     ]
   },
   {
