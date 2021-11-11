@@ -391,8 +391,16 @@
         { "name": "Pico Park", "start": "2:19:51" },
         { "name": "Fling to the Finish", "start": "4:15:05" }
       ] },
-      { "name": "Apex Legends", "twitch": "1194875760" },
-      { "name": "Warframe", "twitch": "1201428986" }
+      { "name": "Apex Legends", "twitch": "1194875760" }
+    ]
+  },
+  {
+    "name": "Warframe",
+    "category": "co-op",
+    "id": "warframe",
+    "streams": [
+      { "name": "1", "twitch": "1201428986" },
+      { "name": "2 (соло)", "twitch": "1202281245" }
     ]
   },
   {
