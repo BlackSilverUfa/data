@@ -2920,6 +2920,15 @@
     ]
   },
   {
+    "name": "Battlefield 2042",
+    "category": "infinite",
+    "id": "bf-2042",
+    "streams": [
+      { "name": "1 (соло)", "twitch": "1203211087,1203238012", "start": "3:36:30" },
+      { "name": "2", "twitch": "1203334086" }
+    ]
+  },
+  {
     "name": "Marvel's Guardians of the Galaxy",
     "category": "ongoing",
     "id": "marvel-gotg",
