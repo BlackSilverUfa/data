@@ -1463,7 +1463,10 @@
   "821805079": { "youtube": "v5iHWWI8LRU" },
   "823035178": { "youtube": "Gxu_QALg2Vo" },
   "824147065": { "youtube": "3s3x1Gp8vvQ" },
-  "827759529": { "youtube": "98zDfQ_-CIE", "official": false },
+  "827759529": {
+    "youtube": "98zDfQ_-CIE", "official": false,
+    "cuts": ["4:35:32~4:37:06"]
+  },
   "828815728": { "youtube": "07BluFMJ0eo" },
   "830961978": { "youtube": "-7UuPITtROo" },
   "832197729": [
