@@ -385,7 +385,6 @@
       { "name": "Chased by Darkness", "twitch": "1125993129", "start": "4:53:22" },
       { "name": "KeyWe", "twitch": "1134934289", "start": "4:42:17" },
       { "name": "Fortnite (с Дашей и Джеком)", "twitch": "1155904215", "start": "5:03:18" },
-      { "name": "Battlefield 2042 (бета)", "twitch": "1168913564", "start": "4:00:53" },
       { "name": "Occult", "twitch": "1181935075", "start": "4:07:18" },
       { "twitch": "1191176581", "subrefs": [
         { "name": "Pico Park", "start": "2:19:51" },
@@ -2932,8 +2931,10 @@
     "category": "infinite",
     "id": "bf-2042",
     "streams": [
+      { "name": "Бета", "twitch": "1168913564", "start": "4:00:53" },
       { "name": "1 (соло)", "twitch": "1203211087,1203238012", "start": "3:36:30" },
-      { "name": "2", "twitch": "1203334086" }
+      { "name": "2", "twitch": "1203334086" },
+      { "name": "3", "twitch": "1205368606,1205563618" }
     ]
   },
   {
