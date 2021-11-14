@@ -2915,8 +2915,16 @@
         { "name": "The Radio Station", "start": "2:18:12" }
       ] },
       { "name": "Forza Horizon 5", "twitch": "1195666882" },
-      { "name": "DarKnot", "twitch": "1199578310" },
-      { "name": "Elden Ring (network test)", "twitch": "1203211087,1203238012" }
+      { "name": "DarKnot", "twitch": "1199578310" }
+    ]
+  },
+  {
+    "name": "Elden Ring",
+    "category": "ongoing",
+    "id": "elden-ring",
+    "streams": [
+      { "name": "1 (network test)", "twitch": "1203211087,1203238012" },
+      { "name": "2", "twitch": "1205227732" }
     ]
   },
   {
