@@ -2390,7 +2390,7 @@
     ]
   },
   {
-    "name": "Первый взгляд",
+    "name": "Первый взгляд 2015",
     "category": "first",
     "type": "list",
     "id": "first",
@@ -2402,12 +2402,28 @@
       { "twitch": "001508120", "subrefs": [
         { "name": "Nightmare House 2" },
         { "name": "Bioshock Infinite", "start": "1:11:49" }
-      ] },
+      ] }
+    ]
+  },
+  {
+    "name": "Первый взгляд 2016",
+    "category": "first",
+    "type": "list",
+    "id": "first-2016",
+    "streams": [
       { "name": "Deus Ex: Human Revolution - Director's Cut", "twitch": "001607210" },
       { "name": "Titanfall 2", "twitch": "001610280" },
       { "name": "Assassin's Creed II - The Ezio Collection", "twitch": "001611160" },
       { "name": "Dungeon Nightmares II: The Memory (с Дашей)", "twitch": "001612170" },
-      { "name": "Let It Die", "twitch": "001612240", "start": "1:03:41" },
+      { "name": "Let It Die", "twitch": "001612240", "start": "1:03:41" }
+    ]
+  },
+  {
+    "name": "Первый взгляд 2017",
+    "category": "first",
+    "type": "list",
+    "id": "first-2017",
+    "streams": [
       { "twitch": "001701051", "subrefs": [
         { "name": "Captured", "start": "20:03" },
         { "name": "Wick", "start": "43:15" },
@@ -2433,7 +2449,15 @@
         { "name": "The Coma: Recut", "start": "1:44:54" },
         { "name": "Lone Survivor", "start": "2:52:00" }
       ] },
-      { "name": "Stifled", "twitch": "212678883" },
+      { "name": "Stifled", "twitch": "212678883" }
+    ]
+  },
+  {
+    "name": "Первый взгляд 2018",
+    "category": "first",
+    "type": "list",
+    "id": "first-2018",
+    "streams": [
       { "twitch": "222198164", "subrefs": [
         { "name": "The Witchkin" },
         { "name": "Emily Wants to Play Too", "start": "1:55:34" },
@@ -2568,7 +2592,15 @@
       ] },
       { "name": "The Long Dark - Redux", "twitch": "352177874" },
       { "name": "Thief 3: Deadly Shadows", "twitch": "352687063", "start": "1:59:07" },
-      { "name": "Lost In Vivo", "twitch": "355395099", "start": "3:20:27" },
+      { "name": "Lost In Vivo", "twitch": "355395099", "start": "3:20:27" }
+    ]
+  },
+  {
+    "name": "Первый взгляд 2019",
+    "category": "first",
+    "type": "list",
+    "id": "first-2019",
+    "streams": [
       { "twitch": "364318283", "segment": 2, "subrefs": [
         { "name": "Vane" },
         { "name": "Subject", "start": "4:27:10" }
@@ -2641,7 +2673,15 @@
       { "twitch": "524865260", "subrefs": [
         { "name": "Trepang2 (демо)" },
         { "name": "The Paperman", "start": "2:49:10" }
-      ] },
+      ] }
+    ]
+  },
+  {
+    "name": "Первый взгляд 2020",
+    "category": "first",
+    "type": "list",
+    "id": "first-2020",
+    "streams": [
       { "twitch": "530784764", "subrefs": [
         { "name": "Zombie Claus", "start": "3:59:51" },
         { "name": "Granny: Chapter Two", "start": "4:02:11" }
@@ -2764,7 +2804,15 @@
       ] },
       { "name": "Gothic", "twitch": "849365667" },
       { "name": "Gone Golfing", "twitch": "850367913", "start": "3:22:30" },
-      { "name": "Ebola 2", "twitch": "853883043", "start": "2:12:38" },
+      { "name": "Ebola 2", "twitch": "853883043", "start": "2:12:38" }
+    ]
+  },
+  {
+    "name": "Первый взгляд 2021",
+    "category": "first",
+    "type": "list",
+    "id": "first-2021",
+    "streams": [
       { "name": "Hidden Deep (демо)", "twitch": "860924750" },
       { "name": "Medal of Honor: Above and Beyond", "twitch": "864545602" },
       { "name": "Yaga", "twitch": "870760177" },
@@ -2949,7 +2997,7 @@
   },
   {
     "name": "Marvel's Guardians of the Galaxy",
-    "category": "ongoing",
+    "category": "finished",
     "id": "marvel-gotg",
     "streams": [
       { "name": "1", "twitch": "1186535358" },
