@@ -1510,7 +1510,8 @@
       { "name": "11", "twitch": "210024030" },
       { "name": "PS4-версия (часть 1)", "twitch": "426011884" },
       { "name": "PS4-версия (часть 2)", "twitch": "426022824", "segment": 0 },
-      { "name": "1 (заново)", "twitch": "1195666882", "start": "3:12:18" }
+      { "name": "1 (заново)", "twitch": "1195666882", "start": "3:12:18" },
+      { "name": "2", "twitch": "1209845995,1210082023", "start": "3:09:52" }
     ],
     "cover": 1
   },
@@ -2922,7 +2923,8 @@
       { "twitch": "1207997756", "subrefs": [
         { "name": "Hextech Mayhem" },
         { "name": "Ruined King", "start": "55:16" }
-      ] }
+      ] },
+      { "name": "The Last Stand: Aftermath", "twitch": "1209845995,1210082023" }
     ]
   },
   {
