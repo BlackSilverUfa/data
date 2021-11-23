@@ -2455,6 +2455,15 @@
     ]
   },
   {
+    "name": "Deadly Premonition: Director's Cut",
+    "category": "ongoing",
+    "id": "deadly-premonition",
+    "streams": [
+      { "name": "1", "twitch": "001706170" },
+      { "name": "2 (заново)", "twitch": "1213619188" }
+    ]
+  },
+  {
     "name": "Первый взгляд 2018",
     "category": "first",
     "type": "list",
