@@ -2984,8 +2984,16 @@
         { "name": "Hextech Mayhem" },
         { "name": "Ruined King", "start": "55:16" }
       ] },
-      { "name": "The Last Stand: Aftermath", "twitch": "1209845995,1210082023" },
-      { "name": "Shadow of the Damned", "twitch": "1214560792" }
+      { "name": "The Last Stand: Aftermath", "twitch": "1209845995,1210082023" }
+    ]
+  },
+  {
+    "name": "Shadow of the Damned",
+    "category": "finished",
+    "id": "sotd",
+    "streams": [
+      { "name": "1", "twitch": "1214560792" },
+      { "name": "2", "twitch": "1217200258" }
     ]
   },
   {
