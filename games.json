@@ -1917,7 +1917,8 @@
       { "name": "Matanga 2", "twitch": "1166311485" },
       { "name": "Poppy Playtime", "twitch": "1181039582" },
       { "name": "Last Days of Lazarus (демо)", "twitch": "1190164000", "start": "4:25:09" },
-      { "name": "Call of Duty: Vanguard (сюжет)", "twitch": "1196615295" }
+      { "name": "Call of Duty: Vanguard (сюжет)", "twitch": "1196615295" },
+      { "name": "Samhainophobia", "twitch": "1218281049,1218409784", "start": "5:25:36" }
     ]
   },
   {
@@ -2984,7 +2985,14 @@
         { "name": "Hextech Mayhem" },
         { "name": "Ruined King", "start": "55:16" }
       ] },
-      { "name": "The Last Stand: Aftermath", "twitch": "1209845995,1210082023" }
+      { "name": "The Last Stand: Aftermath", "twitch": "1209845995,1210082023" },
+      { "twitch": "1218281049,1218409784", "subrefs": [
+        { "name": "Post Trauma (демо)" },
+        { "name": "Implements of Hell", "start": "3:33:02" },
+        { "name": "The Horrors: Lost Tape (демо)", "start": "3:51:17" },
+        { "name": "The Gallagher Case", "start": "4:01:03" },
+        { "name": "Athanasia", "start": "4:57:21" }
+      ] }
     ]
   },
   {
