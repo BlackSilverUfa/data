@@ -412,7 +412,7 @@
     "streams": [
       { "name": "1", "twitch": "1195666882", "start": "4:59:28" },
       { "name": "2", "twitch": "1198691880", "start": "3:58:01" },
-      { "name": "3", "twitch": "1200472047", "start": "3:55:06" }
+      { "name": "3", "twitch": "1200472047", "start": "3:55:36" }
     ]
   },
   {
@@ -1928,7 +1928,7 @@
     "streams": [
       { "name": "Прохождение (ранний доступ)", "twitch": "491017258" },
       { "name": "1 (релиз)", "twitch": "1181039582", "start": "4:54:45" },
-      { "name": "2", "twitch": "1193856809", "start": "3:37:21" },
+      { "name": "2", "twitch": "1193856809", "start": "3:37:54" },
       { "name": "3", "twitch": "1198691880" }
     ]
   },
@@ -4493,7 +4493,7 @@
       { "name": "8", "twitch": "548170121" },
       { "name": "9", "twitch": "554432443" },
       { "name": "10", "twitch": "562243368" },
-      { "name": "Definitive Edition #1", "twitch": "1206191026", "start": "4:29:51" },
+      { "name": "Definitive Edition #1", "twitch": "1206191026", "start": "4:30:26" },
       { "name": "Definitive Edition #2", "twitch": "1207997756", "start": "2:07:05" }
     ]
   },
