@@ -1923,7 +1923,8 @@
       { "name": "Last Days of Lazarus (демо)", "twitch": "1190164000", "start": "4:25:09" },
       { "name": "Call of Duty: Vanguard (сюжет)", "twitch": "1196615295" },
       { "name": "Samhainophobia", "twitch": "1218281049,1218409784", "start": "5:25:36" },
-      { "name": "Invitationem", "twitch": "1222726196", "start": "3:53:28" }
+      { "name": "Invitationem", "twitch": "1222726196", "start": "3:53:28" },
+      { "name": "Decrypt", "twitch": "1224807350", "start": "4:41:51" }
     ]
   },
   {
@@ -3002,7 +3003,12 @@
         { "name": "Chorus", "start": "2:04:58" },
         { "name": "Propnight", "start": "4:30:03" }
       ] },
-      { "name": "Icarus", "twitch": "1223700316" }
+      { "name": "Icarus", "twitch": "1223700316" },
+      { "twitch": "1224807350", "subrefs": [
+        { "name": "Stray Souls (демо)" },
+        { "name": "Sinfeld Remastered (демо)", "start": "2:34:39" },
+        { "name": "Happy's Humble Burger Farm", "start": "2:55:45" }
+      ] }
     ]
   },
   {
