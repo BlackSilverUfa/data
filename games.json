@@ -2827,6 +2827,15 @@
     ]
   },
   {
+    "name": "MONSTRUM 2",
+    "category": "infinite",
+    "id": "monstrum-2",
+    "streams": [
+      { "name": "Ранний доступ", "twitch": "892529745" },
+      { "name": "Релиз", "twitch": "1227570391" }
+    ]
+  },
+  {
     "name": "Первый взгляд 2021",
     "category": "first",
     "type": "list",
@@ -2835,7 +2844,6 @@
       { "name": "Hidden Deep (демо)", "twitch": "860924750" },
       { "name": "Medal of Honor: Above and Beyond", "twitch": "864545602" },
       { "name": "Yaga", "twitch": "870760177" },
-      { "name": "Monstrum 2 (ранний доступ)", "twitch": "892529745" },
       { "twitch": "896656796", "subrefs": [
         { "name": "Olija" },
         { "name": "Tohu", "start": "4:27:45" }
@@ -3006,9 +3014,17 @@
       { "name": "Icarus", "twitch": "1223700316" },
       { "twitch": "1224807350", "subrefs": [
         { "name": "Stray Souls (демо)" },
-        { "name": "Sinfeld Remastered (демо)", "start": "2:34:39" },
-        { "name": "Happy's Humble Burger Farm", "start": "2:55:45" }
+        { "name": "Sinfeld Remastered (демо)", "start": "2:34:39" }
       ] }
+    ]
+  },
+  {
+    "name": "Happy's Humble Burger Farm",
+    "category": "ongoing",
+    "id": "hhbf",
+    "streams": [
+      { "name": "1", "twitch": "1224807350", "start": "2:55:45" },
+      { "name": "2", "twitch": "1227570391", "start": "3:37:34" }
     ]
   },
   {
@@ -3921,6 +3937,14 @@
     "streams": [
       { "name": "Xbox Game Pass Ultimate", "twitch": "526521156", "start": "2:29:56" },
       { "name": "Прохождение с Дашей и Джеком", "twitch": "696198252" }
+    ]
+  },
+  {
+    "name": "Halo Infinite",
+    "category": "ongoing",
+    "id": "halo-infinite",
+    "streams": [
+      { "name": "1", "twitch": "1227570391", "start": "5:52:48" }
     ]
   },
   {
