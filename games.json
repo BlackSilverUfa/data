@@ -3944,7 +3944,8 @@
     "category": "ongoing",
     "id": "halo-infinite",
     "streams": [
-      { "name": "1", "twitch": "1227570391", "segment": 1 }
+      { "name": "1", "twitch": "1227570391", "segment": 1 },
+      { "name": "2", "twitch": "1228484099" }
     ]
   },
   {
