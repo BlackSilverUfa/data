@@ -1428,7 +1428,8 @@
     "streams": [
       { "name": "2018", "twitch": "345649019" },
       { "name": "2019 (обзор)", "twitch": "520877239" },
-      { "name": "2020", "twitch": "832197729", "segment": 1, "start": "12:34:01" }
+      { "name": "2020", "twitch": "832197729", "segment": 1, "start": "12:34:01" },
+      { "name": "2021 (обзор)", "twitch": "1229405550", "start": "4:01:43" }
     ]
   },
   {
@@ -3015,7 +3016,8 @@
       { "twitch": "1224807350", "subrefs": [
         { "name": "Stray Souls (демо)" },
         { "name": "Sinfeld Remastered (демо)", "start": "2:34:39" }
-      ] }
+      ] },
+      { "name": "The Matrix Awakens", "twitch": "1229405550", "start": "3:10:43" }
     ]
   },
   {
@@ -3945,7 +3947,8 @@
     "id": "halo-infinite",
     "streams": [
       { "name": "1", "twitch": "1227570391", "segment": 1 },
-      { "name": "2", "twitch": "1228484099" }
+      { "name": "2", "twitch": "1228484099" },
+      { "name": "3", "twitch": "1229405550" }
     ]
   },
   {
