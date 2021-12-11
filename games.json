@@ -392,7 +392,8 @@
       ] },
       { "name": "Apex Legends", "twitch": "1194875760" },
       { "name": "Farming Simulator 22", "twitch": "1212756532", "start": "3:57:57" },
-      { "name": "Forewarned (с Куплиновым и Дангаром)", "twitch": "1223700316", "start": "3:17:30" }
+      { "name": "Forewarned (с Куплиновым и Дангаром)", "twitch": "1223700316", "start": "3:17:30" },
+      { "name": "Heavenly Bodies", "twitch": "1230440174", "start": "4:06:14" }
     ]
   },
   {
@@ -4572,7 +4573,8 @@
     "streams": [
       { "name": "1", "twitch": "510472726" },
       { "name": "2", "twitch": "511744934" },
-      { "name": "Infiltrator Mode", "twitch": "794840118" }
+      { "name": "Infiltrator Mode", "twitch": "794840118" },
+      { "name": "Annihilation Line", "twitch": "1230440174" }
     ]
   },
   {
