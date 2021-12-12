@@ -3944,12 +3944,13 @@
   },
   {
     "name": "Halo Infinite",
-    "category": "ongoing",
+    "category": "finished",
     "id": "halo-infinite",
     "streams": [
       { "name": "1", "twitch": "1227570391", "segment": 1 },
       { "name": "2", "twitch": "1228484099" },
-      { "name": "3", "twitch": "1229405550" }
+      { "name": "3", "twitch": "1229405550" },
+      { "name": "4", "twitch": "1231359432" }
     ]
   },
   {
@@ -4574,7 +4575,8 @@
       { "name": "1", "twitch": "510472726" },
       { "name": "2", "twitch": "511744934" },
       { "name": "Infiltrator Mode", "twitch": "794840118" },
-      { "name": "Annihilation Line", "twitch": "1230440174" }
+      { "name": "Annihilation Line #1", "twitch": "1230440174" },
+      { "name": "Annihilation Line #2", "twitch": "1231359432", "start": "6:09:05" }
     ]
   },
   {
