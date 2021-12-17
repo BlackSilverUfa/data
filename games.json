@@ -783,7 +783,8 @@
       { "name": "Альфа", "twitch": "500788270" },
       { "name": "1", "twitch": "519609666", "start": "1:16:19" },
       { "name": "2", "twitch": "520877239", "start": "2:08:31" },
-      { "name": "3 (с Артёмом, Джеком и Gamelife)", "twitch": "786440219", "start": "4:56:37" }
+      { "name": "3 (с Артёмом, Джеком и Gamelife)", "twitch": "786440219", "start": "4:56:37" },
+      { "name": "4", "twitch": "1235847606", "start": "3:24:17" }
     ],
     "cover": 1
   },
@@ -3020,8 +3021,16 @@
         { "name": "Stray Souls (демо)" },
         { "name": "Sinfeld Remastered (демо)", "start": "2:34:39" }
       ] },
-      { "name": "The Matrix Awakens", "twitch": "1229405550", "start": "3:10:43" },
-      { "name": "Sifu (демо)", "twitch": "1234081084", "start": "5:42:07" }
+      { "name": "The Matrix Awakens", "twitch": "1229405550", "start": "3:10:43" }
+    ]
+  },
+  {
+    "name": "Sifu",
+    "category": "infinite",
+    "id": "sifu",
+    "streams": [
+      { "name": "1 (демо)", "twitch": "1234081084", "start": "5:42:07" },
+      { "name": "2 (демо)", "twitch": "1235847606" }
     ]
   },
   {
@@ -4136,7 +4145,8 @@
       { "name": "2", "twitch": "588123594" },
       { "name": "3", "twitch": "589032624" },
       { "name": "4", "twitch": "589974459" },
-      { "name": "5", "twitch": "590838420" }
+      { "name": "5", "twitch": "590838420" },
+      { "name": "PC", "twitch": "1235847606", "start": "1:10:32" }
     ]
   },
   {
