@@ -1380,9 +1380,7 @@
     "offsets": ["0:00", "5:05:40"],
     "note": "Стрим падал 3 раза. 2 части склеены в одну запись. 1 часть длиной 50 секунд отброшена."
   },
-  "729970116": {
-    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/729970116.mp4"
-  },
+  "729970116": { "youtube": "8DKpxtGWNHM", "official": false },
   "731025039": { "youtube": "QqnudzNJqKs", "official": false },
   "733113254": { "youtube": "cJHElfSWazw", "official": false },
   "734046513": { "youtube": "_qQ2GXWV8to", "official": false },
