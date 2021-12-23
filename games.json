@@ -1941,7 +1941,8 @@
       { "name": "Samhainophobia", "twitch": "1218281049,1218409784", "start": "5:25:36" },
       { "name": "Invitationem", "twitch": "1222726196", "start": "3:53:28" },
       { "name": "Decrypt", "twitch": "1224807350", "start": "4:41:51" },
-      { "name": "Fobia - St. Dinfna Hotel (демо)", "twitch": "1239503220", "start": "3:04:02" }
+      { "name": "Fobia - St. Dinfna Hotel (демо)", "twitch": "1239503220", "start": "3:04:02" },
+      { "name": "CorpseOcean", "twitch": "1241348243", "start": "2:33:14" }
     ]
   },
   {
@@ -2765,7 +2766,6 @@
       { "name": "SOLUM", "twitch": "644774531", "start": "4:30:33" },
       { "name": "The Disappearance of the Mitchels", "twitch": "645734946", "start": "5:15:53" },
       { "twitch": "653411860", "subrefs": [
-        { "name": "Hardspace: Shipbreaker", "start": "1:53:28" },
         { "name": "Gloomwood", "start": "2:33:58" },
         { "name": "Among Trees", "start": "3:59:59" },
         { "name": "Hello Guest", "start": "5:12:52" }
@@ -2842,6 +2842,15 @@
       { "name": "Gothic", "twitch": "849365667" },
       { "name": "Gone Golfing", "twitch": "850367913", "start": "3:22:30" },
       { "name": "Ebola 2", "twitch": "853883043", "start": "2:12:38" }
+    ]
+  },
+  {
+    "name": "Hardspace: Shipbreaker",
+    "category": "ongoing",
+    "id": "hardspace-shipbreaker",
+    "streams": [
+      { "name": "1", "twitch": "653411860", "start": "1:53:28" },
+      { "name": "2", "twitch": "1241348243", "start": "3:05:32" }
     ]
   },
   {
@@ -3034,7 +3043,11 @@
         { "name": "Stray Souls (демо)" },
         { "name": "Sinfeld Remastered (демо)", "start": "2:34:39" }
       ] },
-      { "name": "The Matrix Awakens", "twitch": "1229405550", "start": "3:10:43" }
+      { "name": "The Matrix Awakens", "twitch": "1229405550", "start": "3:10:43" },
+      { "twitch": "1241348243", "subrefs": [
+        { "name": "Planet Crafter: Prologue" },
+        { "name": "Age of Darkness: Final Stand", "start": "3:58:51" }
+      ] }
     ]
   },
   {
