@@ -398,8 +398,8 @@
   },
   {
     "name": "Hellcoming",
-    "id": "hellcoming",
     "category": "co-op",
+    "id": "hellcoming",
     "streams": [
       { "name": "1", "twitch": "1238591362", "start": "2:10:40" },
       { "name": "2", "twitch": "1240425069", "start": "3:12:53" }
