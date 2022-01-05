@@ -2063,7 +2063,8 @@
     "id": "tiny-bunny",
     "streams": [
       { "name": "Эпизод 1", "twitch": "990810001" },
-      { "name": "Эпизод 2", "twitch": "995413784" }
+      { "name": "Эпизод 2", "twitch": "995413784" },
+      { "name": "Эпизод 3", "twitch": "1253678202,1253695802" }
     ]
   },
   {
@@ -3067,6 +3068,14 @@
         { "name": "Goya's Nightmare", "start": "3:46:11" },
         { "name": "Swamm", "start": "3:51:20" }
       ] }
+    ]
+  },
+  {
+    "name": "Первый взгляд 2022",
+    "category": "first",
+    "id": "first-2022",
+    "streams": [
+      { "name": "Шорох (Scratches: Director's Cut)", "twitch": "1253678202,1253695802", "start": "3:36:12" }
     ]
   },
   {
