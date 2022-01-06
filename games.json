@@ -2438,14 +2438,20 @@
     "type": "list",
     "id": "first",
     "streams": [
-      { "twitch": "001508100", "subrefs": [
-        { "name": "Metro 2033 Redux" },
-        { "name": "Bloodborne", "start": "1:02:17" }
-      ] },
+      { "name": "Bloodborne", "twitch": "001508100", "start": "1:02:17" },
       { "twitch": "001508120", "subrefs": [
         { "name": "Nightmare House 2" },
         { "name": "Bioshock Infinite", "start": "1:11:49" }
       ] }
+    ]
+  },
+  {
+    "name": "Metro 2033 Redux",
+    "category": "ongoing",
+    "id": "metro-2033",
+    "streams": [
+      { "name": "1", "twitch": "001508100" },
+      { "name": "1 (заново)", "twitch": "1254688558,1254720798", "start": "2:25:34" }
     ]
   },
   {
@@ -3074,8 +3080,18 @@
     "name": "Первый взгляд 2022",
     "category": "first",
     "id": "first-2022",
+    "type": "list",
     "streams": [
-      { "name": "Шорох (Scratches: Director's Cut)", "twitch": "1253678202,1253695802", "start": "3:36:12" }
+
+    ]
+  },
+  {
+    "name": "Шорох (Scratches: Director's Cut)",
+    "category": "ongoing",
+    "id": "scratches",
+    "streams": [
+      { "name": "1", "twitch": "1253678202,1253695802", "start": "3:36:12" },
+      { "name": "2", "twitch": "1254688558,1254720798", "start": "4:59:37" }
     ]
   },
   {
@@ -3101,12 +3117,13 @@
   },
   {
     "name": "Happy's Humble Burger Farm",
-    "category": "ongoing",
+    "category": "finished",
     "id": "hhbf",
     "streams": [
       { "name": "1", "twitch": "1224807350", "start": "2:55:45" },
       { "name": "2", "twitch": "1227570391", "segment": 0, "start": "3:37:34" },
-      { "name": "3", "twitch": "1245734451", "start": "3:08:37" }
+      { "name": "3", "twitch": "1245734451", "start": "3:08:37" },
+      { "name": "4", "twitch": "1254688558,1254720798" }
     ]
   },
   {
