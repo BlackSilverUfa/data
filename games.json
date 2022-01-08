@@ -1955,7 +1955,8 @@
         { "name": "Wayward Harbor", "start": "4:13:16" },
         { "name": "Silent Mementos", "start": "4:40:29" }
       ] },
-      { "name": "Tornuktu", "twitch": "1248804713", "start": "2:38:21" }
+      { "name": "Tornuktu", "twitch": "1248804713", "start": "2:38:21" },
+      { "name": "Shrek 2", "twitch": "1256959016" }
     ]
   },
   {
@@ -3088,11 +3089,12 @@
   },
   {
     "name": "Шорох (Scratches: Director's Cut)",
-    "category": "ongoing",
+    "category": "finished",
     "id": "scratches",
     "streams": [
       { "name": "1", "twitch": "1253678202,1253695802", "start": "3:36:12" },
-      { "name": "2", "twitch": "1254688558,1254720798", "start": "4:59:37" }
+      { "name": "2", "twitch": "1254688558,1254720798", "start": "4:59:37" },
+      { "name": "3", "twitch": "1256959016", "start": "4:17:39" }
     ]
   },
   {
