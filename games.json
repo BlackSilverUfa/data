@@ -1922,10 +1922,7 @@
       ] },
       { "name": "Barbie in The 12 Dancing Princesses", "twitch": "1062093790" },
       { "name": "Reminiscence", "twitch": "1086385946,1086545283", "start": "3:13:47" },
-      { "twitch": "1091562344", "subrefs": [
-        { "name": "Game For Anna" },
-        { "name": "Fears to Fathom: Home Alone", "start": "1:46:54" }
-      ] },
+      { "name": "Game For Anna", "twitch": "1091562344" },
       { "twitch": "1099599998", "subrefs": [
         { "name": "Z Mutants" },
         { "name": "Summer of '58", "start": "3:41:14" },
@@ -1956,7 +1953,20 @@
         { "name": "Silent Mementos", "start": "4:40:29" }
       ] },
       { "name": "Tornuktu", "twitch": "1248804713", "start": "2:38:21" },
-      { "name": "Shrek 2", "twitch": "1256959016" }
+      { "name": "Shrek 2", "twitch": "1256959016" },
+      { "twitch": "1258121391", "subrefs": [
+        { "name": "Doghouse 1/2", "start": "1:51:15" },
+        { "name": "Insomnis", "start": "2:24:46" }
+      ] }
+    ]
+  },
+  {
+    "name": "Fears to Fathom",
+    "category": "finished",
+    "id": "fears-to-fathom",
+    "streams": [
+      { "name": "Episode 1 - Home Alone", "twitch": "1091562344", "start": "1:46:54" },
+      { "name": "Episode 2 - Norwood Hitchhike", "twitch": "1258121391" }
     ]
   },
   {
@@ -3084,7 +3094,11 @@
     "type": "list",
     "id": "first-2022",
     "streams": [
-      
+      { "twitch": "1258121391", "subrefs": [
+        { "name": "Blood Field (демо)", "start": "2:08:50" },
+        { "name": "Broken Veil (демо)", "start": "3:58:03" },
+        { "name": "Blink: The Last Night", "start": "4:26:37" }
+      ] }
     ]
   },
   {
@@ -3386,7 +3400,8 @@
       { "twitch": "1102702263", "subrefs": [
         { "name": "Часть 2 #2", "start": "5:10:43" },
         { "name": "Часть 3", "start": "5:26:49" }
-      ] }
+      ] },
+      { "name": "Часть 4", "twitch": "1258121391", "start": "5:14:33" }
     ]
   },
   {
