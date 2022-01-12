@@ -394,7 +394,8 @@
       { "name": "Farming Simulator 22", "twitch": "1212756532", "start": "3:57:57" },
       { "name": "Forewarned (с Куплиновым и Дангаром)", "twitch": "1223700316", "start": "3:17:30" },
       { "name": "Heavenly Bodies", "twitch": "1230440174", "start": "4:06:14" },
-      { "name": "Project Zomboid", "twitch": "1244748634", "start": "1:56:08" }
+      { "name": "Project Zomboid", "twitch": "1244748634", "start": "1:56:08" },
+      { "name": "Monster Hunter Rise", "twitch": "1261173013", "start": "2:57:07" }
     ]
   },
   {
@@ -3013,7 +3014,6 @@
         { "name": "HighFleet" },
         { "name": "Deca", "start": "3:42:40" }
       ] },
-      { "name": "LiBER", "twitch": "1108872519" },
       { "name": "NEO: The World Ends with You", "twitch": "1111966540" },
       { "name": "ColdSide", "twitch": "1113958095" },
       { "name": "Glitchpunk", "twitch": "1114974794" },
@@ -3086,6 +3086,15 @@
         { "name": "Goya's Nightmare", "start": "3:46:11" },
         { "name": "Swamm", "start": "3:51:20" }
       ] }
+    ]
+  },
+  {
+    "name": "LiBER",
+    "category": "ongoing",
+    "id": "liber",
+    "streams": [
+      { "name": "Ранний доступ", "twitch": "1108872519" },
+      { "name": "Релиз", "twitch": "1261173013" }
     ]
   },
   {
