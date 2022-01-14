@@ -2461,12 +2461,16 @@
   },
   {
     "name": "Metro 2033 Redux",
-    "category": "ongoing",
+    "category": "finished",
     "id": "metro-2033",
     "streams": [
       { "name": "1", "twitch": "001508100" },
       { "name": "1 (заново)", "twitch": "1254688558,1254720798", "start": "2:25:34" },
-      { "name": "2", "twitch": "1262176650" }
+      { "name": "2", "twitch": "1262176650" },
+      { "twitch": "1263236800", "subrefs": [
+        { "name": "3" },
+        { "name": "3", "start": "5:02:52" }
+      ] }
     ]
   },
   {
@@ -5805,7 +5809,8 @@
       },
       { "name": "7 (часть 2)", "twitch": "253604008", "segment": 1 },
       { "name": "8", "twitch": "255465280" },
-      { "name": "9", "twitch": "255759468" }
+      { "name": "9", "twitch": "255759468" },
+      { "name": "1 (заново, PC)", "twitch": "1263236800", "start": "2:17:13" }
     ]
   },
   {
