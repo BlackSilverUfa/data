@@ -1959,6 +1959,15 @@
       { "twitch": "1258121391", "subrefs": [
         { "name": "Doghouse 1/2", "start": "1:51:15" },
         { "name": "Insomnis", "start": "2:24:46" }
+      ] },
+      { "twitch": "1265545024", "subrefs": [
+        { "name": "How Fish Is Made" },
+        { "name": "Halloween", "start": "2:43:31" },
+        { "name": "Slit Mouthed", "start": "2:58:08" },
+        { "name": "Beetlebum: Resident Weevil", "start": "4:08:12" },
+        { "name": "SCP-847", "start": "4:21:27" },
+        { "name": "Everything Is For Humanity (демо)", "start": "4:37:18" },
+        { "name": "Copperport Casefiles: Dead of Winter", "start": "5:03:09" }
       ] }
     ]
   },
@@ -3114,7 +3123,8 @@
         { "name": "Broken Veil (демо)", "start": "3:58:03" },
         { "name": "Blink: The Last Night", "start": "4:26:37" }
       ] },
-      { "name": "Metro: Last Light Redux", "twitch": "1264372459" }
+      { "name": "Metro: Last Light Redux", "twitch": "1264372459" },
+      { "name": "Witching Hour (демо)", "twitch": "1265545024", "start": "1:25:24" }
     ]
   },
   {
