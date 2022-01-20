@@ -395,7 +395,8 @@
       { "name": "Forewarned (с Куплиновым и Дангаром)", "twitch": "1223700316", "start": "3:17:30" },
       { "name": "Heavenly Bodies", "twitch": "1230440174", "start": "4:06:14" },
       { "name": "Project Zomboid", "twitch": "1244748634", "start": "1:56:08" },
-      { "name": "Monster Hunter Rise", "twitch": "1261173013", "start": "2:57:07" }
+      { "name": "Monster Hunter Rise", "twitch": "1261173013", "start": "2:57:07" },
+      { "name": "Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)", "twitch": "1269805961", "start": "4:57:07" }
     ]
   },
   {
@@ -3123,9 +3124,17 @@
         { "name": "Broken Veil (демо)", "start": "3:58:03" },
         { "name": "Blink: The Last Night", "start": "4:26:37" }
       ] },
-      { "name": "Metro: Last Light Redux", "twitch": "1264372459" },
       { "name": "Witching Hour (демо)", "twitch": "1265545024", "start": "1:25:24" },
       { "name": "Star Citizen", "twitch": "1268793469" }
+    ]
+  },
+  {
+    "name": "Metro: Last Light Redux",
+    "category": "ongoing",
+    "id": "metro-ll",
+    "streams": [
+      { "name": "1", "twitch": "1264372459" },
+      { "name": "2", "twitch": "1269805961" }
     ]
   },
   {
