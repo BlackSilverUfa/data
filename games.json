@@ -1830,7 +1830,7 @@
       },
       { "name": "Lust for Darkness", "twitch": "273929911", "start": "2:52:24" },
       { "twitch": "275418948", "subrefs": [
-        { "name": "Shininng Hotel: Lost in Nowhere", "start": "3:15:14" },
+        { "name": "Shining Hotel: Lost in Nowhere", "start": "3:15:14" },
         { "name": "Midnight Awake", "start": "3:37:22" }
       ] },
       { "name": "The Awesome Adventures of Captain Spirit", "twitch": "278566845", "segment": 0 },
@@ -1975,9 +1975,25 @@
         { "name": "Slit Mouthed", "start": "2:58:08" },
         { "name": "Beetlebum: Resident Weevil", "start": "4:08:12" },
         { "name": "SCP-847", "start": "4:21:27" },
-        { "name": "Everything Is For Humanity (демо)", "start": "4:37:18" },
-        { "name": "Copperport Casefiles: Dead of Winter", "start": "5:03:09" }
+        { "name": "Everything Is For Humanity (демо)", "start": "4:37:18" }
+      ] },
+      { "twitch": "1273302913", "subrefs": [
+        { "name": "Root of Guilt" },
+        { "name": "Alternative Game: On Duty (фан-игра)", "start": "2:14:12" },
+        { "name": "Dark Dreams (демо)", "start": "3:35:43" },
+        { "name": "Within Yourself", "start": "3:47:50" },
+        { "name": "Toy Hub Support", "start": "3:59:54" },
+        { "name": "Before Dawn", "start": "5:19:40" }
       ] }
+    ]
+  },
+  {
+    "name": "Copperport Casefiles",
+    "category": "finished",
+    "id": "copperport",
+    "streams": [
+      { "name": "Dead of Winter", "twitch": "1265545024", "start": "5:03:09" },
+      { "name": "Under the Stairs", "twitch": "1273302913", "start": "5:46:42" }
     ]
   },
   {
@@ -3133,7 +3149,12 @@
         { "name": "Blink: The Last Night", "start": "4:26:37" }
       ] },
       { "name": "Witching Hour (демо)", "twitch": "1265545024", "start": "1:25:24" },
-      { "name": "Star Citizen", "twitch": "1268793469" }
+      { "name": "Star Citizen", "twitch": "1268793469" },
+      { "twitch": "1273302913", "subrefs": [
+        { "name": "Concluse 2", "start": "1:12:46" },
+        { "name": "Experiment: Groceries", "start": "3:10:38" },
+        { "name": "HorrorDriven: A story for the road (демо)", "start": "4:29:19" }
+      ] }
     ]
   },
   {
