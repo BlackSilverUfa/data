@@ -1,10 +1,4 @@
 [{
-  "name": "Недавние стримы",
-  "code": "recent",
-  "level": 2,
-  "search": false,
-  "split_by_year": false
-}, {
   "name": "Завершённые прохождения",
   "code": "finished",
   "level": 2
