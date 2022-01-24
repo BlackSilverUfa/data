@@ -2936,12 +2936,20 @@
     ]
   },
   {
+    "name": "Hidden Deep",
+    "category": "ongoing",
+    "id": "hidden-deep",
+    "streams": [
+      { "name": "Демо", "twitch": "860924750" },
+      { "name": "1 (с WLG)", "twitch": "1274362855", "start": "4:00:47" }
+    ]
+  },
+  {
     "name": "Первый взгляд 2021",
     "category": "first",
     "type": "list",
     "id": "first-2021",
     "streams": [
-      { "name": "Hidden Deep (демо)", "twitch": "860924750" },
       { "name": "Medal of Honor: Above and Beyond", "twitch": "864545602" },
       { "name": "Yaga", "twitch": "870760177" },
       { "twitch": "896656796", "subrefs": [
@@ -3154,7 +3162,8 @@
         { "name": "Concluse 2", "start": "1:12:46" },
         { "name": "Experiment: Groceries", "start": "3:10:38" },
         { "name": "HorrorDriven: A story for the road (демо)", "start": "4:29:19" }
-      ] }
+      ] },
+      { "name": "Metro Exodus: Enhanced Edition", "twitch": "1274362855" }
     ]
   },
   {
