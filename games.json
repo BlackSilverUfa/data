@@ -3322,7 +3322,7 @@
   },
   {
     "name": "Dying Light",
-    "category": "ongoing",
+    "category": "finished",
     "id": "dying-light",
     "streams": [
       { "twitch": "1073309664", "subrefs": [
@@ -3337,7 +3337,8 @@
       { "twitch": "1279881006", "subrefs": [
         { "name": "4" },
         { "name": "The Following #1", "start": "4:33:48" }
-      ] }
+      ] },
+      { "name": "The Following #2", "twitch": "1282188188" }
     ]
   },
   {
