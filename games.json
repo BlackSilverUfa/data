@@ -3168,7 +3168,11 @@
         { "name": "Experiment: Groceries", "start": "3:10:38" },
         { "name": "HorrorDriven: A story for the road (демо)", "start": "4:29:19" }
       ] },
-      { "name": "Metro Exodus: Enhanced Edition", "twitch": "1274362855" }
+      { "name": "Metro Exodus: Enhanced Edition", "twitch": "1274362855" },
+      { "twitch": "1283289423", "subrefs": [
+        { "name": "Bloodborne PSX" },
+        { "name": "Serious Sam: Siberian Mayhem", "start": "1:41:38" }
+      ] }
     ]
   },
   {
