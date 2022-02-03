@@ -1117,7 +1117,9 @@
   "500788270": { "youtube": "4splAQ7IFTs" },
   "502082379": { "youtube": "NdpY2nQdC8c", "offset": "-0:07" },
   "502487271": { "youtube": "zDDRb0wzB-s" },
-  "502940448": { "youtube": "iScIVVQgd9E" },
+  "502940448": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/502940448.mp4"
+  },
   "503413959": { "youtube": "OEtxAju0oPU" },
   "504248004": { "youtube": "oVtpzVXs2Qw" },
   "504672487": { "youtube": "Ag8LclImehU" },
@@ -1178,13 +1180,17 @@
   "533269694": { "youtube": "-CwrMy8pXVM", "official": false },
   "533755753": { "youtube": "AN7xJO44nxM" },
   "534301966": { "youtube": "yky_-3I336M" },
-  "534316789": { "youtube": "q84PIs7GKes" },
+  "534316789": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/534316789.mp4"
+  },
   "535374681": { "youtube": "qJNOZKgVPq8", "official": false },
   "535873254": { "youtube": "lPiTS74Qw54", "cuts": ["42:57~43:54"] },
   "536349138": { "youtube": "kUR7ZUNoudg" },
   "537340056": { "youtube": "iGIMaIchmJ8" },
   "538458255": { "youtube": "oDNppnLl9Ms" },
-  "542106142": { "youtube": "GoYy_OIYiy8", "official": false },
+  "542106142": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/542106142.mp4"
+  },
   "542613780": { "youtube": "mUQJ1Nr5svY" },
   "543096330": { "youtube": "Kyw6xjOtt-E" },
   "543591605": { "youtube": "89l4A8G7NAQ" },
@@ -1192,7 +1198,9 @@
   "545136550": { "youtube": "Sbqw9FY5rgI", "official": false },
   "545709814": { "youtube": "GuhIfvrEh0I" },
   "546672311": { "youtube": "1Vvuwf6-AzU", "cuts": ["26:35~26:50", "27:01~28:45"] },
-  "547176657": { "youtube": "Dbk-znMbUR0", "official": false },
+  "547176657": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/547176657.mp4"
+  },
   "548170121": { "youtube": "4U4FcuihhrE" },
   "548730617": { "youtube": "mLBR5cNTWmQ" },
   "549258537": { "youtube": "53NWqWikem0" },
@@ -1279,7 +1287,9 @@
   "620631764": { "youtube": "iI9SUKEI9_4" },
   "622728652": { "youtube": "V8SlU8zPC1g" },
   "623734401": { "youtube": "cheJszNoZaM" },
-  "625606171": { "youtube": "h-BlQSLE4RA" },
+  "625606171": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/625606171.mp4"
+  },
   "626564087": { "youtube": "14XPMWRTDMo" },
   "628517071": { "youtube": "Vf-lQOvAryc" },
   "629544387": { "youtube": "WDTDMVEjxdM" },
