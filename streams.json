@@ -77,7 +77,10 @@
   "001602200": { "youtube": "RNnDV07Fy-g" },
   "001602270": { "youtube": "aVI4FysAkoY" },
   "001602290": { "youtube": "_FGu_Qmxg3s" },
-  "001602291": { "youtube": "e9VLRn_gFzM", "official": false },
+  "001602291": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/001602291.mp4",
+    "note": "На YouTube установлено возрастное ограничение."
+  },
   "001602292": { "youtube": "QnDDhQYhHyc", "official": false },
   "001603010": { "youtube": "E1afgj3RgYA" },
   "001603100": { "youtube": "bJJzW0pyIxA" },
@@ -161,7 +164,9 @@
   "001612170": { "youtube": "tpqGLhzBv-E", "official": false },
   "001612200": { "youtube": "HWQwyADOgEw" },
   "001612240": { "youtube": "D-MaGVURYNI", "official": false },
-  "001612290": { "youtube": "CjeiayoIxag", "official": false },
+  "001612290": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/001612290.mp4"
+  },
   "001701050": {
     "youtube": "Ydqg1a3M0WM", "official": false,
     "note": "Стрим прерван по техническим причинам."
@@ -415,8 +420,7 @@
   "259798230": { "youtube": "aO1vU8MX33I", "offset": "-0:05" },
   "260173384": { "youtube": "4E1DlNdCh-8", "offset": "-0:04" },
   "260957900": {
-    "youtube": "5h6Dqu1gGV0", "official": false,
-    "note": "Официальная запись <a href=\"https://youtu.be/sI6Gf1iL3zI\">заблокирована</a>. Просмотр заблокирован в Японии."
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/260957900.mp4"
   },
   "262352362": { "youtube": "B_TKtcBTHRI", "official": false },
   "262696959": [
@@ -1397,7 +1401,9 @@
   "738885129": { "youtube": "qE2ioYUcfxY", "official": false },
   "740853378": { "youtube": "0uXjZYTO2ks", "official": false },
   "746844135": { "youtube": "QT-388R9gtU", "official": false },
-  "747742325": { "youtube": "SMLIMejupXc", "official": false },
+  "747742325": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/747742325.mp4"
+  },
   "749640613": { "youtube": "UwLqQHKOUkM", "official": false },
   "750578050": [
     { "youtube": "-ZdvF7C8hm4", "official": false },
@@ -1437,7 +1443,9 @@
   "785524800": { "youtube": "VA2j-HX-4g0" },
   "786440219": { "youtube": "GRrDKGBd_gA" },
   "787564730": { "youtube": "Rcw9UkyblkQ" },
-  "791632745": { "youtube": "UuxlFRE3bfA" },
+  "791632745": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/791632745.mp4"
+  },
   "792632708": { "youtube": "pRwNwzUefnQ" },
   "793751031": { "youtube": "JfRite_R5po" },
   "794840118": { "youtube": "_J7K5FmpiYE" },
