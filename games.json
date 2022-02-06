@@ -3347,12 +3347,13 @@
   },
   {
     "name": "Dying Light 2: Stay Human",
-    "category": "ongoing",
+    "category": "finished",
     "id": "dying-light-2",
     "streams": [
       { "name": "1", "twitch": "1285368105" },
       { "name": "2", "twitch": "1286499697" },
-      { "name": "3", "twitch": "1287739565" }
+      { "name": "3", "twitch": "1287739565" },
+      { "name": "4", "twitch": "1288960663" }
     ]
   },
   {
