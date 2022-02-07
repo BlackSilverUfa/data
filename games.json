@@ -3172,7 +3172,8 @@
       { "twitch": "1283289423", "subrefs": [
         { "name": "Bloodborne PSX" },
         { "name": "Serious Sam: Siberian Mayhem", "start": "1:41:38" }
-      ] }
+      ] },
+      { "name": "OlliOlli World", "twitch": "1290138739" }
     ]
   },
   {
@@ -3209,11 +3210,12 @@
   },
   {
     "name": "Sifu",
-    "category": "infinite",
+    "category": "ongoing",
     "id": "sifu",
     "streams": [
       { "name": "1 (демо)", "twitch": "1234081084", "start": "5:42:07" },
-      { "name": "2 (демо)", "twitch": "1235847606" }
+      { "name": "2", "twitch": "1235847606" },
+      { "name": "3 (релиз)", "twitch": "1290138739", "start": "2:15:44" }
     ]
   },
   {
