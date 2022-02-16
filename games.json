@@ -3174,7 +3174,11 @@
         { "name": "Bloodborne PSX" },
         { "name": "Serious Sam: Siberian Mayhem", "start": "1:41:38" }
       ] },
-      { "name": "OlliOlli World", "twitch": "1290138739" }
+      { "name": "OlliOlli World", "twitch": "1290138739" },
+      { "twitch": "1299859703", "subrefs": [
+        { "name": "Blood West" },
+        { "name": "Kingdom of the Dead", "start": "2:53:03" }
+      ] }
     ]
   },
   {
