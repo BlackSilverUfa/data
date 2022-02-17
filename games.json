@@ -3178,6 +3178,10 @@
       { "twitch": "1299859703", "subrefs": [
         { "name": "Blood West" },
         { "name": "Kingdom of the Dead", "start": "2:53:03" }
+      ] },
+      { "twitch": "1300779617", "subrefs": [
+        { "name": "Horizon Zero Dawn" },
+        { "name": "Horizon Forbidden West", "start": "58:59" }
       ] }
     ]
   },
