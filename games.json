@@ -3184,11 +3184,12 @@
   },
   {
     "name": "Horizon Forbidden West",
-    "category": "ongoing",
+    "category": "finished",
     "id": "horizon-fw",
     "streams": [
       { "name": "1", "twitch": "1300779617", "start": "58:59" },
-      { "name": "2", "twitch": "1301849396" }
+      { "name": "2", "twitch": "1301849396" },
+      { "name": "3", "twitch": "1303041033" }
     ]
   },
   {
