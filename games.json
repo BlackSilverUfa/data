@@ -3191,16 +3191,23 @@
         { "name": "Autopsy Simulator (демо)" },
         { "name": "FAR: Changing Tides (демо)", "start": "1:15:45" },
         { "name": "Scathe (демо)", "start": "1:51:18" },
-        { "name": "Daymare: 1994 Sandcastle (демо)", "start": "3:29:00" },
         { "name": "Total War: Warhammer III", "start": "4:02:07" }
       ] },
       { "twitch": "1307474557", "subrefs": [
-        { "name": "Daymare: 1994 Sandcastle (демо)" },
         { "name": "The Bridge Curse: Road to Salvation (демо)", "start": "1:34:04" },
         { "name": "My Friendly Neighborhood (демо)", "start": "2:20:39" },
         { "name": "SCP: Pandemic (демо)", "start": "3:17:59" },
         { "name": "IXION (демо)", "start": "4:18:03" }
       ] }
+    ]
+  },
+  {
+    "name": "Daymare: 1994 Sandcastle",
+    "category": "infinite",
+    "id": "daymare-1994-sc",
+    "streams": [
+      { "name": "1 (демо)", "twitch": "1306396434", "start": "3:29:00" },
+      { "name": "2", "twitch": "1307474557" }
     ]
   },
   {
