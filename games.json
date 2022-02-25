@@ -3289,7 +3289,8 @@
     "id": "elden-ring",
     "streams": [
       { "name": "1 (network test)", "twitch": "1203211087,1203238012" },
-      { "name": "2", "twitch": "1205227732" }
+      { "name": "2", "twitch": "1205227732" },
+      { "name": "1 (релиз)", "twitch": "1407442799" }
     ]
   },
   {
