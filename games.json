@@ -3286,7 +3286,7 @@
   },
   {
     "name": "Elden Ring",
-    "category": "ongoing",
+    "category": "finished",
     "id": "elden-ring",
     "streams": [
       { "name": "1 (network test)", "twitch": "1203211087,1203238012" },
@@ -3304,7 +3304,8 @@
       { "name": "11", "twitch": "1420160951" },
       { "name": "12", "twitch": "1421157654" },
       { "name": "13", "twitch": "1423204299" },
-      { "name": "14", "twitch": "1424290625" }
+      { "name": "14", "twitch": "1424290625" },
+      { "name": "15", "twitch": "1425309572" }
     ]
   },
   {
