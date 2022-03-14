@@ -1074,7 +1074,9 @@
     "youtube": "-cBM69p_PrA", "official": false,
     "note": "Официальная запись (iZn5VK-JITc) <a href=\"https://twitter.com/Sempai_Black/status/1184134627931447298\">заблокирована</a>."
   },
-  "487490676": { "youtube": "CnDKs0dSAZI" },
+  "487490676": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/487490676.mp4"
+  },
   "487949971": {
     "youtube": "5elTBqMfyEU", "official": false,
     "note": "<a href=\"https://youtu.be/R4PF6jqv2nw\">Официальная запись</a> заблокирована 26 июня 2021."
