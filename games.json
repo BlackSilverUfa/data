@@ -3189,7 +3189,6 @@
       { "name": "Horizon Zero Dawn", "twitch": "1300779617" },
       { "twitch": "1306396434", "subrefs": [
         { "name": "Autopsy Simulator (демо)" },
-        { "name": "FAR: Changing Tides (демо)", "start": "1:15:45" },
         { "name": "Scathe (демо)", "start": "1:51:18" },
         { "name": "Total War: Warhammer III", "start": "4:02:07" }
       ] },
@@ -5768,6 +5767,15 @@
     "streams": [
       { "name": "1", "twitch": "262696959", "segment": 0 },
       { "name": "2", "twitch": "263472196" }
+    ]
+  },
+  {
+    "name": "FAR: Changing Tides",
+    "category": "finished",
+    "id": "far-changing-tides",
+    "streams": [
+      { "name": "Демо", "twitch": "1306396434", "start": "1:15:45" },
+      { "name": "Прохождение", "twitch": "1430250580" }
     ]
   },
   {
