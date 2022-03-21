@@ -3049,10 +3049,7 @@
         { "name": "Horrors of Space (демо)", "start": "5:18:33" },
         { "name": "Rabbit Hole (демо)", "start": "5:31:54" }
       ] },
-      { "twitch": "1066067703", "subrefs": [
-        { "name": "Stranger of Paradise: Final Fantasy Origin (демо)", "start": "3:39:08" },
-        { "name": "Guilty Gear: Strive", "start": "5:06:26" }
-      ] },
+      { "name": "Guilty Gear: Strive", "twitch": "1066067703", "start": "5:06:26" },
       { "name": "Open Country", "twitch": "1070208965" },
       { "twitch": "1072311121", "subrefs": [
         { "name": "Call of Duty: Mobile" },
@@ -3147,6 +3144,15 @@
         { "name": "Goya's Nightmare", "start": "3:46:11" },
         { "name": "Swamm", "start": "3:51:20" }
       ] }
+    ]
+  },
+  {
+    "name": "Stranger of Paradise: Final Fantasy Origin",
+    "category": "ongoing",
+    "id": "sop-ffo",
+    "streams": [
+      { "name": "Демо", "twitch": "1066067703", "start": "3:39:08" },
+      { "name": "Релиз", "twitch": "1432334680" }
     ]
   },
   {
