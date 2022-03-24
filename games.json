@@ -1996,11 +1996,12 @@
   },
   {
     "name": "GhostWire: Tokyo",
-    "category": "ongoing",
+    "category": "finished",
     "id": "ghostwire",
     "streams": [
       { "name": "1", "twitch": "1433236088" },
-      { "name": "2", "twitch": "1434194047" }
+      { "name": "2", "twitch": "1434194047" },
+      { "name": "3", "twitch": "1435162657" }
     ]
   },
   {
