@@ -1353,7 +1353,10 @@
   "720973722": { "youtube": "sQsWjajTE9k", "official": false },
   "721969297": [
     { "youtube": "ivvpyAj8KYo", "official": false },
-    { "youtube": "9vzJKwzDQLQ", "offset": "1:59:53" }
+    {
+      "offset": "1:59:53",
+      "direct": "https://bsufiles.thedrhax.pw/streams/permanent/721969297.1.mp4"
+    }
   ],
   "723011325": { "youtube": "Zieo4ovQjLA", "official": false },
   "725080998": { "youtube": "J_uazlzyEW4", "official": false },
