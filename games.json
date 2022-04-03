@@ -1992,7 +1992,14 @@
       ] },
       { "name": "Know by Heart (Помни...)", "twitch": "1294441814" },
       { "name": "Little Orpheus - Episode 1", "twitch": "1307474557", "start": "59:59" },
-      { "name": "Ikai", "twitch": "1444100764" }
+      { "name": "Ikai", "twitch": "1444100764" },
+      { "twitch": "1445142982", "subrefs": [
+        { "name": "Grief", "start": "1:14:45" },
+        { "name": "Mirage of Home", "start": "1:25:55" },
+        { "name": "Uncle Panko's Terrible Little Farm", "start": "2:58:35" },
+        { "name": "Toiletrooms", "start": "3:34:43" },
+        { "name": "Cleaning Redville", "start": "4:21:29" }
+      ] }
     ]
   },
   {
@@ -3216,7 +3223,14 @@
         { "name": "IXION (демо)", "start": "4:18:03" }
       ] },
       { "name": "Gran Turismo 7", "twitch": "1415016033" },
-      { "name": "Weird West", "twitch": "1444100764", "start": "4:40:10" }
+      { "name": "Weird West", "twitch": "1444100764", "start": "4:40:10" },
+      { "twitch": "1445142982", "subrefs": [
+        { "name": "Remnants of R'lyeh (демо)" },
+        { "name": "Nightmare of Decay (демо)", "start": "2:09:44" },
+        { "name": "Out of Sight (демо)", "start": "3:52:10" },
+        { "name": "HandCop", "start": "4:58:18" },
+        { "name": "The Heilwald Loophole", "start": "5:11:21" }
+      ] }
     ]
   },
   {
