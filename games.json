@@ -3230,8 +3230,16 @@
         { "name": "Out of Sight (демо)", "start": "3:52:10" },
         { "name": "HandCop", "start": "4:58:18" },
         { "name": "The Heilwald Loophole", "start": "5:11:21" }
-      ] },
-      { "name": "F.E.A.R.", "twitch": "1446082122" }
+      ] }
+    ]
+  },
+  {
+    "name": "F.E.A.R.",
+    "category": "finished",
+    "id": "fear",
+    "streams": [
+      { "name": "1", "twitch": "1446082122" },
+      { "name": "2", "twitch": "1447006792" }
     ]
   },
   {
