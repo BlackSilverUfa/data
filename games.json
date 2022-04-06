@@ -497,8 +497,9 @@
     "category": "co-op",
     "id": "dread-hunger",
     "streams": [
-      { "name": "1", "twitch": "1024777649" },
-      { "name": "2", "twitch": "1043310851", "start": "4:52:38" }
+      { "name": "1 (6D)", "twitch": "1024777649" },
+      { "name": "2 (6D)", "twitch": "1043310851", "start": "4:52:38" },
+      { "name": "3", "twitch": "1447954975", "start": "1:08:11" }
     ]
   },
   {
@@ -2445,7 +2446,8 @@
       { "name": "ROG Phone 5", "twitch": "1066067703" },
       { "name": "ROG Zephyrus G14 Alan Walker", "twitch": "1125116646" },
       { "name": "ROG Zephyrus S17", "twitch": "1191176581" },
-      { "name": "Xbox Elite WC Series 2", "twitch": "1238591362" }
+      { "name": "Xbox Elite WC Series 2", "twitch": "1238591362" },
+      { "name": "ROG Flow Z13", "twitch": "1447954975" }
     ]
   },
   {
