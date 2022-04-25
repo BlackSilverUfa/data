@@ -2031,6 +2031,10 @@
       { "twitch": "1465565528", "subrefs": [
         { "name": "Lot No. 242", "start": "5:40:56" },
         { "name": "The Ouija Board", "start": "5:48:25" }
+      ] },
+      { "twitch": "1466510615", "subrefs": [
+        { "name": "Core", "start": "5:23:16" },
+        { "name": "Just Stopping By", "start": "5:41:49" }
       ] }
     ]
   },
@@ -3276,11 +3280,20 @@
       { "twitch": "1465565528", "subrefs": [
         { "name": "Forgive Me Father" },
         { "name": "Golden Light", "start": "55:34" },
-        { "name": "Remorse: The List", "start": "1:45:30" },
         { "name": "No-Snake Hotel", "start": "5:31:55" },
         { "name": "An Uninvited Guest (демо)", "start": "6:18:41" },
         { "name": "Fear the Spotlight (демо)", "start": "6:36:21" }
-      ] }
+      ] },
+      { "name": "Varmalis (демо)", "twitch": "1466510615", "start": "5:00:58" }
+    ]
+  },
+  {
+    "name": "Remorse: The List",
+    "category": "finished",
+    "id": "remorse-tl",
+    "streams": [
+      { "name": "1", "twitch": "1465565528", "start": "1:45:30" },
+      { "name": "2", "twitch": "1466510615" }
     ]
   },
   {
