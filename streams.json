@@ -1169,7 +1169,9 @@
   "528406911": { "youtube": "J7r3In6EKk4" },
   "528855659": { "youtube": "bUvub6AtVcc" },
   "530784764": { "youtube": "mgK_Gc33JQw" },
-  "531327327": { "youtube": "HbZaYnkfzjw", "cuts": ["1:47:56~1:51:06"] },
+  "531327327": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/531327327.mp4"
+  },
   "532342982": { "youtube": "P9H7zaD1juw" },
   "532787117": { "youtube": "7BwEYyVi1YU" },
   "533269694": { "youtube": "-CwrMy8pXVM", "official": false },
@@ -1205,7 +1207,9 @@
   "554432443": { "youtube": "NZuJ0OTmcKE", "official": false },
   "555473037": { "youtube": "eEB_n5KHBcI" },
   "556030369": { "youtube": "gCwrKi8R9wI" },
-  "556596083": { "youtube": "na9adsWSpNI" },
+  "556596083": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/556596083.mp4"
+  },
   "557620811": { "youtube": "ivWV-Ivgp18" },
   "558120691": { "youtube": "IeXGLsha6dM" },
   "559121361": { "youtube": "X-Yg6LepiEI" },
