@@ -32,7 +32,9 @@
   "001509230": { "youtube": "P46vkkoXY84" },
   "001510010": { "youtube": "3NDFgfrZMYc" },
   "001510050": { "youtube": "NfHaLdpT4wI" },
-  "001510060": { "youtube": "aoCrj6WNjHs", "official": false },
+  "001510060": {
+    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/001510060.mp4"
+  },
   "001510120": { "youtube": "OeGwElTNeE8" },
   "001510150": {
     "youtube": "fm8iFzJOSDY", "official": false,
