@@ -78,7 +78,6 @@
   "001602270": { "youtube": "aVI4FysAkoY" },
   "001602290": { "youtube": "_FGu_Qmxg3s" },
   "001602291": {
-    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/001602291.mp4",
     "note": "На YouTube установлено возрастное ограничение."
   },
   "001602292": { "youtube": "QnDDhQYhHyc", "official": false },
@@ -1169,9 +1168,7 @@
   "528406911": { "youtube": "J7r3In6EKk4" },
   "528855659": { "youtube": "bUvub6AtVcc" },
   "530784764": { "youtube": "mgK_Gc33JQw" },
-  "531327327": {
-    "direct": "https://bsufiles.thedrhax.pw/streams/permanent/531327327.mp4"
-  },
+  "531327327": {  },
   "532342982": { "youtube": "P9H7zaD1juw" },
   "532787117": { "youtube": "7BwEYyVi1YU" },
   "533269694": { "youtube": "-CwrMy8pXVM", "official": false },
