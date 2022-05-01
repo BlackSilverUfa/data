@@ -2039,7 +2039,12 @@
       ] },
       { "name": "Tape: Unveil the Memories", "twitch": "1467409068" },
       { "name": "The Stanley Parable: Ultra Deluxe", "twitch": "1469243371" },
-      { "name": "RATUZ", "twitch": "1470152667" }
+      { "name": "RATUZ", "twitch": "1470152667" },
+      { "twitch": "1472093056", "subrefs": [
+        { "name": "The Clown's Fun" },
+        { "name": "Our Lady of Sorrow", "start": "3:42:00" },
+        { "name": "The Abyss Has Walls", "start": "4:03:51" }
+      ] }
     ]
   },
   {
@@ -3277,8 +3282,7 @@
         { "name": "Remnants of R'lyeh (демо)" },
         { "name": "Nightmare of Decay (демо)", "start": "2:09:44" },
         { "name": "Out of Sight (демо)", "start": "3:52:10" },
-        { "name": "HandCop", "start": "4:58:18" },
-        { "name": "The Heilwald Loophole", "start": "5:11:21" }
+        { "name": "HandCop", "start": "4:58:18" }
       ] },
       { "twitch": "1451875048", "subrefs": [
         { "name": "Note of the Day (демо)", "start": "3:42:49" },
@@ -3296,7 +3300,27 @@
         { "name": "An Uninvited Guest (демо)", "start": "6:18:41" },
         { "name": "Fear the Spotlight (демо)", "start": "6:36:21" }
       ] },
-      { "name": "Varmalis (демо)", "twitch": "1466510615", "start": "5:00:58" }
+      { "name": "Varmalis (демо)", "twitch": "1466510615", "start": "5:00:58" },
+      { "twitch": "1472093056", "subrefs": [
+        { "name": "Under", "start": "46:28" },
+        { "name": "New Testament (демо)", "start": "1:03:09" },
+        { "name": "Arachnophobia", "start": "1:30:30" },
+        { "name": "Ouija Rumours", "start": "1:35:46" },
+        { "name": "Shadowbringer", "start": "2:31:05" },
+        { "name": "Lilith's Curse 1984 (демо)", "start": "2:46:11" },
+        { "name": "Puppetmaker", "start": "3:10:53" },
+        { "name": "Arachnophobia", "start": "4:33:36" },
+        { "name": "Film Morbid", "start": "4:47:52" }
+      ] }
+    ]
+  },
+  {
+    "name": "The Heilwald Loophole",
+    "category": "ongoing",
+    "id": "heilwald",
+    "streams": [
+      { "name": "1", "twitch": "1445142982", "start": "5:11:21" },
+      { "name": "2", "twitch": "1472093056", "start": "4:52:54" }
     ]
   },
   {
