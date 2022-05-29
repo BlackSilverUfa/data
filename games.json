@@ -3311,6 +3311,10 @@
         { "name": "Puppetmaker", "start": "3:10:53" },
         { "name": "Arachnophobia", "start": "4:33:36" },
         { "name": "Film Morbid", "start": "4:47:52" }
+      ] },
+      { "twitch": "1312161316", "subrefs": [
+        { "name": "Sniper Elite 5" },
+        { "name": "V Rising", "start": "5:27:17" }
       ] }
     ]
   },
