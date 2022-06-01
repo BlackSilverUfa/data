@@ -1957,7 +1957,6 @@
       { "name": "Bright Lights of Svetlov", "twitch": "1154121803" },
       { "name": "Industria", "twitch": "1164327068" },
       { "name": "Matanga 2", "twitch": "1166311485" },
-      { "name": "Poppy Playtime", "twitch": "1181039582" },
       { "name": "Last Days of Lazarus (демо)", "twitch": "1190164000", "start": "4:25:09" },
       { "name": "Call of Duty: Vanguard (сюжет)", "twitch": "1196615295" },
       { "name": "Samhainophobia", "twitch": "1218281049,1218409784", "start": "5:25:36" },
@@ -2045,6 +2044,15 @@
         { "name": "Our Lady of Sorrow", "start": "3:42:00" },
         { "name": "The Abyss Has Walls", "start": "4:03:51" }
       ] }
+    ]
+  },
+  {
+    "name": "Poppy Playtime",
+    "category": "ongoing",
+    "id": "poppy-playtime",
+    "streams": [
+      { "name": "Глава 1", "twitch": "1181039582" },
+      { "name": "Глава 2", "twitch": "1314842666" }
     ]
   },
   {
@@ -3315,7 +3323,8 @@
       { "twitch": "1312161316", "subrefs": [
         { "name": "Sniper Elite 5" },
         { "name": "V Rising", "start": "5:27:17" }
-      ] }
+      ] },
+      { "name": "Destroy All Humans! 2: Reprobed", "twitch": "1314842666" }
     ]
   },
   {
