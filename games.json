@@ -3324,7 +3324,11 @@
         { "name": "Sniper Elite 5" },
         { "name": "V Rising", "start": "5:27:17" }
       ] },
-      { "name": "Destroy All Humans! 2: Reprobed", "twitch": "1314842666", "start": "3:39:56" }
+      { "name": "Destroy All Humans! 2: Reprobed", "twitch": "1314842666", "start": "3:39:56" },
+      { "twitch": "1315723249", "subrefs": [
+        { "name": "Police Shootout" },
+        { "name": "Diablo Immortal", "start": "3:52:09" }
+      ] }
     ]
   },
   {
