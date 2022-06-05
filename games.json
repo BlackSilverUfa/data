@@ -1314,7 +1314,7 @@
     "category": "co-op",
     "id": "friday-13th",
     "streams": [
-      { "name": "1", "twitch": "187586726", "start": "52:24" },
+      { "name": "1", "twitch": "187586726", "start": "43:01" },
       { "name": "2", "twitch": "234373553" },
       { "name": "3", "twitch": "284156303", "start": "2:11:45" },
       { "name": "4", "twitch": "1088456849,1088621069", "start": "2:00:22" }
@@ -1335,7 +1335,10 @@
     "category": "co-op",
     "id": "deceit",
     "streams": [
-      { "name": "1", "twitch": "187586726" },
+      { "twitch": "187586726", "subrefs": [
+        { "name": "1" },
+        { "name": "1", "start": "2:13:42" }
+      ] },
       { "name": "2", "twitch": "200702885", "start": "4:02:50" },
       { "name": "3", "twitch": "202631693", "start": "4:24:00" },
       { "name": "4", "twitch": "250258247", "start": "4:32:15" },
