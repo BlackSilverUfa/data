@@ -3341,8 +3341,16 @@
         { "name": "Antarctica (демо)", "start": "4:45:49" },
         { "name": "All Songs From The King (демо)", "start": "5:20:01" },
         { "name": "Escape The Ayuwoki", "start": "5:44:43" }
-      ] },
-      { "name": "Madagascar", "twitch": "1495305113" }
+      ] }
+    ]
+  },
+  {
+    "name": "Madagascar",
+    "category": "finished",
+    "id": "madagascar",
+    "streams": [
+      { "name": "1", "twitch": "1495305113" },
+      { "name": "2", "twitch": "1497100879" }
     ]
   },
   {
