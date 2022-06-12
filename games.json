@@ -643,7 +643,8 @@
       { "name": "10 (с Куплиновым и Дангаром)", "twitch": "1199578310", "start": "2:34:04" },
       { "name": "11 (с Куплиновым и Дангаром)", "twitch": "1234081084" },
       { "name": "12 (с Куплиновым и Дангаром)", "twitch": "1465565528", "start": "3:40:15" },
-      { "name": "13 (с Куплиновым и Дангаром)", "twitch": "1471119730", "start": "2:41:32" }
+      { "name": "13 (с Куплиновым и Дангаром)", "twitch": "1471119730", "start": "2:41:32" },
+      { "name": "14 (с Куплиновым и Дангаром)", "twitch": "1501665729", "start": "3:19:58" }
     ]
   },
   {
@@ -1630,6 +1631,18 @@
         { "name": "Capcom", "start": "6:29:45" }
       ] },
       { "name": "Nintendo Direct", "twitch": "1056977056", "start": "1:17:42" }
+    ]
+  },
+  {
+    "name": "Summer Game Fest 2022",
+    "category": "expos",
+    "id": "sgf-22",
+    "streams": [
+      { "name": "Sony State of Play (обзор)", "twitch": "1494292107" },
+      { "twitch": "1501665729", "subrefs": [
+        { "name": "Обзор" },
+        { "name": "Xbox & Bethesda Showcase", "start": "5:33:40" }
+      ] }
     ]
   },
   {
@@ -3345,7 +3358,7 @@
         { "name": "Diablo Immortal", "start": "3:52:09" }
       ] },
       { "twitch": "1494292107", "subrefs": [
-        { "name": "The Backrooms 1998" },
+        { "name": "The Backrooms 1998", "start": "1:20:24" },
         { "name": "Signalis (демо)", "start": "2:37:33" },
         { "name": "Mue (демо)", "start": "3:06:21" },
         { "name": "Ripout (демо)", "start": "4:23:10" },
