@@ -1642,7 +1642,8 @@
       { "twitch": "1501665729", "subrefs": [
         { "name": "Обзор" },
         { "name": "Xbox & Bethesda Showcase", "start": "5:33:40" }
-      ] }
+      ] },
+      { "name": "PC Gaming Show (обзор)", "twitch": "1502569152" }
     ]
   },
   {
@@ -3365,6 +3366,15 @@
         { "name": "Antarctica (демо)", "start": "4:45:49" },
         { "name": "All Songs From The King (демо)", "start": "5:20:01" },
         { "name": "Escape The Ayuwoki", "start": "5:44:43" }
+      ] },
+      { "twitch": "1502569152", "subrefs": [
+        { "name": "SCP: Secret Files (демо)", "start": "1:46:32" },
+        { "name": "Cult of the Lamb (демо)", "start": "2:59:02" },
+        { "name": "Anger Foot", "start": "3:38:21" },
+        { "name": "The Fridge Is Red (демо)", "start": "4:00:41" },
+        { "name": "Sker Ritual (демо)", "start": "4:49:28" },
+        { "name": "The Last Worker (демо)", "start": "5:01:44" },
+        { "name": "Midnight Fight Express (демо)", "start": "5:26:12" }
       ] }
     ]
   },
