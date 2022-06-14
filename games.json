@@ -1643,7 +1643,11 @@
         { "name": "Обзор" },
         { "name": "Xbox & Bethesda Showcase", "start": "5:33:40" }
       ] },
-      { "name": "PC Gaming Show (обзор)", "twitch": "1502569152" }
+      { "name": "PC Gaming Show (обзор)", "twitch": "1502569152" },
+      { "twitch": "1503541091", "subrefs": [
+        { "name": "Capcom (обзор)" },
+        { "name": "Xbox Games Showcase Extended", "start": "2:04:25" }
+      ] }
     ]
   },
   {
@@ -5592,7 +5596,11 @@
       { "name": "4 (Клэр \"A\" от первого лица)", "twitch": "376053722" },
       { "name": "5 (DLC - Выжившие призраки)", "twitch": "383771606" },
       { "name": "6 (Every enemy is Mr. X)", "twitch": "527412040" },
-      { "name": "7 (заново)", "twitch": "975061581" }
+      { "name": "7 (заново)", "twitch": "975061581" },
+      { "twitch": "1503541091", "subrefs": [
+        { "name": "1 (хардкор)", "start": "24:35" },
+        { "name": "1 (хардкор)", "start": "2:45:25" }
+      ] }
     ],
     "cover": 1
   },
