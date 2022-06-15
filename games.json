@@ -2075,8 +2075,16 @@
         { "name": "Our Lady of Sorrow", "start": "3:42:00" },
         { "name": "The Abyss Has Walls", "start": "4:03:51" }
       ] },
-      { "name": "Exorcist", "twitch": "1494292107", "start": "3:28:47" },
-      { "name": "The Quarry", "twitch": "1499698307" }
+      { "name": "Exorcist", "twitch": "1494292107", "start": "3:28:47" }
+    ]
+  },
+  {
+    "name": "The Quarry",
+    "category": "finished",
+    "id": "quarry",
+    "streams": [
+      { "name": "Прохождение", "twitch": "1499698307" },
+      { "name": "Злое прохождение", "twitch": "1504425367" }
     ]
   },
   {
