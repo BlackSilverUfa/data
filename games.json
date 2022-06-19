@@ -3389,6 +3389,14 @@
         { "name": "Sker Ritual (демо)", "start": "4:49:28" },
         { "name": "The Last Worker (демо)", "start": "5:01:44" },
         { "name": "Midnight Fight Express (демо)", "start": "5:26:12" }
+      ] },
+      { "twitch": "1508120809", "subrefs": [
+        { "name": "My Demon Wife (демо)" },
+        { "name": "Loveland (демо)", "start": "1:01:48" },
+        { "name": "Eternal Evil", "start": "2:20:00" },
+        { "name": "Andy's Apple Farm (демо)", "start": "3:25:15" },
+        { "name": "Despair: Blood Curse (демо)", "start": "3:58:21" },
+        { "name": "Oxide: Room 104", "start": "4:58:30" }
       ] }
     ]
   },
