@@ -1150,10 +1150,10 @@
     "category": "finished",
     "id": "raft-story",
     "streams": [
-      { "name": "1", "twitch": "1498044961" },
-      { "name": "2", "twitch": "1498814310" },
-      { "name": "3", "twitch": "1500644334" },
-      { "name": "4", "twitch": "1509822874" }
+      { "name": "1", "twitch": "1498044961", "start": "11:19" },
+      { "name": "2", "twitch": "1498814310", "start": "9:56" },
+      { "name": "3", "twitch": "1500644334", "start": "12:09" },
+      { "name": "4", "twitch": "1509822874", "start": "19:46" }
     ]
   },
   {
