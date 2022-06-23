@@ -2082,7 +2082,8 @@
       { "twitch": "1510865681", "subrefs": [
         { "name": "Somnium", "start": "3:27:13" },
         { "name": "Twelve Floors Below.", "start": "5:12:11" }
-      ] }
+      ] },
+      { "name": "Escape PS1 Hagrid", "twitch": "1511822666", "start": "10:18" }
     ]
   },
   {
@@ -2186,7 +2187,8 @@
     "id": "baby-in-yellow",
     "streams": [
       { "name": "1", "twitch": "697191590", "start": "1:22:58" },
-      { "name": "2", "twitch": "1140665211", "start": "1:32:21" }
+      { "name": "2", "twitch": "1140665211", "start": "1:32:21" },
+      { "name": "3", "twitch": "1511822666", "start": "3:42:56" }
     ]
   },
   {
@@ -3336,7 +3338,6 @@
       { "name": "Weird West", "twitch": "1444100764", "start": "4:40:10" },
       { "twitch": "1445142982", "subrefs": [
         { "name": "Remnants of R'lyeh (демо)" },
-        { "name": "Nightmare of Decay (демо)", "start": "2:09:44" },
         { "name": "Out of Sight (демо)", "start": "3:52:10" },
         { "name": "HandCop", "start": "4:58:18" }
       ] },
@@ -3402,6 +3403,15 @@
         { "name": "Despair: Blood Curse (демо)", "start": "3:58:21" }
       ] },
       { "name": "Maleficium (демо)", "twitch": "1510865681", "start": "3:49:37" }
+    ]
+  },
+  {
+    "name": "Nightmare of Decay",
+    "category": "finished",
+    "id": "nightmare-of-decay",
+    "streams": [
+      { "name": "Демо", "twitch": "1445142982", "start": "2:09:44" },
+      { "name": "Прохождение", "twitch": "1511822666", "start": "33:54" }
     ]
   },
   {
