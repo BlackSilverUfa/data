@@ -3370,10 +3370,7 @@
         { "name": "Arachnophobia (заново)", "start": "4:33:36", "hidden": true },
         { "name": "Film Morbid", "start": "4:47:52" }
       ] },
-      { "twitch": "1312161316", "subrefs": [
-        { "name": "Sniper Elite 5" },
-        { "name": "V Rising", "start": "5:27:17" }
-      ] },
+      { "name": "Sniper Elite 5", "twitch": "1312161316", "start": "1:58:58" },
       { "name": "Destroy All Humans! 2: Reprobed", "twitch": "1314842666", "start": "3:39:56" },
       { "twitch": "1315723249", "subrefs": [
         { "name": "Police Shootout" },
@@ -3404,6 +3401,15 @@
         { "name": "Despair: Blood Curse (демо)", "start": "3:58:21" }
       ] },
       { "name": "Maleficium (демо)", "twitch": "1510865681", "start": "3:49:37" }
+    ]
+  },
+  {
+    "name": "V Rising",
+    "category": "ongoing",
+    "id": "v-rising",
+    "streams": [
+      { "name": "1", "twitch": "1312161316", "start": "5:27:17" },
+      { "name": "2 (с Дашей и Джеком)", "twitch": "1516411053", "start": "15:41" }
     ]
   },
   {
