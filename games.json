@@ -1996,7 +1996,6 @@
       { "name": "Samhainophobia", "twitch": "1218281049,1218409784", "start": "5:25:36" },
       { "name": "Invitationem", "twitch": "1222726196", "start": "3:53:28" },
       { "name": "Decrypt", "twitch": "1224807350", "start": "4:41:51" },
-      { "name": "Fobia - St. Dinfna Hotel (демо)", "twitch": "1239503220", "start": "3:04:02" },
       { "name": "CorpseOcean", "twitch": "1241348243", "start": "2:33:14" },
       { "twitch": "1243862269", "subrefs": [
         { "name": "9 Childs St (демо)" },
@@ -2085,6 +2084,15 @@
       ] },
       { "name": "Escape PS1 Hagrid", "twitch": "1511822666", "start": "10:18" },
       { "name": "Deliver Us The Moon", "twitch": "1515525236", "start": "26:43" }
+    ]
+  },
+  {
+    "name": "Fobia - St. Dinfna Hotel",
+    "category": "ongoing",
+    "id": "fobia",
+    "streams": [
+      { "name": "Демо", "twitch": "1239503220", "start": "3:04:02" },
+      { "name": "1", "twitch": "1517449364", "start": "41:57" }
     ]
   },
   {
