@@ -6330,7 +6330,20 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "name": "Cuphead", "twitch": "1520246163", "start": "28:32" }
+      { "name": "Cuphead", "twitch": "1520246163", "start": "28:32" },
+      { "twitch": "1521217271", "subrefs": [
+        { "name": "Sail-by Salute", "start": "16:09" },
+        { "name": "The Floor is Breathing", "start": "1:11:05" },
+        { "name": "Toilet Chronicles", "start": "1:34:53" },
+        { "name": "Last Bus Home", "start": "2:02:00" },
+        { "name": "Cold House", "start": "2:18:12" },
+        { "name": "Loathful", "start": "3:31:50" },
+        { "name": "The Other Side", "start": "3:48:04" },
+        { "name": "Perfect Vermin", "start": "4:11:29" },
+        { "name": "Lost Life: Origins", "start": "4:32:50" },
+        { "name": "The Crypt Terror", "start": "5:15:24" },
+        { "name": "Penitence", "start": "5:21:37" }
+      ] }
     ]
   }
 ]
