@@ -6343,6 +6343,11 @@
         { "name": "Lost Life: Origins", "start": "4:32:50" },
         { "name": "The Crypt Terror", "start": "5:15:24" },
         { "name": "Penitence", "start": "5:21:37" }
+      ] },
+      { "twitch": "1522102243", "subrefs": [
+        { "name": "Xena: Warrior Princess", "start": "31:07" },
+        { "name": "Spider-Man 2: Enter Electro", "start": "2:46:26" },
+        { "name": "Barbie: Explorer", "start": "5:11:15" }
       ] }
     ]
   }
