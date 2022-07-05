@@ -6330,7 +6330,7 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "name": "Cuphead", "twitch": "1520246163", "start": "28:32" },
+      { "name": "Cuphead #1", "twitch": "1520246163", "start": "28:32" },
       { "twitch": "1521217271", "subrefs": [
         { "name": "Sail-by Salute", "start": "16:09" },
         { "name": "The Floor is Breathing", "start": "1:11:05" },
@@ -6348,6 +6348,10 @@
         { "name": "Xena: Warrior Princess", "start": "31:07" },
         { "name": "Spider-Man 2: Enter Electro", "start": "2:46:26" },
         { "name": "Barbie: Explorer", "start": "5:11:15" }
+      ] },
+      { "twitch": "1522945141", "subrefs": [
+        { "name": "Cuphead #2", "start": "7:35" },
+        { "name": "Cuphead: The Delicious Last Course", "start": "5:42:11" }
       ] }
     ]
   }
