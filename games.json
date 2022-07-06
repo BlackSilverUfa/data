@@ -6329,6 +6329,7 @@
     "name": "Не размечено",
     "category": "other",
     "id": "todo",
+    "type": "list",
     "streams": [
       { "name": "Cuphead #1", "twitch": "1520246163", "start": "28:32" },
       { "twitch": "1521217271", "subrefs": [
