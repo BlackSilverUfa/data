@@ -2652,6 +2652,7 @@
     "type": "list",
     "id": "first-2016",
     "streams": [
+      { "name": "Freelancer", "twitch": "001603300" },
       { "name": "Deus Ex: Human Revolution - Director's Cut", "twitch": "001607210" },
       { "name": "Titanfall 2", "twitch": "001610280" },
       { "name": "Assassin's Creed II - The Ezio Collection", "twitch": "001611160" },
