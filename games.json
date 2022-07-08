@@ -6329,8 +6329,8 @@
   {
     "name": "Не размечено",
     "category": "other",
-    "id": "todo",
     "type": "list",
+    "id": "todo",
     "streams": [
       { "name": "Cuphead #1", "twitch": "1520246163", "start": "28:32" },
       { "twitch": "1521217271", "subrefs": [
@@ -6354,7 +6354,8 @@
       { "twitch": "1522945141", "subrefs": [
         { "name": "Cuphead #2", "start": "7:35" },
         { "name": "Cuphead: The Delicious Last Course", "start": "5:42:11" }
-      ] }
+      ] },
+      { "name": "Madison", "twitch": "1525875843", "start": "59:24" }
     ]
   }
 ]
