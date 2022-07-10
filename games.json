@@ -6355,8 +6355,12 @@
         { "name": "Cuphead #2", "start": "7:35" },
         { "name": "Cuphead: The Delicious Last Course", "start": "5:42:11" }
       ] },
-      { "name": "Madison", "twitch": "1525875843", "start": "59:24" },
-      { "name": "Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди)", "twitch": "1526818509", "start": "18:28" }
+      { "name": "Madison #1", "twitch": "1525875843", "start": "59:24" },
+      { "name": "Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди) #1", "twitch": "1526818509", "start": "18:28" },
+      { "twitch": "1527725425", "subrefs": [
+        { "name": "Madison #2", "start": "14:57" },
+        { "name": "Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди) #2", "start": "1:49:21" }
+      ] }
     ]
   }
 ]
