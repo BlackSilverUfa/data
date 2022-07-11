@@ -6360,6 +6360,10 @@
       { "twitch": "1527725425", "subrefs": [
         { "name": "Madison #2", "start": "14:57" },
         { "name": "Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди) #2", "start": "1:49:21" }
+      ] },
+      { "twitch": "1528664321", "subrefs": [
+        { "name": "Fighting Force", "start": "34:03" },
+        { "name": "Broken Sword: Shadow of the Templars - The Director's Cut", "start": "2:59:36" }
       ] }
     ]
   }
