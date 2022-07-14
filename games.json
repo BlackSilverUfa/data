@@ -6369,7 +6369,8 @@
       { "twitch": "1530567140", "subrefs": [
         { "name": "Fall Guys", "start": "48:38" },
         { "name": "I'm on Observation Duty 5", "start": "3:32:06" }
-      ] }
+      ] },
+      { "name": "Bayonetta", "twitch": "1531483751" }
     ]
   }
 ]
