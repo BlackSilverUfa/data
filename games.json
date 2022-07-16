@@ -6370,7 +6370,12 @@
         { "name": "Fall Guys", "start": "48:38" },
         { "name": "I'm on Observation Duty 5", "start": "3:32:06" }
       ] },
-      { "name": "Bayonetta", "twitch": "1531483751" }
+      { "name": "Bayonetta", "twitch": "1531483751" },
+      { "twitch": "1533471620", "subrefs": [
+        { "name": "DEVOUR", "start": "12:24" },
+        { "name": "Occult", "start": "2:55:57" },
+        { "name": "Tricky Towers", "start": "4:27:30" }
+      ] }
     ]
   }
 ]
