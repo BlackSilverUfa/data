@@ -6375,6 +6375,10 @@
         { "name": "DEVOUR", "start": "12:24" },
         { "name": "Occult", "start": "2:55:57" },
         { "name": "Tricky Towers", "start": "4:27:30" }
+      ] },
+      { "twitch": "1534414628", "subrefs": [
+        { "name": "Russian Subway Dogs", "start": "1:17:52" },
+        { "name": "Forewarned", "start": "1:45:59" }
       ] }
     ]
   }
