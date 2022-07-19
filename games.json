@@ -6379,7 +6379,8 @@
       { "twitch": "1534414628", "subrefs": [
         { "name": "Russian Subway Dogs", "start": "1:17:52" },
         { "name": "Forewarned (прервано)", "start": "1:45:59" }
-      ] }
+      ] },
+      { "name": "Stray", "twitch": "1536251230" }
     ]
   }
 ]
