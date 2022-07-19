@@ -6380,8 +6380,7 @@
         { "name": "Russian Subway Dogs", "start": "1:17:52" },
         { "name": "Forewarned (прервано)", "start": "1:45:59" }
       ] },
-      { "name": "Stray #1", "twitch": "1536251230" },
-      { "name": "Stray #2", "twitch": "1536294843" }
+      { "name": "Stray", "twitch": "1536251230,1536294843" }
     ]
   }
 ]
