@@ -1358,10 +1358,7 @@
   "700057034": { "youtube": "GyIX9TxIK5g", "official": false },
   "719986899": { "youtube": "PdRg77uEjK0", "official": false },
   "720973722": { "youtube": "sQsWjajTE9k", "official": false },
-  "721969297": [
-    { "youtube": "ivvpyAj8KYo", "official": false },
-    { "offset": "1:59:53" }
-  ],
+  "721969297": {  },
   "723011325": { "youtube": "Zieo4ovQjLA", "official": false },
   "725080998": { "youtube": "J_uazlzyEW4", "official": false },
   "726104659": { "youtube": "d87CqT9S4ww", "official": false },
