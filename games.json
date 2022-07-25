@@ -6367,7 +6367,7 @@
       ] },
       { "name": "Cuphead #3", "twitch": "1529607663", "start": "52:28" },
       { "twitch": "1530567140", "subrefs": [
-        { "name": "Fall Guys", "start": "48:38" },
+        { "name": "Fall Guys #1", "start": "48:38" },
         { "name": "I'm on Observation Duty 5", "start": "3:32:06" }
       ] },
       { "name": "Bayonetta", "twitch": "1531483751" },
@@ -6381,7 +6381,12 @@
         { "name": "Forewarned (прервано)", "start": "1:45:59" }
       ] },
       { "name": "Stray", "twitch": "1536251230,1536294843" },
-      { "name": "As Dusk Falls", "twitch": "1537269313" }
+      { "name": "As Dusk Falls", "twitch": "1537269313" },
+      { "twitch": "1542254440", "subrefs": [
+        { "name": "Granny: Chapter Two", "start": "34:12" },
+        { "name": "Peepo Island", "start": "1:29:19" },
+        { "name": "Fall Guys #2", "start": "3:42:38" }
+      ] }
     ]
   }
 ]
