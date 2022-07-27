@@ -6382,6 +6382,7 @@
       ] },
       { "name": "Stray", "twitch": "1536251230,1536294843" },
       { "name": "As Dusk Falls", "twitch": "1537269313" },
+      { "name": "Трейлеры", "twitch": "1541455295", "start": "42:56" },
       { "twitch": "1542254440", "subrefs": [
         { "name": "Granny: Chapter Two", "start": "34:12" },
         { "name": "Peepo Island", "start": "1:29:19" },
@@ -6390,9 +6391,8 @@
       { "twitch": "1543244527", "subrefs": [
         { "name": "Road Rash" },
         { "name": "Contra: Hard Corps", "start": "2:15:15" },
-        { "name": "Road Rash", "start": "4:01:53" }
-      ] },
-      { "name": "Трейлеры", "twitch": "1541455295", "start": "42:56" }
+        { "name": "Road Rash (продолжение)", "start": "4:01:53", "hidden": true }
+      ] }
     ]
   }
 ]
