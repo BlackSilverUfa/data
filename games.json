@@ -6382,7 +6382,7 @@
       ] },
       { "name": "Stray", "twitch": "1536251230,1536294843" },
       { "name": "As Dusk Falls", "twitch": "1537269313" },
-      { "name": "Трейлеры", "twitch": "1541455295", "start": "42:56" },
+      { "name": "Трейлеры #1", "twitch": "1541455295", "start": "42:56" },
       { "twitch": "1542254440", "subrefs": [
         { "name": "Granny: Chapter Two", "start": "34:12" },
         { "name": "Peepo Island #1", "start": "1:29:19" },
@@ -6427,7 +6427,13 @@
         { "name": "One Last Breath", "start": "4:34:44" },
         { "name": "Iron Lung", "start": "5:02:41" }
       ] },
-      { "name": "The Mortuary Assistant", "twitch": "1550107736", "start": "17:02" }
+      { "name": "The Mortuary Assistant #1", "twitch": "1550107736", "start": "17:02" },
+      { "twitch": "1551976425", "subrefs": [
+        { "name": "Peepo Island #5", "start": "15:02" },
+        { "name": "The Mortuary Assistant #2", "start": "51:14" },
+        { "name": "Трейлеры #2", "start": "5:45:21" },
+        { "name": "Outbreak: Shades of Horror", "start": "5:54:27" }
+      ] }
     ]
   }
 ]
