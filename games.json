@@ -6433,6 +6433,11 @@
         { "name": "The Mortuary Assistant #2", "start": "51:14" },
         { "name": "Трейлеры #2", "start": "5:45:21" },
         { "name": "Outbreak: Shades of Horror", "start": "5:54:27" }
+      ] },
+      { "twitch": "1552996641", "subrefs": [
+        { "name": "Mortal Kombat", "start": "45:40" },
+        { "name": "Michael Jackson's Moonwalker", "start": "2:02:52" },
+        { "name": "Goofy's Hysterical History Tour", "start": "3:17:09" }
       ] }
     ]
   }
