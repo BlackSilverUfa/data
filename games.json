@@ -6448,6 +6448,10 @@
         { "name": "Signal", "start": "4:57:01" },
         { "name": "The Island Mystery", "start": "5:26:07" },
         { "name": "Endless days", "start": "5:33:22" }
+      ] },
+      { "twitch": "1555820842", "subrefs": [
+        { "name": "Serious Duke 3D", "start": "8:42" },
+        { "name": "We Were Here Forever", "start": "2:33:51" }
       ] }
     ]
   }
