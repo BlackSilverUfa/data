@@ -2083,7 +2083,18 @@
         { "name": "Twelve Floors Below.", "start": "5:12:11" }
       ] },
       { "name": "Escape PS1 Hagrid", "twitch": "1511822666", "start": "10:18" },
-      { "name": "Deliver Us The Moon", "twitch": "1515525236", "start": "26:43" }
+      { "name": "Deliver Us The Moon", "twitch": "1515525236", "start": "26:43" },
+      { "twitch": "1521217271", "subrefs": [
+        { "name": "Sail-by Salute", "start": "15:56" },
+        { "name": "The Floor is Breathing", "start": "1:09:51" },
+        { "name": "Toilet Chronicles (демо)", "start": "1:35:20" },
+        { "name": "Last Bus Home", "start": "2:02:00" },
+        { "name": "Loathful", "start": "3:24:42" },
+        { "name": "The Other Side", "start": "3:48:50" },
+        { "name": "Perfect Vermin", "start": "4:11:59" },
+        { "name": "The Crypt Terror", "start": "5:13:25" },
+        { "name": "Penitence", "start": "5:21:58" }
+      ] }
     ]
   },
   {
@@ -3423,7 +3434,11 @@
         { "name": "Andy's Apple Farm (демо)", "start": "3:25:15" },
         { "name": "Despair: Blood Curse (демо)", "start": "3:58:21" }
       ] },
-      { "name": "Maleficium (демо)", "twitch": "1510865681", "start": "3:49:37" }
+      { "name": "Maleficium (демо)", "twitch": "1510865681", "start": "3:49:37" },
+      { "twitch": "1521217271", "subrefs": [
+        { "name": "Cold House", "start": "2:18:38" },
+        { "name": "Lost Life: Origins", "start": "4:33:08" }
+      ] }
     ]
   },
   {
@@ -6345,19 +6360,6 @@
     "type": "list",
     "id": "todo",
     "streams": [
-      { "twitch": "1521217271", "subrefs": [
-        { "name": "Sail-by Salute", "start": "16:09" },
-        { "name": "The Floor is Breathing", "start": "1:11:05" },
-        { "name": "Toilet Chronicles", "start": "1:34:53" },
-        { "name": "Last Bus Home", "start": "2:02:00" },
-        { "name": "Cold House", "start": "2:18:12" },
-        { "name": "Loathful", "start": "3:31:50" },
-        { "name": "The Other Side", "start": "3:48:04" },
-        { "name": "Perfect Vermin", "start": "4:11:29" },
-        { "name": "Lost Life: Origins", "start": "4:32:50" },
-        { "name": "The Crypt Terror", "start": "5:15:24" },
-        { "name": "Penitence", "start": "5:21:37" }
-      ] },
       { "twitch": "1522102243", "subrefs": [
         { "name": "Xena: Warrior Princess", "start": "31:07" },
         { "name": "Spider-Man 2: Enter Electro", "start": "2:46:26" },
