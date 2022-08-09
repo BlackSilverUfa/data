@@ -133,7 +133,6 @@
     "note": "Запись предоставил Олег Степанов (<a href=\"https://vk.com/video87862793_456239639\">1</a>, <a href=\"https://vk.com/video87862793_456239640\">2</a>)."
   },
   "001610100": {
-    "youtube": "aMzB3OqCJg4", "official": false,
     "note": "Запись предоставил <a href=\"https://vk.com/87862793_456239644\">Олег Степанов</a>."
   },
   "001610190": { "youtube": "oNLtsEHanPQ", "official": false },
@@ -493,7 +492,6 @@
   "276606545": { "youtube": "k39gOXGsXUY", "offset": "-0:04" },
   "276648637": { "youtube": "nK2ZyvR2tyQ", "offset": "-0:03" },
   "277001302": {
-    "youtube": "IP3xa6iBtV4", "official": false,
     "note": "Официальная запись <a href=\"https://vk.com/b_silver?w=wall-28387068_3245650\">заблокирована</a>."
   },
   "277440900": { "youtube": "WI-mcZ3EJeI", "offset": "-0:04" },
@@ -1725,7 +1723,7 @@
   },
   "1096585533": { "youtube": "w9UQFuMiblg" },
   "1098539430": { "youtube": "DVHByDYYuTc" },
-  "1099599998": { "youtube": "FRvhM1JKmKo", "official": false },
+  "1099599998": {  },
   "1100650264": { "youtube": "CaRwWaZJj4M" },
   "1101797325": { "youtube": "85y0_yhYJAc" },
   "1102702263": {
