@@ -3438,6 +3438,11 @@
       { "twitch": "1521217271", "subrefs": [
         { "name": "Cold House", "start": "2:18:38" },
         { "name": "Lost Life: Origins", "start": "4:33:08" }
+      ] },
+      { "twitch": "1522102243", "subrefs": [
+        { "name": "Xena: Warrior Princess", "start": "31:55" },
+        { "name": "Spider-Man 2: Enter Electro", "start": "2:50:23" },
+        { "name": "Barbie: Explorer", "start": "5:11:55" }
       ] }
     ]
   },
@@ -6360,11 +6365,6 @@
     "type": "list",
     "id": "todo",
     "streams": [
-      { "twitch": "1522102243", "subrefs": [
-        { "name": "Xena: Warrior Princess", "start": "31:07" },
-        { "name": "Spider-Man 2: Enter Electro", "start": "2:46:26" },
-        { "name": "Barbie: Explorer", "start": "5:11:15" }
-      ] },
       { "name": "Madison #1", "twitch": "1525875843", "start": "59:24" },
       { "name": "Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди) #1", "twitch": "1526818509", "start": "18:28" },
       { "twitch": "1527725425", "subrefs": [
