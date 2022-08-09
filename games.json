@@ -2681,7 +2681,6 @@
       { "name": "The Legend of Zelda: Twilight Princess HD", "twitch": "163612448" },
       { "name": "Divinity: Original Sin II", "twitch": "175198877" },
       { "name": "Home Sweet Home", "twitch": "178108639" },
-      { "name": "Cuphead", "twitch": "178361269" },
       { "twitch": "180397849", "subrefs": [
         { "name": "Road Redemption" },
         { "name": "Battle Chasers", "start": "1:16:16" }
@@ -2692,6 +2691,20 @@
         { "name": "Lone Survivor", "start": "2:52:00" }
       ] },
       { "name": "Stifled", "twitch": "212678883" }
+    ]
+  },
+  {
+    "name": "Cuphead",
+    "category": "finished",
+    "id": "cuphead",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "178361269" },
+      { "name": "1", "twitch": "1520246163", "start": "13:15" },
+      { "twitch": "1522945141", "subrefs": [
+        { "name": "2", "start": "8:14" },
+        { "name": "The Delicious Last Course #1", "start": "5:46:23" }
+      ] },
+      { "name": "The Delicious Last Course #2", "twitch": "1529607663", "start": "53:19" }
     ]
   },
   {
@@ -6332,7 +6345,6 @@
     "type": "list",
     "id": "todo",
     "streams": [
-      { "name": "Cuphead #1", "twitch": "1520246163", "start": "28:32" },
       { "twitch": "1521217271", "subrefs": [
         { "name": "Sail-by Salute", "start": "16:09" },
         { "name": "The Floor is Breathing", "start": "1:11:05" },
@@ -6351,10 +6363,6 @@
         { "name": "Spider-Man 2: Enter Electro", "start": "2:46:26" },
         { "name": "Barbie: Explorer", "start": "5:11:15" }
       ] },
-      { "twitch": "1522945141", "subrefs": [
-        { "name": "Cuphead #2", "start": "7:35" },
-        { "name": "Cuphead: The Delicious Last Course", "start": "5:42:11" }
-      ] },
       { "name": "Madison #1", "twitch": "1525875843", "start": "59:24" },
       { "name": "Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди) #1", "twitch": "1526818509", "start": "18:28" },
       { "twitch": "1527725425", "subrefs": [
@@ -6365,7 +6373,6 @@
         { "name": "Fighting Force", "start": "34:03" },
         { "name": "Broken Sword: Shadow of the Templars - The Director's Cut", "start": "2:59:36" }
       ] },
-      { "name": "Cuphead #3", "twitch": "1529607663", "start": "52:28" },
       { "twitch": "1530567140", "subrefs": [
         { "name": "Fall Guys #1", "start": "48:38" },
         { "name": "I'm on Observation Duty 5", "start": "3:32:06" }
