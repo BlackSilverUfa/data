@@ -3443,7 +3443,16 @@
         { "name": "Xena: Warrior Princess", "start": "31:55" },
         { "name": "Spider-Man 2: Enter Electro", "start": "2:50:23" },
         { "name": "Barbie: Explorer", "start": "5:11:55" }
-      ] }
+      ] },
+      { "name": "SCP: Fractured Minds (демо)", "twitch": "1557831331", "start": "44:00" }
+    ]
+  },
+  {
+    "name": "Peepo Island",
+    "category": "ongoing",
+    "id": "peepo-island",
+    "streams": [
+      { "name": "6", "twitch": "1557831331", "start": "1:59:09" }
     ]
   },
   {
