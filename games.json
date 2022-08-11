@@ -2094,6 +2094,10 @@
         { "name": "Perfect Vermin", "start": "4:11:59" },
         { "name": "The Crypt Terror", "start": "5:13:25" },
         { "name": "Penitence", "start": "5:21:58" }
+      ] },
+      { "twitch": "1558782985", "subrefs": [
+        { "name": "Iron Lung", "start": "28:33" },
+        { "name": "From The Darkness", "start": "1:27:19" }
       ] }
     ]
   },
@@ -3420,7 +3424,6 @@
       ] },
       { "twitch": "1502569152", "subrefs": [
         { "name": "SCP: Secret Files (демо)", "start": "1:46:32" },
-        { "name": "Cult of the Lamb (демо)", "start": "2:59:02" },
         { "name": "Anger Foot", "start": "3:38:21" },
         { "name": "The Fridge Is Red (демо)", "start": "4:00:41" },
         { "name": "Sker Ritual (демо)", "start": "4:49:28" },
@@ -3445,6 +3448,15 @@
         { "name": "Barbie: Explorer", "start": "5:11:55" }
       ] },
       { "name": "SCP: Fractured Minds (демо)", "twitch": "1557831331", "start": "44:00" }
+    ]
+  },
+  {
+    "name": "Cult of the Lamb",
+    "category": "ongoing",
+    "id": "cult-ot-lamb",
+    "streams": [
+      { "name": "Демо", "twitch": "1502569152", "start": "2:59:02" },
+      { "name": "1", "twitch": "1558782985", "start": "3:14:04" }
     ]
   },
   {
@@ -3909,7 +3921,8 @@
         { "name": "Часть 3", "start": "5:26:49" }
       ] },
       { "name": "Часть 4 #1", "twitch": "1258121391", "start": "5:14:33" },
-      { "name": "Часть 4 #2", "twitch": "1262176650", "start": "6:15:22" }
+      { "name": "Часть 4 #2", "twitch": "1262176650", "start": "6:15:22" },
+      { "name": "Часть 5 #2", "twitch": "1558782985", "start": "2:51:39" }
     ]
   },
   {
