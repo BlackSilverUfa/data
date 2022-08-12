@@ -2095,10 +2095,15 @@
         { "name": "The Crypt Terror", "start": "5:13:25" },
         { "name": "Penitence", "start": "5:21:58" }
       ] },
-      { "twitch": "1558782985", "subrefs": [
-        { "name": "Iron Lung", "start": "28:33" },
-        { "name": "From The Darkness", "start": "1:27:19" }
-      ] }
+      { "name": "From The Darkness", "twitch": "1558782985", "start": "1:27:19" }
+    ]
+  },
+  {
+    "name": "Iron Lung",
+    "category": "finished",
+    "id": "iron-lung",
+    "streams": [
+      { "name": "2", "twitch": "1558782985", "start": "28:33" }
     ]
   },
   {
@@ -3444,10 +3449,23 @@
       ] },
       { "twitch": "1522102243", "subrefs": [
         { "name": "Xena: Warrior Princess", "start": "31:55" },
-        { "name": "Spider-Man 2: Enter Electro", "start": "2:50:23" },
-        { "name": "Barbie: Explorer", "start": "5:11:55" }
+        { "name": "Spider-Man 2: Enter Electro", "start": "2:50:23" }
       ] },
-      { "name": "SCP: Fractured Minds (демо)", "twitch": "1557831331", "start": "44:00" }
+      { "name": "SCP: Fractured Minds (демо)", "twitch": "1557831331", "start": "44:00" },
+      { "twitch": "1559742064", "subrefs": [
+        { "name": "Twisted Metal: Small Brawl", "start": "1:50:55" },
+        { "name": "Hercules", "start": "3:09:17" },
+        { "name": "Chessmaster II", "start": "4:25:50" }
+      ] }
+    ]
+  },
+  {
+    "name": "Barbie: Explorer",
+    "category": "ongoing",
+    "id": "barbie-explorer",
+    "streams": [
+      { "name": "1", "twitch": "1522102243", "start": "5:11:55" },
+      { "name": "2", "twitch": "1559742064", "start": "34:34" }
     ]
   },
   {
