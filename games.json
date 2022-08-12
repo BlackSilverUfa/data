@@ -2095,7 +2095,8 @@
         { "name": "The Crypt Terror", "start": "5:13:25" },
         { "name": "Penitence", "start": "5:21:58" }
       ] },
-      { "name": "From The Darkness", "twitch": "1558782985", "start": "1:27:19" }
+      { "name": "From The Darkness", "twitch": "1558782985", "start": "1:27:19" },
+      { "name": "Stray", "twitch": "1536251230,1536294843", "start": "6:54" }
     ]
   },
   {
@@ -6429,7 +6430,6 @@
         { "name": "Russian Subway Dogs", "start": "1:17:52" },
         { "name": "Forewarned (прервано)", "start": "1:45:59" }
       ] },
-      { "name": "Stray", "twitch": "1536251230,1536294843" },
       { "name": "As Dusk Falls", "twitch": "1537269313" },
       { "name": "Трейлеры #1", "twitch": "1541455295", "start": "42:56" },
       { "twitch": "1542254440", "subrefs": [
