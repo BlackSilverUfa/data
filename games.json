@@ -6423,17 +6423,29 @@
     ]
   },
   {
+    "name": "MADiSON",
+    "category": "finished",
+    "id": "madison",
+    "streams": [
+      { "name": "1", "twitch": "1525875843", "start": "59:54" },
+      { "name": "2", "twitch": "1527725425", "start": "14:24" }
+    ]
+  },
+  {
+    "name": "Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди)",
+    "category": "finished",
+    "id": "nancy-drew-dbd",
+    "streams": [
+      { "name": "1", "twitch": "1526818509", "start": "11:50" },
+      { "name": "2", "twitch": "1527725425", "start": "1:50:03" }
+    ]
+  },
+  {
     "name": "Не размечено",
     "category": "other",
     "type": "list",
     "id": "todo",
     "streams": [
-      { "name": "Madison #1", "twitch": "1525875843", "start": "59:24" },
-      { "name": "Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди) #1", "twitch": "1526818509", "start": "18:28" },
-      { "twitch": "1527725425", "subrefs": [
-        { "name": "Madison #2", "start": "14:57" },
-        { "name": "Nancy Drew: Danger by Design (Нэнси Дрю. Платье для первой леди) #2", "start": "1:49:21" }
-      ] },
       { "twitch": "1528664321", "subrefs": [
         { "name": "Fighting Force", "start": "34:03" },
         { "name": "Broken Sword: Shadow of the Templars - The Director's Cut", "start": "2:59:36" }
