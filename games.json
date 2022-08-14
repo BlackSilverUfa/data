@@ -2096,7 +2096,17 @@
         { "name": "Penitence", "start": "5:21:58" }
       ] },
       { "name": "From The Darkness", "twitch": "1558782985", "start": "1:27:19" },
-      { "name": "Stray", "twitch": "1536251230,1536294843", "start": "6:54" }
+      { "name": "Stray", "twitch": "1536251230,1536294843", "start": "6:54" },
+      { "twitch": "1561677559", "subrefs": [
+        { "name": "The Nameless (демо)", "start": "30:20" },
+        { "name": "ROMUT", "start": "52:42" },
+        { "name": "Another Princess is in Our Castle (демо)", "start": "1:06:08" },
+        { "name": "Home", "start": "3:11:21" },
+        { "name": "Luggage", "start": "3:50:55" },
+        { "name": "Soles' Quay", "start": "4:03:50" },
+        { "name": "There is a Man in the Attic", "start": "4:25:19" },
+        { "name": "The Hole in the Car", "start": "4:35:22" }
+      ] }
     ]
   },
   {
@@ -3391,10 +3401,7 @@
         { "name": "Light: Black Cat & Amnesia Girl (демо)", "start": "3:58:12" }
       ] },
       { "name": "Calling", "twitch": "1457678185", "start": "2:40:07" },
-      { "twitch": "1458654778", "subrefs": [
-        { "name": "The Backrooms: Survival" },
-        { "name": "SCP: Nukalypse", "start": "1:41:19" }
-      ] },
+      { "name": "The Backrooms: Survival", "twitch": "1458654778", "start": "23:06" },
       { "twitch": "1465565528", "subrefs": [
         { "name": "Forgive Me Father" },
         { "name": "Golden Light", "start": "55:34" },
@@ -3458,7 +3465,21 @@
         { "name": "Hercules", "start": "3:09:17" },
         { "name": "Chessmaster II", "start": "4:25:50" }
       ] },
-      { "name": "The Hobbit", "twitch": "1560730593", "start": "52:24" }
+      { "name": "The Hobbit", "twitch": "1560730593", "start": "52:24" },
+      { "twitch": "1561677559", "subrefs": [
+        { "name": "Dinner With Strangers (демо)", "start": "1:29:14" },
+        { "name": "Dread X Collection: The Hunt", "start": "1:45:36" },
+        { "name": "The Polaroid Killer", "start": "4:19:10" }
+      ] }
+    ]
+  },
+  {
+    "name": "SCP: Nukalypse",
+    "category": "infinite",
+    "id": "scp-nukalypse",
+    "streams": [
+      { "name": "1", "twitch": "1458654778", "start": "1:41:19" },
+      { "name": "2", "twitch": "1458654778", "start": "3:37:12" }
     ]
   },
   {
