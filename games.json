@@ -392,10 +392,18 @@
       ] },
       { "name": "Apex Legends", "twitch": "1194875760" },
       { "name": "Farming Simulator 22", "twitch": "1212756532", "start": "3:57:57" },
-      { "name": "Forewarned (с Куплиновым и Дангаром)", "twitch": "1223700316", "start": "3:17:30" },
       { "name": "Heavenly Bodies", "twitch": "1230440174", "start": "4:06:14" },
       { "name": "Monster Hunter Rise", "twitch": "1261173013", "start": "2:57:07" },
       { "name": "Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)", "twitch": "1269805961", "start": "4:57:07" }
+    ]
+  },
+  {
+    "name": "Forewarned (с Куплиновым и Дангаром)",
+    "category": "co-op",
+    "id": "forewarned",
+    "streams": [
+      { "name": "1", "twitch": "1223700316", "start": "3:17:30" },
+      { "name": "2 (прервано)", "twitch": "1534414628", "start": "1:56:30" }
     ]
   },
   {
@@ -708,7 +716,8 @@
       { "name": "11 (соло)", "twitch": "771021424" },
       { "name": "12 (соло)", "twitch": "839294640" },
       { "name": "13 (соло)", "twitch": "870760177", "start": "2:09:23" },
-      { "name": "14 (с чатом)", "twitch": "1222726196" }
+      { "name": "14 (с чатом)", "twitch": "1222726196" },
+      { "name": "15 (с чатом)", "twitch": "1530567140", "start": "45:53" }
     ]
   },
   {
@@ -3459,6 +3468,12 @@
         { "name": "Xena: Warrior Princess", "start": "31:55" },
         { "name": "Spider-Man 2: Enter Electro", "start": "2:50:23" }
       ] },
+      { "twitch": "1528664321", "subrefs": [
+        { "name": "Fighting Force", "start": "34:06" },
+        { "name": "Broken Sword: Shadow of the Templars", "start": "3:00:09" }
+      ] },
+      { "name": "Bayonetta", "twitch": "1531483751", "start": "11:53" },
+      { "name": "Russian Subway Dogs", "twitch": "1534414628", "start": "1:18:11" },
       { "name": "SCP: Fractured Minds (демо)", "twitch": "1557831331", "start": "44:00" },
       { "twitch": "1559742064", "subrefs": [
         { "name": "Twisted Metal: Small Brawl", "start": "1:50:55" },
@@ -3963,6 +3978,7 @@
       ] },
       { "name": "Часть 4 #1", "twitch": "1258121391", "start": "5:14:33" },
       { "name": "Часть 4 #2", "twitch": "1262176650", "start": "6:15:22" },
+      { "name": "Часть 5 #1", "twitch": "1530567140", "start": "3:30:10" },
       { "name": "Часть 5 #2", "twitch": "1558782985", "start": "2:51:39" }
     ]
   },
@@ -6446,23 +6462,10 @@
     "type": "list",
     "id": "todo",
     "streams": [
-      { "twitch": "1528664321", "subrefs": [
-        { "name": "Fighting Force", "start": "34:03" },
-        { "name": "Broken Sword: Shadow of the Templars - The Director's Cut", "start": "2:59:36" }
-      ] },
-      { "twitch": "1530567140", "subrefs": [
-        { "name": "Fall Guys #1", "start": "48:38" },
-        { "name": "I'm on Observation Duty 5", "start": "3:32:06" }
-      ] },
-      { "name": "Bayonetta", "twitch": "1531483751" },
       { "twitch": "1533471620", "subrefs": [
         { "name": "DEVOUR", "start": "12:24" },
         { "name": "Occult", "start": "2:55:57" },
         { "name": "Tricky Towers", "start": "4:27:30" }
-      ] },
-      { "twitch": "1534414628", "subrefs": [
-        { "name": "Russian Subway Dogs", "start": "1:17:52" },
-        { "name": "Forewarned (прервано)", "start": "1:45:59" }
       ] },
       { "name": "As Dusk Falls", "twitch": "1537269313" },
       { "name": "Трейлеры #1", "twitch": "1541455295", "start": "42:56" },
