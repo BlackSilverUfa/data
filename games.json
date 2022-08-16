@@ -1960,10 +1960,7 @@
         { "name": "SCP-1437: A Hole to Another Place", "start": "1:16:52" }
       ] },
       { "name": "Remothered: Broken Porcelain", "twitch": "860924750", "start": "2:54:07" },
-      { "twitch": "869571796", "subrefs": [
-        { "name": "Noch (демо)" },
-        { "name": "Dom Rusalok", "start": "2:17:12" }
-      ] },
+      { "name": "Dom Rusalok", "twitch": "869571796", "start": "2:17:12" },
       { "name": "The Medium", "twitch": "891206240" },
       { "name": "NUTS", "twitch": "901835689", "start": "2:43:48" },
       { "name": "Narita Boy (демо)", "twitch": "905895866", "start": "3:25:42" },
@@ -3133,7 +3130,8 @@
     "id": "monstrum-2",
     "streams": [
       { "name": "Ранний доступ", "twitch": "892529745" },
-      { "name": "Релиз", "twitch": "1227570391", "segment": 0 }
+      { "name": "1", "twitch": "1227570391", "segment": 0, "start": "1:46:35" },
+      { "name": "2", "twitch": "1563545448", "start": "5:10:03" }
     ]
   },
   {
@@ -3485,6 +3483,10 @@
         { "name": "Dinner With Strangers (демо)", "start": "1:29:14" },
         { "name": "Dread X Collection: The Hunt", "start": "1:45:36" },
         { "name": "The Polaroid Killer", "start": "4:19:10" }
+      ] },
+      { "twitch": "1563545448", "subrefs": [
+        { "name": "Self-Delusion", "start": "26:04" },
+        { "name": "Escape the Backrooms", "start": "2:54:46" }
       ] }
     ]
   },
@@ -6454,6 +6456,15 @@
     "streams": [
       { "name": "1", "twitch": "1526818509", "start": "11:50" },
       { "name": "2", "twitch": "1527725425", "start": "1:50:03" }
+    ]
+  },
+  {
+    "name": "Noch",
+    "category": "ongoing",
+    "id": "noch",
+    "streams": [
+      { "name": "Демо", "twitch": "869571796", "start": "1:47:19" },
+      { "name": "Релиз", "twitch": "1563545448", "start": "1:16:06" }
     ]
   },
   {
