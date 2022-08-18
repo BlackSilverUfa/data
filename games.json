@@ -385,7 +385,6 @@
       { "name": "Chased by Darkness", "twitch": "1125993129", "start": "4:53:22" },
       { "name": "KeyWe", "twitch": "1134934289", "start": "4:42:17" },
       { "name": "Fortnite (с Дашей и Джеком)", "twitch": "1155904215", "start": "5:03:18" },
-      { "name": "Occult", "twitch": "1181935075", "start": "4:07:18" },
       { "twitch": "1191176581", "subrefs": [
         { "name": "Pico Park", "start": "2:19:51" },
         { "name": "Fling to the Finish", "start": "4:15:05" }
@@ -396,6 +395,15 @@
       { "name": "Monster Hunter Rise", "twitch": "1261173013", "start": "2:57:07" },
       { "name": "Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)", "twitch": "1269805961", "start": "4:57:07" },
       { "name": "Way of the Hunter", "twitch": "1564505950", "start": "4:27" }
+    ]
+  },
+  {
+    "name": "Occult",
+    "category": "co-op",
+    "id": "occult",
+    "streams": [
+      { "name": "1", "twitch": "1181935075", "start": "4:07:18" },
+      { "name": "2", "twitch": "1533471620", "start": "3:03:42" }
     ]
   },
   {
@@ -569,7 +577,8 @@
     "streams": [
       { "name": "1", "twitch": "895496717" },
       { "name": "2", "twitch": "1000457538", "start": "2:59:40" },
-      { "name": "3", "twitch": "1175536520", "start": "2:03:31" }
+      { "name": "3", "twitch": "1175536520", "start": "2:03:31" },
+      { "name": "4", "twitch": "1533471620", "start": "8:52" }
     ]
   },
   {
@@ -1278,7 +1287,8 @@
       { "name": "28", "twitch": "895496717", "start": "4:07:03" },
       { "name": "29", "twitch": "1003719769", "start": "4:36:19" },
       { "name": "30", "twitch": "1065051420", "start": "5:26:40" },
-      { "name": "31", "twitch": "1111966540", "start": "5:52:25" }
+      { "name": "31", "twitch": "1111966540", "start": "5:52:25" },
+      { "name": "32", "twitch": "1533471620", "start": "4:28:35" }
     ]
   },
   {
@@ -2102,6 +2112,14 @@
         { "name": "The Crypt Terror", "start": "5:13:25" },
         { "name": "Penitence", "start": "5:21:58" }
       ] },
+      {
+        "name": "As Dusk Falls", "twitch": "1537269313", "start": "12:01",
+        "blacklist": {
+          "messages": [
+            "^#?[0-9]$"
+          ]
+        }
+      },
       { "name": "From The Darkness", "twitch": "1558782985", "start": "1:27:19" },
       { "name": "Stray", "twitch": "1536251230,1536294843", "start": "6:54" },
       { "twitch": "1561677559", "subrefs": [
@@ -2497,16 +2515,21 @@
       { "name": "PlayStation Classic (все игры)", "twitch": "348094949" },
       { "name": "Godzilla (PS4, NES, Sega, PS2)", "twitch": "431084407" },
       { "name": "RTX-стрим", "twitch": "438447673" },
-      {
-        "name": "Трейлеры и нарезки", "twitch": "687309207",
-        "note": "Первый стрим, где было так много трейлеров, что на игры не хватило времени."
-      },
       { "name": "Клаустрофобия - The Dark Pictures: Little Hope", "twitch": "784351602", "start": "3:49:20" },
       { "name": "Тест Xbox Series X", "twitch": "793751031" },
-      { "name": "Трейлеры и арты", "twitch": "895436223" },
       { "name": "15 лет Republic of Gamers", "twitch": "1122010713" },
-      { "name": "Трейлеры", "twitch": "1182938896" },
       { "name": "Новый год 2022 (подарки, нарезки)", "twitch": "1248804713" }
+    ]
+  },
+  {
+    "name": "Трейлеры",
+    "category": "other",
+    "id": "trailers",
+    "streams": [
+      { "name": "1", "twitch": "687309207" },
+      { "name": "2", "twitch": "895436223" },
+      { "name": "3", "twitch": "1182938896" },
+      { "name": "4", "twitch": "1541455295", "start": "42:56" }
     ]
   },
   {
@@ -6474,13 +6497,6 @@
     "type": "list",
     "id": "todo",
     "streams": [
-      { "twitch": "1533471620", "subrefs": [
-        { "name": "DEVOUR", "start": "12:24" },
-        { "name": "Occult", "start": "2:55:57" },
-        { "name": "Tricky Towers", "start": "4:27:30" }
-      ] },
-      { "name": "As Dusk Falls", "twitch": "1537269313" },
-      { "name": "Трейлеры #1", "twitch": "1541455295", "start": "42:56" },
       { "twitch": "1542254440", "subrefs": [
         { "name": "Granny: Chapter Two", "start": "34:12" },
         { "name": "Peepo Island #1", "start": "1:29:19" },
