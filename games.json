@@ -727,7 +727,8 @@
       { "name": "12 (соло)", "twitch": "839294640" },
       { "name": "13 (соло)", "twitch": "870760177", "start": "2:09:23" },
       { "name": "14 (с чатом)", "twitch": "1222726196" },
-      { "name": "15 (с чатом)", "twitch": "1530567140", "start": "45:53" }
+      { "name": "15 (с чатом)", "twitch": "1530567140", "start": "45:53" },
+      { "name": "16 (с чатом)", "twitch": "1542254440", "start": "3:43:42" }
     ]
   },
   {
@@ -3002,14 +3003,22 @@
     ]
   },
   {
+    "name": "Granny: Chapter Two",
+    "category": "ongoing",
+    "id": "granny-2",
+    "streams": [
+      { "name": "1", "twitch": "530784764", "start": "4:02:11" },
+      { "name": "2", "twitch": "1542254440", "start": "34:42" }
+    ]
+  },
+  {
     "name": "Первый взгляд 2020",
     "category": "first",
     "type": "list",
     "id": "first-2020",
     "streams": [
       { "twitch": "530784764", "subrefs": [
-        { "name": "Zombie Claus", "start": "3:59:51" },
-        { "name": "Granny: Chapter Two", "start": "4:02:11" }
+        { "name": "Zombie Claus", "start": "3:59:51" }
       ] },
       { "name": "Warcraft III: Reforged", "twitch": "543591605" },
       { "twitch": "559668833", "subrefs": [
@@ -3496,6 +3505,11 @@
       ] },
       { "name": "Bayonetta", "twitch": "1531483751", "start": "11:53" },
       { "name": "Russian Subway Dogs", "twitch": "1534414628", "start": "1:18:11" },
+      { "twitch": "1543244527", "subrefs": [
+        { "name": "Road Rash", "start": "30:53" },
+        { "name": "Contra: Hard Corps", "start": "2:17:43" },
+        { "name": "Road Rash (продолжение)", "start": "4:04:13", "hidden": true }
+      ] },
       { "name": "SCP: Fractured Minds (демо)", "twitch": "1557831331", "start": "44:00" },
       { "twitch": "1559742064", "subrefs": [
         { "name": "Twisted Metal: Small Brawl", "start": "1:50:55" },
@@ -3546,6 +3560,7 @@
     "category": "ongoing",
     "id": "peepo-island",
     "streams": [
+      { "name": "1", "twitch": "1542254440", "start": "1:28:43" },
       { "name": "6", "twitch": "1557831331", "start": "1:59:09" }
     ]
   },
@@ -6497,16 +6512,6 @@
     "type": "list",
     "id": "todo",
     "streams": [
-      { "twitch": "1542254440", "subrefs": [
-        { "name": "Granny: Chapter Two", "start": "34:12" },
-        { "name": "Peepo Island #1", "start": "1:29:19" },
-        { "name": "Fall Guys #2", "start": "3:42:38" }
-      ] },
-      { "twitch": "1543244527", "subrefs": [
-        { "name": "Road Rash" },
-        { "name": "Contra: Hard Corps", "start": "2:15:15" },
-        { "name": "Road Rash (продолжение)", "start": "4:01:53", "hidden": true }
-      ] },
       { "twitch": "1544246712", "subrefs": [
         { "name": "DarKnot", "start": "25:57" },
         { "name": "Aeterna Noctis", "start": "1:46:36" },
