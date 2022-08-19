@@ -3017,9 +3017,7 @@
     "type": "list",
     "id": "first-2020",
     "streams": [
-      { "twitch": "530784764", "subrefs": [
-        { "name": "Zombie Claus", "start": "3:59:51" }
-      ] },
+      { "name": "Zombie Claus", "twitch": "530784764", "start": "3:59:51" },
       { "name": "Warcraft III: Reforged", "twitch": "543591605" },
       { "twitch": "559668833", "subrefs": [
         { "name": "Foregone" },
