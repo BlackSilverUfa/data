@@ -1515,7 +1515,9 @@
     "id": "gamescom",
     "streams": [
       { "name": "2019", "twitch": "469393130" },
-      { "name": "2020", "twitch": "723011325", "start": "4:48:39" }
+      { "name": "2021", "twitch": "1128973572,1129122818", "start": "4:45:01" },
+      { "name": "2020", "twitch": "723011325", "start": "4:48:39" },
+      { "name": "2022", "twitch": "1570142913", "start": "8:02:43" }
     ]
   },
   {
@@ -3523,7 +3525,8 @@
       { "twitch": "1563545448", "subrefs": [
         { "name": "Self-Delusion", "start": "26:04" },
         { "name": "Escape the Backrooms", "start": "2:54:46" }
-      ] }
+      ] },
+      { "name": "Saints Row (2022)", "twitch": "1570142913", "start": "34:34" }
     ]
   },
   {
