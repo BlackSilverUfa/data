@@ -3337,7 +3337,6 @@
         { "name": "Horror Story: Hallowseed", "start": "3:06:06" }
       ] },
       { "twitch": "1193856809", "subrefs": [
-        { "name": "The Mortuary Assistant (демо)", "start": "40:06" },
         { "name": "Devil Inside Us: Root of Evil (демо)", "start": "1:52:04" },
         { "name": "The Radio Station", "start": "2:18:12" }
       ] },
@@ -3518,6 +3517,7 @@
         { "name": "Contra: Hard Corps", "start": "2:17:43" },
         { "name": "Road Rash (продолжение)", "start": "4:04:13", "hidden": true }
       ] },
+      { "name": "Outbreak: Shades of Horror (тизер)", "twitch": "1551976425", "start": "5:54:48" },
       { "name": "SCP: Fractured Minds (демо)", "twitch": "1557831331", "start": "44:00" },
       { "twitch": "1559742064", "subrefs": [
         { "name": "Twisted Metal: Small Brawl", "start": "1:50:55" },
@@ -3595,6 +3595,7 @@
     "id": "peepo-island",
     "streams": [
       { "name": "1", "twitch": "1542254440", "start": "1:28:43" },
+      { "name": "5", "twitch": "1551976425", "start": "15:55" },
       { "name": "6", "twitch": "1557831331", "start": "1:59:09" }
     ]
   },
@@ -6541,6 +6542,16 @@
     ]
   },
   {
+    "name": "The Mortuary Assistant",
+    "category": "finished",
+    "id": "mortuary-assistant",
+    "streams": [
+      { "name": "Демо", "twitch": "1193856809", "start": "40:06" },
+      { "name": "1", "twitch": "1550107736", "start": "16:59" },
+      { "name": "2", "twitch": "1551976425", "start": "51:42" }
+    ]
+  },
+  {
     "name": "Не размечено",
     "category": "other",
     "type": "list",
@@ -6579,13 +6590,6 @@
         { "name": "Hausmeister", "start": "4:20:59" },
         { "name": "One Last Breath", "start": "4:34:44" },
         { "name": "Iron Lung", "start": "5:02:41" }
-      ] },
-      { "name": "The Mortuary Assistant #1", "twitch": "1550107736", "start": "17:02" },
-      { "twitch": "1551976425", "subrefs": [
-        { "name": "Peepo Island #5", "start": "15:02" },
-        { "name": "The Mortuary Assistant #2", "start": "51:14" },
-        { "name": "Трейлеры #2", "start": "5:45:21" },
-        { "name": "Outbreak: Shades of Horror", "start": "5:54:27" }
       ] },
       { "twitch": "1552996641", "subrefs": [
         { "name": "Mortal Kombat", "start": "45:40" },
