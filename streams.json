@@ -2019,7 +2019,9 @@
   "1546161309": { "youtube": "_CBvVG_y3Go" },
   "1547156682": { "youtube": "cWeYJhpUmS0", "cuts": ["2:35:44~2:36:14"] },
   "1548174786": { "youtube": "u4fVjhYxqWU" },
-  "1550107736": { "youtube": "AtUO5OoXAZs" },
+  "1550107736": {
+    "note": "У <a href=\"https://youtu.be/AtUO5OoXAZs\">официальной записи</a> установлено возрастное ограничение."
+  },
   "1551976425": { "youtube": "9kmfKsknrEA" },
   "1552996641": { "youtube": "bG7CXJ7zDzQ" },
   "1554911752": { "youtube": "JEgx4IhC8aE" },
