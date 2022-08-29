@@ -2139,7 +2139,8 @@
       { "twitch": "1575034539,1575155040", "subrefs": [
         { "name": "Vilomah (демо)", "start": "19:00" },
         { "name": "Dead Beacon (демо)", "start": "1:38:08" },
-        { "name": "The Door You Can Never Open (демо)", "start": "2:17:43" },
+        { "name": "The Door You Can Never Open (демо)", "start": "2:04:05" },
+        { "name": "Open Door (демо)", "start": "2:17:43" },
         { "name": "Solitude Underwater", "start": "2:36:48" },
         { "name": "Traumada", "start": "3:25:38" }
       ] }
