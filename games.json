@@ -3553,8 +3553,16 @@
         { "name": "Unreasoning Fear", "start": "2:54:54" },
         { "name": "Starless", "start": "5:09:28" }
       ] },
-      { "name": "The Bridge Curse: Road To Salvation", "twitch": "1578740848", "start": "3:40:18" },
-      { "name": "The Last of Us: Part I", "twitch": "1579576285", "start": "9:29" }
+      { "name": "The Bridge Curse: Road To Salvation", "twitch": "1578740848", "start": "3:40:18" }
+    ]
+  },
+  {
+    "name": "The Last of Us: Part I",
+    "category": "ongoing",
+    "id": "tlou",
+    "streams": [
+      { "name": "1", "twitch": "1579576285", "start": "9:29" },
+      { "name": "2", "twitch": "1580576439", "start": "8:22" }
     ]
   },
   {
