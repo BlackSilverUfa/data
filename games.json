@@ -3558,11 +3558,15 @@
   },
   {
     "name": "The Last of Us: Part I",
-    "category": "ongoing",
+    "category": "finished",
     "id": "tlou",
     "streams": [
       { "name": "1", "twitch": "1579576285", "start": "9:29" },
-      { "name": "2", "twitch": "1580576439", "start": "8:22" }
+      { "name": "2", "twitch": "1580576439", "start": "8:22" },
+      { "twitch": "1581571795", "subrefs": [
+        { "name": "3", "start": "12:16" },
+        { "name": "DLC: Left Behind", "start": "2:20:41" }
+      ] }
     ]
   },
   {
