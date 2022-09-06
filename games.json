@@ -3071,7 +3071,6 @@
       { "name": "SOLUM", "twitch": "644774531", "start": "4:30:33" },
       { "name": "The Disappearance of the Mitchels", "twitch": "645734946", "start": "5:15:53" },
       { "twitch": "653411860", "subrefs": [
-        { "name": "Gloomwood", "start": "2:33:58" },
         { "name": "Among Trees", "start": "3:59:59" },
         { "name": "Hello Guest", "start": "5:12:52" }
       ] },
@@ -3146,6 +3145,15 @@
       { "name": "Gothic", "twitch": "849365667" },
       { "name": "Gone Golfing", "twitch": "850367913", "start": "3:22:30" },
       { "name": "Ebola 2", "twitch": "853883043", "start": "2:12:38" }
+    ]
+  },
+  {
+    "name": "Gloomwood",
+    "category": "ongoing",
+    "id": "gloomwood",
+    "streams": [
+      { "name": "Демо", "twitch": "653411860", "start": "2:33:58" },
+      { "name": "1", "twitch": "1583467635", "start": "32:46" }
     ]
   },
   {
