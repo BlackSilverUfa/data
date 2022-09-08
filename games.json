@@ -6258,6 +6258,19 @@
     ]
   },
   {
+    "name": "Вечер Ретро Игр (ВРИ)",
+    "category": "infinite",
+    "id": "retro",
+    "streams": [
+      { "name": "1", "twitch": "1522102243" },
+      { "name": "2", "twitch": "1528664321" },
+      { "name": "3", "twitch": "1543244527" },
+      { "name": "4", "twitch": "1552996641" },
+      { "name": "5", "twitch": "1559742064" },
+      { "name": "6", "twitch": "1573052503" }
+    ]
+  },
+  {
     "name": "Jurassic World Evolution",
     "category": "infinite",
     "id": "jurassic-world-evolution",
