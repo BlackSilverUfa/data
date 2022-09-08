@@ -3606,11 +3606,12 @@
   },
   {
     "name": "The Hobbit",
-    "category": "ongoing",
+    "category": "finished",
     "id": "hobbit",
     "streams": [
       { "name": "1", "twitch": "1560730593", "start": "52:24" },
-      { "name": "2", "twitch": "1573991268", "start": "29:35" }
+      { "name": "2", "twitch": "1573991268", "start": "29:35" },
+      { "name": "3", "twitch": "1585224225", "start": "28:01" }
     ]
   },
   {
