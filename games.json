@@ -3579,7 +3579,13 @@
         { "name": "Unreasoning Fear", "start": "2:54:54" },
         { "name": "Starless", "start": "5:09:28" }
       ] },
-      { "name": "The Bridge Curse: Road To Salvation", "twitch": "1578740848", "start": "3:40:18" }
+      { "name": "The Bridge Curse: Road To Salvation", "twitch": "1578740848", "start": "3:40:18" },
+      { "twitch": "1586147183", "subrefs": [
+        { "name": "NHL 2001", "start": "35:00" },
+        { "name": "Monster Bass", "start": "1:49:25" },
+        { "name": "Revelations: Persona", "start": "3:10:44" },
+        { "name": "Carmageddon II", "start": "4:31:20" }
+      ] }
     ]
   },
   {
@@ -6267,7 +6273,8 @@
       { "name": "3", "twitch": "1543244527" },
       { "name": "4", "twitch": "1552996641" },
       { "name": "5", "twitch": "1559742064" },
-      { "name": "6", "twitch": "1573052503" }
+      { "name": "6", "twitch": "1573052503" },
+      { "name": "7", "twitch": "1586147183" }
     ]
   },
   {
