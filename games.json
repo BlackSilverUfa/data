@@ -2147,7 +2147,14 @@
         { "name": "Solitude Underwater", "start": "2:36:48" },
         { "name": "Traumada", "start": "3:25:38" }
       ] },
-      { "name": "Security Booth: Director's Cut", "twitch": "1578740848", "start": "39:03" }
+      { "name": "Security Booth: Director's Cut", "twitch": "1578740848", "start": "39:03" },
+      { "twitch": "1588071501", "subrefs": [
+        { "name": "Lempo (демо)", "start": "1:20:12" },
+        { "name": "Mega", "start": "2:31:27" },
+        { "name": "The Horrors Recrudesce (демо)", "start": "3:00:06" },
+        { "name": "Bias (демо)", "start": "3:43:16" },
+        { "name": "Don't Look", "start": "4:49:37" }
+      ] }
     ]
   },
   {
@@ -3588,6 +3595,10 @@
         { "name": "Monster Bass", "start": "1:49:25" },
         { "name": "Revelations: Persona", "start": "3:10:44" },
         { "name": "Carmageddon II", "start": "4:31:20" }
+      ] },
+      { "twitch": "1588071501", "subrefs": [
+        { "name": "The Complex: Found Footage", "start": "53:53" },
+        { "name": "Deadly Night", "start": "3:57:58" }
       ] }
     ]
   },
