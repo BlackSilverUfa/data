@@ -2097,7 +2097,6 @@
       { "name": "The Stanley Parable: Ultra Deluxe", "twitch": "1469243371" },
       { "name": "RATUZ", "twitch": "1470152667" },
       { "twitch": "1472093056", "subrefs": [
-        { "name": "The Clown's Fun" },
         { "name": "Our Lady of Sorrow", "start": "3:42:00" },
         { "name": "The Abyss Has Walls", "start": "4:03:51" }
       ] },
@@ -2133,10 +2132,15 @@
         { "name": "Control Room Alpha", "start": "1:27:19" },
         { "name": "Cain", "start": "1:34:25" },
         { "name": "Life Beyond", "start": "2:04:30" },
-        { "name": "Trash Horror Collection - After Midnight", "start": "2:24:27" },
         { "name": "Satan's Baby Doll", "start": "3:40:56" },
         { "name": "Hausmeister", "start": "4:21:02" },
         { "name": "One Last Breath (демо)", "start": "4:35:14" }
+      ] },
+      { "twitch": "1554911752", "subrefs": [
+        { "name": "Chimpy Chippa's: The Game", "start": "3:34:39" },
+        { "name": "Asleep (демо)", "start": "3:53:43" },
+        { "name": "The Apartment", "start": "4:32:21" },
+        { "name": "Signal (демо)", "start": "4:57:26" }
       ] },
       { "name": "From The Darkness", "twitch": "1558782985", "start": "1:27:19" },
       { "name": "Stray", "twitch": "1536251230,1536294843", "start": "6:54" },
@@ -2166,6 +2170,19 @@
         { "name": "The Horrors Recrudesce (демо)", "start": "3:00:06" },
         { "name": "Bias (демо)", "start": "3:43:16" },
         { "name": "Don't Look", "start": "4:49:37" }
+      ] }
+    ]
+  },
+  {
+    "name": "Trash Horror Collection",
+    "category": "ongoing",
+    "id": "trash-horror",
+    "streams": [
+      { "name": "The Clown's Fun", "twitch": "1472093056", "start": "14:38" },
+      { "name": "After Midnight", "twitch": "1548174786", "start": "2:24:27" },
+      { "twitch": "1554911752", "subrefs": [
+        { "name": "The Island Mystery", "start": "5:25:48" },
+        { "name": "Endless Days", "start": "5:33:49" }
       ] }
     ]
   },
@@ -3578,6 +3595,7 @@
         { "name": "Stroll Prototype", "start": "4:14:57" },
         { "name": "Iron Lung", "start": "5:03:19" }
       ] },
+      { "name": "Divine Frequency", "twitch": "1554911752", "start": "10:02" },
       { "name": "Serious Duke 3D", "twitch": "1555820842", "start": "9:49" },
       { "name": "SCP: Fractured Minds (демо)", "twitch": "1557831331", "start": "44:00" },
       { "twitch": "1559742064", "subrefs": [
@@ -3959,7 +3977,8 @@
     "category": "infinite",
     "id": "ghost-watchers",
     "streams": [
-      { "name": "1", "twitch": "1547156682", "start": "3:01:59" }
+      { "name": "1", "twitch": "1547156682", "start": "3:01:59" },
+      { "name": "2 (с Куплиновым и Дангаром)", "start": "1:10:48" }
     ]
   },
   {
@@ -6678,24 +6697,6 @@
       { "name": "Демо", "twitch": "1193856809", "start": "40:06" },
       { "name": "1", "twitch": "1550107736", "start": "16:59" },
       { "name": "2", "twitch": "1551976425", "start": "51:42" }
-    ]
-  },
-  {
-    "name": "Не размечено",
-    "category": "other",
-    "type": "list",
-    "id": "todo",
-    "streams": [
-      { "twitch": "1554911752", "subrefs": [
-        { "name": "Divine Frequency", "start": "12:04" },
-        { "name": "Ghost Watchers #2", "start": "1:01:28" },
-        { "name": "Chimpy Chippa's the game", "start": "3:34:49" },
-        { "name": "Asleep", "start": "3:53:22" },
-        { "name": "The Apartment", "start": "4:31:49" },
-        { "name": "Signal", "start": "4:57:01" },
-        { "name": "The Island Mystery", "start": "5:26:07" },
-        { "name": "Endless days", "start": "5:33:22" }
-      ] }
     ]
   }
 ]
