@@ -121,7 +121,6 @@
   "001609040": { "youtube": "D2oQXhIcuzM" },
   "001609070": { "youtube": "xIALAR3pvKE" },
   "001609280": {
-    "youtube": "dOPwOdeBboQ", "official": false,
     "note": "Запись предоставил Олег Степанов (<a href=\"https://vk.com/video87862793_456239622\">1</a>, <a href=\"https://vk.com/video87862793_456239623\">2</a>). Видео обрывается по неизвестной причине."
   },
   "001610010": {
@@ -845,7 +844,7 @@
     { "youtube": "I3P1JbRcadk", "offset": "1:46:09" }
   ],
   "396376161": { "youtube": "AssQ604i2i0" },
-  "397419854": { "youtube": "ghj_GCKJmA4" },
+  "397419854": { "youtube": "tIlLPHgQa0o", "official": false },
   "398439248": { "youtube": "Unw59tkQ5Pg", "offset": "16:34" },
   "398843130": { "youtube": "qaITO_iwUF0" },
   "399315002": { "youtube": "JrDYIlmwo2g" },
@@ -1622,7 +1621,7 @@
   "1028999291": { "youtube": "eHotbN5SRQs", "official": false },
   "1030127769": { "youtube": "m3Ioh_VZHEE", "official": false },
   "1031332081": { "youtube": "-uE5AuCjLz0", "official": false },
-  "1031432095": { "youtube": "wjs1VKuX0Ns", "official": false },
+  "1031432095": {  },
   "1033590091": { "youtube": "_uv6WWu5Rx0", "official": false },
   "1034612378": { "youtube": "1dyQStbb5ZY", "official": false },
   "1035840249": { "youtube": "9fu8Iw71Nag", "official": false },
