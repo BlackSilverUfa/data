@@ -3540,7 +3540,6 @@
         { "name": "Escape The Ayuwoki", "start": "5:44:43" }
       ] },
       { "twitch": "1502569152", "subrefs": [
-        { "name": "SCP: Secret Files (демо)", "start": "1:46:32" },
         { "name": "Anger Foot", "start": "3:38:21" },
         { "name": "The Fridge Is Red (демо)", "start": "4:00:41" },
         { "name": "Sker Ritual (демо)", "start": "4:49:28" },
@@ -3645,6 +3644,15 @@
         { "name": "My Time at Sandrock", "start": "3:07:46" },
         { "name": "Wo Long: Fallen Dynasty (демо)", "start": "4:16:28" }
       ] }
+    ]
+  },
+  {
+    "name": "SCP: Secret Files",
+    "category": "finished",
+    "id": "scp-sf",
+    "streams": [
+      { "name": "Демо", "twitch": "1502569152", "start": "1:46:32" },
+      { "name": "Прохождение", "twitch": "1593427175", "start": "20:24" }
     ]
   },
   {
