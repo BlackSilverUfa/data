@@ -189,7 +189,7 @@
     "youtube": "7l_yWZ3ORrs", "official": false,
     "note": "Запись предоставил <a href=\"https://vk.com/87862793_456240367\">Олег Степанов</a>. Стрим проводился на канале <a href=\"https://twitch.tv/dariya_willis\">Dariya_Willis</a>."
   },
-  "001706060": { "youtube": "JWY1e9gH02A", "official": false },
+  "001706060": { "youtube": "JWY1e9gH02A" },
   "001706170": { "youtube": "wu2NKLUVH0k" },
   "001707060": { "youtube": "92AnIckY8EU" },
   "001707180": { "youtube": "v50BdVrVD0A" },
@@ -844,7 +844,7 @@
     { "youtube": "I3P1JbRcadk", "offset": "1:46:09" }
   ],
   "396376161": { "youtube": "AssQ604i2i0" },
-  "397419854": { "youtube": "tIlLPHgQa0o", "official": false },
+  "397419854": {  },
   "398439248": { "youtube": "Unw59tkQ5Pg", "offset": "16:34" },
   "398843130": { "youtube": "qaITO_iwUF0" },
   "399315002": { "youtube": "JrDYIlmwo2g" },
