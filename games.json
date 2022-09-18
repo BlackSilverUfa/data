@@ -2170,7 +2170,8 @@
         { "name": "The Horrors Recrudesce (демо)", "start": "3:00:06" },
         { "name": "Bias (демо)", "start": "3:43:16" },
         { "name": "Don't Look", "start": "4:49:37" }
-      ] }
+      ] },
+      { "name": "Bloodwash", "twitch": "1594431864", "start": "3:30:26" }
     ]
   },
   {
@@ -3636,14 +3637,21 @@
         { "name": "Revelations: Persona", "start": "3:10:44" },
         { "name": "Carmageddon II", "start": "4:31:20" }
       ] },
-      { "twitch": "1588071501", "subrefs": [
-        { "name": "The Complex: Found Footage", "start": "53:53" },
-        { "name": "Deadly Night", "start": "3:57:58" }
-      ] },
+      { "name": "The Complex: Found Footage", "twitch": "1588071501", "start": "53:53" },
       { "twitch": "1592425669", "subrefs": [
         { "name": "My Time at Sandrock", "start": "3:07:46" },
         { "name": "Wo Long: Fallen Dynasty (демо)", "start": "4:16:28" }
-      ] }
+      ] },
+      { "name": "Curley Laboratory", "twitch": "1594431864", "start": "5:12:52" }
+    ]
+  },
+  {
+    "name": "Deadly Night",
+    "category": "finished",
+    "id": "deadly-night",
+    "streams": [
+      { "name": "1", "twitch": "1588071501", "start": "3:57:58" },
+      { "name": "2", "twitch": "1594431864", "start": "23:04" }
     ]
   },
   {
