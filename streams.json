@@ -614,10 +614,7 @@
   "309135471": { "youtube": "wwrVyYWOH9Q" },
   "309553210": { "youtube": "wyPWchWncI0", "offset": "-0:08" },
   "309591231": { "youtube": "5Z-d9aovMZY", "offset": "-0:07" },
-  "309949699": {
-    "youtube": "iaaJSOkp3VA", "official": false,
-    "note": "Официальной записи <a href=\"https://twitter.com/Sempai_Black/status/1040868783244627970\">не будет</a>."
-  },
+  "309949699": { "youtube": "iaaJSOkp3VA", "official": false },
   "311651965": { "youtube": "jYH-YKyDelc" },
   "312042770": { "youtube": "xlTxDGQCqxE", "offset": "-0:05" },
   "312840878": { "youtube": "wKorlmEHZRU", "offset": "-0:06" },
@@ -647,18 +644,12 @@
   "329332705": { "youtube": "4xwnKEN1gD4" },
   "329752092": { "youtube": "6KhNlsn17-k", "offset": "-0:03" },
   "330582088": { "youtube": "L3n32Jf2750" },
-  "331512980": {
-    "youtube": "u3D9-vnsNZM", "official": false,
-    "note": "Официальной записи <a href=\"https://twitter.com/Sempai_Black/status/1059374052631035904\">не будет</a>."
-  },
+  "331512980": { "youtube": "u3D9-vnsNZM", "official": false },
   "331965944": { "youtube": "9IGkvnhsS7k" },
   "332769459": { "youtube": "YHhPfXiV1nA" },
   "333173605": { "youtube": "r9YeaCX3l5o" },
   "333586186": { "youtube": "KraTmtfIW3A" },
-  "334043313": {
-    "youtube": "z29SE3Boch0", "official": false,
-    "note": "Официальной записи <a href=\"https://twitter.com/Sempai_Black/status/1062431920687120396\">не будет</a>."
-  },
+  "334043313": { "youtube": "z29SE3Boch0", "official": false },
   "335348537": { "youtube": "TRTiTeJZhd0", "official": false },
   "335751293": [
     { "youtube": "nPwpPa1bpd8" },
@@ -985,10 +976,7 @@
     { "youtube": "znELEgrlTEM", "offset": "1:29:03" }
   ],
   "445389664": { "youtube": "Kjt2l84NcH0" },
-  "445866715": {
-    "youtube": "mGpSWefTnT4", "official": false,
-    "note": "Официальная запись <a href=\"https://twitter.com/Sempai_Black/status/1145994206663589888\">заблокирована</a>."
-  },
+  "445866715": { "youtube": "mGpSWefTnT4", "official": false },
   "447694923": [
     { "youtube": "iAa4VBV3o6E" },
     { "youtube": "weHIVcz_ib4", "offset": "3:09:13" }
@@ -1010,9 +998,7 @@
   "452195101": { "youtube": "5SvE0YBGot8" },
   "452633607": { "youtube": "6NbakTZGEZA" },
   "454019548": [
-    {
-      "note": "Официальная запись <a href=\"https://twitter.com/Sempai_Black/status/1151801529978032130\">заблокирована</a>."
-    },
+    {  },
     { "youtube": "pf2zjtt0yog", "offset": "2:55:41" }
   ],
   "454488796": [
@@ -1064,15 +1050,9 @@
   "485019796": { "youtube": "C7SNwnu3_AM", "official": false },
   "485417805": [
     { "youtube": "F85dDZIflyk", "offset": "5:24" },
-    {
-      "youtube": "I-bvHcO5kt8", "offset": "1:55:22", "official": false,
-      "note": "Официальная запись (T5jsMHGRJNw) <a href=\"https://twitter.com/Sempai_Black/status/1184134627931447298\">заблокирована</a>."
-    }
+    { "youtube": "I-bvHcO5kt8", "offset": "1:55:22", "official": false }
   ],
-  "485786489": {
-    "youtube": "-cBM69p_PrA", "official": false,
-    "note": "Официальная запись (iZn5VK-JITc) <a href=\"https://twitter.com/Sempai_Black/status/1184134627931447298\">заблокирована</a>."
-  },
+  "485786489": { "youtube": "-cBM69p_PrA", "official": false },
   "487490676": { "youtube": "dh9AyaB4U2A", "official": false },
   "487949971": {
     "youtube": "5elTBqMfyEU", "official": false,
@@ -1084,14 +1064,8 @@
   ],
   "488770279": { "youtube": "thuM0xTo3yA", "offset": "5:40" },
   "489658551": { "youtube": "_t22bmkySMU", "offset": "28:03" },
-  "490059507": {
-    "youtube": "YYBpf4OLV1Q", "official": false,
-    "note": "Официальные записи (H9mGkU2QAgY, mBFQUwmPadc, kDsI_rrM3I4) <a href=\"https://twitter.com/Sempai_Black/status/1184134627931447298\">заблокированы</a>."
-  },
-  "490488498": {
-    "youtube": "qmrikTQhibI", "official": false,
-    "note": "Официальные записи (aRshUBlAEzA, ziYUbGz_bJQ) <a href=\"https://twitter.com/Sempai_Black/status/1184134627931447298\">заблокированы</a>."
-  },
+  "490059507": { "youtube": "YYBpf4OLV1Q", "official": false },
+  "490488498": { "youtube": "qmrikTQhibI", "official": false },
   "491017258": { "youtube": "qM0BbQcgTzM" },
   "492261356": { "youtube": "bDnCV6484-M", "offset": "15:37" },
   "492682718": { "youtube": "di9TMwtyb0I" },
@@ -1136,13 +1110,8 @@
   "513964498": { "youtube": "4yvxCzK-gfc" },
   "514393833": { "youtube": "N41WAm4PNlI" },
   "516508179": { "youtube": "w8nJdnXrSJU" },
-  "516941489": {
-    "note": "Официальная запись <a href=\"https://twitter.com/Sempai_Black/status/1204020703827300353\">заблокирована</a>."
-  },
-  "517802976": {
-    "youtube": "EXLIJurCOXc", "official": false,
-    "note": "Официальная запись <a href=\"https://twitter.com/Sempai_Black/status/1204020703827300353\">заблокирована</a>."
-  },
+  "516941489": {  },
+  "517802976": { "youtube": "EXLIJurCOXc", "official": false },
   "518306588": { "youtube": "AK1CYqvyHIc" },
   "518751002": { "youtube": "gJO6G7Uc0IY" },
   "519609666": { "youtube": "53_URt94pg8" },
