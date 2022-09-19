@@ -2171,7 +2171,8 @@
         { "name": "Bias (демо)", "start": "3:43:16" },
         { "name": "Don't Look", "start": "4:49:37" }
       ] },
-      { "name": "Bloodwash", "twitch": "1594431864", "start": "3:30:26" }
+      { "name": "Bloodwash", "twitch": "1594431864", "start": "3:30:26" },
+      { "name": "Night At the Gates of Hell", "twitch": "1595342822", "start": "1:50:25" }
     ]
   },
   {
@@ -3642,7 +3643,11 @@
         { "name": "My Time at Sandrock", "start": "3:07:46" },
         { "name": "Wo Long: Fallen Dynasty (демо)", "start": "4:16:28" }
       ] },
-      { "name": "Curley Laboratory", "twitch": "1594431864", "start": "5:12:52" }
+      { "name": "Curley Laboratory", "twitch": "1594431864", "start": "5:12:52" },
+      { "twitch": "1595342822", "subrefs": [
+        { "name": "Whateverland", "start": "25:18" },
+        { "name": "S.P.A.T.", "start": "1:27:45" }
+      ] }
     ]
   },
   {
