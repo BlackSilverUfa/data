@@ -2177,7 +2177,7 @@
   },
   {
     "name": "Trash Horror Collection",
-    "category": "ongoing",
+    "category": "finished",
     "id": "trash-horror",
     "streams": [
       { "name": "The Clown's Fun", "twitch": "1472093056", "start": "14:38" },
@@ -2185,6 +2185,26 @@
       { "twitch": "1554911752", "subrefs": [
         { "name": "The Island Mystery", "start": "5:25:48" },
         { "name": "Endless Days", "start": "5:33:49" }
+      ] },
+      { "twitch": "1596223040", "subrefs": [
+        { "name": "MOLD", "start": "38:17" },
+        { "name": "Poop Killer", "start": "1:14:09" },
+        { "name": "Poop Killer 2", "start": "1:38:40" },
+        { "name": "Poop Killer 3", "start": "1:59:22" },
+        { "name": "The Elevator", "start": "2:17:18" },
+        { "name": "Night Revenge", "start": "2:37:55" },
+        { "name": "Thursday the 12th", "start": "2:59:23" }
+      ] }
+    ]
+  },
+  {
+    "name": "Trash Horror Collection 2",
+    "category": "ongoing",
+    "id": "trash-horror-2",
+    "streams": [
+      { "twitch": "1596223040", "subrefs": [
+        { "name": "R.I.P", "start": "3:16:25" },
+        { "name": "The House of Rats", "start": "3:47:50" }
       ] }
     ]
   },
