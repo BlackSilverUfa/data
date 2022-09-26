@@ -977,7 +977,7 @@
     { "youtube": "znELEgrlTEM", "offset": "1:29:03" }
   ],
   "445389664": { "youtube": "Kjt2l84NcH0" },
-  "445866715": { "youtube": "mGpSWefTnT4", "official": false },
+  "445866715": {  },
   "447694923": [
     { "youtube": "iAa4VBV3o6E" },
     { "youtube": "weHIVcz_ib4", "offset": "3:09:13" }
@@ -1724,7 +1724,7 @@
     "youtube": "8vK2pgmHz7Q",
     "offsets": ["0:00", "3:40:06"]
   },
-  "1129996087": { "youtube": "Q27ejfPKAlE" },
+  "1129996087": { "youtube": "Uh15k0C3hPo", "official": false },
   "1130997492": { "youtube": "0ZLRjMqPZ-s" },
   "1132102187": { "youtube": "rLRCDf0i-Gw" },
   "1134934289": { "youtube": "XdewuKkcPEM" },
