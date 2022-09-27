@@ -3667,8 +3667,16 @@
       { "twitch": "1595342822", "subrefs": [
         { "name": "Whateverland", "start": "25:18" },
         { "name": "S.P.A.T.", "start": "1:27:45" }
-      ] },
-      { "name": "Yakuza 0", "twitch": "1598875892", "start": "7:54" }
+      ] }
+    ]
+  },
+  {
+    "name": "Yakuza 0",
+    "category": "ongoing",
+    "id": "yakuza-0",
+    "streams": [
+      { "name": "1", "twitch": "1598875892", "start": "7:54" },
+      { "name": "2", "twitch": "1602639686", "start": "7:34" }
     ]
   },
   {
