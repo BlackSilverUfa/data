@@ -2205,7 +2205,8 @@
       { "twitch": "1596223040", "subrefs": [
         { "name": "We Are Not Alone", "start": "3:16:25" },
         { "name": "The House of Rats", "start": "3:47:50" }
-      ] }
+      ] },
+      { "name": "Poop Killer 4", "twitch": "1603602197", "start": "4:41:14" }
     ]
   },
   {
@@ -3563,7 +3564,6 @@
       ] },
       { "twitch": "1502569152", "subrefs": [
         { "name": "Anger Foot", "start": "3:38:21" },
-        { "name": "The Fridge Is Red (демо)", "start": "4:00:41" },
         { "name": "Sker Ritual (демо)", "start": "4:49:28" },
         { "name": "The Last Worker (демо)", "start": "5:01:44" },
         { "name": "Midnight Fight Express (демо)", "start": "5:26:12" }
@@ -3668,6 +3668,15 @@
         { "name": "Whateverland", "start": "25:18" },
         { "name": "S.P.A.T.", "start": "1:27:45" }
       ] }
+    ]
+  },
+  {
+    "name": "The Fridge Is Red",
+    "category": "finished",
+    "id": "red-bridge",
+    "streams": [
+      { "name": "Демо", "twitch": "1502569152", "start": "4:00:41" },
+      { "name": "Прохождение", "twitch": "1603602197", "start": "33:03" }
     ]
   },
   {
