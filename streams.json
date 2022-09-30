@@ -1118,7 +1118,7 @@
   "519609666": { "youtube": "53_URt94pg8" },
   "520025510": [
     { "youtube": "VWO7aKQg1hY" },
-    { "youtube": "_m2AZ_b8Kvg", "offset": "2:56:04", "official": false }
+    { "offset": "2:56:04" }
   ],
   "520877239": { "youtube": "a6KZKvd853M" },
   "521336731": { "youtube": "HyL3c-0QomY" },
@@ -1769,7 +1769,7 @@
   "1185672025": { "youtube": "7za5JxIA4NE" },
   "1186535358": { "youtube": "buhBOPfDs38", "official": false },
   "1187388604": { "youtube": "Mrv-jg-nDY0", "official": false },
-  "1188297728": { "youtube": "k9NfsOVExJk", "official": false },
+  "1188297728": {  },
   "1190164000": { "youtube": "Fk2u05f8ytU", "official": false },
   "1191176581": { "youtube": "lSNF_gwlSfY" },
   "1192158679": { "youtube": "vtwVA3YGNF0" },
@@ -1796,7 +1796,7 @@
     "youtube": "_LU4gPiID_s", "official": false,
     "offsets": ["0:00", "3:59:35"]
   },
-  "1206191026": { "youtube": "aya5gA4KBkA", "cuts": ["4:09:18~4:09:53"], "official": false },
+  "1206191026": { "cuts": ["4:09:18~4:09:53"] },
   "1207047094": { "youtube": "htqZL7EVZWo" },
   "1207997756": { "youtube": "IY2dZcCguqI" },
   "1208881098": {  },
