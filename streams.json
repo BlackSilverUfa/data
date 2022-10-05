@@ -1118,7 +1118,10 @@
   "519609666": { "youtube": "53_URt94pg8" },
   "520025510": [
     { "youtube": "VWO7aKQg1hY" },
-    { "direct": "https://bsufiles.thedrhax.pw/streams/520025510.1.mp4", "offset": "2:56:04" }
+    {
+      "offset": "2:56:04",
+      "direct": "https://bsufiles.thedrhax.pw/streams/520025510.1.mp4"
+    }
   ],
   "520877239": { "youtube": "a6KZKvd853M" },
   "521336731": { "youtube": "HyL3c-0QomY" },
@@ -2031,6 +2034,6 @@
   "1604386613": { "youtube": "Uc5sW9srWzI" },
   "1605248642": { "youtube": "2L0Jju7HfE4", "cuts": ["5:33:37~5:34:07"] },
   "1607244038": { "youtube": "fl-l8EVRTRM" },
-  "1608110648": { "cuts": ["4:54:36~4:55:06"] },
+  "1608110648": { "youtube": "rw8-SAr4KBw", "cuts": ["4:54:36"] },
   "1608964216": {  }
 }
