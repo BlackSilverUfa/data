@@ -3688,6 +3688,11 @@
         { "name": "Dark Light", "start": "15:38" },
         { "name": "Electrician Simulator", "start": "2:09:00" },
         { "name": "Priest Simulator", "start": "3:40:23" }
+      ] },
+      { "twitch": "1614024019", "subrefs": [
+        { "name": "Final Fantasy VII", "start": "1:03:46" },
+        { "name": "Castlevania: Symphony of the Night", "start": "2:58:17" },
+        { "name": "The Adventures of Lomax", "start": "4:24:13" }
       ] }
     ]
   },
@@ -6434,7 +6439,8 @@
       { "name": "4", "twitch": "1552996641" },
       { "name": "5", "twitch": "1559742064" },
       { "name": "6", "twitch": "1573052503" },
-      { "name": "7", "twitch": "1586147183" }
+      { "name": "7", "twitch": "1586147183" },
+      { "name": "8", "twitch": "1614024019" }
     ]
   },
   {
