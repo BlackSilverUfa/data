@@ -396,7 +396,20 @@
       { "name": "Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)", "twitch": "1269805961", "start": "4:57:07" },
       { "name": "We Were Here Forever", "twitch": "1555820842", "start": "2:36:49" },
       { "name": "Way of the Hunter", "twitch": "1564505950", "start": "4:27" },
-      { "name": "The Long Drive", "twitch": "1587098639", "start": "1:19:12" }
+      { "name": "The Long Drive", "twitch": "1587098639", "start": "1:19:12" },
+      { "twitch": "1618459269", "subrefs": [
+        { "name": "Tales of Terror", "start": "3:41:56" },
+        { "name": "Escape Memoirs: Mini Stories", "start": "5:59:43" }
+      ] }
+    ]
+  },
+  {
+    "name": "Horrors of Space",
+    "category": "co-op",
+    "id": "horrors-of-space",
+    "streams": [
+      { "name": "Демо", "twitch": "1061050549", "start": "5:18:33" },
+      { "name": "1", "twitch": "1618459269", "start": "4:01:11" }
     ]
   },
   {
@@ -676,7 +689,8 @@
     "id": "sign-of-silence",
     "streams": [
       { "name": "1", "twitch": "770075059" },
-      { "name": "2", "twitch": "781406533", "start": "5:57:59" }
+      { "name": "2", "twitch": "781406533", "start": "5:57:59" },
+      { "name": "3", "twitch": "1618459269", "start": "5:00:45" }
     ]
   },
   {
@@ -945,7 +959,8 @@
     "streams": [
       { "name": "Часть 2 #1", "twitch": "389704750", "start": "1:22:33" },
       { "name": "Часть 2 #2", "twitch": "452195101", "start": "3:07:18" },
-      { "name": "Часть 3", "twitch": "1125993129", "start": "4:13:57" }
+      { "name": "Часть 3 #1", "twitch": "1125993129", "start": "4:13:57" },
+      { "name": "Часть 3 #2", "twitch": "1618459269", "start": "4:44:07" }
     ]
   },
   {
@@ -2184,7 +2199,8 @@
       { "twitch": "1608110648", "subrefs": [
         { "name": "Apocalyptic Vibes (демо)", "start": "1:06:16" },
         { "name": "The Bathhouse", "start": "4:00:59" }
-      ] }
+      ] },
+      { "name": "Unusual Findings (демо)", "twitch": "1618459269", "start": "3:00:05" }
     ]
   },
   {
@@ -3363,10 +3379,7 @@
         { "name": "Bandit Simulator (демо)", "start": "5:40:49" },
         { "name": "Super Bomberman R Online", "start": "5:49:35" }
       ] },
-      { "twitch": "1061050549", "subrefs": [
-        { "name": "Horrors of Space (демо)", "start": "5:18:33" },
-        { "name": "Rabbit Hole (демо)", "start": "5:31:54" }
-      ] },
+      { "name": "Rabbit Hole (демо)", "twitch": "1061050549", "start": "5:31:54" },
       { "name": "Guilty Gear: Strive", "twitch": "1066067703", "start": "5:06:26" },
       { "name": "Open Country", "twitch": "1070208965" },
       { "twitch": "1072311121", "subrefs": [
@@ -3693,6 +3706,11 @@
         { "name": "Final Fantasy VII", "start": "1:03:46" },
         { "name": "Castlevania: Symphony of the Night", "start": "2:58:17" },
         { "name": "The Adventures of Lomax", "start": "4:24:13" }
+      ] },
+      { "twitch": "1618459269", "subrefs": [
+        { "name": "Chasm: The Rift (демо)", "start": "17:43" },
+        { "name": "Dredge (демо)", "start": "51:30" },
+        { "name": "Scars Above (демо)", "start": "1:38:41" }
       ] }
     ]
   },
