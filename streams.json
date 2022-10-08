@@ -107,7 +107,7 @@
   "001605240": { "youtube": "-_9vZHF-plc", "official": false },
   "001605270": { "youtube": "PcBR7_DPG3A", "official": false },
   "001605310": { "youtube": "wtig_YaME6A", "official": false },
-  "001607030": { "youtube": "gU8s-7orIqU", "official": false },
+  "001607030": {  },
   "001607100": { "youtube": "MghUVl30hbM" },
   "001607210": { "youtube": "_7sbzmaFvxI" },
   "001607230": { "youtube": "GApKHWo_Cuc" },
@@ -1348,7 +1348,7 @@
     "offsets": ["0:00", "5:05:40"],
     "note": "Стрим падал 3 раза. 2 части склеены в одну запись. 1 часть длиной 50 секунд отброшена."
   },
-  "729970116": { "youtube": "8DKpxtGWNHM", "official": false },
+  "729970116": {  },
   "731025039": { "youtube": "QqnudzNJqKs", "official": false },
   "733113254": { "youtube": "cJHElfSWazw", "official": false },
   "734046513": { "youtube": "_qQ2GXWV8to", "official": false },
