@@ -1098,8 +1098,8 @@
       { "name": "1", "twitch": "207753795", "start": "3:24:00" },
       { "name": "2 (на PS4 Pro)", "twitch": "348930664", "segment": 0 },
       { "name": "3", "twitch": "436159113", "segment": 1 },
-      { "name": "4 (часть 1)", "twitch": "436769739", "segment": 0 },
-      { "name": "4 (часть 2)", "twitch": "436769739", "segment": 1 },
+      { "name": "4 (часть 1)", "twitch": "436769739", "segment": 0, "start": "6:55" },
+      { "name": "4 (часть 2)", "twitch": "436769739", "segment": 2, "start": "2:34:57" },
       { "name": "5 (часть 1)", "twitch": "437135971", "segment": 0 },
       { "name": "5 (часть 2)", "twitch": "437135971", "segment": 1 },
       { "name": "6", "twitch": "968731343", "start": "2:49:58" }
@@ -1151,7 +1151,7 @@
       { "name": "2", "twitch": "337485395", "segment": 1, "start": "7:04:47" },
       { "name": "3", "twitch": "340545862", "start": "4:01:23" },
       { "name": "4", "twitch": "374556455", "start": "2:47:35" },
-      { "name": "5", "twitch": "436769739", "segment": 1, "start": "4:42:41" },
+      { "name": "5", "twitch": "436769739", "segment": 2, "start": "4:42:41" },
       { "name": "6", "twitch": "437135971", "segment": 2, "start": "7:44:27" },
       { "name": "7", "twitch": "452195101", "start": "3:26:19" }
     ]
@@ -1228,7 +1228,7 @@
       { "name": "10", "twitch": "385372335", "segment": 1, "start": "2:55:39" },
       { "name": "11", "twitch": "410963500", "start": "2:01:39" },
       { "name": "12", "twitch": "423369283", "segment": 0, "start": "2:13:25" },
-      { "name": "13", "twitch": "436769739", "segment": 1, "start": "3:47:22" },
+      { "name": "13", "twitch": "436769739", "segment": 2, "start": "3:47:22" },
       { "name": "14", "twitch": "445866715" },
       { "name": "15", "twitch": "487949971", "start": "53:20" },
       { "name": "16", "twitch": "560235613", "start": "2:09:28" }
@@ -1629,8 +1629,8 @@
     "streams": [
       { "name": "Electronic Arts", "twitch": "436159113", "segment": 1, "start": "3:21:16" },
       { "name": "Microsoft", "twitch": "436769739", "segment": 0, "start": "56:39" },
-      { "name": "Bethesda", "twitch": "436769739", "segment": 2 },
-      { "name": "Devolver Digital", "twitch": "436769739", "segment": 3 },
+      { "name": "Bethesda", "twitch": "436769739", "segment": 3, "start": "5:25:36" },
+      { "name": "Devolver Digital", "twitch": "436769739", "segment": 1, "start": "6:50:27" },
       { "name": "PC Gaming Show", "twitch": "437135971", "segment": 0, "start": "53:30" },
       { "name": "Ubisoft", "twitch": "437135971", "segment": 1, "start": "3:55:56" },
       { "name": "Square Enix", "twitch": "437135971", "segment": 3 }
