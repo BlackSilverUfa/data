@@ -2200,7 +2200,6 @@
         { "name": "Apocalyptic Vibes (демо)", "start": "1:06:16" },
         { "name": "The Bathhouse", "start": "4:00:59" }
       ] },
-      { "name": "Unusual Findings (демо)", "twitch": "1618459269", "start": "3:00:05" },
       { "twitch": "1619465701", "subrefs": [
         { "name": "Kona II: Brume (демо)", "start": "23:28" },
         { "name": "The Classrooms (демо)", "start": "1:27:12" },
@@ -2209,7 +2208,17 @@
         { "name": "Broken Through", "start": "3:31:13" },
         { "name": "Anthology of Fear (демо)", "start": "5:03:18" },
         { "name": "On One's Own", "start": "5:39:31" }
-      ] }
+      ] },
+      { "name": "Forever Skies (демо)", "twitch": "1622143449", "start": "2:57:26" }
+    ]
+  },
+  {
+    "name": "Unusual Findings",
+    "category": "ongoing",
+    "id": "unusual-findings",
+    "streams": [
+      { "name": "Демо", "twitch": "1618459269", "start": "3:00:05" },
+      { "name": "1", "twitch": "1622143449", "start": "4:05:01" }
     ]
   },
   {
