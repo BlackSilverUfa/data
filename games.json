@@ -2190,7 +2190,6 @@
       { "name": "Bloodwash", "twitch": "1594431864", "start": "3:30:26" },
       { "name": "Night At the Gates of Hell", "twitch": "1595342822", "start": "1:50:25" },
       { "twitch": "1607244038", "subrefs": [
-        { "name": "Scorn (пролог)", "start": "26:10" },
         { "name": "Go Home Annie: An SCP Game (демо)", "start": "1:47:33" },
         { "name": "Convenient", "start": "2:42:05" },
         { "name": "Lazaret (демо)", "start": "3:24:49" },
@@ -2211,6 +2210,15 @@
         { "name": "On One's Own", "start": "5:39:31" }
       ] },
       { "name": "Forever Skies (демо)", "twitch": "1622143449", "start": "2:57:26" }
+    ]
+  },
+  {
+    "name": "Scorn",
+    "category": "finished",
+    "id": "scorn",
+    "streams": [
+      { "name": "Пролог", "twitch": "1607244038", "start": "26:10" },
+      { "name": "Прохождение", "twitch": "1623827060", "start": "7:36" }
     ]
   },
   {
