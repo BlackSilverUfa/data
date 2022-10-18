@@ -2213,7 +2213,8 @@
         { "name": "Anthology of Fear (демо)", "start": "5:03:18" },
         { "name": "On One's Own", "start": "5:39:31" }
       ] },
-      { "name": "Forever Skies (демо)", "twitch": "1622143449", "start": "2:57:26" }
+      { "name": "Forever Skies (демо)", "twitch": "1622143449", "start": "2:57:26" },
+      { "name": "A Plague Tale: Requiem", "twitch": "1627495658", "start": "13:14" }
     ]
   },
   {
@@ -3662,10 +3663,7 @@
         { "name": "Michael Jackson's Moonwalker", "start": "2:04:47" },
         { "name": "Goofy's Hysterical History Tour", "start": "3:19:58" }
       ] },
-      { "twitch": "1547156682", "subrefs": [
-        { "name": "Survival: Fountain of Youth", "start": "1:38:23" },
-        { "name": "Purple War", "start": "3:51:35" }
-      ] },
+      { "name": "Survival: Fountain of Youth", "twitch": "1547156682", "start": "1:38:23" },
       { "twitch": "1548174786", "subrefs": [
         { "name": "Enter & Survey", "start": "3:13:12" },
         { "name": "Our Lady of the Drowned Lake", "start": "3:20:30" },
@@ -3749,6 +3747,15 @@
       ] },
       { "name": "Cultic", "twitch": "1624846104", "start": "34:22" },
       { "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды)", "twitch": "1625850313", "start": "7:49" }
+    ]
+  },
+  {
+    "name": "Purple War",
+    "category": "infinite",
+    "id": "purple-war",
+    "streams": [
+      { "name": "1", "twitch": "1547156682", "start": "3:51:35" },
+      { "name": "2", "twitch": "1627495658", "start": "8:05:01" }
     ]
   },
   {
