@@ -2213,8 +2213,16 @@
         { "name": "Anthology of Fear (демо)", "start": "5:03:18" },
         { "name": "On One's Own", "start": "5:39:31" }
       ] },
-      { "name": "Forever Skies (демо)", "twitch": "1622143449", "start": "2:57:26" },
-      { "name": "A Plague Tale: Requiem", "twitch": "1627495658", "start": "13:14" }
+      { "name": "Forever Skies (демо)", "twitch": "1622143449", "start": "2:57:26" }
+    ]
+  },
+  {
+    "name": "A Plague Tale: Requiem",
+    "category": "finished",
+    "id": "plague-tale-req",
+    "streams": [
+      { "name": "1", "twitch": "1627495658", "start": "13:14" },
+      { "name": "2", "twitch": "1628359023", "start": "8:57" }
     ]
   },
   {
