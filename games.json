@@ -2214,7 +2214,12 @@
         { "name": "On One's Own", "start": "5:39:31" }
       ] },
       { "name": "Forever Skies (демо)", "twitch": "1622143449", "start": "2:57:26" },
-      { "name": "Call of Duty: Modern Warfare II", "twitch": "1630171647", "start": "12:47" }
+      { "name": "Call of Duty: Modern Warfare II", "twitch": "1630171647", "start": "12:47" },
+      { "twitch": "1633962812", "subrefs": [
+        { "name": "The Shadow over Route 80", "start": "1:18:40" },
+        { "name": "Father's Day", "start": "2:07:07" },
+        { "name": "Silence Channel 2 (демо)", "start": "5:16:15" }
+      ] }
     ]
   },
   {
@@ -3756,7 +3761,11 @@
         { "name": "The Chaput's Baby", "start": "4:36:28" }
       ] },
       { "name": "Cultic", "twitch": "1624846104", "start": "34:22" },
-      { "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды)", "twitch": "1625850313", "start": "7:49" }
+      { "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды)", "twitch": "1625850313", "start": "7:49" },
+      { "twitch": "1633962812", "subrefs": [
+        { "name": "Resident Evil Remake Remake", "start": "40:30" },
+        { "name": "Off Shore (демо)", "start": "1:39:40" }
+      ] }
     ]
   },
   {
