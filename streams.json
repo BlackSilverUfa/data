@@ -1434,10 +1434,7 @@
   "830961978": { "youtube": "-7UuPITtROo" },
   "832197729": [
     { "youtube": "xsvdcMhWUBI" },
-    {
-      "offset": "12:00:00",
-      "direct": "https://bsufiles.thedrhax.pw/streams/832197729.1.mp4"
-    }
+    { "youtube": "dKxTqtSfHSE", "offset": "12:00:00", "official": false }
   ],
   "833444670": { "youtube": "vRsfIGIWpT4" },
   "834647659": { "youtube": "2lxC-1vdKYM" },
