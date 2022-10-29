@@ -3775,7 +3775,6 @@
         { "name": "The Chaput's Baby", "start": "4:36:28" }
       ] },
       { "name": "Cultic", "twitch": "1624846104", "start": "34:22" },
-      { "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды)", "twitch": "1625850313", "start": "7:49" },
       { "twitch": "1633962812", "subrefs": [
         { "name": "Resident Evil Remake Remake", "start": "40:30" },
         { "name": "Off Shore (демо)", "start": "1:39:40" }
@@ -3785,6 +3784,15 @@
         { "name": "The Trench", "start": "3:29:18" },
         { "name": "Stay Out of the House", "start": "4:14:36" }
       ] }
+    ]
+  },
+  {
+    "name": "Nancy Drew: Shadow at the Water's Edge (Нэнси Дрю: Тень у воды)",
+    "category": "ongoing",
+    "id": "nancy-drew-satwe",
+    "streams": [
+      { "name": "1", "twitch": "1625850313", "start": "7:49" },
+      { "name": "2", "twitch": "1637667923", "start": "20:11" }
     ]
   },
   {
