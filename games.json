@@ -391,7 +391,7 @@
       ] },
       { "name": "Apex Legends", "twitch": "1194875760" },
       { "name": "Farming Simulator 22", "twitch": "1212756532", "start": "3:57:57" },
-      { "name": "Heavenly Bodies", "twitch": "1230440174", "start": "4:06:14" },
+      { "name": "Heavenly Bodies", "twitch": "1230440174", "start": "4:06:09" },
       { "name": "Monster Hunter Rise", "twitch": "1261173013", "start": "2:57:07" },
       { "name": "Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)", "twitch": "1269805961", "start": "4:57:07" },
       { "name": "We Were Here Forever", "twitch": "1555820842", "start": "2:36:49" },
@@ -482,7 +482,7 @@
     "streams": [
       { "name": "1", "twitch": "1195666882", "start": "4:59:28" },
       { "name": "2", "twitch": "1198691880", "start": "3:58:01" },
-      { "name": "3", "twitch": "1200472047", "start": "3:55:36" }
+      { "name": "3", "twitch": "1200472047", "start": "3:55:06" }
     ]
   },
   {
@@ -2191,7 +2191,7 @@
         { "name": "Bias (демо)", "start": "3:43:16" },
         { "name": "Don't Look", "start": "4:49:37" }
       ] },
-      { "name": "Bloodwash", "twitch": "1594431864", "start": "3:30:26" },
+      { "name": "Bloodwash", "twitch": "1594431864", "start": "3:29:56" },
       { "name": "Night At the Gates of Hell", "twitch": "1595342822", "start": "1:50:25" },
       { "twitch": "1607244038", "subrefs": [
         { "name": "Go Home Annie: An SCP Game (демо)", "start": "1:47:33" },
@@ -2210,8 +2210,8 @@
         { "name": "Quo (демо)", "start": "1:51:13" },
         { "name": "The Polaris Incident", "start": "2:38:19" },
         { "name": "Broken Through", "start": "3:31:13" },
-        { "name": "Anthology of Fear (демо)", "start": "5:03:18" },
-        { "name": "On One's Own", "start": "5:39:31" }
+        { "name": "Anthology of Fear (демо)", "start": "5:02:47" },
+        { "name": "On One's Own", "start": "5:39:00" }
       ] },
       { "name": "Forever Skies (демо)", "twitch": "1622143449", "start": "2:57:26" },
       { "name": "Call of Duty: Modern Warfare II", "twitch": "1630171647", "start": "12:47" },
@@ -2241,7 +2241,7 @@
     "category": "finished",
     "id": "plague-tale-req",
     "streams": [
-      { "name": "1", "twitch": "1627495658", "start": "13:14" },
+      { "name": "1", "twitch": "1627495658", "start": "12:44" },
       { "name": "2", "twitch": "1628359023", "start": "8:57" }
     ]
   },
@@ -2372,7 +2372,7 @@
     "streams": [
       { "name": "Прохождение (ранний доступ)", "twitch": "491017258" },
       { "name": "1 (релиз)", "twitch": "1181039582", "start": "4:54:45" },
-      { "name": "2", "twitch": "1193856809", "start": "3:37:54" },
+      { "name": "2", "twitch": "1193856809", "start": "3:37:21" },
       { "name": "3", "twitch": "1198691880" }
     ]
   },
@@ -3683,7 +3683,7 @@
       ] },
       { "twitch": "1528664321", "subrefs": [
         { "name": "Fighting Force", "start": "34:06" },
-        { "name": "Broken Sword: Shadow of the Templars", "start": "3:00:09" }
+        { "name": "Broken Sword: Shadow of the Templars", "start": "2:59:38" }
       ] },
       { "name": "Bayonetta", "twitch": "1531483751", "start": "11:53" },
       { "name": "Russian Subway Dogs", "twitch": "1534414628", "start": "1:18:11" },
@@ -3693,9 +3693,9 @@
         { "name": "Road Rash (продолжение)", "start": "4:04:13", "hidden": true }
       ] },
       { "twitch": "1544246712", "subrefs": [
-        { "name": "Aeterna Noctis", "start": "1:46:52" },
-        { "name": "Nighthunt", "start": "2:51:50" },
-        { "name": "Loopmancer", "start": "4:13:42" }
+        { "name": "Aeterna Noctis", "start": "1:46:22" },
+        { "name": "Nighthunt", "start": "2:51:20" },
+        { "name": "Loopmancer", "start": "4:13:12" }
       ] },
       { "name": "Outbreak: Shades of Horror (тизер)", "twitch": "1551976425", "start": "5:54:48" },
       { "twitch": "1552996641", "subrefs": [
@@ -3731,8 +3731,8 @@
       { "twitch": "1572044648", "subrefs": [
         { "name": "Outbreak Island: Pendulum", "start": "2:49:13" },
         { "name": "Soulstice (демо)", "start": "4:12:28" },
-        { "name": "Mirror Forge (демо)", "start": "5:02:29" },
-        { "name": "Super Catboy", "start": "5:52:55" }
+        { "name": "Mirror Forge (демо)", "start": "5:01:59" },
+        { "name": "Super Catboy", "start": "5:52:25" }
       ] },
       { "twitch": "1573052503", "subrefs": [
         { "name": "Pepsiman", "start": "55:55" },
@@ -3749,15 +3749,15 @@
       { "twitch": "1586147183", "subrefs": [
         { "name": "NHL 2001", "start": "35:00" },
         { "name": "Monster Bass", "start": "1:49:25" },
-        { "name": "Revelations: Persona", "start": "3:10:44" },
-        { "name": "Carmageddon II", "start": "4:31:20" }
+        { "name": "Revelations: Persona", "start": "3:10:13" },
+        { "name": "Carmageddon II", "start": "4:30:49" }
       ] },
       { "name": "The Complex: Found Footage", "twitch": "1588071501", "start": "53:53" },
       { "twitch": "1592425669", "subrefs": [
-        { "name": "My Time at Sandrock", "start": "3:07:46" },
-        { "name": "Wo Long: Fallen Dynasty (демо)", "start": "4:16:28" }
+        { "name": "My Time at Sandrock", "start": "3:05:37" },
+        { "name": "Wo Long: Fallen Dynasty (демо)", "start": "4:14:19" }
       ] },
-      { "name": "Curley Laboratory", "twitch": "1594431864", "start": "5:12:52" },
+      { "name": "Curley Laboratory", "twitch": "1594431864", "start": "5:12:22" },
       { "twitch": "1595342822", "subrefs": [
         { "name": "Whateverland", "start": "25:18" },
         { "name": "S.P.A.T.", "start": "1:27:45" }
@@ -3783,7 +3783,7 @@
       ] },
       { "twitch": "1619465701", "subrefs": [
         { "name": "The Polaris Incident", "start": "2:38:19" },
-        { "name": "The Chaput's Baby", "start": "4:36:28" }
+        { "name": "The Chaput's Baby", "start": "4:35:57" }
       ] },
       { "name": "Cultic", "twitch": "1624846104", "start": "34:22" },
       { "twitch": "1633962812", "subrefs": [
@@ -3813,8 +3813,8 @@
     "category": "infinite",
     "id": "purple-war",
     "streams": [
-      { "name": "1", "twitch": "1547156682", "start": "3:51:35" },
-      { "name": "2", "twitch": "1627495658", "start": "8:05:01" }
+      { "name": "1", "twitch": "1547156682", "start": "3:51:05" },
+      { "name": "2", "twitch": "1627495658", "start": "8:04:31" }
     ]
   },
   {
@@ -3929,9 +3929,9 @@
     "id": "peepo-island",
     "streams": [
       { "name": "1", "twitch": "1542254440", "start": "1:28:43" },
-      { "name": "2", "twitch": "1544246712", "start": "5:04:38" },
+      { "name": "2", "twitch": "1544246712", "start": "5:04:08" },
       { "name": "3", "twitch": "1546161309", "start": "16:24" },
-      { "name": "4", "twitch": "1547156682", "start": "5:52:43" },
+      { "name": "4", "twitch": "1547156682", "start": "5:52:13" },
       { "name": "5", "twitch": "1551976425", "start": "15:55" },
       { "name": "6", "twitch": "1557831331", "start": "1:59:09" }
     ]
@@ -4189,7 +4189,7 @@
     "category": "infinite",
     "id": "ghost-watchers",
     "streams": [
-      { "name": "1", "twitch": "1547156682", "start": "3:01:59" },
+      { "name": "1", "twitch": "1547156682", "start": "3:01:29" },
       { "name": "2 (с Куплиновым и Дангаром)", "twitch": "1554911752", "start": "1:10:48" }
     ]
   },
@@ -5659,7 +5659,7 @@
       { "name": "8", "twitch": "548170121" },
       { "name": "9", "twitch": "554432443" },
       { "name": "10", "twitch": "562243368" },
-      { "name": "Definitive Edition #1", "twitch": "1206191026", "start": "4:30:26" },
+      { "name": "Definitive Edition #1", "twitch": "1206191026", "start": "4:29:51" },
       { "name": "Definitive Edition #2", "twitch": "1207997756", "start": "2:07:05" }
     ]
   },
