@@ -6836,6 +6836,14 @@
     ]
   },
   {
+    "name": "God of War Ragnarok",
+    "category": "ongoing",
+    "id": "gow-ragnarok",
+    "streams": [
+      { "name": "1", "twitch": "1647687213", "start": "12:58" }
+    ]
+  },
+  {
     "name": "Red Dead Redemption 2",
     "category": "ongoing",
     "id": "rdr2",
