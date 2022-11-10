@@ -6840,7 +6840,8 @@
     "category": "ongoing",
     "id": "gow-ragnarok",
     "streams": [
-      { "name": "1", "twitch": "1647687213", "start": "12:58" }
+      { "name": "1", "twitch": "1647687213", "start": "12:58" },
+      { "name": "2", "twitch": "1648729903", "start": "7:56" }
     ]
   },
   {
