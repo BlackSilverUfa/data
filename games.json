@@ -6837,7 +6837,7 @@
   },
   {
     "name": "God of War Ragnarok",
-    "category": "ongoing",
+    "category": "finished",
     "id": "gow-ragnarok",
     "streams": [
       { "name": "1", "twitch": "1647687213", "start": "12:58" },
@@ -6845,7 +6845,8 @@
       { "name": "3", "twitch": "1649523175", "start": "8:09" },
       { "name": "4", "twitch": "1650543457", "start": "5:57" },
       { "name": "5", "twitch": "1651511764", "start": "7:05" },
-      { "name": "6", "twitch": "1652434783", "start": "6:22" }
+      { "name": "6", "twitch": "1652434783", "start": "6:22" },
+      { "name": "7", "twitch": "1653285370", "start": "6:41" }
     ]
   },
   {
