@@ -402,10 +402,16 @@
         { "name": "Escape Memoirs: Mini Stories", "start": "5:59:43" }
       ] },
       { "name": "Overwatch 2", "twitch": "1623036890", "start": "54:11" },
-      { "twitch": "1624846104", "subrefs": [
-        { "name": "Warhammer 40,000: Darktide (бета)", "start": "2:20:43" },
-        { "name": "Ghostbusters: Spirits Unleashed", "start": "4:27:41" }
-      ] }
+      { "name": "Ghostbusters: Spirits Unleashed", "twitch": "1624846104", "start": "4:27:41" }
+    ]
+  },
+  {
+    "name": "Warhammer 40,000: Darktide",
+    "category": "infinite",
+    "id": "darktide",
+    "streams": [
+      { "name": "Бета 1 (кооп)", "twitch": "1624846104", "start": "2:20:43" },
+      { "name": "Бета 2 (соло)", "twitch": "1657037267", "start": "17:40" }
     ]
   },
   {
@@ -2235,7 +2241,8 @@
       ] },
       { "name": "Bramble: The Mountain (демо)", "twitch": "1642266888,1642407202", "start": "53:03" },
       { "name": "The Chant", "twitch": "1643172831", "start": "27:17" },
-      { "name": "Somerville", "twitch": "1656106367", "start": "1:42:32" }
+      { "name": "Somerville", "twitch": "1656106367", "start": "1:42:32" },
+      { "name": "The Dark Pictures: The Devil in Me", "twitch": "1657037267", "start": "2:51:08" }
     ]
   },
   {
