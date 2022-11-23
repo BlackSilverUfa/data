@@ -130,7 +130,6 @@
   },
   "001610020": { "youtube": "5SXGmQ86NZs", "official": false },
   "001610070": {
-    "youtube": "1UP4FwTOt_I", "official": false,
     "note": "Запись предоставил Олег Степанов (<a href=\"https://vk.com/video87862793_456239639\">1</a>, <a href=\"https://vk.com/video87862793_456239640\">2</a>)."
   },
   "001610100": {
@@ -617,7 +616,7 @@
   "309591231": { "youtube": "5Z-d9aovMZY", "offset": "-0:07" },
   "309949699": { "youtube": "iaaJSOkp3VA", "official": false },
   "311651965": { "youtube": "jYH-YKyDelc" },
-  "312042770": { "youtube": "xlTxDGQCqxE", "offset": "-0:05" },
+  "312042770": {  },
   "312840878": { "youtube": "wKorlmEHZRU", "offset": "-0:06" },
   "313288682": { "youtube": "5uQKAyYIHJI", "offset": "-0:07" },
   "313747869": { "youtube": "MaIl87jzmxI", "offset": "-0:07" },
