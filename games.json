@@ -3813,12 +3813,13 @@
   },
   {
     "name": "Alien: Isolation (мод AlienS IsolatioN)",
-    "category": "ongoing",
+    "category": "finished",
     "id": "aliens-isolation",
     "streams": [
       { "name": "1", "twitch": "1638619619", "start": "18:19" },
       { "name": "2", "twitch": "1645086849", "start": "9:30" },
-      { "name": "3", "twitch": "1658062393", "start": "29:48" }
+      { "name": "3", "twitch": "1658062393", "start": "29:48" },
+      { "name": "4", "twitch": "1660650293", "start": "30:08" }
     ]
   },
   {
