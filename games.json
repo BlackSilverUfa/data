@@ -40,7 +40,7 @@
   },
   {
     "name": "Fallout 2",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "fallout-2",
     "streams": [
       { "name": "1", "twitch": "001609040" },
@@ -62,7 +62,7 @@
   },
   {
     "name": "The Elder Scrolls III: Morrowind",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "tes-morrowind",
     "streams": [
       { "name": "1", "twitch": "001607100" },
@@ -77,7 +77,7 @@
   },
   {
     "name": "The Elder Scrolls V: Skyrim - Special Edition",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "tes-skyrim",
     "streams": [
       { "name": "1", "twitch": "001610270", "start": "3:06:25" },
@@ -115,7 +115,7 @@
   },
   {
     "name": "Amnesia: The Dark Descent (с Дашей)",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "amnesia-dw",
     "streams": [
       { "name": "1", "twitch": "001610010" },
@@ -149,7 +149,7 @@
   },
   {
     "name": "Metal Gear Solid V: Phantom Pain (злое прохождение)",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "mgs-v-2020",
     "streams": [
       { "name": "1", "twitch": "791632745", "start": "2:23:17" },
@@ -223,7 +223,7 @@
   },
   {
     "name": "Beyond Blue",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "beyond-blue",
     "streams": [
       { "name": "1 (часть 1)", "twitch": "647778850" },
@@ -1748,7 +1748,7 @@
   },
   {
     "name": "Middle-earth: Shadow of War",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "middle_earth",
     "streams": [
       { "name": "1", "twitch": "181166703" },
@@ -1770,7 +1770,7 @@
   },
   {
     "name": "NieR Automata",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "nier-automata",
     "streams": [
       { "name": "Бета", "twitch": "001612240" },
@@ -1798,7 +1798,7 @@
   },
   {
     "name": "Outlast 2 (с Дашей)",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "outlast-2-dw",
     "streams": [
       { "name": "1", "twitch": "174697007" },
@@ -1826,7 +1826,7 @@
   },
   {
     "name": "Persona 5",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "persona_5",
     "streams": [
       { "name": "1", "twitch": "135797319" },
@@ -1845,7 +1845,7 @@
   },
   {
     "name": "Persona 5: The Royal",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "persona-5-royal",
     "streams": [
       { "name": "1", "twitch": "579786256" },
@@ -2325,7 +2325,7 @@
   },
   {
     "name": "Fobia - St. Dinfna Hotel",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "fobia",
     "streams": [
       { "name": "Демо", "twitch": "1239503220", "start": "3:04:02" },
@@ -2343,7 +2343,7 @@
   },
   {
     "name": "Poppy Playtime",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "poppy-playtime",
     "streams": [
       { "name": "Глава 1", "twitch": "1181039582" },
@@ -2409,7 +2409,7 @@
   },
   {
     "name": "UnMetal",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "unmetal",
     "streams": [
       { "name": "Демо", "twitch": "700057034" },
@@ -2420,7 +2420,7 @@
   },
   {
     "name": "Webbed",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "webbed",
     "streams": [
       { "name": "Демо", "twitch": "767249770", "start": "1:35:51" },
@@ -2483,7 +2483,7 @@
   },
   {
     "name": "Зайчик (Tiny Bunny)",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "tiny-bunny",
     "streams": [
       { "name": "Эпизод 1", "twitch": "990810001" },
@@ -2558,7 +2558,7 @@
   },
   {
     "name": "Pamali: Indonesian Folklore Horror",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "pamali",
     "streams": [
       { "name": "Демо", "twitch": "275418948", "start": "4:46:56" },
@@ -2592,7 +2592,7 @@
   },
   {
     "name": "Super Mario Odyssey",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "super-mario-odyssey",
     "streams": [
       { "name": "1", "twitch": "185763905" },
@@ -2644,7 +2644,7 @@
   },
   {
     "name": "Demon's Souls",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "demons-souls",
     "streams": [
       { "name": "1 (часть 1)", "twitch": "217814961" },
@@ -2959,7 +2959,7 @@
   },
   {
     "name": "Deadly Premonition: Director's Cut",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "deadly-premonition",
     "streams": [
       { "name": "1", "twitch": "001706170" },
@@ -3192,7 +3192,7 @@
   },
   {
     "name": "Granny: Chapter Two",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "granny-2",
     "streams": [
       { "name": "1", "twitch": "530784764", "start": "4:02:11" },
@@ -3344,7 +3344,7 @@
   },
   {
     "name": "Hardspace: Shipbreaker",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "hardspace-shipbreaker",
     "streams": [
       { "name": "1", "twitch": "653411860", "start": "1:53:28" },
@@ -3363,7 +3363,7 @@
   },
   {
     "name": "Hidden Deep",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "hidden-deep",
     "streams": [
       { "name": "Демо", "twitch": "860924750" },
@@ -3565,7 +3565,7 @@
   },
   {
     "name": "Starless",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "starless",
     "streams": [
       { "name": "1", "twitch": "1017725694", "start": "1:48:28" },
@@ -3583,7 +3583,7 @@
   },
   {
     "name": "DarkNot",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "darknot",
     "streams": [
       { "name": "Демо 1", "twitch": "1199578310" },
@@ -3592,7 +3592,7 @@
   },
   {
     "name": "Stranger of Paradise: Final Fantasy Origin",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "sop-ffo",
     "streams": [
       { "name": "Демо", "twitch": "1066067703", "start": "3:39:08" },
@@ -3601,7 +3601,7 @@
   },
   {
     "name": "LiBER",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "liber",
     "streams": [
       { "name": "Ранний доступ", "twitch": "1108872519" },
@@ -3965,7 +3965,7 @@
   },
   {
     "name": "Barbie: Explorer",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "barbie-explorer",
     "streams": [
       { "name": "1", "twitch": "1522102243", "start": "5:11:55" },
@@ -3974,7 +3974,7 @@
   },
   {
     "name": "Cult of the Lamb",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "cult-ot-lamb",
     "streams": [
       { "name": "Демо", "twitch": "1502569152", "start": "2:59:02" },
@@ -3983,7 +3983,7 @@
   },
   {
     "name": "Peepo Island",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "peepo-island",
     "streams": [
       { "name": "1", "twitch": "1542254440", "start": "1:28:43" },
@@ -3996,7 +3996,7 @@
   },
   {
     "name": "V Rising",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "v-rising",
     "streams": [
       { "name": "1", "twitch": "1312161316", "start": "5:27:17" },
@@ -4041,7 +4041,7 @@
   },
   {
     "name": "The Heilwald Loophole",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "heilwald",
     "streams": [
       { "name": "1", "twitch": "1445142982", "start": "5:11:21" },
@@ -4125,7 +4125,7 @@
   },
   {
     "name": "Five Nights At Freddy's: Security Breach",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "fnaf-sb",
     "streams": [
       { "name": "1", "twitch": "1238591362", "start": "56:58" },
@@ -4137,7 +4137,7 @@
   },
   {
     "name": "Sifu",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "sifu",
     "streams": [
       { "name": "1 (демо)", "twitch": "1234081084", "start": "5:42:07" },
@@ -4215,7 +4215,7 @@
   },
   {
     "name": "Inscryption",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "inscryption",
     "streams": [
       { "name": "Демо", "twitch": "1162515299", "start": "3:42:03" },
@@ -4224,7 +4224,7 @@
   },
   {
     "name": "Metroid Dread",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "metroid-dread",
     "streams": [
       { "name": "1", "twitch": "1170802962" },
@@ -4253,7 +4253,7 @@
   },
   {
     "name": "Far Cry 6",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "far-cry-6",
     "streams": [
       { "name": "1", "twitch": "1167157790", "start": "3:40:19" },
@@ -4272,7 +4272,7 @@
   },
   {
     "name": "The Eternal Cylinder",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "eternal-cylinder",
     "streams": [
       { "name": "Ранний доступ", "twitch": "958844668" },
@@ -4313,7 +4313,7 @@
   },
   {
     "name": "Kena: Bridge of Spirits",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "kena-bos",
     "streams": [
       { "name": "1", "twitch": "1155016315" },
@@ -4360,7 +4360,7 @@
   },
   {
     "name": "Pathfinder: Wrath of the Righteous",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "pathfinder",
     "streams": [
       { "name": "Демо", "twitch": "1033590091" },
@@ -4428,7 +4428,7 @@
   },
   {
     "name": "Farmer's Life",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "farmers-life",
     "streams": [
       { "name": "Prologue", "twitch": "1086385946,1086545283" },
@@ -4437,7 +4437,7 @@
   },
   {
     "name": "Fallout 76",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "fallout-76",
     "streams": [
       { "name": "1 (с WeLoveGames)", "twitch": "335751293", "segment": 0 },
@@ -4464,7 +4464,7 @@
   },
   {
     "name": "The Legend of Zelda: Skyward Sword HD",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "tloz-sshd",
     "streams": [
       { "name": "1", "twitch": "1089427413" },
@@ -4473,7 +4473,7 @@
   },
   {
     "name": "Genshin Impact",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "genshin-impact",
     "streams": [
       { "name": "1", "twitch": "1072311121", "start": "42:29" },
@@ -4482,7 +4482,7 @@
   },
   {
     "name": "Chernobylite",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "chernobylite",
     "streams": [
       { "name": "Альфа", "twitch": "495362547,495449259" },
@@ -4518,7 +4518,7 @@
   },
   {
     "name": "Scarlet Nexus",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "scarlet-nexus",
     "streams": [
       { "name": "Демо", "twitch": "1036865162" },
@@ -4527,7 +4527,7 @@
   },
   {
     "name": "Until We Die",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "until-we-die",
     "streams": [
       { "name": "Демо", "twitch": "1021117640" },
@@ -4554,7 +4554,7 @@
   },
   {
     "name": "Graven",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "graven",
     "streams": [
       { "name": "Демо", "twitch": "905895866", "start": "2:16:54" },
@@ -4563,7 +4563,7 @@
   },
   {
     "name": "Biomutant",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "biomutant",
     "streams": [
       { "name": "1", "twitch": "1033590091", "start": "1:59:10" },
@@ -4591,7 +4591,7 @@
   },
   {
     "name": "Mass Effect 2: Legendary Edition",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "me2",
     "streams": [
       { "name": "0 (первые 3 минуты)", "twitch": "1023398734", "start": "7:45:40" },
@@ -4601,7 +4601,7 @@
   },
   {
     "name": "In Sound Mind",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "in-sound-mind",
     "streams": [
       { "name": "1 (демо)", "twitch": "650534841", "start": "1:31:36" },
@@ -4670,7 +4670,7 @@
   },
   {
     "name": "Silent Hill 4: The Room",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "sh4",
     "streams": [
       { "name": "1", "twitch": "987111954" },
@@ -4679,7 +4679,7 @@
   },
   {
     "name": "Outriders",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "outriders",
     "streams": [
       { "name": "1 (демо)", "twitch": "928993182", "start": "2:05:10" },
@@ -4698,7 +4698,7 @@
   },
   {
     "name": "Crash Bandicoot 4: It's About Time",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "crash-bandicoot-4",
     "streams": [
       { "name": "1", "twitch": "759389769" },
@@ -4707,7 +4707,7 @@
   },
   {
     "name": "Loop Hero",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "loop-hero",
     "streams": [
       { "name": "1 (демо)", "twitch": "926537203" },
@@ -4736,7 +4736,7 @@
   },
   {
     "name": "Breathedge",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "breathedge",
     "streams": [
       { "name": "Ранний доступ", "twitch": "305785431", "start": "2:36:13" },
@@ -4748,7 +4748,7 @@
   },
   {
     "name": "Boris The Rocket",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "boris-rocket",
     "streams": [
       { "name": "1", "twitch": "896656796", "start": "2:27:49" },
@@ -4763,7 +4763,7 @@
   },
   {
     "name": "Song of Horror",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "song-of-horror",
     "streams": [
       { "name": "1", "twitch": "878410974" },
@@ -4792,7 +4792,7 @@
   },
   {
     "name": "Disco Elysium",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "disco-elysium",
     "streams": [
       { "name": "1", "twitch": "887445977", "start": "4:25:16" },
@@ -4829,7 +4829,7 @@
   },
   {
     "name": "SCP: Janitorial Work",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "scp-janitor",
     "streams": [
       { "twitch": "851535429", "subrefs": [
@@ -4853,7 +4853,7 @@
   },
   {
     "name": "Clive Barker's Undying",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "cb-undying",
     "streams": [
       { "name": "1", "twitch": "846191668" },
@@ -4872,7 +4872,7 @@
   },
   {
     "name": "Immortals Fenyx Rising",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "immortals-fr",
     "streams": [
       { "name": "1", "twitch": "817321307", "start": "4:02:43" },
@@ -4881,7 +4881,7 @@
   },
   {
     "name": "Haven",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "haven",
     "streams": [
       { "name": "Демо", "twitch": "653411860" },
@@ -4908,7 +4908,7 @@
   },
   {
     "name": "World of Warcraft",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "wow",
     "streams": [
       { "name": "1 (Shadowlands)", "twitch": "728015486" },
@@ -4945,7 +4945,7 @@
   },
   {
     "name": "Assassin's Creed: Valhalla",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "ac-valhalla",
     "streams": [
       { "name": "Первый взгляд", "twitch": "793751031", "start": "4:02:13" },
@@ -4989,7 +4989,7 @@
   },
   {
     "name": "Watch Dogs: Legion",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "watch-dogs",
     "streams": [
       { "name": "1", "twitch": "782383170", "start": "2:53:38" },
@@ -4998,7 +4998,7 @@
   },
   {
     "name": "Ghostrunner",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "ghostrunner",
     "streams": [
       { "name": "Демо", "twitch": "618698350" },
@@ -5052,7 +5052,7 @@
   },
   {
     "name": "Mafia III",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "mafia-3",
     "streams": [
       { "name": "1", "twitch": "001610070" },
@@ -5099,7 +5099,7 @@
   },
   {
     "name": "Mortal Shell",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "mortal-shell",
     "streams": [
       { "name": "Ранний доступ", "twitch": "669777336" },
@@ -5142,7 +5142,7 @@
   },
   {
     "name": "Hellpoint",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "hellpoint",
     "streams": [
       { "name": "1 (часть 1)", "twitch": "695209589" },
@@ -5160,7 +5160,7 @@
   },
   {
     "name": "Destroy All Humans!",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "destroy-all-humans",
     "streams": [
       { "name": "Демо", "twitch": "675494632", "start": "2:44:33" },
@@ -5178,7 +5178,7 @@
   },
   {
     "name": "Far Cry 3",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "far-cry-3",
     "streams": [
       { "name": "1", "twitch": "678368491" },
@@ -5224,7 +5224,7 @@
   },
   {
     "name": "Mafia II: Definitive Edition",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "mafia-2-definitive",
     "streams": [
       { "name": "1", "twitch": "625606171", "start": "3:43:13" },
@@ -5351,7 +5351,7 @@
   },
   {
     "name": "Ori and the Will of the Wisps",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "ori-wotw",
     "streams": [
       { "name": "1", "twitch": "563294076", "start": "1:57:37" },
@@ -5394,7 +5394,7 @@
   },
   {
     "name": "Yes, Your Grace",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "yes-your-grace",
     "streams": [
       { "name": "1", "twitch": "563856575", "start": "4:42:00" },
@@ -5413,7 +5413,7 @@
   },
   {
     "name": "One Punch Man: A Hero Nobody Knows",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "one-punch-man",
     "streams": [
       { "name": "1", "twitch": "559121361" },
@@ -5423,7 +5423,7 @@
   },
   {
     "name": "Nioh",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "nioh",
     "streams": [
       { "name": "Альфа", "twitch": "001605050" },
@@ -5437,7 +5437,7 @@
   },
   {
     "name": "Nioh 2",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "nioh-2",
     "streams": [
       { "name": "Бета", "twitch": "502940448", "start": "1:00:00" },
@@ -5550,7 +5550,7 @@
   },
   {
     "name": "The Sims 4",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "sims-4",
     "streams": [
       { "name": "1", "twitch": "531327327", "start": "3:34:09" },
@@ -5574,7 +5574,7 @@
   },
   {
     "name": "Gears 5",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "gears-5",
     "streams": [
       { "name": "Тест Xbox Series X", "twitch": "793751031" },
@@ -5606,7 +5606,7 @@
   },
   {
     "name": "Dead Space 2 (с Дашей)",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "dead-space-2-dw",
     "streams": [
       { "name": "1", "twitch": "001603260" },
@@ -5650,7 +5650,7 @@
   },
   {
     "name": "Spore",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "spore",
     "streams": [
       { "name": "1", "twitch": "522691278" },
@@ -5755,7 +5755,7 @@
   },
   {
     "name": "Luigi's Mansion 3",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "luigis-mansion-3",
     "streams": [
       { "name": "1", "twitch": "502082379" },
@@ -5798,7 +5798,7 @@
   },
   {
     "name": "The Outer Worlds",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "outer-worlds",
     "streams": [
       { "name": "0 (на Xbox)", "twitch": "498426882" },
@@ -5860,7 +5860,7 @@
   },
   {
     "name": "Tom Clancy's Ghost Recon Breakpoint",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "ghost-recon-breakpoint",
     "streams": [
       { "name": "Демо", "twitch": "477628127" },
@@ -5872,7 +5872,7 @@
   },
   {
     "name": "The Surge 2",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "surge-2",
     "streams": [
       { "name": "1", "twitch": "485417805", "segment": 1, "start": "1:55:22" },
@@ -5883,7 +5883,7 @@
   },
   {
     "name": "The Legend of Zelda: Link's Awakening",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "tloz-la",
     "streams": [
       { "name": "1", "twitch": "483918141" },
@@ -5892,7 +5892,7 @@
   },
   {
     "name": "Blasphemous",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "blasphemous",
     "streams": [
       { "name": "1", "twitch": "479485735", "start": "2:31:38" },
@@ -5901,7 +5901,7 @@
   },
   {
     "name": "Astral Chain",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "astral-chain",
     "streams": [
       { "name": "1", "twitch": "479485735", "start": "3:20:19" },
@@ -5952,7 +5952,7 @@
   },
   {
     "name": "Control",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "control",
     "streams": [
       { "name": "1", "twitch": "472179762" },
@@ -6127,7 +6127,7 @@
   },
   {
     "name": "Kageroh: Shadow Corridor",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "kageroh",
     "streams": [
       { "name": "Демо", "twitch": "245043791", "start": "1:15:26" },
@@ -6178,7 +6178,7 @@
   },
   {
     "name": "Wounded",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "wounded",
     "streams": [
       { "name": "1", "twitch": "389704750" },
@@ -6218,7 +6218,7 @@
   },
   {
     "name": "Resident Evil 2",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "re2",
     "streams": [
       { "name": "1", "twitch": "362192911" },
@@ -6297,7 +6297,7 @@
   },
   {
     "name": "Star Wars: Knights of the Old Republic II - The Sith Lords",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "sw-kotor2",
     "streams": [
       { "name": "1 (часть 1)", "twitch": "352687063", "start": "3:12:41" },
@@ -6306,7 +6306,7 @@
   },
   {
     "name": "Lucius III",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "lucius-3",
     "streams": [
       { "name": "1", "twitch": "349397154", "segment": 1, "start": "1:52:52" },
@@ -6328,7 +6328,7 @@
   },
   {
     "name": "Just Cause 4",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "just-cause-4",
     "streams": [
       { "name": "1", "twitch": "343098113", "segment": 0 },
@@ -6369,7 +6369,7 @@
   },
   {
     "name": "My Time at Portia",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "portia",
     "streams": [
       { "name": "1", "twitch": "225950740", "start": "2:11:10" },
@@ -6393,7 +6393,7 @@
   },
   {
     "name": "Guardians of the Galaxy: The Telltale Series",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "telltale-gotg",
     "streams": [
       { "name": "Episode 1 (вне стримов)", "twitch": "001704200" },
@@ -6427,7 +6427,7 @@
   },
   {
     "name": "Super Seducer 2",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "super-seducer-2",
     "streams": [
       { "name": "1", "twitch": "311651965" },
@@ -6436,7 +6436,7 @@
   },
   {
     "name": "We Happy Few",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "we-happy-few",
     "streams": [
       { "name": "1", "twitch": "295925948" },
@@ -6446,7 +6446,7 @@
   },
   {
     "name": "This is the Police 2",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "police-2",
     "streams": [
       { "name": "1", "twitch": "290597816", "segment": 0 },
@@ -6455,7 +6455,7 @@
   },
   {
     "name": "CASE 2: Animatronics Survival",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "case-2",
     "streams": [
       { "name": "1 (часть 1)", "twitch": "291791543", "segment": 1 },
@@ -6512,7 +6512,7 @@
   },
   {
     "name": "S.T.A.L.K.E.R.: Lost Alpha",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "stalker-la",
     "streams": [
       { "name": "1", "twitch": "394335768", "segment": 0 },
@@ -6522,7 +6522,7 @@
   },
   {
     "name": "Garage: Bad Trip",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "garage",
     "streams": [
       { "name": "1", "twitch": "281472149", "segment": 0 },
@@ -6588,7 +6588,7 @@
   },
   {
     "name": "The Road Trip",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "road-trip",
     "streams": [
       { "name": "1", "twitch": "270816212", "start": "1:19:56" },
@@ -6638,7 +6638,7 @@
   },
   {
     "name": "Moonlighter",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "moonlighter",
     "streams": [
       { "name": "1", "twitch": "267726322", "start": "46:21" },
@@ -6662,7 +6662,7 @@
   },
   {
     "name": "Dark Souls: Remastered",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "ds-remastered",
     "streams": [
       { "name": "Network test", "twitch": "260173384", "start": "1:02:52" },
@@ -6727,7 +6727,7 @@
   },
   {
     "name": "Stardew Valley",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "stardew-walley",
     "streams": [
       { "name": "1", "twitch": "180397849", "start": "2:57:45" },
@@ -6773,7 +6773,7 @@
   },
   {
     "name": "Far Cry 5",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "far-cry-5",
     "streams": [
       { "name": "0 (демонстрация без спойлеров)", "twitch": "242721044" },
@@ -6782,7 +6782,7 @@
   },
   {
     "name": "Ghost of a Tale",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "ghost-of-a-tale",
     "streams": [
       { "name": "1", "twitch": "239018968" },
@@ -6819,7 +6819,7 @@
   },
   {
     "name": "Metal Gear Survive",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "metal-gear-survive",
     "streams": [
       { "name": "0", "twitch": "219819121" },
@@ -6899,7 +6899,7 @@
   },
   {
     "name": "Red Dead Redemption 2",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "rdr2",
     "streams": [
       { "name": "1", "twitch": "327553236" },
@@ -6967,7 +6967,7 @@
   },
   {
     "name": "Noch",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "noch",
     "streams": [
       { "name": "Демо", "twitch": "869571796", "start": "1:47:19" },
