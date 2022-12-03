@@ -419,7 +419,6 @@
     { "youtube": "9_im59hQ0Xw", "offset": "2:15:18" }
   ],
   "263472196": {
-    "youtube": "8nApocBMM08", "official": false,
     "note": "<a href=\"https://youtu.be/0m1MZSyWvqU\">Официальная запись</a> сильно обрезана"
   },
   "263867941": { "youtube": "LkBp9giS1Hk", "official": false },
@@ -1170,7 +1169,7 @@
   "552313454": { "youtube": "6GiCJfQXLQ0" },
   "552876850": { "youtube": "PaREfiJNcmw" },
   "553926728": { "youtube": "UrNnQwJZieY" },
-  "554432443": { "youtube": "-pEoOsG0mqM", "official": false },
+  "554432443": {  },
   "555473037": { "youtube": "eEB_n5KHBcI" },
   "556030369": { "youtube": "gCwrKi8R9wI" },
   "556596083": { "youtube": "na9adsWSpNI" },
@@ -1393,7 +1392,7 @@
   "786440219": { "youtube": "GRrDKGBd_gA" },
   "787564730": { "youtube": "Rcw9UkyblkQ" },
   "791632745": { "youtube": "XcYlU1YMlwI", "official": false },
-  "792632708": { "youtube": "pRwNwzUefnQ" },
+  "792632708": {  },
   "793751031": { "youtube": "JfRite_R5po" },
   "794840118": { "youtube": "_J7K5FmpiYE" },
   "795935885": { "youtube": "GofIUIqsvPc" },
@@ -1760,7 +1759,7 @@
   "1185672025": { "youtube": "7za5JxIA4NE" },
   "1186535358": { "youtube": "q1-PsCsDkuo", "official": false },
   "1187388604": { "youtube": "-c0kXqn6vqU", "official": false },
-  "1188297728": { "youtube": "k9NfsOVExJk", "official": false },
+  "1188297728": {  },
   "1190164000": { "youtube": "Fk2u05f8ytU", "official": false },
   "1191176581": { "youtube": "lSNF_gwlSfY" },
   "1192158679": { "youtube": "vtwVA3YGNF0" },
