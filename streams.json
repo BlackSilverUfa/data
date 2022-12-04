@@ -418,9 +418,7 @@
     { "youtube": "cLYassVF_zw", "offset": "13:59" },
     { "youtube": "9_im59hQ0Xw", "offset": "2:15:18" }
   ],
-  "263472196": {
-    "note": "<a href=\"https://youtu.be/0m1MZSyWvqU\">Официальная запись</a> сильно обрезана"
-  },
+  "263472196": { "youtube": "PQwDl3iZPBA", "official": false },
   "263867941": { "youtube": "LkBp9giS1Hk", "official": false },
   "264219962": { "youtube": "HB0WwzKTKKs", "official": false },
   "264227986": { "youtube": "Y0vekValhdM", "official": false },
