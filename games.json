@@ -3336,11 +3336,12 @@
   },
   {
     "name": "Hello Neighbor 2",
-    "category": "infinite",
+    "category": "ongoing",
     "id": "hello-neighbor-2",
     "streams": [
       { "name": "Альфа", "twitch": "690295728" },
-      { "name": "Бета", "twitch": "1471119730" }
+      { "name": "Бета", "twitch": "1471119730" },
+      { "name": "1 (релиз)", "twitch": "1672653498", "start": "1:32:19" }
     ]
   },
   {
