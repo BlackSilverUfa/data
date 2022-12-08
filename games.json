@@ -3336,12 +3336,13 @@
   },
   {
     "name": "Hello Neighbor 2",
-    "category": "ongoing",
+    "category": "finished",
     "id": "hello-neighbor-2",
     "streams": [
       { "name": "Альфа", "twitch": "690295728" },
       { "name": "Бета", "twitch": "1471119730" },
-      { "name": "1 (релиз)", "twitch": "1672653498", "start": "1:32:19" }
+      { "name": "1 (релиз)", "twitch": "1672653498", "start": "1:32:19" },
+      { "name": "2", "twitch": "1673532308", "start": "29:59" }
     ]
   },
   {
@@ -3620,6 +3621,15 @@
     ]
   },
   {
+    "name": "IXION",
+    "category": "ongoing",
+    "id": "ixion",
+    "streams": [
+      { "name": "Демо", "twitch": "1307474557", "start": "4:18:03" },
+      { "name": "Релиз", "twitch": "1673532308", "start": "3:36:56" }
+    ]
+  },
+  {
     "name": "Первый взгляд 2022",
     "category": "first",
     "type": "list",
@@ -3652,8 +3662,7 @@
       { "twitch": "1307474557", "subrefs": [
         { "name": "The Bridge Curse: Road to Salvation (демо)", "start": "1:34:04" },
         { "name": "My Friendly Neighborhood (демо)", "start": "2:20:39" },
-        { "name": "SCP: Pandemic (демо)", "start": "3:17:59" },
-        { "name": "IXION (демо)", "start": "4:18:03" }
+        { "name": "SCP: Pandemic (демо)", "start": "3:17:59" }
       ] },
       { "name": "Gran Turismo 7", "twitch": "1415016033" },
       { "name": "Weird West", "twitch": "1444100764", "start": "4:40:10" },
