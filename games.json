@@ -1536,7 +1536,8 @@
       { "name": "2018", "twitch": "345649019" },
       { "name": "2019 (обзор)", "twitch": "520877239" },
       { "name": "2020", "twitch": "832197729", "segment": 1, "start": "12:34:01" },
-      { "name": "2021 (обзор)", "twitch": "1229405550", "start": "4:01:43" }
+      { "name": "2021 (обзор)", "twitch": "1229405550", "start": "4:01:43" },
+      { "name": "2022 (обзор)", "twitch": "1674396025", "start": "26:07" }
     ]
   },
   {
@@ -3854,7 +3855,8 @@
       ] },
       { "name": "Nancy Drew: Curse of Blackmoor Manor", "twitch": "1664055210", "start": "22:49" },
       { "name": "Need for Speed Unbound", "twitch": "1665724993", "start": "20:14" },
-      { "name": "Do Not Open", "twitch": "1667371234", "start": "52:02" }
+      { "name": "Do Not Open", "twitch": "1667371234", "start": "52:02" },
+      { "name": "Forspoken (демо)", "twitch": "1674396025", "start": "2:44:31" }
     ]
   },
   {
