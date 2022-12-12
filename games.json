@@ -3859,7 +3859,16 @@
       { "name": "Need for Speed Unbound", "twitch": "1665724993", "start": "20:14" },
       { "name": "Do Not Open", "twitch": "1667371234", "start": "52:02" },
       { "name": "Forspoken (демо)", "twitch": "1674396025", "start": "2:44:31" },
-      { "name": "Portal RTX", "twitch": "1676189043", "start": "29:19" }
+      { "name": "Portal 2", "twitch": "1677050957", "start": "1:32:45" }
+    ]
+  },
+  {
+    "name": "Portal RTX",
+    "category": "finished",
+    "id": "portal",
+    "streams": [
+      { "name": "1", "twitch": "1676189043", "start": "29:19" },
+      { "name": "2", "twitch": "1677050957", "start": "10:49" }
     ]
   },
   {
