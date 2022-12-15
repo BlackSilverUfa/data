@@ -241,6 +241,15 @@
     ]
   },
   {
+    "name": "Farming Simulator 22",
+    "category": "co-op",
+    "id": "farming-simulator-22",
+    "streams": [
+      { "name": "1", "twitch": "1212756532", "start": "3:57:57" },
+      { "name": "2 (соло)", "twitch": "1679659879", "start": "1:01:04" }
+    ]
+  },
+  {
     "name": "Несюжетные коопы",
     "category": "co-op",
     "type": "list",
@@ -389,7 +398,6 @@
         { "name": "Fling to the Finish", "start": "4:15:05" }
       ] },
       { "name": "Apex Legends", "twitch": "1194875760" },
-      { "name": "Farming Simulator 22", "twitch": "1212756532", "start": "3:57:57" },
       { "name": "Heavenly Bodies", "twitch": "1230440174", "start": "4:06:09" },
       { "name": "Monster Hunter Rise", "twitch": "1261173013", "start": "2:57:07" },
       { "name": "Tom Clancy's Rainbow Six Extraction (с WLG и TanyaLOA)", "twitch": "1269805961", "start": "4:57:07" },
@@ -1150,7 +1158,8 @@
       { "name": "11 (6D)", "twitch": "855161482", "start": "3:15:44" },
       { "name": "12 (6D)", "twitch": "877211836", "start": "4:05:36" },
       { "name": "13 (6D)", "twitch": "886277729", "start": "2:32:04" },
-      { "name": "14 (6D)", "twitch": "1024777649", "start": "3:04:27" }
+      { "name": "14 (6D)", "twitch": "1024777649", "start": "3:04:27" },
+      { "name": "15 (4D)", "twitch": "1679659879", "start": "4:38:58" }
     ]
   },
   {
@@ -1320,7 +1329,8 @@
       { "name": "30", "twitch": "1065051420", "start": "5:26:40" },
       { "name": "31", "twitch": "1111966540", "start": "5:52:25" },
       { "name": "32", "twitch": "1533471620", "start": "4:28:35" },
-      { "name": "33", "twitch": "1587098639", "start": "4:50:34" }
+      { "name": "33", "twitch": "1587098639", "start": "4:50:34" },
+      { "name": "34", "twitch": "1679659879", "start": "5:31:53" }
     ]
   },
   {
