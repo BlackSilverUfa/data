@@ -3865,12 +3865,20 @@
         { "name": "Something Nefarious Below", "start": "4:23:31" },
         { "name": "Heartworm", "start": "4:34:31" }
       ] },
-      { "name": "Nancy Drew: Curse of Blackmoor Manor", "twitch": "1664055210", "start": "22:49" },
       { "name": "Need for Speed Unbound", "twitch": "1665724993", "start": "20:14" },
       { "name": "Do Not Open", "twitch": "1667371234", "start": "52:02" },
       { "name": "Forspoken (демо)", "twitch": "1674396025", "start": "2:44:31" },
       { "name": "The Witcher 3: Wild Hunt", "twitch": "1678795130", "start": "20:37" },
       { "name": "Crisis Core: Final Fantasy VII - Reunion", "twitch": "1680525211", "start": "13:47" }
+    ]
+  },
+  {
+    "name": "Nancy Drew: Curse of Blackmoor Manor",
+    "category": "finished",
+    "id": "nancy-drew-cobm",
+    "streams": [
+      { "name": "1", "twitch": "1664055210", "start": "22:49" },
+      { "name": "2", "twitch": "1681441434", "start": "20:17" }
     ]
   },
   {
