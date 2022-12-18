@@ -2259,7 +2259,12 @@
         { "name": "Countryside 1999", "start": "3:54:27" }
       ] },
       { "name": "Psych", "twitch": "1667371234", "start": "1:35:46" },
-      { "name": "Choo-Choo Charles", "twitch": "1675304239", "start": "40:50" }
+      { "name": "Choo-Choo Charles", "twitch": "1675304239", "start": "40:50" },
+      { "twitch": "1682351697", "subrefs": [
+        { "name": "Verwandlung", "start": "30:12" },
+        { "name": "Those Who Crawl", "start": "1:42:55" },
+        { "name": "Psychosis: Teaser", "start": "4:33:17" }
+      ] }
     ]
   },
   {
@@ -3869,7 +3874,25 @@
       { "name": "Do Not Open", "twitch": "1667371234", "start": "52:02" },
       { "name": "Forspoken (демо)", "twitch": "1674396025", "start": "2:44:31" },
       { "name": "The Witcher 3: Wild Hunt", "twitch": "1678795130", "start": "20:37" },
-      { "name": "Crisis Core: Final Fantasy VII - Reunion", "twitch": "1680525211", "start": "13:47" }
+      { "name": "Crisis Core: Final Fantasy VII - Reunion", "twitch": "1680525211", "start": "13:47" },
+      { "twitch": "1682351697", "subrefs": [
+        { "name": "Stay Still (демо)", "start": "44:27" },
+        { "name": "1 Bit Survivor", "start": "1:06:53" },
+        {
+          "name": "Deathwatch", "start": "2:21:48",
+          "blacklist": {
+            "users": [
+              "blackufa"
+            ],
+            "messages": [
+              "^[1-3]$"
+            ]
+          }
+        },
+        { "name": "The Madvent Calendar 3: Necrosis", "start": "3:45:03" },
+        { "name": "Scary Pictures: Yacez - Seven Deadly Sins", "start": "4:12:29" },
+        { "name": "Hell is Others", "start": "5:40:30" }
+      ] }
     ]
   },
   {
