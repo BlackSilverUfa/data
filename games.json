@@ -3874,7 +3874,6 @@
       { "name": "Do Not Open", "twitch": "1667371234", "start": "52:02" },
       { "name": "Forspoken (демо)", "twitch": "1674396025", "start": "2:44:31" },
       { "name": "The Witcher 3: Wild Hunt", "twitch": "1678795130", "start": "20:37" },
-      { "name": "Crisis Core: Final Fantasy VII - Reunion", "twitch": "1680525211", "start": "13:47" },
       { "twitch": "1682351697", "subrefs": [
         { "name": "Stay Still (демо)", "start": "44:27" },
         { "name": "1 Bit Survivor", "start": "1:06:53" },
@@ -3893,6 +3892,15 @@
         { "name": "Scary Pictures: Yacez - Seven Deadly Sins", "start": "4:12:29" },
         { "name": "Hell is Others", "start": "5:40:30" }
       ] }
+    ]
+  },
+  {
+    "name": "Crisis Core: Final Fantasy VII - Reunion",
+    "category": "finished",
+    "id": "cc-ff-7",
+    "streams": [
+      { "name": "1", "twitch": "1680525211", "start": "13:47" },
+      { "name": "2", "twitch": "1683157129", "start": "10:05" }
     ]
   },
   {
