@@ -2264,7 +2264,8 @@
         { "name": "Verwandlung", "start": "30:12" },
         { "name": "Those Who Crawl", "start": "1:42:55" },
         { "name": "Psychosis: Teaser", "start": "4:33:17" }
-      ] }
+      ] },
+      { "name": "FAITH", "twitch": "1687663796", "start": "3:22:07" }
     ]
   },
   {
@@ -3881,20 +3882,35 @@
         { "name": "Scary Pictures: Yacez - Seven Deadly Sins", "start": "4:12:29" },
         { "name": "Hell is Others", "start": "5:40:30" }
       ] },
-      { "twitch": "1686763712", "subrefs": [
-        { "name": "Duke Nukem Forever (2001)", "start": "29:43" },
-        { "name": "Mirror Forge", "start": "40:59" },
-        { "name": "Sleep Paralysis: The Uncanny Valley", "start": "5:07:19" }
-      ] }
+      { "name": "Duke Nukem Forever (2001)", "twitch": "1686763712", "start": "29:43" }
+    ]
+  },
+  {
+    "name": "Mirror Forge",
+    "category": "ongoing",
+    "id": "mirror-forge",
+    "streams": [
+      { "name": "1", "twitch": "1686763712", "start": "40:59" },
+      { "name": "2", "twitch": "1687663796", "start": "5:08:01" }
+    ]
+  },
+  {
+    "name": "Sleep Paralysis: The Uncanny Valley",
+    "category": "ongoing",
+    "id": "sleep-paralysis",
+    "streams": [
+      { "name": "1", "twitch": "1686763712", "start": "5:07:19" },
+      { "name": "2", "twitch": "1687663796", "start": "38:50" }
     ]
   },
   {
     "name": "Deathwatch",
-    "category": "finished",
+    "category": "infinite",
     "id": "deathwatch",
     "streams": [
       { "name": "1", "twitch": "1682351697", "start": "2:21:48" },
-      { "name": "2", "twitch": "1686763712", "start": "3:51:00" }
+      { "name": "2", "twitch": "1686763712", "start": "3:51:00" },
+      { "name": "3", "twitch": "1687663796", "start": "4:43:08" }
     ],
     "blacklist": {
       "users": [
