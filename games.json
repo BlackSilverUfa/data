@@ -404,12 +404,18 @@
       { "name": "We Were Here Forever", "twitch": "1555820842", "start": "2:36:49" },
       { "name": "Way of the Hunter", "twitch": "1564505950", "start": "4:27" },
       { "name": "The Long Drive", "twitch": "1587098639", "start": "1:19:12" },
-      { "twitch": "1618459269", "subrefs": [
-        { "name": "Tales of Terror", "start": "3:41:56" },
-        { "name": "Escape Memoirs: Mini Stories", "start": "5:59:43" }
-      ] },
+      { "name": "Tales of Terror", "twitch": "1618459269", "start": "3:41:56" },
       { "name": "Overwatch 2", "twitch": "1623036890", "start": "54:11" },
       { "name": "Ghostbusters: Spirits Unleashed", "twitch": "1624846104", "start": "4:27:41" }
+    ]
+  },
+  {
+    "name": "Escape Memoirs: Mini Stories",
+    "category": "co-op",
+    "id": "escape-memoirs",
+    "streams": [
+      { "name": "1", "twitch": "1618459269", "start": "5:59:43" },
+      { "name": "2", "twitch": "1688348940,1688400760", "start": "7:07:30" }
     ]
   },
   {
@@ -1159,7 +1165,8 @@
       { "name": "12 (6D)", "twitch": "877211836", "start": "4:05:36" },
       { "name": "13 (6D)", "twitch": "886277729", "start": "2:32:04" },
       { "name": "14 (6D)", "twitch": "1024777649", "start": "3:04:27" },
-      { "name": "15 (4D)", "twitch": "1679659879", "start": "4:38:58" }
+      { "name": "15 (4D)", "twitch": "1679659879", "start": "4:38:58" },
+      { "name": "16 (4D)", "twitch": "1688348940,1688400760", "start": "4:59:00" }
     ]
   },
   {
@@ -3882,7 +3889,8 @@
         { "name": "Scary Pictures: Yacez - Seven Deadly Sins", "start": "4:12:29" },
         { "name": "Hell is Others", "start": "5:40:30" }
       ] },
-      { "name": "Duke Nukem Forever (2001)", "twitch": "1686763712", "start": "29:43" }
+      { "name": "Duke Nukem Forever (2001)", "twitch": "1686763712", "start": "29:43" },
+      { "name": "Half-Life: Blue Shift Remake", "twitch": "1688348940,1688400760", "start": "13:46" }
     ]
   },
   {
