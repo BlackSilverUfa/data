@@ -2272,7 +2272,7 @@
         { "name": "Those Who Crawl", "start": "1:42:55" },
         { "name": "Psychosis: Teaser", "start": "4:33:17" }
       ] },
-      { "name": "FAITH", "twitch": "1687663796", "start": "3:22:07" }
+      { "name": "FAITH: Chapter One", "twitch": "1687663796", "start": "3:22:07" }
     ]
   },
   {
@@ -2897,10 +2897,16 @@
     "id": "first",
     "streams": [
       { "name": "Bloodborne", "twitch": "001508100", "start": "1:02:17" },
-      { "twitch": "001508120", "subrefs": [
-        { "name": "Nightmare House 2" },
-        { "name": "Bioshock Infinite", "start": "1:11:49" }
-      ] }
+      { "name": "Bioshock Infinite", "twitch": "001508120", "start": "1:11:49" }
+    ]
+  },
+  {
+    "name": "Nightmare House 2",
+    "category": "finished",
+    "id": "nightmare-house-2",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "001508120", "start": "11:09" },
+      { "name": "Прохождение", "twitch": "1689107812", "start": "3:55:41" }
     ]
   },
   {
@@ -3889,8 +3895,16 @@
         { "name": "Scary Pictures: Yacez - Seven Deadly Sins", "start": "4:12:29" },
         { "name": "Hell is Others", "start": "5:40:30" }
       ] },
-      { "name": "Duke Nukem Forever (2001)", "twitch": "1686763712", "start": "29:43" },
-      { "name": "Half-Life: Blue Shift Remake", "twitch": "1688348940,1688400760", "start": "13:46" }
+      { "name": "Duke Nukem Forever (2001)", "twitch": "1686763712", "start": "29:43" }
+    ]
+  },
+  {
+    "name": "Half-Life: Blue Shift Remake",
+    "category": "finished",
+    "id": "hl-bs-r",
+    "streams": [
+      { "name": "1", "twitch": "1688348940,1688400760", "start": "13:46" },
+      { "name": "2", "twitch": "1689107812", "start": "26:30" }
     ]
   },
   {
