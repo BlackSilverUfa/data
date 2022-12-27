@@ -2271,8 +2271,16 @@
         { "name": "Verwandlung", "start": "30:12" },
         { "name": "Those Who Crawl", "start": "1:42:55" },
         { "name": "Psychosis: Teaser", "start": "4:33:17" }
-      ] },
-      { "name": "FAITH: Chapter One", "twitch": "1687663796", "start": "3:22:07" }
+      ] }
+    ]
+  },
+  {
+    "name": "FAITH",
+    "category": "ongoing",
+    "id": "faith",
+    "streams": [
+      { "name": "Chapter I", "twitch": "1687663796", "start": "3:22:07" },
+      { "name": "Chapter II", "twitch": "1690022559", "start": "4:12:03" }
     ]
   },
   {
@@ -3895,7 +3903,12 @@
         { "name": "Scary Pictures: Yacez - Seven Deadly Sins", "start": "4:12:29" },
         { "name": "Hell is Others", "start": "5:40:30" }
       ] },
-      { "name": "Duke Nukem Forever (2001)", "twitch": "1686763712", "start": "29:43" }
+      { "name": "Duke Nukem Forever (2001)", "twitch": "1686763712", "start": "29:43" },
+      { "twitch": "1690022559", "subrefs": [
+        { "name": "Симулятор Прыгания по Гаражам", "start": "31:12" },
+        { "name": "Creature Lab (демо)", "start": "59:57" },
+        { "name": "Who Knocks", "start": "1:47:05" }
+      ] }
     ]
   },
   {
