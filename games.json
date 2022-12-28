@@ -2271,6 +2271,10 @@
         { "name": "Verwandlung", "start": "30:12" },
         { "name": "Those Who Crawl", "start": "1:42:55" },
         { "name": "Psychosis: Teaser", "start": "4:33:17" }
+      ] },
+      { "twitch": "1690952607", "subrefs": [
+        { "name": "The Thing: Station Survival", "start": "18:51" },
+        { "name": "The Thing - P.T. (by Stefano Cagnani)", "start": "5:38:25" }
       ] }
     ]
   },
@@ -3908,6 +3912,10 @@
         { "name": "Симулятор Прыгания по Гаражам", "start": "31:12" },
         { "name": "Creature Lab (демо)", "start": "59:57" },
         { "name": "Who Knocks", "start": "1:47:05" }
+      ] },
+      { "twitch": "1690952607", "subrefs": [
+        { "name": "The Thing", "start": "38:18" },
+        { "name": "The Thing (by PanzerCat)", "start": "3:54:09" }
       ] }
     ]
   },
