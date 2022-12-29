@@ -1166,7 +1166,8 @@
       { "name": "13 (6D)", "twitch": "886277729", "start": "2:32:04" },
       { "name": "14 (6D)", "twitch": "1024777649", "start": "3:04:27" },
       { "name": "15 (4D)", "twitch": "1679659879", "start": "4:38:58" },
-      { "name": "16 (4D)", "twitch": "1688348940,1688400760", "start": "4:59:00" }
+      { "name": "16 (4D)", "twitch": "1688348940,1688400760", "start": "4:59:00" },
+      { "name": "17 (6D)", "twitch": "1691914672", "start": "5:26:00" }
     ]
   },
   {
@@ -3913,10 +3914,16 @@
         { "name": "Creature Lab (демо)", "start": "59:57" },
         { "name": "Who Knocks", "start": "1:47:05" }
       ] },
-      { "twitch": "1690952607", "subrefs": [
-        { "name": "The Thing", "start": "38:18" },
-        { "name": "The Thing (by PanzerCat)", "start": "3:54:09" }
-      ] }
+      { "name": "The Thing (by PanzerCat)", "twitch": "1690952607", "start": "3:54:09" }
+    ]
+  },
+  {
+    "name": "The Thing",
+    "category": "ongoing",
+    "id": "the-thing",
+    "streams": [
+      { "name": "1", "twitch": "1690952607", "start": "38:18" },
+      { "name": "2", "twitch": "1691914672", "start": "34:30" }
     ]
   },
   {
