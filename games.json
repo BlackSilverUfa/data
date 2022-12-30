@@ -2285,7 +2285,8 @@
     "id": "faith",
     "streams": [
       { "name": "Chapter I", "twitch": "1687663796", "start": "3:22:07" },
-      { "name": "Chapter II", "twitch": "1690022559", "start": "4:12:03" }
+      { "name": "Chapter II", "twitch": "1690022559", "start": "4:12:03" },
+      { "name": "Chapter III", "twitch": "1692856301", "start": "2:26:33" }
     ]
   },
   {
@@ -3919,11 +3920,12 @@
   },
   {
     "name": "The Thing",
-    "category": "ongoing",
+    "category": "finished",
     "id": "the-thing",
     "streams": [
       { "name": "1", "twitch": "1690952607", "start": "38:18" },
-      { "name": "2", "twitch": "1691914672", "start": "34:30" }
+      { "name": "2", "twitch": "1691914672", "start": "34:30" },
+      { "name": "3", "twitch": "1692856301", "start": "29:40" }
     ]
   },
   {
