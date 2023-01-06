@@ -3920,6 +3920,15 @@
     ]
   },
   {
+    "name": "Первый взгляд 2023",
+    "category": "first",
+    "id": "first-2023",
+    "type": "list",
+    "streams": [
+      { "name": "Return to Castle Wolfenstein", "twitch": "1699296271", "start": "1:02:46" }
+    ]
+  },
+  {
     "name": "The Thing",
     "category": "finished",
     "id": "the-thing",
