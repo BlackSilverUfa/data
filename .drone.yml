@@ -6,6 +6,9 @@ trigger:
   branch:
   - master
 
+clone:
+  disable: true
+
 steps:
 - name: trigger
   image: plugins/downstream
