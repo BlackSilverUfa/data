@@ -3924,8 +3924,15 @@
     "category": "first",
     "type": "list",
     "id": "first-2023",
+    "streams": []
+  },
+  {
+    "name": "Return to Castle Wolfenstein (RealRTCW)",
+    "category": "finished",
+    "id": "rrtcw",
     "streams": [
-      { "name": "Return to Castle Wolfenstein", "twitch": "1699296271", "start": "1:02:46" }
+      { "name": "1", "twitch": "1699296271", "start": "1:02:46" },
+      { "name": "2", "twitch": "1700264823", "start": "56:19" }
     ]
   },
   {
