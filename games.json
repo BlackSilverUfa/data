@@ -2277,7 +2277,18 @@
         { "name": "The Thing: Station Survival", "start": "18:51" },
         { "name": "The Thing - P.T. (by Stefano Cagnani)", "start": "5:38:25" }
       ] },
-      { "name": "Crimson Snow", "twitch": "1693798502", "start": "1:39:13" }
+      { "name": "Crimson Snow", "twitch": "1693798502", "start": "1:39:13" },
+      { "twitch": "1701325068", "subrefs": [
+        { "name": "September 7th", "start": "32:01" },
+        { "name": "The 9th Charnel (демо)", "start": "1:46:03" },
+        { "name": "Smile", "start": "2:22:08" },
+        { "name": "Input6", "start": "2:28:16" },
+        { "name": "Park Lane", "start": "3:33:03" },
+        { "name": "Elevated Dread", "start": "3:39:50" },
+        { "name": "The Interpid Explorer", "start": "4:15:07" },
+        { "name": "There is Something in the Pipes", "start": "4:38:23" },
+        { "name": "The Maker of Masks", "start": "5:30:49" }
+      ] }
     ]
   },
   {
