@@ -2428,7 +2428,8 @@
     "id": "fears-to-fathom",
     "streams": [
       { "name": "Episode 1 - Home Alone", "twitch": "1091562344", "start": "1:46:54" },
-      { "name": "Episode 2 - Norwood Hitchhike", "twitch": "1258121391" }
+      { "name": "Episode 2 - Norwood Hitchhike", "twitch": "1258121391", "start": "32:44" },
+      { "name": "Episode 3 - Carson House", "twitch": "1703188749", "start": "1:07:18" }
     ]
   },
   {
@@ -3936,7 +3937,16 @@
     "type": "list",
     "id": "first-2023",
     "streams": [
-      { "name": "Wolfenstein", "twitch": "1702266111", "start": "31:09" }
+      
+    ]
+  },
+  {
+    "name": "Wolfenstein",
+    "category": "ongoing",
+    "id": "wolfenstein",
+    "streams": [
+      { "name": "1", "twitch": "1702266111", "start": "31:09" },
+      { "name": "2", "twitch": "1703188749", "start": "3:58:36" }
     ]
   },
   {
