@@ -3942,11 +3942,12 @@
   },
   {
     "name": "Wolfenstein",
-    "category": "ongoing",
+    "category": "finished",
     "id": "wolfenstein",
     "streams": [
       { "name": "1", "twitch": "1702266111", "start": "31:09" },
-      { "name": "2", "twitch": "1703188749", "start": "3:58:36" }
+      { "name": "2", "twitch": "1703188749", "start": "3:58:36" },
+      { "name": "3", "twitch": "1704133402", "start": "13:09" }
     ]
   },
   {
