@@ -2321,7 +2321,7 @@
   },
   {
     "name": "Unusual Findings",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "unusual-findings",
     "streams": [
       { "name": "Демо", "twitch": "1618459269", "start": "3:00:05" },
