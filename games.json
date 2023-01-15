@@ -3946,7 +3946,8 @@
     "type": "list",
     "id": "first-2023",
     "streams": [
-      { "name": "Sanri", "twitch": "1707073235", "start": "1:23:04" }
+      { "name": "Sanri", "twitch": "1707073235", "start": "1:23:04" },
+      { "name": "Barnyard (Рога и копыта)", "twitch": "1708111286", "start": "24:50" }
     ]
   },
   {
