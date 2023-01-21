@@ -3946,8 +3946,16 @@
     "type": "list",
     "id": "first-2023",
     "streams": [
-      { "name": "Sanri", "twitch": "1707073235", "start": "1:23:04" },
-      { "name": "Barnyard (Рога и копыта)", "twitch": "1708111286", "start": "24:50" }
+      { "name": "Sanri", "twitch": "1707073235", "start": "1:23:04" }
+    ]
+  },
+  {
+    "name": "Barnyard (Рога и копыта)",
+    "category": "ongoing",
+    "id": "barnyard",
+    "streams": [
+      { "name": "1", "twitch": "1708111286", "start": "24:50" },
+      { "name": "2", "twitch": "1713959344", "start": "27:18" }
     ]
   },
   {
