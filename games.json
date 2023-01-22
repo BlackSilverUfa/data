@@ -2297,6 +2297,12 @@
         { "name": "Dead Man's Fault", "start": "4:25:50" },
         { "name": "Where's Mom?", "start": "4:53:01" },
         { "name": "Within", "start": "5:32:59" }
+      ] },
+      { "twitch": "1715060185", "subrefs": [
+        { "name": "No Strings Attached", "start": "2:05:32" },
+        { "name": "Bram The Toymaker", "start": "2:28:42" },
+        { "name": "Agora", "start": "3:41:38" },
+        { "name": "Lake Haven: Chrysalis", "start": "4:25:09" }
       ] }
     ]
   },
@@ -3946,7 +3952,8 @@
     "type": "list",
     "id": "first-2023",
     "streams": [
-      { "name": "Sanri", "twitch": "1707073235", "start": "1:23:04" }
+      { "name": "Sanri", "twitch": "1707073235", "start": "1:23:04" },
+      { "name": "Jawbreaker (демо)", "twitch": "1715060185", "start": "35:49" }
     ]
   },
   {
