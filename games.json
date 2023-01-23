@@ -3967,11 +3967,12 @@
   },
   {
     "name": "Alone in the Dark: Inferno",
-    "category": "ongoing",
+    "category": "finished",
     "id": "aitd",
     "streams": [
       { "name": "1", "twitch": "1711981237", "start": "35:32" },
-      { "name": "2", "twitch": "1712949815", "start": "17:21" }
+      { "name": "2", "twitch": "1712949815", "start": "17:21" },
+      { "name": "3", "twitch": "1716026704", "start": "26:00" }
     ]
   },
   {
