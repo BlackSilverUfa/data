@@ -3928,7 +3928,6 @@
       ] },
       { "name": "Need for Speed Unbound", "twitch": "1665724993", "start": "20:14" },
       { "name": "Do Not Open", "twitch": "1667371234", "start": "52:02" },
-      { "name": "Forspoken (демо)", "twitch": "1674396025", "start": "2:44:31" },
       { "name": "The Witcher 3: Wild Hunt", "twitch": "1678795130", "start": "20:37" },
       { "twitch": "1682351697", "subrefs": [
         { "name": "Stay Still (демо)", "start": "44:27" },
@@ -3944,6 +3943,15 @@
         { "name": "Who Knocks", "start": "1:47:05" }
       ] },
       { "name": "The Thing (by PanzerCat)", "twitch": "1690952607", "start": "3:54:09" }
+    ]
+  },
+  {
+    "name": "Forspoken",
+    "category": "ongoing",
+    "id": "forspoken",
+    "streams": [
+      { "name": "Демо", "twitch": "1674396025", "start": "2:44:31" },
+      { "name": "Релиз", "twitch": "1716951120", "start": "9:43" }
     ]
   },
   {
