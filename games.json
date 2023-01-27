@@ -5872,7 +5872,16 @@
     "streams": [
       { "name": "1", "twitch": "536349138" },
       { "name": "2", "twitch": "537340056" },
-      { "name": "3", "twitch": "542613780" }
+      { "name": "3", "twitch": "542613780" },
+      { "name": "Перед Remake", "twitch": "1719885871", "start": "13:38" }
+    ]
+  },
+  {
+    "name": "Dead Space Remake",
+    "category": "ongoing",
+    "id": "dead-space-remake",
+    "streams": [
+      { "name": "1", "twitch": "1719885871", "start": "3:04:11" }
     ]
   },
   {
