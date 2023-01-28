@@ -5881,7 +5881,8 @@
     "category": "ongoing",
     "id": "dead-space-remake",
     "streams": [
-      { "name": "1", "twitch": "1719885871", "start": "3:04:11" }
+      { "name": "1", "twitch": "1719885871", "start": "3:04:11" },
+      { "name": "2", "twitch": "1720890176", "start": "9:03" }
     ]
   },
   {
