@@ -2303,6 +2303,10 @@
         { "name": "Bram The Toymaker", "start": "2:28:42" },
         { "name": "Agora", "start": "3:41:38" },
         { "name": "Lake Haven: Chrysalis", "start": "4:25:09" }
+      ] },
+      { "twitch": "1725890606", "subrefs": [
+        { "name": "Heart Attack", "start": "1:41:59" },
+        { "name": "The Director's Disorder: Pilot Episode", "start": "3:10:30" }
       ] }
     ]
   },
@@ -3963,7 +3967,12 @@
       { "name": "Sanri", "twitch": "1707073235", "start": "1:23:04" },
       { "name": "Jawbreaker (демо)", "twitch": "1715060185", "start": "35:49" },
       { "name": "Hi-Fi Rush", "twitch": "1718922216", "start": "59:02" },
-      { "name": "SpongeBob SquarePants: The Cosmic Shake", "twitch": "1723929865", "start": "32:45" }
+      { "name": "SpongeBob SquarePants: The Cosmic Shake", "twitch": "1723929865", "start": "32:45" },
+      { "twitch": "1725890606", "subrefs": [
+        { "name": "Robotization: The Last Human (демо)", "start": "2:12:26" },
+        { "name": "Arrogation: Unlight of Day", "start": "4:17:53" },
+        { "name": "NOX: Chapter I", "start": "5:16:15" }
+      ] }
     ]
   },
   {
