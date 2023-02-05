@@ -2307,6 +2307,13 @@
       { "twitch": "1725890606", "subrefs": [
         { "name": "Heart Attack", "start": "1:41:59" },
         { "name": "The Director's Disorder: Pilot Episode", "start": "3:10:30" }
+      ] },
+      { "twitch": "1728992336", "subrefs": [
+        { "name": "Chilla's Art Complete Pack - The Karaoke", "start": "37:47" },
+        { "name": "Interior Worlds (демо)", "start": "2:00:10" },
+        { "name": "Project Code: Dark (демо)", "start": "3:32:43" },
+        { "name": "Cannibal Abduction", "start": "3:51:47" },
+        { "name": "Dias Felices", "start": "5:24:26" }
       ] }
     ]
   },
@@ -2385,7 +2392,8 @@
         { "name": "Poop Killer: Origins", "start": "1:28:21" },
         { "name": "Legend Hunters", "start": "2:34:48" }
       ] },
-      { "name": "Poop Killer 5", "twitch": "1663155573", "start": "5:06:15" }
+      { "name": "Poop Killer 5", "twitch": "1663155573", "start": "5:06:15" },
+      { "name": "Poop Killer 6", "twitch": "1728992336", "start": "2:50:02" }
     ]
   },
   {
@@ -3974,6 +3982,10 @@
         { "name": "Robotization: The Last Human (демо)", "start": "2:12:26" },
         { "name": "Arrogation: Unlight of Day", "start": "4:17:53" },
         { "name": "NOX: Chapter I", "start": "5:16:15" }
+      ] },
+      { "twitch": "1728992336", "subrefs": [
+        { "name": "Holstin (демо)", "start": "2:22:09" },
+        { "name": "In The Mountains", "start": "3:20:10" }
       ] }
     ]
   },
