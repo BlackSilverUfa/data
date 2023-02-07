@@ -3986,8 +3986,16 @@
       { "twitch": "1728992336", "subrefs": [
         { "name": "Holstin (демо)", "start": "2:22:09" },
         { "name": "In The Mountains", "start": "3:20:10" }
-      ] },
-      { "name": "Hogwarts Legacy", "twitch": "1729899835", "start": "20:04" }
+      ] }
+    ]
+  },
+  {
+    "name": "Hogwarts Legacy",
+    "category": "ongoing",
+    "id": "hogwarts",
+    "streams": [
+      { "name": "1", "twitch": "1729899835", "start": "20:04" },
+      { "name": "2", "twitch": "1730836289", "start": "7:15" }
     ]
   },
   {
