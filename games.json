@@ -3986,6 +3986,10 @@
       { "twitch": "1728992336", "subrefs": [
         { "name": "Holstin (демо)", "start": "2:22:09" },
         { "name": "In The Mountains", "start": "3:20:10" }
+      ] },
+      { "twitch": "1738806096,1739001121", "subrefs": [
+        { "name": "Wanted: Dead", "start": "1:03:21" },
+        { "name": "Wild Hearts", "start": "3:45:01" }
       ] }
     ]
   },
