@@ -104,7 +104,7 @@
   "001605120": { "youtube": "YY5W9QZwTms", "official": false },
   "001605140": { "youtube": "Y-crlryfFtQ", "official": false },
   "001605141": { "youtube": "TrXcVDIlexw", "official": false },
-  "001605240": { "youtube": "-_9vZHF-plc" },
+  "001605240": { "youtube": "-_9vZHF-plc", "official": false },
   "001605270": { "youtube": "PcBR7_DPG3A", "official": false },
   "001605310": { "youtube": "wtig_YaME6A", "official": false },
   "001607030": { "youtube": "gU8s-7orIqU", "official": false },
@@ -965,7 +965,7 @@
     { "youtube": "znELEgrlTEM", "offset": "1:29:03" }
   ],
   "445389664": { "youtube": "Kjt2l84NcH0" },
-  "445866715": { "youtube": "7JUe2fr4qy0" },
+  "445866715": { "youtube": "7JUe2fr4qy0", "official": false },
   "447694923": [
     { "youtube": "iAa4VBV3o6E" },
     { "youtube": "weHIVcz_ib4", "offset": "3:09:13" }
@@ -1042,7 +1042,7 @@
     { "youtube": "I-bvHcO5kt8", "offset": "1:55:22", "official": false }
   ],
   "485786489": { "youtube": "-cBM69p_PrA", "official": false },
-  "487490676": { "youtube": "dh9AyaB4U2A" },
+  "487490676": { "youtube": "dh9AyaB4U2A", "official": false },
   "487949971": {
     "youtube": "5elTBqMfyEU", "official": false,
     "note": "<a href=\"https://youtu.be/R4PF6jqv2nw\">Официальная запись</a> заблокирована 26 июня 2021."
@@ -2143,5 +2143,6 @@
   },
   "1748670859": {  },
   "1750602082": {  },
-  "1751502984": {  }
+  "1751502984": {  },
+  "1752454738": { "source_cuts": ["7:16:19~7:16:50"] }
 }
