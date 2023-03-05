@@ -343,7 +343,7 @@
   "233032380": [
     { "youtube": "4q-FGOYnXPk" },
     { "youtube": "U8seqd_gNo4", "offset": "1:49:06" },
-    { "youtube": "IBDhRIYPURI", "offset": "3:32:56" }
+    { "direct": "https://bsufiles.drhx.ru/streams/233032380.2.mp4", "offset": "3:32:56" }
   ],
   "233355849": [
     { "youtube": "J-ExEwSLDiE" },
@@ -413,7 +413,7 @@
   "259798230": { "youtube": "aO1vU8MX33I", "offset": "-0:05" },
   "260173384": { "youtube": "4E1DlNdCh-8", "offset": "-0:04" },
   "260957900": { "youtube": "iELyHG4xwzg", "official": false },
-  "262352362": { "youtube": "B_TKtcBTHRI", "official": false },
+  "262352362": {  },
   "262696959": [
     { "youtube": "cLYassVF_zw", "offset": "13:59" },
     { "youtube": "9_im59hQ0Xw", "offset": "2:15:18" }
@@ -694,7 +694,7 @@
   "352687063": { "youtube": "oH8e8UEV9no", "official": false },
   "352766083": { "youtube": "y4Xetg-Q0-w", "official": false },
   "353211576": { "youtube": "NPzMdwc1H2k" },
-  "354067956": { "youtube": "lVLsdWSH_h0" },
+  "354067956": {  },
   "354466172": { "youtube": "OoU4tQ0ekn0" },
   "355395099": { "youtube": "PEUt1biWhLc" },
   "355865035": { "youtube": "qmNfP-HfJfw", "official": false },
@@ -765,7 +765,7 @@
     { "youtube": "Bm5h_D_suCs", "offset": "28:21" },
     { "youtube": "JUTKs7F5Ouk", "offset": "2:50:08" }
   ],
-  "373942448": { "youtube": "ogq6iAV3TUE", "offset": "-0:08" },
+  "373942448": {  },
   "374556455": {
     "youtube": "QtYbiPMm2ME", "official": false,
     "note": "<a href=\"https://youtu.be/c4INB7FN5CM\">Официальную запись</a> невозможно использовать на этом сайте из-за возрастных ограничений"
@@ -880,7 +880,7 @@
   ],
   "420724646": { "youtube": "A4CzcnxUfR8" },
   "422048555": { "youtube": "E7XyhyPvORg" },
-  "422486024": { "youtube": "VEoMopOTvGg" },
+  "422486024": {  },
   "423369283": [
     { "youtube": "dWelI2WV9lo" },
     {
@@ -1039,7 +1039,7 @@
     { "youtube": "I-bvHcO5kt8", "offset": "1:55:22", "official": false }
   ],
   "485786489": { "youtube": "-cBM69p_PrA", "official": false },
-  "487490676": { "youtube": "dh9AyaB4U2A", "official": false },
+  "487490676": {  },
   "487949971": {
     "youtube": "5elTBqMfyEU", "official": false,
     "note": "<a href=\"https://youtu.be/R4PF6jqv2nw\">Официальная запись</a> заблокирована 26 июня 2021."
@@ -1071,13 +1071,13 @@
   "497590135": { "youtube": "L2Ett7tGTIw", "official": false },
   "498426882": { "youtube": "fY2AWBzw7mQ" },
   "498846687": { "youtube": "UYmB5rE6jmI" },
-  "499849877": { "youtube": "6Mr_NAsML4w", "official": false },
+  "499849877": {  },
   "500334713": { "youtube": "mUcq4SdJRo8" },
   "500788270": { "youtube": "4splAQ7IFTs" },
   "502082379": { "youtube": "NdpY2nQdC8c", "offset": "-0:07" },
   "502487271": { "youtube": "zDDRb0wzB-s" },
   "502940448": { "youtube": "CKJFAXtqNYw", "official": false },
-  "503413959": { "youtube": "DM_p50DgDUM", "official": false },
+  "503413959": {  },
   "504248004": { "youtube": "oVtpzVXs2Qw" },
   "504672487": { "youtube": "Ag8LclImehU" },
   "505477026": { "youtube": "jK18BPXIKWE", "offset": "-0:07" },
@@ -1096,14 +1096,14 @@
   "513964498": { "youtube": "4yvxCzK-gfc" },
   "514393833": { "youtube": "N41WAm4PNlI" },
   "516508179": { "youtube": "w8nJdnXrSJU" },
-  "516941489": { "youtube": "UFBXzQ4vl1I", "official": false },
-  "517802976": { "youtube": "Hfw7TqQOxVo", "official": false },
+  "516941489": {  },
+  "517802976": {  },
   "518306588": { "youtube": "AK1CYqvyHIc" },
   "518751002": { "youtube": "gJO6G7Uc0IY" },
   "519609666": { "youtube": "53_URt94pg8" },
   "520025510": [
     { "youtube": "VWO7aKQg1hY" },
-    { "youtube": "zUhQs9S7eMk", "offset": "2:56:04", "official": false }
+    { "direct": "https://bsufiles.drhx.ru/streams/520025510.1.mp4", "offset": "2:56:04" }
   ],
   "520877239": { "youtube": "a6KZKvd853M" },
   "521336731": { "youtube": "HyL3c-0QomY" },
@@ -1112,8 +1112,8 @@
   "523121734": { "youtube": "k_6_SsfSmlM" },
   "523968481": { "youtube": "9NLDRfKPMKg", "official": false },
   "524415764": [
-    { "youtube": "JHKz63TlQDA", "official": false },
-    { "youtube": "WQmP4j4GFo8", "offset": "2:05:09", "official": false }
+    {  },
+    { "direct": "https://bsufiles.drhx.ru/streams/524415764.1.mp4", "offset": "2:05:09" }
   ],
   "524865260": { "youtube": "Do6LKdxoE-k", "offset": "-0:05" },
   "525744926": { "youtube": "zx1dANJ3KnM" },
@@ -1128,16 +1128,16 @@
   "531327327": {  },
   "532342982": { "youtube": "P9H7zaD1juw" },
   "532787117": { "youtube": "7BwEYyVi1YU" },
-  "533269694": { "youtube": "wqaPnxizceM", "official": false },
+  "533269694": {  },
   "533755753": { "youtube": "AN7xJO44nxM" },
   "534301966": { "youtube": "yky_-3I336M" },
   "534316789": { "youtube": "BTcUOakBZJ0", "official": false },
-  "535374681": { "youtube": "zfXgarhT6oE", "official": false },
+  "535374681": {  },
   "535873254": { "youtube": "lPiTS74Qw54", "cuts": ["42:57~43:54"] },
   "536349138": { "youtube": "kUR7ZUNoudg" },
   "537340056": { "youtube": "iGIMaIchmJ8" },
   "538458255": { "youtube": "ZS1s9HfA7_s", "official": false },
-  "542106142": { "youtube": "HRjTiFcRFSw", "official": false },
+  "542106142": {  },
   "542613780": { "youtube": "mUQJ1Nr5svY" },
   "543096330": { "youtube": "Kyw6xjOtt-E" },
   "543591605": { "youtube": "89l4A8G7NAQ" },
@@ -1145,7 +1145,7 @@
   "545136550": { "youtube": "zPPB2lKx7sE", "official": false },
   "545709814": { "youtube": "GuhIfvrEh0I" },
   "546672311": { "youtube": "1Vvuwf6-AzU", "cuts": ["26:35~26:50", "27:01~28:45"] },
-  "547176657": { "youtube": "N-ZURUWlVK0", "official": false },
+  "547176657": {  },
   "548170121": { "youtube": "4U4FcuihhrE" },
   "548730617": { "youtube": "mLBR5cNTWmQ" },
   "549258537": { "youtube": "53NWqWikem0" },
@@ -1158,7 +1158,7 @@
   "552313454": { "youtube": "6GiCJfQXLQ0" },
   "552876850": { "youtube": "PaREfiJNcmw" },
   "553926728": { "youtube": "UrNnQwJZieY" },
-  "554432443": { "youtube": "qYxVPDHlrDs", "official": false },
+  "554432443": {  },
   "555473037": { "youtube": "eEB_n5KHBcI" },
   "556030369": { "youtube": "gCwrKi8R9wI" },
   "556596083": { "youtube": "na9adsWSpNI" },
@@ -1219,7 +1219,7 @@
   "606017953": { "youtube": "8E7LMazl7Ag", "official": false },
   "607002083": { "youtube": "VOJ78hs1zdU" },
   "608001507": { "youtube": "wxO2lFL5ZdM" },
-  "610027262": { "youtube": "xy9k6DNpZms", "official": false },
+  "610027262": {  },
   "610935319": { "youtube": "dz-qfoPYopM" },
   "611858028": { "youtube": "ZCzzHlDl4uU" },
   "612822436": { "youtube": "7HlE9DirUm4" },
@@ -1326,7 +1326,7 @@
     "offsets": ["0:00", "5:05:40"],
     "note": "Стрим падал 3 раза. 2 части склеены в одну запись. 1 часть длиной 50 секунд отброшена."
   },
-  "729970116": { "youtube": "tG703ZdrgUs", "official": false },
+  "729970116": {  },
   "731025039": { "youtube": "QqnudzNJqKs", "official": false },
   "733113254": { "youtube": "cJHElfSWazw", "official": false },
   "734046513": { "youtube": "_qQ2GXWV8to", "official": false },
@@ -1726,7 +1726,7 @@
   "1163417606": { "youtube": "-Cle9LpAJkk" },
   "1164327068": { "youtube": "oN6IvU2pjYQ" },
   "1166311485": { "youtube": "IMu9yLojqKI" },
-  "1167157790": { "youtube": "yZWGYBhY7Kc" },
+  "1167157790": {  },
   "1168006082": { "youtube": "sSXZNcd6Xkk" },
   "1168913564": { "youtube": "veiAHEMnkyE", "source_cuts": ["5:53:40~5:53:51"] },
   "1169865722": { "youtube": "VDP56Y_Z8-I" },
@@ -1771,7 +1771,7 @@
     "youtube": "_LU4gPiID_s", "official": false,
     "offsets": ["0:00", "3:59:35"]
   },
-  "1206191026": { "youtube": "AJBtaawXqPc", "source_cuts": ["4:09:18~4:09:53"], "official": false },
+  "1206191026": { "source_cuts": ["4:09:18~4:09:53"] },
   "1207047094": { "youtube": "htqZL7EVZWo" },
   "1207997756": { "youtube": "G0JP9coh8rU", "official": false },
   "1208881098": {  },
@@ -2084,7 +2084,7 @@
     "offsets": ["0:00", "2:01:16"]
   },
   "1689107812": { "youtube": "IeRwJV075Qc" },
-  "1690022559": { "youtube": "W1uP8zuIHwc" },
+  "1690022559": {  },
   "1690952607": { "youtube": "ie7mhq6w0XM", "source_cuts": ["1:00:21~1:00:52"] },
   "1691914672": { "youtube": "UjWFhBSRvPk", "source_cuts": ["5:12:55~5:13:14"] },
   "1692856301": { "youtube": "heC3gDEQjn8" },
