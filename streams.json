@@ -343,7 +343,10 @@
   "233032380": [
     { "youtube": "4q-FGOYnXPk" },
     { "youtube": "U8seqd_gNo4", "offset": "1:49:06" },
-    { "direct": "https://bsufiles.drhx.ru/streams/233032380.2.mp4", "offset": "3:32:56" }
+    {
+      "offset": "3:32:56",
+      "direct": "https://bsufiles.drhx.ru/streams/233032380.2.mp4"
+    }
   ],
   "233355849": [
     { "youtube": "J-ExEwSLDiE" },
@@ -694,7 +697,7 @@
   "352687063": { "youtube": "oH8e8UEV9no", "official": false },
   "352766083": { "youtube": "y4Xetg-Q0-w", "official": false },
   "353211576": { "youtube": "NPzMdwc1H2k" },
-  "354067956": {  },
+  "354067956": { "youtube": "lVLsdWSH_h0" },
   "354466172": { "youtube": "OoU4tQ0ekn0" },
   "355395099": { "youtube": "PEUt1biWhLc" },
   "355865035": { "youtube": "qmNfP-HfJfw", "official": false },
@@ -1103,7 +1106,10 @@
   "519609666": { "youtube": "53_URt94pg8" },
   "520025510": [
     { "youtube": "VWO7aKQg1hY" },
-    { "direct": "https://bsufiles.drhx.ru/streams/520025510.1.mp4", "offset": "2:56:04" }
+    {
+      "offset": "2:56:04",
+      "direct": "https://bsufiles.drhx.ru/streams/520025510.1.mp4"
+    }
   ],
   "520877239": { "youtube": "a6KZKvd853M" },
   "521336731": { "youtube": "HyL3c-0QomY" },
@@ -1113,7 +1119,10 @@
   "523968481": { "youtube": "9NLDRfKPMKg", "official": false },
   "524415764": [
     {  },
-    { "direct": "https://bsufiles.drhx.ru/streams/524415764.1.mp4", "offset": "2:05:09" }
+    {
+      "offset": "2:05:09",
+      "direct": "https://bsufiles.drhx.ru/streams/524415764.1.mp4"
+    }
   ],
   "524865260": { "youtube": "Do6LKdxoE-k", "offset": "-0:05" },
   "525744926": { "youtube": "zx1dANJ3KnM" },
