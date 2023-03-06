@@ -9204,9 +9204,15 @@
       "4:12:41~4:15:56": "Michael Jackson - Billie Jean",
       "4:25:07~4:26:41": "Luther Vandross - Never Too Much",
       "5:07:00~5:07:10": "Herbie Hancock - Rockit",
-      "1:46:19~1:49:07": "Whodini - Magic's Wand",
+      "Whodini - Magic's Wand": [
+        "1:46:19~1:49:07",
+        "1:50:17~1:50:31"
+      ],
       "3:56:29~3:57:50": "Daryl Hall & John Oates - Out of Touch",
-      "5:11:01~5:12:23": "Electric Light Orchestra - Four Little Diamonds",
+      "Electric Light Orchestra - Four Little Diamonds": [
+        "1:51:09~1:51:58",
+        "5:11:01~5:12:23"
+      ],
       "2:19:21~2:23:08": "Michael Jackson - Wanna Be Startin' Somethin'"
     },
     "26:04": "Игра",
@@ -9248,7 +9254,10 @@
         "5:39:37~5:40:19",
         "5:52:10~5:53:27"
       ],
-      "43:58~48:08": "The Pointer Sisters - Automatic",
+      "The Pointer Sisters - Automatic": [
+        "43:58~48:08",
+        "4:48:15~4:49:30"
+      ],
       "5:48:21~5:49:57": "Michael Jackson - Wanna Be Startin' Somethin'"
     },
     "58:20": "Повар 4-го разряда",
