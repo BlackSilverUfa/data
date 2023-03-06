@@ -512,7 +512,10 @@
   "282238591": { "youtube": "ZalbkucX4hM", "offset": "-0:04" },
   "282977516": { "youtube": "X7xa1MJaHog", "offset": "-0:04" },
   "283350700": { "youtube": "u-HsuKCN8TQ", "offset": "-0:04" },
-  "284156303": { "direct": "https://bsufiles.drhx.ru/streams/284156303.mp4", "offset": "-0:04" },
+  "284156303": {
+    "offset": "-0:04",
+    "direct": "https://bsufiles.drhx.ru/streams/284156303.mp4"
+  },
   "284560594": { "youtube": "VlB8waV0ec4", "offset": "-0:06" },
   "284955107": { "youtube": "Oj_bRJmuIzY", "offset": "-0:06" },
   "285753398": {
@@ -1134,7 +1137,7 @@
   "528406911": { "youtube": "J7r3In6EKk4" },
   "528855659": { "youtube": "KF2fTvS_VlA", "official": false },
   "530784764": { "youtube": "mgK_Gc33JQw" },
-  "531327327": {  },
+  "531327327": { "youtube": "XJwNGpxN4Eo", "official": false },
   "532342982": { "youtube": "P9H7zaD1juw" },
   "532787117": { "youtube": "7BwEYyVi1YU" },
   "533269694": {  },
