@@ -2010,7 +2010,6 @@
         { "name": "Redundancy", "start": "2:07:25" },
         { "name": "Re:Turn (демо)", "start": "4:16:10" }
       ] },
-      { "name": "Contraband Police (демо)", "twitch": "749640613" },
       { "name": "Xuan-Yuan Sword VII (демо)", "twitch": "767249770" },
       { "name": "Amnesia: Rebirth", "twitch": "775167526,776153173" },
       { "name": "Harry Potter and the Sorcerer's Stone", "twitch": "779201810" },
@@ -2337,6 +2336,15 @@
         { "name": "Parasomnia", "start": "1:56:33" },
         { "name": "The Building 71 Incident", "start": "2:27:35" }
       ] }
+    ]
+  },
+  {
+    "name": "Contraband Police",
+    "category": "ongoing",
+    "id": "contraband-police",
+    "streams": [
+      { "name": "Демо", "twitch": "749640613", "start": "19:24" },
+      { "name": "Релиз", "twitch": "1758170289", "start": "2:57:52" }
     ]
   },
   {
