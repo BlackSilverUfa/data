@@ -2335,6 +2335,12 @@
         { "name": "TRONIT: Evade Red", "start": "1:32:00" },
         { "name": "Parasomnia", "start": "1:56:33" },
         { "name": "The Building 71 Incident", "start": "2:27:35" }
+      ] },
+      { "twitch": "1759103392", "subrefs": [
+        { "name": "Подводный роман", "start": "54:03" },
+        { "name": "Овощи", "start": "1:11:35" },
+        { "name": "Парень, который мне нравится?", "start": "1:33:36" },
+        { "name": "Jurassic Heart", "start": "1:55:52" }
       ] }
     ]
   },
@@ -4036,6 +4042,10 @@
       { "twitch": "1748670859", "subrefs": [
         { "name": "Outstand: Episode 1", "start": "1:14:07" },
         { "name": "28 Pixels Later", "start": "2:55:08" }
+      ] },
+      { "twitch": "1759103392", "subrefs": [
+        { "name": "I Love You, Colonel Sanders!", "start": "2:12:24" },
+        { "name": "Hatoful Boyfriend", "start": "2:21:01" }
       ] }
     ]
   },
