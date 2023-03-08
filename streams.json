@@ -343,10 +343,7 @@
   "233032380": [
     { "youtube": "4q-FGOYnXPk" },
     { "youtube": "U8seqd_gNo4", "offset": "1:49:06" },
-    {
-      "offset": "3:32:56",
-      "direct": "https://bsufiles.drhx.ru/streams/233032380.2.mp4"
-    }
+    { "youtube": "F-LZln0bCGw", "offset": "3:32:56", "official": false }
   ],
   "233355849": [
     { "youtube": "J-ExEwSLDiE" },
