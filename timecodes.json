@@ -137,8 +137,8 @@
       "2:10:29~2:17:52"
     ],
     "Проблемы с правообладателями": {
-      "4:12:11~4:13:36": "a-ha - Take on Me",
-      "2:34:44~2:36:03": "Japan - Quiet Life"
+      "2:34:44~2:36:03": "Japan - Quiet Life",
+      "4:12:11~4:13:36": "a-ha - Take on Me"
     }
   },
   "001509120": {
@@ -425,17 +425,17 @@
       "1:17:14~1:40:42",
       "2:49:51~3:03:26"
     ],
-    "4:41:39": "Арты",
     "Проблемы с правообладателями": {
-      "Darude - Sandstorm": [
-        "2:57:57~2:58:09",
-        "2:59:32~3:01:48"
-      ],
       "Perry Como - Papa Loves Mambo": [
         "2:50:11~2:52:50",
         "4:40:57~4:43:36"
+      ],
+      "Darude - Sandstorm": [
+        "2:57:57~2:58:09",
+        "2:59:32~3:01:48"
       ]
-    }
+    },
+    "4:41:39": "Арты"
   },
   "001601260": {
     "2:13": "Стримлеры",
@@ -460,10 +460,10 @@
       "2:00:16~2:09:08",
       "4:04:28~4:18:26"
     ],
-    "5:08:43": "Арты",
     "Проблемы с правооблададелями": {
       "4:15:05~4:17:29": "Perry Como - Papa Loves Mambo"
-    }
+    },
+    "5:08:43": "Арты"
   },
   "001602060": {
     "1:40": "Меню",
@@ -669,8 +669,8 @@
     "12:00": "Джек",
     "13:16": "Игра",
     "Проблемы с правообладателями": {
-      "3:51:05~3:53:36": "Perry Como - Papa Loves Mambo",
-      "1:50:00~1:50:12": "Darude - Sandstorm"
+      "1:50:00~1:50:12": "Darude - Sandstorm",
+      "3:51:05~3:53:36": "Perry Como - Papa Loves Mambo"
     }
   },
   "001605140": {
@@ -686,10 +686,10 @@
     "4:00": "+уши",
     "Проблемы с правообладателями": {
       "4:01~8:31": "Aerosmith - Fly Away From Here",
+      "32:24~34:03": "Darude - Sandstorm",
       "1:10:29~1:12:07": "Gipsy Kings - Bamboleo",
       "2:26:18~2:27:58": "George Michael - Careless Whisper",
       "2:42:21~2:44:00": "Perry Como - Papa Loves Mambo",
-      "32:24~34:03": "Darude - Sandstorm",
       "4:36:13~4:39:22": "Scooter - Fire"
     },
     "20:36": "Игра",
@@ -706,10 +706,10 @@
     "2:04": "Артур",
     "8:34": "Игра",
     "27:10": "Джек",
-    "4:01:15": "Арты",
     "Проблемы с правообладателями": {
       "2:11:41~2:15:01": "\"Weird Al\" Yankovic - Hardware Store"
-    }
+    },
+    "4:01:15": "Арты"
   },
   "001605310": {
     "4:00": "+уши",
@@ -724,11 +724,11 @@
       "1:01:18": "Игра",
       "1:53:49~1:58:03": "Отвёртка Джек"
     },
-    "4:13:03": "Арты",
     "Проблемы с правообладателями": {
       "3:18:31~3:21:15": "David Arnold - The Name's Bond... James Bond",
       "3:28:47~3:32:02": "Ray Parker Jr. - Ghostbusters"
-    }
+    },
+    "4:13:03": "Арты"
   },
   "001607030": {
     "5:09": "Стримлер",
@@ -883,8 +883,8 @@
         "4:34:23~4:35:57"
       ],
       "4:51:40~4:52:30": "Eddie Floyd - Knock On Wood",
-      "5:45:22~5:49:29": "Janis Joplin - Piece of My Heart",
-      "5:22:54~5:23:05": "Sam Cooke - Another Saturday Night"
+      "5:22:54~5:23:05": "Sam Cooke - Another Saturday Night",
+      "5:45:22~5:49:29": "Janis Joplin - Piece of My Heart"
     },
     "11:57": "Интро",
     "16:02": "Игра",
@@ -894,10 +894,10 @@
   "001610100": {
     "Проблемы с правообладателями": {
       "0:00~4:04": "Janis Joplin - Piece of My Heart",
+      "1:16:39~1:18:15": "Sam Cooke - Another Saturday Night",
       "2:32:07~2:33:04": "[данные удалены]",
       "3:01:27~3:02:20": "Johnny Cash - Ring of Fire",
-      "3:18:25~3:21:20": "Jimi Hendrix - All Along The Watchtower",
-      "1:16:39~1:18:15": "Sam Cooke - Another Saturday Night"
+      "3:18:25~3:21:20": "Jimi Hendrix - All Along The Watchtower"
     },
     "4:55": "Меню",
     "4:59": "Игра",
@@ -3002,12 +3002,12 @@
     "14:58": "Prey",
     "2:18:26": "Sinner",
     "3:00:44": "Trigger",
+    "Проблемы с правообладателями": {
+      "3:06:32~3:08:23": "Overseer - Doomsday (Album Version)"
+    },
     "3:15:14": "Shining Hotel: Lost in Nowhere",
     "3:37:22": "Midnight Awake",
-    "4:46:56": "Pamali",
-    "Проблемы с правообладателями": {
-      "03:06:32~03:08:23": "Overseer - Doomsday (Album Version)"
-    }
+    "4:46:56": "Pamali"
   },
   "276606545": {
     "11:07": "Трейлер Overwhelm",
@@ -3040,10 +3040,10 @@
       "5:00:18": "Сиф, Великий Волк"
     },
     "Проблемы с правообладателями": {
+      "1:38:30~1:45:57": "Daryl Hall & John Oates - Out of Touch",
       "2:37:50~2:39:57": "Roger Whittaker - New World in the Morning",
       "2:50:34~2:55:50": "Музыка удалена средствами YouTube",
-      "3:33:29~3:36:43": "Good Charlotte - Break Apart Her Heart",
-      "1:38:30~1:45:57": "Daryl Hall & John Oates - Out of Touch"
+      "3:33:29~3:36:43": "Good Charlotte - Break Apart Her Heart"
     }
   },
   "277440900": {
@@ -3146,6 +3146,9 @@
   },
   "284156303": {
     "1:28": "<a href=\"https://youtu.be/aFNfnD_snwo\">Lori Anger - Миньоны Блэка</a>",
+    "Проблемы с правообладателями": {
+      "14:50~15:21": "Jay Smith - Like A Prayer"
+    },
     "35:58": "Drunk-Fu: Wasted Masters (кооп не найден)",
     "Depth": {
       "51:11": "Поиски коопа",
@@ -3173,9 +3176,6 @@
     "Golf It!": {
       "4:15:10": "Поиски коопа",
       "4:18:25": "Кооп найден"
-    },
-    "Проблемы с правообладателями": {
-      "14:50~15:21": "Jay Smith - Like A Prayer"
     }
   },
   "284560594": {
@@ -4702,6 +4702,9 @@
       "29:04": "Astartes",
       "33:51": "Catherine"
     },
+    "Проблемы с правообладателями": {
+      "24:11~24:29": "Alice In Chains - Would?"
+    },
     "Resident Evil 2": {
       "36:24": "Меню",
       "37:33": "Интро",
@@ -4711,9 +4714,6 @@
       "4:19:04": "Меню",
       "4:20:06": "Первое прохождение",
       "4:50:31": "Второй заход"
-    },
-    "Проблемы с правообладателями": {
-      "24:11~24:29": "Alice In Chains - Would?"
     }
   },
   "362701428": {
@@ -6159,18 +6159,18 @@
       "9:42": "Меню",
       "10:22": "Игра"
     },
-    "Jump King": {
-      "1:37:07": "Меню",
-      "1:37:31": "Игра"
-    },
     "Проблемы с правообладателями": {
       "Journey - Separate Ways (Worlds Apart)": [
         "1:23:36~1:25:20",
         "1:27:06~1:28:01"
       ],
+      "1:25:20~1:27:08": "Journey - Separate Ways (Worlds Apart)",
       "1:42:22~1:46:07": "Pearl Jam - Do the Evolution",
-      "1:52:51~1:56:49": "Boney M. - Rasputin",
-      "1:25:20~1:27:08": "Journey - Separate Ways (Worlds Apart)"
+      "1:52:51~1:56:49": "Boney M. - Rasputin"
+    },
+    "Jump King": {
+      "1:37:07": "Меню",
+      "1:37:31": "Игра"
     },
     "3:18:32~3:23:07": "Перевод денег на счет фонда",
     "3:24:22": "+уши"
@@ -7157,7 +7157,7 @@
       "1:24:50~1:29:15": "Rammstein - Ausländer",
       "2:15:58~2:19:48": "TK from 凛として時雨 - unravel",
       "2:23:20~2:26:58": "Не указано",
-      "03:35:01~03:38:45": "Scooter - How Much Is The Fish?"
+      "3:35:01~3:38:45": "Scooter - How Much Is The Fish?"
     },
     "Dead by Daylight": {
       "1:07:32": "Меню",
@@ -7344,8 +7344,8 @@
         "43:27~45:58",
         "2:40:44~2:43:19"
       ],
-      "2:21:50~2:25:43": "BABYMETAL - PA PA YA!!",
-      "1:03:03~1:05:47": "David Arnold - The Name's Bond... James Bond"
+      "1:03:03~1:05:47": "David Arnold - The Name's Bond... James Bond",
+      "2:21:50~2:25:43": "BABYMETAL - PA PA YA!!"
     },
     "Duck Season": {
       "2:57:43": "Меню",
@@ -8176,25 +8176,25 @@
       "4:17:51": "Гусеница-трансформер"
     },
     "Проблемы с правообладателями": {
+      "2:20:16~2:23:55": "Gorillaz - Feel Good Inc.",
+      "2:29:50~2:35:02": "Lifeseeker - Gone Guru",
+      "2:35:12~2:38:21": "Slim Cessna's Auto Club - Cranston",
+      "2:42:54~2:47:50": "I See Stars - Murder Mitten",
+      "3:04:30~3:07:38": "Mike Posner - I Took A Pill In Ibiza",
       "3:39:52~3:44:54": "Serial TV Drama - Tougenkyou Alien",
+      "3:45:05~3:49:09": "PSY - Gangnam Style",
+      "4:07:02~4:10:36": "Pesnjary - Kosil Jas' konjushinu",
       "4:11:05~4:13:24": "Не указано",
+      "4:14:31~4:17:37": "LMFAO - Sexy And I Know It",
+      "4:17:57~4:21:27": "Sektor Gaza - Kolkhoznyy Pank",
+      "4:29:44~4:32:50": "BLACKPINK - Kill This Love",
       "4:33:04~4:36:05": "Wiener Philharmoniker, John Williams - Imperial March",
       "4:36:13~4:39:04": "Daler Mehndi - Tunak Tunak Tun",
-      "4:29:44~4:32:50": "BLACKPINK - Kill This Love",
+      "4:49:25~4:49:38": "The Hues Corporation - Rock the Boat",
       "4:52:35~4:55:33": "Baha Men - Who Let The Dogs Out?",
-      "4:17:57~4:21:27": "Sektor Gaza - Kolkhoznyy Pank",
-      "5:02:57~5:05:59": "Linkin Park - Numb",
-      "2:35:12~2:38:21": "Slim Cessna's Auto Club - Cranston",
-      "4:14:31~4:17:37": "LMFAO - Sexy And I Know It",
-      "5:06:08~5:09:48": "Fall Out Boy - Centuries",
-      "2:20:16~2:23:55": "Gorillaz - Feel Good Inc.",
-      "2:42:54~2:47:50": "I See Stars - Murder Mitten",
-      "3:45:05~3:49:09": "PSY - Gangnam Style",
-      "2:29:50~2:35:02": "Lifeseeker - Gone Guru",
-      "3:04:30~3:07:38": "Mike Posner - I Took A Pill In Ibiza",
-      "4:07:02~4:10:36": "Pesnjary - Kosil Jas' konjushinu",
       "4:56:00~4:59:17": "Mark Snow - Materia Primoris: The X-Files Theme",
-      "4:49:25~4:49:38": "The Hues Corporation - Rock the Boat"
+      "5:02:57~5:05:59": "Linkin Park - Numb",
+      "5:06:08~5:09:48": "Fall Out Boy - Centuries"
     }
   },
   "487949971": {
@@ -8581,15 +8581,7 @@
     "2:00": "Стримлер",
     "8:23": "Меню",
     "8:45": "Игра",
-    "1:19:09": "Лучший кадр",
     "Проблемы с правообладателями": {
-      "Django Reinhardt - Django Castle": [
-        "1:24:51~1:27:38",
-        "3:05:01~3:08:06",
-        "3:25:18~3:28:20",
-        "3:30:37~3:31:45",
-        "3:35:17~3:35:57"
-      ],
       "Duke Ellington - The Mooche": [
         "1:00:12~1:02:02",
         "2:07:41~2:10:00",
@@ -8597,8 +8589,16 @@
         "2:22:25~2:22:38",
         "2:36:06~2:40:31",
         "2:49:32~2:50:33"
+      ],
+      "Django Reinhardt - Django Castle": [
+        "1:24:51~1:27:38",
+        "3:05:01~3:08:06",
+        "3:25:18~3:28:20",
+        "3:30:37~3:31:45",
+        "3:35:17~3:35:57"
       ]
     },
+    "1:19:09": "Лучший кадр",
     "2:31:28": "Чем могу помочь?",
     "2:50:13": "Скукожило",
     "4:13:29": "This is fine",
@@ -8663,10 +8663,10 @@
     },
     "Проблемы с правообладателями": {
       "1:21:50~1:25:54": "Daft Punk - Get Lucky (Radio Edit)",
+      "1:44:14~1:48:51": "Boney M. - Rasputin (Club Mix)",
       "1:57:06~2:01:34": "amazarashi - Play Goodbye",
       "3:20:51~3:24:27": "System of a Down - Spiders",
-      "3:27:50~3:31:17": "System of a Down - Soil",
-      "01:44:14~01:48:51": "Boney M. - Rasputin (Club Mix)"
+      "3:27:50~3:31:17": "System of a Down - Soil"
     },
     "House Flipper": {
       "2:37:41": "Меню",
@@ -8747,6 +8747,14 @@
       "2:47:59~2:59:59": "Нет звука (Twitch)",
       "3:33:33": "Сломано"
     },
+    "Проблемы с правообладателями": {
+      "Kay Kyser - Praise the Lord and Pass the Ammunition": [
+        "1:37:53~1:40:00",
+        "1:50:56~1:51:33"
+      ],
+      "1:38:11~1:40:00": "Kay Kyser - Praise the Lord and Pass the Ammunition",
+      "2:25:32~2:28:00": "Bix Beiderbecke & The Wolverines - Riverboat Shuffle"
+    },
     "Outlast 2": {
       "3:34:11": "Меню",
       "3:36:48": "Интро",
@@ -8759,14 +8767,6 @@
       ],
       "4:06:17": "Паника",
       "4:12:35": "Режим совы"
-    },
-    "Проблемы с правообладателями": {
-      "Kay Kyser - Praise the Lord and Pass the Ammunition": [
-        "1:37:53~1:40:00",
-        "1:50:56~1:51:33"
-      ],
-      "1:38:11~1:40:00": "Kay Kyser - Praise the Lord and Pass the Ammunition",
-      "2:25:32~2:28:00": "Bix Beiderbecke & The Wolverines - Riverboat Shuffle"
     }
   },
   "502940448": {
@@ -8816,15 +8816,15 @@
     },
     "Проблемы с правообладателями": {
       "2:33:57~2:35:20": "The Andrews Sisters - Boogie Woogie Bugle Boy (Single Version)",
+      "Al Hirt - Java": [
+        "2:37:10~2:38:56",
+        "3:09:18~3:11:14"
+      ],
       "Tommy Dorsey & His Orchestra, Edythe Wright - The Dipsy Doodle": [
         "3:18:15~3:19:53",
         "3:19:52~3:20:56"
       ],
-      "3:38:41~3:39:48": "The Andrews Sisters - Rum And Coca-Cola (Single Version)",
-      "Al Hirt - Java": [
-        "2:37:10~2:38:56",
-        "3:09:18~3:11:14"
-      ]
+      "3:38:41~3:39:48": "The Andrews Sisters - Rum And Coca-Cola (Single Version)"
     }
   },
   "503413959": {
@@ -8839,25 +8839,25 @@
     },
     "20:43": "Меню",
     "21:25": "Игра",
-    "1:11:03": "Никуда не денется",
-    "1:35:39": "Заклинило",
     "Проблемы с правообладателями": {
-      "2:36:32~2:37:33": "Eddie Cochran - Summertime Blues",
+      "21:39~22:03": "Eddie Cochran - C'mon Everybody (Remastered 2003)",
+      "Frankie Laine - Jezebel": [
+        "37:04~38:30",
+        "38:16~39:19"
+      ],
       "Roy Hamilton - Don't Let Go": [
         "1:08:25~1:09:23",
         "2:33:47~2:34:34",
         "2:38:30~2:39:57"
       ],
+      "2:36:32~2:37:33": "Eddie Cochran - Summertime Blues",
       "Нет звука (???)": [
         "3:41:32~3:43:42",
         "4:41:32~4:43:03"
-      ],
-      "Frankie Laine - Jezebel": [
-        "37:04~38:30",
-        "00:38:16~00:39:19"
-      ],
-      "00:21:39~00:22:03": "Eddie Cochran - C'mon Everybody (Remastered 2003)"
+      ]
     },
+    "1:11:03": "Никуда не денется",
+    "1:35:39": "Заклинило",
     "2:55:52~2:56:51": "Сломано",
     "3:06:49": "Титаник",
     "3:25:29": "Я умею водить, ясно?",
@@ -8926,16 +8926,16 @@
       "3:45:30": "DLC: The Betrayal of Jimmy",
       "3:47:11": "Бонус за сумасшедшие трюки"
     },
+    "Проблемы с правообладателями": {
+      "2:55:35~2:56:41": "Cab Calloway - Everybody Eats When they come to my House",
+      "3:01:50~3:03:11": "Al Hirt - Java"
+    },
     "Planet Zoo": {
       "3:50:24": "Трейлер",
       "3:54:15": "Меню",
       "3:55:00": "Создание персонажа",
       "3:59:30": "Про зоопарк в Омске",
       "4:03:07": "Обучение"
-    },
-    "Проблемы с правообладателями": {
-      "3:01:50~3:03:11": "Al Hirt - Java",
-      "2:55:35~2:56:41": "Cab Calloway - Everybody Eats When they come to my House"
     }
   },
   "505477026": {
@@ -9234,28 +9234,28 @@
         "1:13:14~1:13:32",
         "5:18:31~5:19:31"
       ],
+      "Whodini - Magic's Wand": [
+        "1:46:19~1:49:07",
+        "1:50:17~1:50:31"
+      ],
+      "Electric Light Orchestra - Four Little Diamonds": [
+        "1:51:09~1:51:58",
+        "5:11:01~5:12:23"
+      ],
       "Tito Puente & His Orchestra - Mambo Gozon": [
         "2:15:51~2:16:49",
         "4:32:41~4:33:41"
       ],
+      "2:19:21~2:23:08": "Michael Jackson - Wanna Be Startin' Somethin'",
       "2:31:43~2:35:14": "Не указано",
       "The Outfield - Your Love": [
         "3:27:27~3:27:51",
         "5:52:59~5:54:03"
       ],
+      "3:56:29~3:57:50": "Daryl Hall & John Oates - Out of Touch",
       "4:12:41~4:15:56": "Michael Jackson - Billie Jean",
       "4:25:07~4:26:41": "Luther Vandross - Never Too Much",
-      "5:07:00~5:07:10": "Herbie Hancock - Rockit",
-      "Whodini - Magic's Wand": [
-        "1:46:19~1:49:07",
-        "1:50:17~1:50:31"
-      ],
-      "3:56:29~3:57:50": "Daryl Hall & John Oates - Out of Touch",
-      "Electric Light Orchestra - Four Little Diamonds": [
-        "1:51:09~1:51:58",
-        "5:11:01~5:12:23"
-      ],
-      "2:19:21~2:23:08": "Michael Jackson - Wanna Be Startin' Somethin'"
+      "5:07:00~5:07:10": "Herbie Hancock - Rockit"
     },
     "26:04": "Игра",
     "1:10:54": "-уши",
@@ -9281,9 +9281,15 @@
     "33:12": "Меню",
     "33:44": "Игра",
     "Проблемы с правообладателями": {
+      "The Pointer Sisters - Automatic": [
+        "43:58~48:08",
+        "4:48:15~4:49:30"
+      ],
       "51:17~52:29": "Tito Puente & His Orchestra - Mambo Gozon",
       "1:03:15~1:04:51": "David Lee Roth - Yankee Rose",
       "1:17:56~1:18:11": "Nena - 99 Luftballons",
+      "2:27:21~2:28:22": "Evelyn \"Champagne\" King - Shame",
+      "2:51:12~2:52:57": "The Psychedelic Furs - Love My Way",
       "Не указано": [
         "3:02:35~3:03:50",
         "5:32:12~5:32:45"
@@ -9296,13 +9302,7 @@
         "5:39:37~5:40:19",
         "5:52:10~5:53:27"
       ],
-      "The Pointer Sisters - Automatic": [
-        "43:58~48:08",
-        "4:48:15~4:49:30"
-      ],
-      "5:48:21~5:49:57": "Michael Jackson - Wanna Be Startin' Somethin'",
-      "2:27:21~2:28:22": "Evelyn \"Champagne\" King - Shame",
-      "2:51:12~2:52:57": "The Psychedelic Furs - Love My Way"
+      "5:48:21~5:49:57": "Michael Jackson - Wanna Be Startin' Somethin'"
     },
     "58:20": "Повар 4-го разряда",
     "2:19:02": "( ͡° ͜ʖ ͡°)",
@@ -9454,24 +9454,24 @@
       "5:52:05": "Мороженое убивает"
     },
     "Проблемы с правообладателями": {
+      "2:57:42~2:58:03": "The Pointer Sisters - Automatic",
       "2:59:34~2:59:46": "Mr. Mister - Broken Wings",
+      "3:00:32~3:01:22": "Michael Jackson - Wanna Be Startin' Somethin'",
       "Nena - 99 Luftballons": [
         "3:04:41~3:06:06",
         "4:41:41~4:43:05"
       ],
       "3:41:53~3:44:15": "Joe Jackson - Steppin' Out",
+      "3:51:16~3:52:06": "Evelyn \"Champagne\" King - Shame",
       "4:00:03~4:01:35": "Luther Vandross - Never Too Much",
+      "4:20:59~4:21:20": "Daryl Hall & John Oates - Out of Touch",
       "4:38:04~4:41:35": "Oliver Cheatham - Get Down Saturday Night",
       "4:50:47~4:51:33": "Quiet Riot - Cum On Feel the Noize",
       "5:17:13~5:17:50": "Ozzy Osbourne - Bark at the Moon",
+      "5:25:25~5:26:06": "Michael Jackson - Billie Jean",
       "5:45:24~5:46:49": "Tito Puente & His Orchestra - Mambo Gozon",
       "6:10:08~6:12:23": "Michael Jackson - Wanna Be Startin' Somethin'",
-      "5:25:25~5:26:06": "Michael Jackson - Billie Jean",
-      "6:21:59~6:23:04": "Whodini - Magic's Wand",
-      "4:20:59~4:21:20": "Daryl Hall & John Oates - Out of Touch",
-      "2:57:42~2:58:03": "The Pointer Sisters - Automatic",
-      "3:51:16~3:52:06": "Evelyn \"Champagne\" King - Shame",
-      "3:00:32~3:01:22": "Michael Jackson - Wanna Be Startin' Somethin'"
+      "6:21:59~6:23:04": "Whodini - Magic's Wand"
     },
     "6:34:45": "Бонус"
   },
@@ -9707,10 +9707,10 @@
       ]
     },
     "Проблемы с правообладателями": {
-      "1:56:04~1:59:39": "\"Weird Al\" Yankovic - Fat",
-      "1:47:09~1:51:13": "Ray Parker Jr. - Ghostbusters",
       "1:22:59~1:26:51": "BABYMETAL - PA PA YA!!",
+      "1:47:09~1:51:13": "Ray Parker Jr. - Ghostbusters",
       "1:51:27~1:54:43": "\"Weird Al\" Yankovic - Eat It",
+      "1:56:04~1:59:39": "\"Weird Al\" Yankovic - Fat",
       "3:45:48~3:49:33": "Julio Iglesias - Nostalgie"
     },
     "2:11:32": "Вход в Discord",
@@ -10162,10 +10162,6 @@
       "3:14:50~3:15:04": "Сходство: 100%",
       "3:30:12~3:30:31": "Идеальнейший тайминг"
     },
-    "Нет звука (Twitch)": [
-      "1:23:59~1:29:59",
-      "3:23:59~3:29:59"
-    ],
     "Проблемы с правообладателями": {
       "1:12:17~1:16:27": "System Of A Down - Radio/Video",
       "1:47:57~1:51:06": "Bob Dylan - The Times They Are A-Changin'",
@@ -10175,6 +10171,10 @@
       ],
       "4:59:21~5:02:51": "Не указано"
     },
+    "Нет звука (Twitch)": [
+      "1:23:59~1:29:59",
+      "3:23:59~3:29:59"
+    ],
     "The Sims 4": {
       "3:34:09": "Меню",
       "3:35:50~4:09:57": "Создание персонажа",
@@ -10227,13 +10227,13 @@
         "1:22:15~1:22:32",
         "2:39:03~2:40:48"
       ],
+      "1:49:41~1:53:09": "Boston - Smokin'",
       "2:46:32~2:46:42": "Ozzy Osbourne - Hellraizer",
+      "3:22:22~3:23:34": "Too $hort - The Ghetto",
       "4:24:37~4:25:51": "Toto - Hold the Line",
       "4:41:28~4:45:11": "The Stone Roses - Fools Gold (Remastered Edit)",
       "4:57:09~4:58:17": "Rob Base, DJ E-Z Rock - It Takes Two",
-      "5:22:48~5:25:43": "Raze - Break 4 Love",
-      "1:49:41~1:53:09": "Boston - Smokin'",
-      "3:22:22~3:23:34": "Too $hort - The Ghetto"
+      "5:22:48~5:25:43": "Raze - Break 4 Love"
     },
     "1:29:56": "Заказ Биг Смоука",
     "2:54:28": "Стелс",
@@ -10292,20 +10292,20 @@
     "4:37": "Игра",
     "46:02": "Парашют",
     "1:05:10": "Послушайте пока музыку",
-    "Безумные трюки": [
-      "1:10:39",
-      "1:22:58"
-    ],
     "Проблемы с правообладателями": {
-      "1:27:30~1:28:30": "Conway Twitty, Loretta Lynn - Louisiana Woman, Mississippi Man (Single Version)",
-      "2:54:27~2:56:33": "Hank Williams - Hey Good Lookin' (Live At The Grand Ole Opry/1951)",
       "Jerry Reed - Amos Moses": [
         "1:08:13~1:10:28",
         "3:00:45~3:02:00"
       ],
+      "1:27:30~1:28:30": "Conway Twitty, Loretta Lynn - Louisiana Woman, Mississippi Man (Single Version)",
+      "2:54:27~2:56:33": "Hank Williams - Hey Good Lookin' (Live At The Grand Ole Opry/1951)",
       "3:10:31~3:10:41": "The Stone Roses - Fools Gold",
       "3:25:04~3:25:43": "Alice in Chains - Them Bones"
     },
+    "Безумные трюки": [
+      "1:10:39",
+      "1:22:58"
+    ],
     "1:48:45~2:05:16": "Перерыв на хайповоз",
     "2:00:00": "Оговорочка",
     "4:30:02": "Автошкола",
@@ -10318,27 +10318,27 @@
     "25:00": "Игра",
     "Проблемы с правообладателями": {
       "36:40~37:48": "Toto - Hold the Line",
+      "40:45~40:56": "Elvis Presley - New Orleans",
+      "Jerry Reed - Amos Moses": [
+        "43:09~45:10",
+        "3:04:25~3:05:12"
+      ],
       "1:11:33~1:12:55": "Eddie Money - Two Tickets To Paradise",
       "2:24:05~2:27:04": "The Stone Roses - Fools Gold (Remastered Edit)",
       "2:50:04~2:53:14": "Ozzy Osbourne - Hellraiser (много небольших фрагментов)",
+      "3:16:31~3:17:52": "Alice In Chains - Them Bones",
+      "Compton's Most Wanted - Hood Took Me Under": [
+        "3:22:48~3:24:07",
+        "3:29:14~3:29:40",
+        "3:37:13~3:37:53"
+      ],
       "3:49:42~3:49:57": "Frankie Knuckles - It's a Cold World",
       "5:07:40~5:08:04": "Public Enemy - Rebel Without A Pause",
       "The Nightwriters - Let the Music (Use You)": [
         "5:17:18~5:17:36",
         "5:18:59~5:21:35"
       ],
-      "Jerry Reed - Amos Moses": [
-        "43:09~45:10",
-        "3:04:25~3:05:12"
-      ],
-      "5:32:22~5:33:51": "America - A Horse with No Name",
-      "3:16:31~3:17:52": "Alice In Chains - Them Bones",
-      "40:45~40:56": "Elvis Presley - New Orleans",
-      "Compton's Most Wanted - Hood Took Me Under": [
-        "3:22:48~3:24:07",
-        "3:29:14~3:29:40",
-        "3:37:13~3:37:53"
-      ]
+      "5:32:22~5:33:51": "America - A Horse with No Name"
     },
     "40:08": "Оговорочка",
     "43:15": "( ͡° ͜ʖ ͡°)",
@@ -10496,21 +10496,21 @@
       "1:09:35~1:09:47": "a-ha - Take on Me (2016 Remaster)",
       "1:27:35~1:30:39": "Cypress Hill - How I Could Just Kill a Man",
       "1:33:30~1:34:34": "War - Low Rider",
+      "Boston - Smokin'": [
+        "1:52:04~1:52:23",
+        "4:52:04~4:52:49"
+      ],
       "1:54:33~1:55:47": "Aaron Hall - Don't Be Afraid",
       "2:11:59~2:12:54": "Rob Base & DJ E-Z Rock - It Takes Two",
+      "2:34:44~2:35:37": "Jerry Reed - Amos Moses",
+      "2:43:12~2:45:56": "America - A Horse with No Name",
       "3:27:57~3:29:47": "Conway Twitty, Loretta Lynn - Louisiana Woman, Mississippi Man (Single Version)",
       "3:35:10~3:36:01": "Ralph Tresvant - Sensitivity",
       "3:47:16~3:48:42": "Lynyrd Skynyrd - Free Bird",
       "3:50:57~3:51:34": "Booker T. Jones - Green Onions",
       "4:07:23~4:09:29": "Hank Williams - Hey Good Lookin' (Live At The Grand Ole Opry/1951)",
       "4:36:10~4:39:42": "Eddie Money - Two Tickets To Paradise",
-      "4:46:21~4:47:32": "Wreckx-N-Effect - New Jack Swing (7\" Version)",
-      "2:34:44~2:35:37": "Jerry Reed - Amos Moses",
-      "2:43:12~2:45:56": "America - A Horse with No Name",
-      "Boston - Smokin'": [
-        "1:52:04~1:52:23",
-        "4:52:04~4:52:49"
-      ]
+      "4:46:21~4:47:32": "Wreckx-N-Effect - New Jack Swing (7\" Version)"
     },
     "1:22:03": "Меню",
     "1:22:49": "Игра",
@@ -10734,6 +10734,8 @@
       "32:21": "Игра"
     },
     "Проблемы с правообладателями": {
+      "39:17~39:39": "Elvis Presley - New Orleans",
+      "58:18~59:35": "America - A Horse with No Name",
       "1:51:18~1:52:53": "Conway Twitty, Loretta Lynn - Louisiana Woman, Mississippi Man (Single Version)",
       "1:59:50~2:03:22": "Toto - Hold the Line",
       "2:09:52~2:12:56": "Eddie Money - Two Tickets To Paradise",
@@ -10741,9 +10743,7 @@
         "2:24:38~2:24:52",
         "2:24:59~2:25:33",
         "2:25:43~2:25:55"
-      ],
-      "58:18~59:35": "America - A Horse with No Name",
-      "39:17~39:39": "Elvis Presley - New Orleans"
+      ]
     },
     "Destiny 2 с Triplewipe": {
       "2:52:57": "Меню",
@@ -11017,6 +11017,12 @@
     "5:00": "Стримлер",
     "25:11": "Меню",
     "26:03": "Игра",
+    "Проблемы с правообладателями": {
+      "29:02~30:42": "America - A Horse with No Name",
+      "2:19:30~2:21:26": "Elvis Presley - New Orleans",
+      "2:24:01~2:25:44": "Toto - Hold the Line",
+      "5:27:43~6:01:32": "Rocky Orchestra - Gonna Fly Now"
+    },
     "С первого раза": [
       "39:29",
       "2:51:38"
@@ -11026,12 +11032,6 @@
       "2:46:46"
     ],
     "1:56:05": "Тайминг",
-    "Проблемы с правообладателями": {
-      "2:24:01~2:25:44": "Toto - Hold the Line",
-      "5:27:43~6:01:32": "Rocky Orchestra - Gonna Fly Now",
-      "2:19:30~2:21:26": "Elvis Presley - New Orleans",
-      "29:02~30:42": "America - A Horse with No Name"
-    },
     "4:17:41": "Паркур",
     "5:24:18~5:28:23": "Сломано"
   },
@@ -11422,7 +11422,7 @@
         "2:50:20~2:53:53",
         "2:54:06~2:54:34"
       ],
-      "02:58:28~03:04:11": "Darude - Sandstorm"
+      "2:58:28~3:04:11": "Darude - Sandstorm"
     },
     "The Longing": {
       "3:36:11": "Меню",
@@ -12321,8 +12321,8 @@
     "1:10:13": "Игра",
     "Проблемы с правообладателями": {
       "1:33:38~1:35:42": "Не указано",
-      "1:52:44~1:54:17": "Jefferson Airplane - White Rabbit",
       "1:48:46~1:51:40": "Jefferson Airplane - Somebody to Love",
+      "1:52:44~1:54:17": "Jefferson Airplane - White Rabbit",
       "2:17:35~2:20:00": "Scorpions - All Day And All of the Night",
       "2:55:09~2:57:37": "Randy Bachman - Shakin' All Over"
     },
@@ -12489,10 +12489,10 @@
     "32:26": "Что нужно делать",
     "1:56:36": "Домино",
     "2:10:05": "( ͡° ͜ʖ ͡°)",
-    "5:08:48": "Старый трюк",
     "Проблемы с правообладателями": {
       "2:18:44~2:21:45": "Duke Ellington - Maybe I Should Change My Ways"
-    }
+    },
+    "5:08:48": "Старый трюк"
   },
   "622728652": {
     "1:39": "Стримлер",
@@ -12597,12 +12597,12 @@
     },
     "Проблемы с правообладателями": {
       "3:53:57~3:55:38": "The Andrews Sisters - Boogie Woogie Bugle Boy (Single Version)",
-      "4:49:19~4:52:22": "The Andrews Sisters - Rum And Coca-Cola (Single Version)",
-      "4:15:40~4:18:13": "Kay Kyser - Praise the Lord and Pass the Ammunition",
       "Dinah Shore, Buddy Clark - Baby, It's Cold Outside": [
         "3:59:47~4:00:45",
         "4:06:18~4:08:38"
-      ]
+      ],
+      "4:15:40~4:18:13": "Kay Kyser - Praise the Lord and Pass the Ammunition",
+      "4:49:19~4:52:22": "The Andrews Sisters - Rum And Coca-Cola (Single Version)"
     }
   },
   "626564087": {
@@ -13657,6 +13657,10 @@
       "20:38": "Победитель"
     },
     "28:07": "Coub'ы и клипы",
+    "Проблемы с правообладателями": {
+      "29:48~30:04": "Perry Como - Papa Loves Mambo",
+      "5:59:21~5:59:36": "Céline Dion - My Heart Will Go On"
+    },
     "Wreckfest": {
       "58:38": "Меню",
       "1:04:27": "Игра",
@@ -13679,10 +13683,6 @@
       "6:29:42": "Olija",
       "6:32:36": "Serious Sam 4: Planet Badass",
       "6:38:53": "Devolverland Expo"
-    },
-    "Проблемы с правообладателями": {
-      "29:48~30:04": "Perry Como - Papa Loves Mambo",
-      "5:59:21~5:59:36": "Céline Dion - My Heart Will Go On"
     }
   },
   "677524120": {
@@ -14432,18 +14432,18 @@
       ]
     },
     "Проблемы с правообладателями": {
+      "Duke Ellington - The Mooche": [
+        "33:06~35:57",
+        "1:47:00~1:47:27"
+      ],
       "Django Reinhardt - Django Castle": [
         "46:42~47:43",
         "1:09:41~1:11:51",
         "1:58:17~1:59:39"
       ],
       "2:45:28~2:48:00": "Django Reinhardt - Tiger Rag",
-      "5:26:12~5:26:48": "Cab Calloway and his Orchestra - St. James Infirmary-7247-DNC",
-      "Duke Ellington - The Mooche": [
-        "33:06~35:57",
-        "1:47:00~1:47:27"
-      ],
-      "5:25:31~5:26:11": "Duke Ellington - Prelude To A Kiss"
+      "5:25:31~5:26:11": "Duke Ellington - Prelude To A Kiss",
+      "5:26:12~5:26:48": "Cab Calloway and his Orchestra - St. James Infirmary-7247-DNC"
     },
     "Mafia: Definitive Edition (демо)": {
       "2:02:08": "Меню",
@@ -14707,6 +14707,7 @@
     "0:29": "Интро",
     "Проблемы с правообладателями": {
       "1:44~3:40": "Alan Silvestri - The Avengers",
+      "6:19:51~6:21:07": "Rage Against The Machine - Guerrilla Radio",
       "6:21:17~6:23:41": "Dead Kennedys - Police Truck",
       "6:23:40~6:27:10": "Dub Pistols - Cyclone",
       "6:30:58~6:34:17": "Machine Gun Kelly - bloody valentine",
@@ -14717,8 +14718,7 @@
       "6:57:27~6:59:54": "Sublime - Same In The End",
       "7:00:09~7:02:18": "Pkew Pkew Pkew - Mid 20's Skateboarder",
       "7:02:49~7:05:30": "Fu Manchu - Evil Eye",
-      "7:05:45~7:09:25": "Billy Talent - Afraid of Heights",
-      "6:19:51~6:21:07": "Rage Against The Machine - Guerrilla Radio"
+      "7:05:45~7:09:25": "Billy Talent - Afraid of Heights"
     },
     "4:10": "Стримлер",
     "Marvel's Avengers": {
@@ -15150,6 +15150,27 @@
       "19:12~1:41:56": "Гонка",
       "1:28:43": "Чтооо?"
     },
+    "Проблемы с правообладателями": {
+      "1:44:44~1:47:13": "Django Reinhardt - Belleville",
+      "1:47:14~1:49:53": "The Mills Brothers - Caravan",
+      "1:49:54~1:52:25": "Django Reinhardt - Cavalerie",
+      "1:53:41~1:55:05": "The Mills Brothers - Chinatown, My Chinatown",
+      "Django Reinhardt - Darktown Strutter's Ball": [
+        "2:19:30~2:21:26",
+        "5:59:43~6:01:32"
+      ],
+      "2:21:28~2:24:23": "Duke Ellington - Prelude To A Kiss",
+      "2:24:38~2:25:31": "Django Reinhardt - Belleville",
+      "2:58:08~2:58:57": "Jeanette MacDonald;Robert Russell Bennett - Beyond the Blue Horizon",
+      "Cab Calloway - Manhattan Jam": [
+        "2:58:57~2:59:23",
+        "6:47:02~6:47:34"
+      ],
+      "3:01:55~3:04:14": "Duke Ellington & His Orchestra - Hot and Bothered",
+      "3:05:22~3:08:11": "Duke Ellington - I Let A Song Go Out Of My Heart",
+      "3:08:16~3:09:11": "Harry James - Back Beat Boogie",
+      "4:08:47~4:10:00": "Django Reinhardt, The Quintet of the Hot Club of France - A Tisket a Tasket"
+    },
     "Mafia: Definitive Edition": {
       "2:00:33": "Меню",
       "2:02:14~2:05:31": "Интро",
@@ -15166,27 +15187,6 @@
       "4:46:40~4:51:00": "Перерыв",
       "6:21:32": "Огнеопасно",
       "6:35:10": "Отличное начало"
-    },
-    "Проблемы с правообладателями": {
-      "Django Reinhardt - Darktown Strutter's Ball": [
-        "2:19:30~2:21:26",
-        "5:59:43~6:01:32"
-      ],
-      "2:24:38~2:25:31": "Django Reinhardt - Belleville",
-      "4:08:47~4:10:00": "Django Reinhardt, The Quintet of the Hot Club of France - A Tisket a Tasket",
-      "2:21:28~2:24:23": "Duke Ellington - Prelude To A Kiss",
-      "3:08:16~3:09:11": "Harry James - Back Beat Boogie",
-      "3:01:55~3:04:14": "Duke Ellington & His Orchestra - Hot and Bothered",
-      "1:53:41~1:55:05": "The Mills Brothers - Chinatown, My Chinatown",
-      "1:49:54~1:52:25": "Django Reinhardt - Cavalerie",
-      "3:05:22~3:08:11": "Duke Ellington - I Let A Song Go Out Of My Heart",
-      "2:58:08~2:58:57": "Jeanette MacDonald;Robert Russell Bennett - Beyond the Blue Horizon",
-      "1:47:14~1:49:53": "The Mills Brothers - Caravan",
-      "1:44:44~1:47:13": "Django Reinhardt - Belleville",
-      "Cab Calloway - Manhattan Jam": [
-        "02:58:57~02:59:23",
-        "6:47:02~6:47:34"
-      ]
     }
   },
   "751534901": {
@@ -15789,13 +15789,13 @@
       "2:32:49": "Меню",
       "2:34:10": "Игра"
     },
+    "Проблемы с правообладателями": {
+      "3:41:46~3:44:55": "Frankie Laine - Jezebel"
+    },
     "Noita": {
       "3:58:41": "Меню",
       "4:01:22": "Интро",
       "4:02:23": "Игра"
-    },
-    "Проблемы с правообладателями": {
-      "3:41:46~3:44:55": "Frankie Laine - Jezebel"
     }
   },
   "773147726": {
@@ -17620,6 +17620,9 @@
     "10:46~12:48": "Новогодние сетапы",
     "51:07": "А кто это?",
     "1:22:05": "4221",
+    "Проблемы с правообладателями": {
+      "1:33:17~1:34:15": "Darude - Sandstorm"
+    },
     "1:43:58": "<a href=\"https://youtu.be/dVoMrCiZ27Q\">Plotoiadnui Keksik - [6D Highlights] - Перевозка колбасы и сыра</a>",
     "1:55:45": "<a href=\"https://youtu.be/Y2_iL4J8dg8\">Quiet Man - 64. 12 месяцев Блэка</a>",
     "2:01:19": "Трейлер S.T.A.L.K.E.R. 2",
@@ -17630,10 +17633,7 @@
     "3:21:12": "Рестрим Артёма, рестримящего Артура",
     "3:25:13": "<a href=\"https://youtu.be/Qbx-Thuh57c\">Russian Cyberfarm - New Year Special</a>",
     "4:38:46": "( ͡° ͜ʖ ͡°)",
-    "4:41:58": "Бонус",
-    "Проблемы с правообладателями": {
-      "1:33:17~1:34:15": "Darude - Sandstorm"
-    }
+    "4:41:58": "Бонус"
   },
   "858724132": {
     "0:01": "Меню",
@@ -22478,8 +22478,8 @@
     },
     "2:57:25": "<a href=\"https://youtu.be/E9RKyGaeVKo\">Lori Anger - Radio BDT 2</a>",
     "Проблемы с правообладателями": {
-      "3:17:09~3:18:06": "Иван Васильевич меняет профессию (запрещено встраивание на сайты)",
       "3:11:15~3:11:28": "Céline Dion - My Heart Will Go On",
+      "3:17:09~3:18:06": "Иван Васильевич меняет профессию (запрещено встраивание на сайты)",
       "3:25:59~3:26:33": "Onward (видео)"
     },
     "The Ascent": {
@@ -24070,6 +24070,13 @@
       "43:53": "Игра",
       "3:36:15": "Медленное падение"
     },
+    "Проблемы с правообладателями": {
+      "Roy Orbinson - In Dreams": [
+        "1:07:22~1:07:34",
+        "1:59:22~1:59:55"
+      ],
+      "6:28:42~6:28:52": "Celia Cruz - Celia's Oye Como Va"
+    },
     "3:37:43": "Новое интро",
     "Far Cry 6": {
       "3:40:19~3:40:47": "Заставка",
@@ -24078,13 +24085,6 @@
       "3:49:03": "Игра",
       "4:47:41": "Хаос",
       "4:52:46": "Сломано"
-    },
-    "Проблемы с правообладателями": {
-      "Roy Orbinson - In Dreams": [
-        "1:07:22~1:07:34",
-        "1:59:22~1:59:55"
-      ],
-      "6:28:42~6:28:52": "Celia Cruz - Celia's Oye Como Va"
     }
   },
   "1168006082": {
@@ -24481,6 +24481,11 @@
     "12:02": "Меню",
     "Проблемы с правообладателями": {
       "12:38~12:48": "Europe - The Final Countdown",
+      "Blue Oyster Cult - (Don't Fear) The Reaper": [
+        "2:06:03~2:07:22",
+        "2:09:30~2:11:02",
+        "2:16:51~2:17:09"
+      ],
       "Wham! - Wake Me Up Before You Go-Go": [
         "2:11:11~2:11:27",
         "2:19:30~2:22:13",
@@ -24490,12 +24495,7 @@
       "2:22:36~2:24:39": "A Flock Of Seagulls - I Ran (So Far Away)",
       "2:52:59~2:53:37": "a-ha - Take on Me",
       "6:26:19~6:26:54": "Autograph - Turn up the Radio",
-      "7:24:44~7:26:47": "Не указано",
-      "Blue Oyster Cult - (Don't Fear) The Reaper": [
-        "2:06:03~2:07:22",
-        "2:09:30~2:11:02",
-        "02:16:51~02:17:09"
-      ]
+      "7:24:44~7:26:47": "Не указано"
     },
     "13:04": "Игра",
     "16:40": "Гав",
@@ -25007,10 +25007,10 @@
     "Проблемы с правообладателями": {
       "3:23:36~3:24:47": "Mr. Mister - Broken Wings",
       "3:36:14~3:36:24": "RUN DMC - Rock Box",
-      "4:17:18~4:17:55": "David Lee Roth - Yankee Rose",
-      "5:12:15~5:12:33": "The Isley Brothers - Between The Sheets",
       "3:41:04~3:41:42": "Daryl Hall & John Oates - Out of Touch",
-      "5:09:58~5:10:41": "America - A Horse with No Name"
+      "4:17:18~4:17:55": "David Lee Roth - Yankee Rose",
+      "5:09:58~5:10:41": "America - A Horse with No Name",
+      "5:12:15~5:12:33": "The Isley Brothers - Between The Sheets"
     },
     "Grand Theft Auto: San Andreas": {
       "4:29:51": "Меню",
@@ -25050,6 +25050,9 @@
       "1:35:08": "Меню",
       "1:35:40": "Игра"
     },
+    "Проблемы с правообладателями": {
+      "1:39:58~1:41:07": "The Pointer Sisters - Automatic"
+    },
     "Grand Theft Auto: San Andreas": {
       "2:07:05": "Меню",
       "2:08:12": "Игра",
@@ -25062,9 +25065,6 @@
       "2:56:00": "Меню",
       "2:56:02": "Игра",
       "6:01:53": "Опять -лут"
-    },
-    "Проблемы с правообладателями": {
-      "1:39:58~1:41:07": "The Pointer Sisters - Automatic"
     }
   },
   "1208881098": {
@@ -28289,15 +28289,15 @@
     "4:52~7:35": "Стримлер",
     "12:57": "Меню",
     "14:43": "Интро",
+    "Проблемы с правообладателями": {
+      "15:00~15:59": "The Mormon Tabernacle Choir - Born Free"
+    },
     "15:57": "Удивление",
     "16:37": "Игра",
     "1:01:17": "Что в коробке?!",
     "1:08:01": "Джерри!",
     "1:18:12": "Тося",
-    "2:13:43": "Ноо ноо ноо",
-    "Проблемы с правообладателями": {
-      "15:00~15:59": "The Mormon Tabernacle Choir - Born Free"
-    }
+    "2:13:43": "Ноо ноо ноо"
   },
   "1497100879": {
     "1:00": "Интро",
@@ -29677,6 +29677,34 @@
       "1:05:10": "Игра",
       "4:13:55": "ИДЕАЛЬНО"
     },
+    "Проблемы с правообладателями": {
+      "1:31:04~1:35:24": "A Tribe Called Quest - I Left My Wallet in El Segundo",
+      "Trippie Redd - BANG!": [
+        "1:42:19~1:42:52",
+        "6:31:29~6:32:01"
+      ],
+      "IDLES, slowthai - Model Village": [
+        "2:29:48~2:30:00",
+        "2:32:44~2:33:05"
+      ],
+      "The Pharcyde - Runnin'": [
+        "2:36:00~2:36:17",
+        "5:58:52~5:59:22"
+      ],
+      "4:01:10~4:01:52": "DMX - Party Up",
+      "4:04:41~4:05:17": "TLC - Ain't 2 Proud 2 Beg",
+      "5:44:11~5:44:48": "White Reaper - Raw",
+      "Eric B. & Rakim - Microphone Fiend": [
+        "5:47:28~5:47:48",
+        "6:23:51~6:24:05"
+      ],
+      "5:57:10~5:57:21": "M.O.P. - Ante Up",
+      "6:24:08~6:24:28": "Starcrawler - Bet My Brains",
+      "8:23:04~8:24:25": "Danzig - Mother",
+      "8:41:49~8:43:04": "Paul Paljett - Mumbo Jumbo",
+      "9:23:26~9:23:49": "The Dickies - Killer Klowns",
+      "9:56:53~9:59:02": "Kool & The Gang - Hollywood Swinging"
+    },
     "7:53:18": "Арты",
     "Gamescom 2022": {
       "7:59:42": "Ожидание",
@@ -29730,41 +29758,6 @@
         "9:56:16",
         "10:01:15"
       ]
-    },
-    "Проблемы с правообладателями": {
-      "4:04:41~4:05:17": "TLC - Ain't 2 Proud 2 Beg",
-      "1:31:04~1:34:43": "A Tribe Called Quest - I Left My Wallet in El Segundo",
-      "9:23:26~9:23:49": "The Dickies - Killer Klowns",
-      "8:23:04~8:24:25": "Danzig - Mother",
-      "Kool & The Gang - Hollywood Swinging": [
-        "9:56:53~9:57:53",
-        "9:58:03~9:59:02"
-      ],
-      "Eric B. & Rakim - Microphone Fiend": [
-        "5:47:28~5:47:48",
-        "6:23:51~6:24:05"
-      ],
-      "6:24:08~6:24:28": "Starcrawler - Bet My Brains",
-      "1:34:45~1:35:24": "A Tribe Called Quest - I Left My Wallet in El Segundo",
-      "5:44:11~5:44:48": "White Reaper - Raw",
-      "4:01:10~4:01:52": "DMX - Party Up",
-      "The Pharcyde - Runnin'": [
-        "2:36:00~2:36:17",
-        "5:58:52~5:59:22"
-      ],
-      "IDLES, slowthai - Model Village": [
-        "2:32:44~2:33:05",
-        "2:29:48~2:30:00"
-      ],
-      "Trippie Redd - BANG!": [
-        "1:42:19~1:42:52",
-        "6:31:29~6:32:01"
-      ],
-      "Paul Paljett - Mumbo Jumbo": [
-        "8:41:49~8:42:19",
-        "8:42:53~8:43:04"
-      ],
-      "5:57:10~5:57:21": "M.O.P. - Ante Up"
     }
   },
   "1572044648": {
@@ -31274,19 +31267,19 @@
   },
   "1665724993": {
     "2:48": "Интро",
-    "5:32~7:45": "Стримлер",
-    "20:14": "Меню",
     "Проблемы с правообладателями": {
+      "Overseer - Doomsday (Album Version)": [
+        "4:23~6:40",
+        "2:38:13~2:39:58"
+      ],
       "Не указано": [
         "21:59~22:37",
         "1:31:20~1:31:53"
       ],
-      "Overseer - Doomsday (Album Version)": [
-        "00:04:23~00:06:40",
-        "02:38:13~02:39:58"
-      ],
-      "01:31:20~01:31:53": "Kidd Kenn - Vroom Vroom"
+      "1:31:20~1:31:53": "Kidd Kenn - Vroom Vroom"
     },
+    "5:32~7:45": "Стримлер",
+    "20:14": "Меню",
     "22:35": "Создание персонажа",
     "29:58": "Интро",
     "30:37": "Игра",
@@ -31824,18 +31817,18 @@
       "1:48:07": "Игра",
       "1:53:00": "Тося"
     },
-    "FAITH": {
-      "4:12:03": "Меню",
-      "4:13:53": "Игра",
-      "4:15:50~4:17:17": "Хуууууу"
-    },
-    "6:02:47": "Бонус",
     "Проблемы с правообладателями": {
       "Percy Faith & His Orchestra - The Theme from \"A Summer Place\"": [
         "1:48:36~1:50:08",
         "2:11:44~2:13:16"
       ]
-    }
+    },
+    "FAITH": {
+      "4:12:03": "Меню",
+      "4:13:53": "Игра",
+      "4:15:50~4:17:17": "Хуууууу"
+    },
+    "6:02:47": "Бонус"
   },
   "1690952607": {
     "1:27": "Интро",
@@ -32822,16 +32815,16 @@
       "2:44:37": "Без ответа",
       "2:49:29": "Dungeons & Dragons: Honor Among Thieves"
     },
+    "Проблемы с правообладателями": {
+      "2:14:39~2:15:37": "TMNT 2003 (видео)",
+      "2:15:58~2:16:31": "Battle for New York Part 2 (видео)",
+      "2:16:35~2:17:18": "Showdown (видео)"
+    },
     "Contraband Police": {
       "2:57:52": "Меню",
       "2:58:58": "Интро",
       "3:00:08": "Игра",
       "3:28:04": "Стой!"
-    },
-    "Проблемы с правообладателями": {
-      "2:14:39~2:15:37": "TMNT 2003 (видео)",
-      "2:15:58~2:16:31": "Battle for New York Part 2 (видео)",
-      "2:16:35~2:17:18": "Showdown (видео)"
     }
   },
   "1759103392": {
