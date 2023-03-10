@@ -2341,7 +2341,8 @@
         { "name": "Овощи", "start": "1:11:35" },
         { "name": "Парень, который мне нравится?", "start": "1:33:36" },
         { "name": "Jurassic Heart", "start": "1:55:52" }
-      ] }
+      ] },
+      { "name": "Resident Evil 4 Remake - Chainsaw Demo", "twitch": "1760910239", "start": "33:39" }
     ]
   },
   {
@@ -6660,13 +6661,14 @@
       { "name": "2 (часть 7)", "twitch": "369455598", "segment": 6 },
       { "name": "3", "twitch": "370111835", "segment": 0 },
       { "name": "4 (Клэр \"A\" от первого лица)", "twitch": "376053722" },
-      { "name": "5 (DLC - Выжившие призраки)", "twitch": "383771606" },
-      { "name": "6 (Every enemy is Mr. X)", "twitch": "527412040" },
-      { "name": "7 (заново)", "twitch": "975061581" },
+      { "name": "DLC - Выжившие призраки", "twitch": "383771606" },
+      { "name": "Every enemy is Mr. X", "twitch": "527412040" },
+      { "name": "Заново", "twitch": "975061581" },
       { "twitch": "1503541091", "subrefs": [
-        { "name": "1 (хардкор)", "start": "24:35" },
-        { "name": "1 (хардкор, часть 2)", "start": "2:45:25", "hidden": true }
-      ] }
+        { "name": "Хардкор", "start": "24:35" },
+        { "name": "Хардкор (часть 2)", "start": "2:45:25", "hidden": true }
+      ] },
+      { "name": "Survival Horror + Wandering Enemies", "twitch": "1760910239", "start": "2:21:43" }
     ],
     "cover": 1
   },
