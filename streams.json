@@ -1114,13 +1114,7 @@
   "522691278": { "youtube": "XTkRQDwhlEo" },
   "523121734": { "youtube": "k_6_SsfSmlM" },
   "523968481": { "youtube": "9NLDRfKPMKg", "official": false },
-  "524415764": [
-    {  },
-    {
-      "offset": "2:05:09",
-      "direct": "https://bsufiles.drhx.ru/streams/524415764.1.mp4"
-    }
-  ],
+  "524415764": {  },
   "524865260": { "youtube": "Do6LKdxoE-k", "offset": "-0:05" },
   "525744926": { "youtube": "zx1dANJ3KnM" },
   "526101430": { "youtube": "wnKqILQQXvk" },

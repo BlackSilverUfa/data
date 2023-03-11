@@ -3208,7 +3208,10 @@
       "3:38:42": "Начало игры"
     },
     "Проблемы с правообладателями": {
-      "5:08:02~5:10:52": "Darude - Sandstorm"
+      "Darude - Sandstorm": [
+        "13:12~15:17",
+        "5:08:02~5:10:52"
+      ]
     }
   },
   "284955107": {
@@ -9739,10 +9742,10 @@
     },
     "Проблемы с правообладателями": {
       "1:22:59~1:26:51": "BABYMETAL - PA PA YA!!",
-      "1:47:09~1:51:13": "Ray Parker Jr. - Ghostbusters",
-      "1:51:27~1:54:43": "\"Weird Al\" Yankovic - Eat It",
-      "1:56:04~1:59:39": "\"Weird Al\" Yankovic - Fat",
-      "3:45:48~3:49:33": "Julio Iglesias - Nostalgie"
+      "01:51:22~01:54:46": "\"Weird Al\" Yankovic - Eat It",
+      "01:47:07~01:51:10": "Ray Parker Jr. - Ghostbusters",
+      "03:49:10~03:49:31": "Julio Iglesias - Nostalgie (Nostalgia)",
+      "01:55:59~01:59:38": "\"Weird Al\" Yankovic - Fat"
     },
     "2:11:32": "Вход в Discord",
     "Last Year": {
@@ -15186,7 +15189,9 @@
       "1:44:44~1:47:13": "Django Reinhardt - Belleville",
       "1:47:14~1:49:53": "The Mills Brothers - Caravan",
       "1:49:54~1:52:25": "Django Reinhardt - Cavalerie",
-      "1:52:27~1:55:08": "The Mills Brothers - Chinatown, My Chinatown",
+      "The Mills Brothers - Chinatown, My Chinatown": [
+        "1:52:27~1:55:10"
+      ],
       "Django Reinhardt - Darktown Strutter's Ball": [
         "2:19:30~2:21:26",
         "5:59:43~6:01:32"
