@@ -2342,7 +2342,13 @@
         { "name": "Парень, который мне нравится?", "start": "1:33:36" },
         { "name": "Jurassic Heart", "start": "1:55:52" }
       ] },
-      { "name": "Resident Evil 4 Remake - Chainsaw Demo", "twitch": "1760910239", "start": "33:39" }
+      { "name": "Resident Evil 4 Remake - Chainsaw Demo", "twitch": "1760910239", "start": "33:39" },
+      { "twitch": "1763033004", "subrefs": [
+        { "name": "Moth House", "start": "25:33" },
+        { "name": "Spectral Filter", "start": "1:10:25" },
+        { "name": "VHS Slaughter", "start": "2:20:37" },
+        { "name": "Jungle Dungeon", "start": "3:39:03" }
+      ] }
     ]
   },
   {
@@ -4049,7 +4055,8 @@
         { "name": "Hatoful Boyfriend", "start": "2:21:01" }
       ] },
       { "name": "Clash: Artifacts of Chaos", "twitch": "1760013812", "start": "54:53" },
-      { "name": "Alice: Madness Returns", "twitch": "1762002968", "start": "26:51" }
+      { "name": "Alice: Madness Returns", "twitch": "1762002968", "start": "26:51" },
+      { "name": "Anemoiapolis", "twitch": "1763033004", "start": "3:16:06" }
     ]
   },
   {
