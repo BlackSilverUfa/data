@@ -6683,11 +6683,19 @@
       { "twitch": "1503541091", "subrefs": [
         { "name": "Хардкор", "start": "24:35" },
         { "name": "Хардкор (часть 2)", "start": "2:45:25", "hidden": true }
-      ] },
-      { "name": "Survival Horror #1", "twitch": "1760910239", "start": "2:21:43" },
-      { "name": "Survival Horror #2", "twitch": "1763934802", "start": "41:53" }
+      ] }
     ],
     "cover": 1
+  },
+  {
+    "name": "Resident Evil 2 Remake - Survival Horror",
+    "category": "finished",
+    "id": "re2r-survival",
+    "streams": [
+      { "name": "1 (Леон \"А\")", "twitch": "1760910239", "start": "2:21:43" },
+      { "name": "2", "twitch": "1763934802", "start": "41:53" },
+      { "name": "3 (Клэр \"B\")", "twitch": "1764847023", "start": "10:22" }
+    ]
   },
   {
     "name": "Subnautica",
