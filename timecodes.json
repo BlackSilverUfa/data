@@ -896,7 +896,9 @@
       ],
       "4:51:40~4:52:30": "Eddie Floyd - Knock On Wood",
       "5:22:54~5:23:05": "Sam Cooke - Another Saturday Night",
-      "5:45:22~5:49:29": "Janis Joplin - Piece of My Heart"
+      "5:45:22~5:49:29": "Janis Joplin - Piece of My Heart",
+      "03:18:04~03:18:56": "Roy Orbison - Running Scared",
+      "04:31:00~04:32:33": "Sam Cooke - Wonderful World"
     },
     "11:57": "Интро",
     "16:02": "Игра",
@@ -10271,7 +10273,12 @@
       "4:41:28~4:45:11": "The Stone Roses - Fools Gold (Remastered Edit)",
       "4:57:09~4:58:17": "Rob Base, DJ E-Z Rock - It Takes Two",
       "5:22:48~5:25:43": "Raze - Break 4 Love",
-      "05:33:52~05:36:02": "MFSB - Love Is the Message (A Tom Moulton Mix)"
+      "05:33:52~05:36:02": "MFSB - Love Is the Message (A Tom Moulton Mix)",
+      "Testify for Rage - Killing in the Name": [
+        "01:40:13~01:40:24",
+        "04:45:33~04:47:17",
+        "04:49:13~04:50:11"
+      ]
     },
     "1:29:56": "Заказ Биг Смоука",
     "2:54:28": "Стелс",
