@@ -4063,13 +4063,21 @@
         { "name": "Hatoful Boyfriend", "start": "2:21:01" }
       ] },
       { "name": "Clash: Artifacts of Chaos", "twitch": "1760013812", "start": "54:53" },
-      { "name": "Alice: Madness Returns", "twitch": "1762002968", "start": "26:51" },
       { "name": "Anemoiapolis", "twitch": "1763033004", "start": "3:16:06" },
       { "twitch": "1767632642", "subrefs": [
         { "name": "Diablo II: Resurrected", "start": "30:19" },
         { "name": "Diablo III", "start": "1:37:03" },
         { "name": "Diablo IV", "start": "3:03:11" }
       ] }
+    ]
+  },
+  {
+    "name": "Alice: Madness Returns",
+    "category": "ongoing",
+    "id": "alice-mr",
+    "streams": [
+      { "name": "1", "twitch": "1762002968", "start": "26:51" },
+      { "name": "2", "twitch": "1768648500", "start": "33:01" }
     ]
   },
   {
