@@ -2242,7 +2242,6 @@
         { "name": "The Classrooms (демо)", "start": "1:27:12" },
         { "name": "Quo (демо)", "start": "1:51:13" },
         { "name": "Broken Through", "start": "3:31:13" },
-        { "name": "Anthology of Fear (демо)", "start": "5:02:47" },
         { "name": "On One's Own", "start": "5:39:00" }
       ] },
       { "name": "Forever Skies (демо)", "twitch": "1622143449", "start": "2:57:26" },
@@ -2347,7 +2346,20 @@
         { "name": "Spectral Filter", "start": "1:10:25" },
         { "name": "VHS Slaughter", "start": "2:20:37" },
         { "name": "Jungle Dungeon", "start": "3:39:03" }
+      ] },
+      { "twitch": "1769643693", "subrefs": [
+        { "name": "Silent Nights", "start": "43:18" },
+        { "name": "File Destined", "start": "4:10:16" }
       ] }
+    ]
+  },
+  {
+    "name": "Anthology of Fear",
+    "category": "finished",
+    "id": "anthology-of-fear",
+    "streams": [
+      { "name": "Демо", "twitch": "1619465701", "start": "5:02:47" },
+      { "name": "Релиз", "twitch": "1769643693", "start": "2:00:30" }
     ]
   },
   {
