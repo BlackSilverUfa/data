@@ -1915,7 +1915,8 @@
       { "name": "3", "twitch": "167924021" },
       { "name": "4", "twitch": "168936842" },
       { "name": "5", "twitch": "173993139" },
-      { "name": "6", "twitch": "175695460" }
+      { "name": "6", "twitch": "175695460" },
+      { "name": "Перед Remake", "twitch": "1773155387", "start": "13:23" }
     ]
   },
   {
@@ -2373,7 +2374,8 @@
     "id": "re4-remake",
     "streams": [
       { "name": "Chainsaw Demo #1", "twitch": "1760910239", "start": "33:39" },
-      { "name": "Chainsaw Demo #2", "twitch": "1763934802", "start": "17:58" }
+      { "name": "Chainsaw Demo #2", "twitch": "1763934802", "start": "17:58" },
+      { "name": "1", "twitch": "1773155387", "start": "2:04:34" }
     ]
   },
   {
