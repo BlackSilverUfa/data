@@ -4196,7 +4196,7 @@
   },
   {
     "name": "Mirror Forge",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "mirror-forge",
     "streams": [
       { "name": "1", "twitch": "1686763712", "start": "40:59" },
@@ -4205,7 +4205,7 @@
   },
   {
     "name": "Sleep Paralysis: The Uncanny Valley",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "sleep-paralysis",
     "streams": [
       { "name": "1", "twitch": "1686763712", "start": "5:07:19" },
