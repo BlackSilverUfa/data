@@ -406,8 +406,19 @@
       { "name": "The Long Drive", "twitch": "1587098639", "start": "1:19:12" },
       { "name": "Tales of Terror", "twitch": "1618459269", "start": "3:41:56" },
       { "name": "Overwatch 2", "twitch": "1623036890", "start": "54:11" },
-      { "name": "Ghostbusters: Spirits Unleashed", "twitch": "1624846104", "start": "4:27:41" },
-      { "name": "Crime Boss: Rockay City", "twitch": "1778016938", "start": "4:17:24" }
+      { "name": "Ghostbusters: Spirits Unleashed", "twitch": "1624846104", "start": "4:27:41" }
+    ]
+  },
+  {
+    "name": "Crime Boss: Rockay City",
+    "category": "co-op",
+    "id": "crime-boss-4d",
+    "streams": [
+      { "name": "1 (4D)", "twitch": "1778016938", "start": "4:17:24" },
+      { "twitch": "1778887686", "subrefs": [
+        { "name": "Соло", "start": "12:56" },
+        { "name": "2 (4D)", "start": "3:40:57" }
+      ] }
     ]
   },
   {
@@ -634,7 +645,8 @@
       { "name": "2", "twitch": "1000457538", "start": "2:59:40" },
       { "name": "3", "twitch": "1175536520", "start": "2:03:31" },
       { "name": "4", "twitch": "1533471620", "start": "8:52" },
-      { "name": "5", "twitch": "1587098639", "start": "3:23:29" }
+      { "name": "5", "twitch": "1587098639", "start": "3:23:29" },
+      { "name": "6", "twitch": "1778887686", "start": "5:40:11" }
     ]
   },
   {
@@ -4101,7 +4113,8 @@
       { "twitch": "1778016938", "subrefs": [
         { "name": "Polaris Outpost (демо)", "start": "1:56:35" },
         { "name": "Dredge", "start": "2:16:10" }
-      ] }
+      ] },
+      { "name": "Apocalyptic Vibes", "twitch": "1778887686", "start": "3:20:52" }
     ]
   },
   {
