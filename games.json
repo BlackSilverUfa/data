@@ -2408,7 +2408,7 @@
   },
   {
     "name": "FAITH",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "faith",
     "streams": [
       { "name": "Chapter I", "twitch": "1687663796", "start": "3:22:07" },
@@ -4007,7 +4007,6 @@
       ] },
       { "twitch": "1618459269", "subrefs": [
         { "name": "Chasm: The Rift (демо)", "start": "17:43" },
-        { "name": "Dredge (демо)", "start": "51:30" },
         { "name": "Scars Above (демо)", "start": "1:38:41" }
       ] },
       { "name": "The Chaput's Baby", "twitch": "1619465701", "start": "4:35:57" },
@@ -4110,11 +4109,17 @@
         { "name": "Diablo IV", "start": "3:03:11" }
       ] },
       { "name": "Demonologist (демо)", "twitch": "1777132427", "start": "1:33:06" },
-      { "twitch": "1778016938", "subrefs": [
-        { "name": "Polaris Outpost (демо)", "start": "1:56:35" },
-        { "name": "Dredge", "start": "2:16:10" }
-      ] },
+      { "name": "Polaris Outpost (демо)", "twitch": "1778016938", "start": "1:56:35" },
       { "name": "Apocalyptic Vibes", "twitch": "1778887686", "start": "3:20:52" }
+    ]
+  },
+  {
+    "name": "Dredge",
+    "category": "ongoing",
+    "id": "dredge",
+    "streams": [
+      { "name": "Демо", "twitch": "1618459269", "start": "51:30" },
+      { "name": "Релиз", "twitch": "1778016938", "start": "2:16:10" }
     ]
   },
   {
