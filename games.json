@@ -2374,6 +2374,15 @@
       { "twitch": "1778016938", "subrefs": [
         { "name": "UNFOLLOW", "start": "41:19" },
         { "name": "UNFOLLOW (продолжение)", "start": "1:27:16", "hidden": true }
+      ] },
+      { "twitch": "1782635771", "subrefs": [
+        { "name": "The Touch", "start": "51:05" },
+        { "name": "Alpen Ghoul: Prologue", "start": "1:01:54" },
+        { "name": "The Portraits", "start": "2:31:41" },
+        { "name": "The Renovator: Origins", "start": "2:52:49" },
+        { "name": "see no FEAR", "start": "3:27:16" },
+        { "name": "Manacle", "start": "3:39:13" },
+        { "name": "Cry of the Mermaid", "start": "4:42:36" }
       ] }
     ]
   },
@@ -4111,7 +4120,8 @@
       ] },
       { "name": "Demonologist (демо)", "twitch": "1777132427", "start": "1:33:06" },
       { "name": "Polaris Outpost (демо)", "twitch": "1778016938", "start": "1:56:35" },
-      { "name": "Apocalyptic Vibes", "twitch": "1778887686", "start": "3:20:52" }
+      { "name": "Apocalyptic Vibes", "twitch": "1778887686", "start": "3:20:52" },
+      { "name": "Reclusive", "twitch": "1782635771", "start": "26:09" }
     ]
   },
   {
