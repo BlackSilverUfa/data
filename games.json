@@ -4118,10 +4118,18 @@
         { "name": "Diablo III", "start": "1:37:03" },
         { "name": "Diablo IV", "start": "3:03:11" }
       ] },
-      { "name": "Demonologist (демо)", "twitch": "1777132427", "start": "1:33:06" },
       { "name": "Polaris Outpost (демо)", "twitch": "1778016938", "start": "1:56:35" },
       { "name": "Apocalyptic Vibes", "twitch": "1778887686", "start": "3:20:52" },
       { "name": "Reclusive", "twitch": "1782635771", "start": "26:09" }
+    ]
+  },
+  {
+    "name": "Demonologist",
+    "category": "co-op",
+    "id": "demonologist",
+    "streams": [
+      { "name": "Демо", "twitch": "1777132427", "start": "1:33:06" },
+      { "name": "1 (с Дашей и Джеком)", "twitch": "1783494144", "start": "3:13:53" }
     ]
   },
   {
@@ -4135,12 +4143,13 @@
   },
   {
     "name": "Alice: Madness Returns",
-    "category": "ongoing",
+    "category": "finished",
     "id": "alice-mr",
     "streams": [
       { "name": "1", "twitch": "1762002968", "start": "26:51" },
       { "name": "2", "twitch": "1768648500", "start": "33:01" },
-      { "name": "3", "twitch": "1780702580", "start": "18:30" }
+      { "name": "3", "twitch": "1780702580", "start": "18:30" },
+      { "name": "4", "twitch": "1783494144", "start": "22:43" }
     ]
   },
   {
