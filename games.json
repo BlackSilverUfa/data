@@ -623,7 +623,8 @@
         { "name": "7", "start": "37:28" },
         { "name": "7 (продолжение)", "start": "3:50:49", "hidden": true }
       ] },
-      { "name": "8", "twitch": "1772504839", "start": "7:56" }
+      { "name": "8", "twitch": "1772504839", "start": "7:56" },
+      { "name": "9", "twitch": "1785306187", "start": "4:08:00" }
     ]
   },
   {
@@ -2033,7 +2034,6 @@
       { "name": "Xuan-Yuan Sword VII (демо)", "twitch": "767249770" },
       { "name": "Amnesia: Rebirth", "twitch": "775167526,776153173" },
       { "name": "Harry Potter and the Sorcerer's Stone", "twitch": "779201810" },
-      { "name": "Кужлёвка (демо)", "twitch": "785416056" },
       { "name": "Paranormal Entities", "twitch": "785524800" },
       { "name": "Metal Gear Solid V: Ground Zeroes", "twitch": "791632745" },
       { "name": "Boogerman: A Pick and Flick Adventure", "twitch": "820741630" },
@@ -2384,6 +2384,15 @@
         { "name": "Manacle", "start": "3:39:13" },
         { "name": "Cry of the Mermaid", "start": "4:42:36" }
       ] }
+    ]
+  },
+  {
+    "name": "Кужлёвка",
+    "category": "ongoing",
+    "id": "kujlevka",
+    "streams": [
+      { "name": "Демо", "twitch": "785416056", "start": "41:47" },
+      { "name": "1", "twitch": "1785306187", "start": "1:07:20" }
     ]
   },
   {
