@@ -318,7 +318,6 @@
         { "name": "We Were Here" },
         { "name": "We Were Here Too", "start": "3:29:57" }
       ] },
-      { "name": "Barotrauma", "twitch": "435683759" },
       { "name": "DayZ на PS4 с Джеком", "twitch": "449465888" },
       { "name": "Hot Shot Burn", "twitch": "468908083", "start": "2:33:36" },
       { "twitch": "478129023", "subrefs": [
@@ -407,6 +406,15 @@
       { "name": "Tales of Terror", "twitch": "1618459269", "start": "3:41:56" },
       { "name": "Overwatch 2", "twitch": "1623036890", "start": "54:11" },
       { "name": "Ghostbusters: Spirits Unleashed", "twitch": "1624846104", "start": "4:27:41" }
+    ]
+  },
+  {
+    "name": "Barotrauma",
+    "category": "co-op",
+    "id": "barotrauma",
+    "streams": [
+      { "name": "Ранний доступ", "twitch": "435683759", "start": "59:09" },
+      { "name": "1", "twitch": "1786204138", "start": "3:33:27" }
     ]
   },
   {
@@ -2388,11 +2396,12 @@
   },
   {
     "name": "Кужлёвка",
-    "category": "ongoing",
+    "category": "finished",
     "id": "kujlevka",
     "streams": [
       { "name": "Демо", "twitch": "785416056", "start": "41:47" },
-      { "name": "1", "twitch": "1785306187", "start": "1:07:20" }
+      { "name": "1", "twitch": "1785306187", "start": "1:07:20" },
+      { "name": "2", "twitch": "1786204138", "start": "26:27" }
     ]
   },
   {
@@ -4129,7 +4138,11 @@
       ] },
       { "name": "Polaris Outpost (демо)", "twitch": "1778016938", "start": "1:56:35" },
       { "name": "Apocalyptic Vibes", "twitch": "1778887686", "start": "3:20:52" },
-      { "name": "Reclusive", "twitch": "1782635771", "start": "26:09" }
+      { "name": "Reclusive", "twitch": "1782635771", "start": "26:09" },
+      { "twitch": "1786204138", "subrefs": [
+        { "name": "Eggcelerate! to the Tropics", "start": "1:37:55" },
+        { "name": "Wall World", "start": "2:19:08" }
+      ] }
     ]
   },
   {
@@ -4147,7 +4160,8 @@
     "id": "dredge",
     "streams": [
       { "name": "Демо", "twitch": "1618459269", "start": "51:30" },
-      { "name": "Релиз", "twitch": "1778016938", "start": "2:16:10" }
+      { "name": "1", "twitch": "1778016938", "start": "2:16:10" },
+      { "name": "2", "twitch": "1786204138", "start": "3:03:48" }
     ]
   },
   {
