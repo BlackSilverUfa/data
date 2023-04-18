@@ -2280,7 +2280,6 @@
         { "name": "Silence Channel 2 (демо)", "start": "5:16:15" }
       ] },
       { "twitch": "1634888055", "subrefs": [
-        { "name": "Suffer The Night (демо)", "start": "13:32" },
         { "name": "Please Don't Litter", "start": "1:56:34" },
         { "name": "Death Relives (демо)", "start": "2:58:43" }
       ] },
@@ -2567,7 +2566,8 @@
     "streams": [
       { "name": "1", "twitch": "1433236088" },
       { "name": "2", "twitch": "1434194047" },
-      { "name": "3", "twitch": "1435162657" }
+      { "name": "3", "twitch": "1435162657" },
+      { "name": "Spider's Thread", "twitch": "1797061764", "start": "10:58" }
     ]
   },
   {
@@ -4157,8 +4157,17 @@
       { "twitch": "1789025191", "subrefs": [
         { "name": "The Voidness (демо)", "start": "45:21" },
         { "name": "Confabulation", "start": "3:00:39" }
-      ] },
-      { "name": "Suffer the Night", "twitch": "1796157455", "start": "2:00:34" }
+      ] }
+    ]
+  },
+  {
+    "name": "Suffer the Night",
+    "category": "finished",
+    "id": "suffer-the-night",
+    "streams": [
+      { "name": "Демо", "twitch": "1634888055", "start": "13:32" },
+      { "name": "1", "twitch": "1796157455", "start": "2:00:34" },
+      { "name": "2", "twitch": "1797061764", "start": "3:30:47" }
     ]
   },
   {
