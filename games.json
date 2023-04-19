@@ -2401,7 +2401,8 @@
         { "name": "The Lacerator (демо)", "start": "4:51:04" },
         { "name": "Materna (демо)", "start": "5:22:53" },
         { "name": "Lucid Dreams", "start": "5:31:33" }
-      ] }
+      ] },
+      { "name": "The Closing Shift", "twitch": "1797918117", "start": "1:56:09" }
     ]
   },
   {
@@ -4154,10 +4155,17 @@
         { "name": "Eggcelerate! to the Tropics", "start": "1:37:55" },
         { "name": "Wall World", "start": "2:19:08" }
       ] },
-      { "twitch": "1789025191", "subrefs": [
-        { "name": "The Voidness (демо)", "start": "45:21" },
-        { "name": "Confabulation", "start": "3:00:39" }
-      ] }
+      { "name": "The Voidness (демо)", "twitch": "1789025191", "start": "45:21" },
+      { "name": "Horror Tale", "twitch": "1797918117", "start": "1:41:32" }
+    ]
+  },
+  {
+    "name": "Confabulation",
+    "category": "infinite",
+    "id": "confabulation",
+    "streams": [
+      { "name": "1", "twitch": "1789025191", "start": "3:00:39" },
+      { "name": "2", "twitch": "1797918117", "start": "11:36" }
     ]
   },
   {
