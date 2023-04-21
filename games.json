@@ -4157,10 +4157,16 @@
       ] },
       { "name": "The Voidness (демо)", "twitch": "1789025191", "start": "45:21" },
       { "name": "Horror Tale", "twitch": "1797918117", "start": "1:41:32" },
-      { "twitch": "1798664242", "subrefs": [
-        { "name": "Dead Island", "start": "33:54" },
-        { "name": "Dead Island 2", "start": "2:01:51" }
-      ] }
+      { "name": "Dead Island", "twitch": "1798664242", "start": "33:54" }
+    ]
+  },
+  {
+    "name": "Dead Island 2",
+    "category": "ongoing",
+    "id": "dead-island-2",
+    "streams": [
+      { "name": "1", "twitch": "1798664242", "start": "2:01:51" },
+      { "name": "2", "twitch": "1799517574", "start": "9:00" }
     ]
   },
   {
