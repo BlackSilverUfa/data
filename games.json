@@ -4162,11 +4162,12 @@
   },
   {
     "name": "Dead Island 2",
-    "category": "ongoing",
+    "category": "finished",
     "id": "dead-island-2",
     "streams": [
       { "name": "1", "twitch": "1798664242", "start": "2:01:51" },
-      { "name": "2", "twitch": "1799517574", "start": "9:00" }
+      { "name": "2", "twitch": "1799517574", "start": "9:00" },
+      { "name": "3", "twitch": "1800438364", "start": "7:42" }
     ]
   },
   {
