@@ -2405,10 +2405,17 @@
       { "name": "The Closing Shift", "twitch": "1797918117", "start": "1:56:09" },
       { "twitch": "1803169573", "subrefs": [
         { "name": "The Microwave Paradox", "start": "1:09:23" },
-        { "name": "Subject", "start": "1:24:38" },
+        { "name": "[Subject]", "start": "1:24:38" },
         { "name": "Evil is Back", "start": "2:07:57" },
         { "name": "The Wish Machine (Машина желаний)", "start": "3:18:17" },
         { "name": "Lost Alone: Ultimate - The Day Before (демо)", "start": "4:26:15" }
+      ] },
+      { "twitch": "1804032922", "subrefs": [
+        { "name": "The Gap", "start": "33:28" },
+        { "name": "Future Racer 2000", "start": "1:17:47" },
+        { "name": "Family Curse", "start": "2:12:28" },
+        { "name": "The Arrowhead Incident", "start": "3:31:06" },
+        { "name": "911: Cannibal", "start": "3:57:16" }
       ] }
     ]
   },
