@@ -3998,7 +3998,6 @@
         { "name": "Michael Jackson's Moonwalker", "start": "2:04:47" },
         { "name": "Goofy's Hysterical History Tour", "start": "3:19:58" }
       ] },
-      { "name": "Survival: Fountain of Youth", "twitch": "1547156682", "start": "1:38:23" },
       { "twitch": "1548174786", "subrefs": [
         { "name": "Enter & Survey", "start": "3:13:12" },
         { "name": "Our Lady of the Drowned Lake", "start": "3:20:30" },
@@ -4184,7 +4183,16 @@
       { "name": "Horror Tale", "twitch": "1797918117", "start": "1:41:32" },
       { "name": "Dead Island", "twitch": "1798664242", "start": "33:54" },
       { "name": "Dead Space Demake", "twitch": "1803169573", "start": "4:03:46" },
-      { "name": "Survival: Fountain of Youth", "twitch": "1804882802", "start": "10:14" }
+      { "name": "Star Wars Jedi: Survivor", "twitch": "1805668013", "start": "1:44" }
+    ]
+  },
+  {
+    "name": "Survival: Fountain of Youth",
+    "category": "ongoing",
+    "id": "survival-foy",
+    "streams": [
+      { "name": "Ранний доступ", "twitch": "1547156682", "start": "1:38:23" },
+      { "name": "Релиз", "twitch": "1804882802", "start": "10:14" }
     ]
   },
   {
