@@ -4182,8 +4182,16 @@
       { "name": "The Voidness (демо)", "twitch": "1789025191", "start": "45:21" },
       { "name": "Horror Tale", "twitch": "1797918117", "start": "1:41:32" },
       { "name": "Dead Island", "twitch": "1798664242", "start": "33:54" },
-      { "name": "Dead Space Demake", "twitch": "1803169573", "start": "4:03:46" },
-      { "name": "Star Wars Jedi: Survivor", "twitch": "1805668013", "start": "1:44" }
+      { "name": "Dead Space Demake", "twitch": "1803169573", "start": "4:03:46" }
+    ]
+  },
+  {
+    "name": "Star Wars Jedi: Survivor",
+    "category": "ongoing",
+    "id": "swj-survivor",
+    "streams": [
+      { "name": "1", "twitch": "1805668013", "start": "1:44" },
+      { "name": "2", "twitch": "1806660511", "start": "23:22" }
     ]
   },
   {
