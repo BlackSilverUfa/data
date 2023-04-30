@@ -4187,11 +4187,12 @@
   },
   {
     "name": "Star Wars Jedi: Survivor",
-    "category": "ongoing",
+    "category": "finished",
     "id": "swj-survivor",
     "streams": [
       { "name": "1", "twitch": "1805668013", "start": "1:44" },
-      { "name": "2", "twitch": "1806660511", "start": "23:22" }
+      { "name": "2", "twitch": "1806660511", "start": "23:22" },
+      { "name": "3", "twitch": "1807590761", "start": "11:26" }
     ]
   },
   {
