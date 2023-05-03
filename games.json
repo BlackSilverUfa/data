@@ -406,8 +406,16 @@
       { "name": "Tales of Terror", "twitch": "1618459269", "start": "3:41:56" },
       { "name": "Overwatch 2", "twitch": "1623036890", "start": "54:11" },
       { "name": "Ghostbusters: Spirits Unleashed", "twitch": "1624846104", "start": "4:27:41" },
-      { "name": "Inout", "twitch": "1804882802", "start": "2:04:46" },
-      { "name": "Redfall (с Куплиновым и Дангаром)", "twitch": "1809409736", "start": "4:07:01" }
+      { "name": "Inout", "twitch": "1804882802", "start": "2:04:46" }
+    ]
+  },
+  {
+    "name": "Redfall",
+    "category": "ongoing",
+    "id": "redfall",
+    "streams": [
+      { "name": "1 (с Куплиновым и Дангаром)", "twitch": "1809409736", "start": "4:07:01" },
+      { "name": "2 (соло)", "twitch": "1810272609", "start": "3:19" }
     ]
   },
   {
