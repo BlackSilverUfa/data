@@ -2428,7 +2428,11 @@
         { "name": "The Arrowhead Incident", "start": "3:31:06" },
         { "name": "911: Cannibal", "start": "3:57:16" }
       ] },
-      { "name": "Bramble: The Mountain King", "twitch": "1810311520", "start": "21:30" }
+      { "name": "Bramble: The Mountain King", "twitch": "1810311520", "start": "21:30" },
+      { "twitch": "1811995960", "subrefs": [
+        { "name": "The Invincible (демо)", "start": "1:26:53" },
+        { "name": "I Know This Place..? - Chapter 1", "start": "2:06:03" }
+      ] }
     ]
   },
   {
@@ -4193,7 +4197,11 @@
       { "name": "Horror Tale", "twitch": "1797918117", "start": "1:41:32" },
       { "name": "Dead Island", "twitch": "1798664242", "start": "33:54" },
       { "name": "Dead Space Demake", "twitch": "1803169573", "start": "4:03:46" },
-      { "name": "The Last Case of Benedict Fox", "twitch": "1809409736", "start": "37:02" }
+      { "name": "The Last Case of Benedict Fox", "twitch": "1809409736", "start": "37:02" },
+      { "twitch": "1811995960", "subrefs": [
+        { "name": "Frozen Shelter", "start": "2:45:39" },
+        { "name": "Rewind or Die", "start": "3:25:26" }
+      ] }
     ]
   },
   {
