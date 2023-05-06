@@ -2432,6 +2432,13 @@
       { "twitch": "1811995960", "subrefs": [
         { "name": "The Invincible (демо)", "start": "1:26:53" },
         { "name": "I Know This Place..? - Chapter 1", "start": "2:06:03" }
+      ] },
+      { "twitch": "1812854556", "subrefs": [
+        { "name": "On the Other Side (демо)", "start": "1:22:35" },
+        { "name": "Cave Crawler", "start": "2:10:58" },
+        { "name": "Amanda the Adventurer", "start": "2:44:12" },
+        { "name": "The Pier House - Episode 1", "start": "5:05:08" },
+        { "name": "The Witch of Sherdorne Forest", "start": "5:17:15" }
       ] }
     ]
   },
@@ -4201,7 +4208,8 @@
       { "twitch": "1811995960", "subrefs": [
         { "name": "Frozen Shelter", "start": "2:45:39" },
         { "name": "Rewind or Die", "start": "3:25:26" }
-      ] }
+      ] },
+      { "name": "Dawn of Hell", "twitch": "1812854556", "start": "42:08" }
     ]
   },
   {
