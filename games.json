@@ -4204,13 +4204,21 @@
       { "name": "Horror Tale", "twitch": "1797918117", "start": "1:41:32" },
       { "name": "Dead Island", "twitch": "1798664242", "start": "33:54" },
       { "name": "Dead Space Demake", "twitch": "1803169573", "start": "4:03:46" },
-      { "name": "The Last Case of Benedict Fox", "twitch": "1809409736", "start": "37:02" },
       { "twitch": "1811995960", "subrefs": [
         { "name": "Frozen Shelter", "start": "2:45:39" },
         { "name": "Rewind or Die", "start": "3:25:26" }
       ] },
       { "name": "Dawn of Hell", "twitch": "1812854556", "start": "42:08" },
       { "name": "Nancy Drew: The White Wolf of Icicle Creek (Нэнси Дрю. Белый волк Ледяного ущелья)", "twitch": "1813790886", "start": "14:10" }
+    ]
+  },
+  {
+    "name": "The Last Case of Benedict Fox",
+    "category": "ongoing",
+    "id": "benedict-fox",
+    "streams": [
+      { "name": "1", "twitch": "1809409736", "start": "37:02" },
+      { "name": "2", "twitch": "1814566379", "start": "10:31" }
     ]
   },
   {
@@ -4229,7 +4237,8 @@
     "id": "survival-foy",
     "streams": [
       { "name": "Ранний доступ", "twitch": "1547156682", "start": "1:38:23" },
-      { "name": "Релиз", "twitch": "1804882802", "start": "10:14" }
+      { "name": "1 (релиз)", "twitch": "1804882802", "start": "10:14" },
+      { "name": "2", "twitch": "1814566379", "start": "3:21:02" }
     ]
   },
   {
