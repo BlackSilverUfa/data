@@ -2892,6 +2892,14 @@
     ]
   },
   {
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "category": "ongoing",
+    "id": "tloz_totk",
+    "streams": [
+      { "name": "1", "twitch": "1817831979", "start": "8:41" }
+    ]
+  },
+  {
     "name": "White Day: A Labyrinth Named School",
     "category": "finished",
     "id": "white_day",
