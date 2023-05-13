@@ -2896,7 +2896,8 @@
     "category": "ongoing",
     "id": "tloz_totk",
     "streams": [
-      { "name": "1", "twitch": "1817831979", "start": "8:41" }
+      { "name": "1", "twitch": "1817831979", "start": "8:41" },
+      { "name": "2", "twitch": "1818750640", "start": "7:28" }
     ]
   },
   {
