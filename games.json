@@ -4223,10 +4223,7 @@
         { "name": "Rewind or Die", "start": "3:25:26" }
       ] },
       { "name": "Dawn of Hell", "twitch": "1812854556", "start": "42:08" },
-      { "twitch": "1826440973", "subrefs": [
-        { "name": "The Outlast Trials", "start": "4:39" },
-        { "name": "Daymare: 1994 Sandcastle", "start": "1:37:17" }
-      ] }
+      { "name": "The Outlast Trials", "twitch": "1826440973", "start": "4:39" }
     ]
   },
   {
@@ -4763,7 +4760,8 @@
     "id": "daymare-1994-sc",
     "streams": [
       { "name": "1 (демо)", "twitch": "1306396434", "start": "3:29:00" },
-      { "name": "2", "twitch": "1307474557" }
+      { "name": "2", "twitch": "1307474557", "start": "44:31" },
+      { "name": "3", "twitch": "1826440973", "start": "1:37:17" }
     ]
   },
   {
