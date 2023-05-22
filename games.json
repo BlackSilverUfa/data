@@ -2440,7 +2440,8 @@
         { "name": "The Pier House - Episode 1", "start": "5:05:08" },
         { "name": "The Witch of Sherdorne Forest", "start": "5:17:15" }
       ] },
-      { "name": "Layers of Fear (демо)", "twitch": "1823827495", "start": "2:11:50" }
+      { "name": "Layers of Fear (демо)", "twitch": "1823827495", "start": "2:11:50" },
+      { "name": "Deppart Prototype", "twitch": "1826440973", "start": "1:11:28" }
     ]
   },
   {
@@ -4221,7 +4222,11 @@
         { "name": "Frozen Shelter", "start": "2:45:39" },
         { "name": "Rewind or Die", "start": "3:25:26" }
       ] },
-      { "name": "Dawn of Hell", "twitch": "1812854556", "start": "42:08" }
+      { "name": "Dawn of Hell", "twitch": "1812854556", "start": "42:08" },
+      { "twitch": "1826440973", "subrefs": [
+        { "name": "The Outlast Trials", "start": "4:39" },
+        { "name": "Daymare: 1994 Sandcastle", "start": "1:37:17" }
+      ] }
     ]
   },
   {
