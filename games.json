@@ -4223,7 +4223,20 @@
         { "name": "Rewind or Die", "start": "3:25:26" }
       ] },
       { "name": "Dawn of Hell", "twitch": "1812854556", "start": "42:08" },
-      { "name": "The Outlast Trials", "twitch": "1826440973", "start": "4:39" }
+      { "twitch": "1827232465,1827360298,1827371582,1827392675", "subrefs": [
+        { "name": "Amnesia: The Bunker (демо)", "start": "33:39" },
+        { "name": "Horror Exp+", "start": "2:12:43" },
+        { "name": "Haunted Horror Stories: Gone With The Wind", "start": "4:25:39" }
+      ] }
+    ]
+  },
+  {
+    "name": "The Outlast Trials",
+    "category": "co-op",
+    "id": "outlast-trials",
+    "streams": [
+      { "name": "1 (соло)", "twitch": "1826440973", "start": "4:39" },
+      { "name": "2 (с Куплиновым и Дангаром)", "twitch": "1827232465,1827360298,1827371582,1827392675", "start": "2:38:14" }
     ]
   },
   {
