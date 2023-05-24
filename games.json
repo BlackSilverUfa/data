@@ -1568,8 +1568,16 @@
       { "name": "Square Enix Presents (Весна 2021)", "twitch": "953865835", "start": "3:04:45" },
       { "name": "Resident Evil Showcase (Апрель 2021)", "twitch": "988804108", "start": "27:07" },
       { "name": "WitcherCon", "twitch": "1081385499,1081403044", "start": "4:01:35" },
-      { "name": "Dead Space Remake Dev Stream", "twitch": "1134934289", "start": "3:57:26" },
-      { "name": "PlayStation Showcase 2021", "twitch": "1143525237", "start": "6:55:06" }
+      { "name": "Dead Space Remake Dev Stream", "twitch": "1134934289", "start": "3:57:26" }
+    ]
+  },
+  {
+    "name": "PlayStation Showcase",
+    "category": "expos",
+    "id": "ps-showcase",
+    "streams": [
+      { "name": "2021", "twitch": "1143525237", "start": "6:55:06" },
+      { "name": "2023", "twitch": "1828339885", "start": "24:45" }
     ]
   },
   {
