@@ -277,8 +277,8 @@
       "2:54:45~3:00:24"
     ],
     "Проблемы с правообладателями": {
-      "4:23:41~4:28:02": "Europe - The Final Countdown",
-      "2:58:13~3:00:15": "Darude - Sandstorm"
+      "2:58:13~3:00:15": "Darude - Sandstorm",
+      "4:23:41~4:28:02": "Europe - The Final Countdown"
     }
   },
   "001511250": {
@@ -436,6 +436,7 @@
       "2:49:51~3:03:26"
     ],
     "Проблемы с правообладателями": {
+      "1:32:26~1:37:22": "Eugene Ormandy, The Philadelphia Orchestra - Suite bergamasque, L. 75: III. Clair de lune (Arr. L. Caillet for Orchestra)",
       "Perry Como - Papa Loves Mambo": [
         "2:50:11~2:52:50",
         "4:40:57~4:43:36"
@@ -443,8 +444,7 @@
       "Darude - Sandstorm": [
         "2:57:57~2:58:09",
         "2:59:32~3:01:48"
-      ],
-      "01:32:26~01:37:22": "Eugene Ormandy, The Philadelphia Orchestra - Suite bergamasque, L. 75: III. Clair de lune (Arr. L. Caillet for Orchestra)"
+      ]
     },
     "4:41:39": "Арты"
   },
@@ -698,7 +698,7 @@
     "Проблемы с правообладателями": {
       "4:01~8:31": "Aerosmith - Fly Away From Here",
       "32:24~34:03": "Darude - Sandstorm",
-      "00:34:15~00:35:54": "Red - Die For You",
+      "34:15~35:54": "Red - Die For You",
       "1:10:29~1:12:07": "Gipsy Kings - Bamboleo",
       "2:26:18~2:27:58": "George Michael - Careless Whisper",
       "2:42:21~2:44:00": "Perry Como - Papa Loves Mambo",
@@ -890,15 +890,15 @@
         "4:27:16~4:28:22"
       ],
       "3:14:11~3:14:22": "The Beach Boys - Help Me, Rhonda (Remastered)",
+      "3:18:04~3:18:56": "Roy Orbison - Running Scared",
       "Del Shannon - Keep Searchin": [
         "3:47:33~3:49:24",
         "4:34:23~4:35:57"
       ],
+      "4:31:00~4:32:33": "Sam Cooke - Wonderful World",
       "4:51:40~4:52:30": "Eddie Floyd - Knock On Wood",
       "5:22:54~5:23:05": "Sam Cooke - Another Saturday Night",
-      "5:45:22~5:49:29": "Janis Joplin - Piece of My Heart",
-      "03:18:04~03:18:56": "Roy Orbison - Running Scared",
-      "04:31:00~04:32:33": "Sam Cooke - Wonderful World"
+      "5:45:22~5:49:29": "Janis Joplin - Piece of My Heart"
     },
     "11:57": "Интро",
     "16:02": "Игра",
@@ -3203,6 +3203,12 @@
     }
   },
   "284560594": {
+    "Проблемы с правообладателями": {
+      "Darude - Sandstorm": [
+        "13:12~15:22",
+        "5:08:02~5:10:52"
+      ]
+    },
     "Трейлеры": {
       "15:22": "Геймплей Vigor",
       "17:32": "We Happy Few",
@@ -3212,12 +3218,6 @@
     "Persona 5": {
       "3:32:51": "Проблемы со звуком",
       "3:38:42": "Начало игры"
-    },
-    "Проблемы с правообладателями": {
-      "Darude - Sandstorm": [
-        "13:12~15:22",
-        "5:08:02~5:10:52"
-      ]
     }
   },
   "284955107": {
@@ -8545,6 +8545,11 @@
     },
     "27:46": "Меню",
     "28:10": "Новый скин",
+    "Проблемы с правообладателями": {
+      "28:13~28:44": "Django Reinhardt - Django Castle",
+      "1:31:23~1:33:15": "The Mills Brothers - Chinatown, My Chinatown",
+      "3:39:30~3:42:28": "Duke Ellington - The Mooche"
+    },
     "29:07": "Игра",
     "53:18": "Снайпер",
     "1:14:37": "Артём",
@@ -8553,12 +8558,7 @@
     "1:48:14": "Физика",
     "3:30:04": "Бросаю гранату",
     "3:52:52": "Идеальный тайминг",
-    "4:49:39": "Неееет!",
-    "Проблемы с правообладателями": {
-      "28:13~28:44": "Django Reinhardt - Django Castle",
-      "1:31:23~1:33:15": "The Mills Brothers - Chinatown, My Chinatown",
-      "3:39:30~3:42:28": "Duke Ellington - The Mooche"
-    }
+    "4:49:39": "Неееет!"
   },
   "496714817": {
     "1:44": "Артур",
@@ -8568,9 +8568,9 @@
     "Проблемы с правообладателями": {
       "46:23~49:31": "John Denver - Take Me Home, Country Roads",
       "1:22:45~1:25:59": "AC/DC - Highway to Hell",
-      "2:30:29~2:33:31": "Не указано",
       "2:15:55~2:19:02": "Scooter - Bora! Bora! Bora!",
       "2:23:06~2:29:53": "Не указано",
+      "2:30:29~2:33:31": "Не указано",
       "3:16:10~3:21:37": "Rammstein - Deutschland",
       "3:29:02~3:32:00": "The O'Jays - Love Train",
       "3:51:47~3:56:09": "Peter Gabriel - Big Time (2002 Remaster)"
@@ -8634,8 +8634,8 @@
         "3:35:17~3:35:57"
       ],
       "The Mills Brothers - Chinatown, My Chinatown": [
-        "05:35:53~05:38:14",
-        "05:42:08~05:44:07"
+        "5:35:53~5:38:14",
+        "5:42:08~5:44:07"
       ]
     },
     "1:19:09": "Лучший кадр",
@@ -9501,6 +9501,10 @@
         "3:04:41~3:06:06",
         "4:41:41~4:43:05"
       ],
+      "Whodini - Magic's Wand": [
+        "3:25:55~3:27:00",
+        "6:21:59~6:23:04"
+      ],
       "3:41:53~3:44:15": "Joe Jackson - Steppin' Out",
       "3:51:16~3:52:06": "Evelyn \"Champagne\" King - Shame",
       "4:00:03~4:01:35": "Luther Vandross - Never Too Much",
@@ -9510,11 +9514,7 @@
       "5:17:13~5:17:50": "Ozzy Osbourne - Bark at the Moon",
       "5:25:25~5:26:06": "Michael Jackson - Billie Jean",
       "5:45:24~5:46:49": "Tito Puente & His Orchestra - Mambo Gozon",
-      "6:10:08~6:12:23": "Michael Jackson - Wanna Be Startin' Somethin'",
-      "Whodini - Magic's Wand": [
-        "3:25:55~3:27:00",
-        "6:21:59~6:23:04"
-      ]
+      "6:10:08~6:12:23": "Michael Jackson - Wanna Be Startin' Somethin'"
     },
     "6:34:45": "Бонус"
   },
@@ -9751,10 +9751,10 @@
     },
     "Проблемы с правообладателями": {
       "1:22:59~1:26:51": "BABYMETAL - PA PA YA!!",
-      "01:51:22~01:54:46": "\"Weird Al\" Yankovic - Eat It",
-      "01:47:07~01:51:10": "Ray Parker Jr. - Ghostbusters",
-      "03:49:10~03:49:31": "Julio Iglesias - Nostalgie (Nostalgia)",
-      "01:55:59~01:59:38": "\"Weird Al\" Yankovic - Fat"
+      "1:47:07~1:51:10": "Ray Parker Jr. - Ghostbusters",
+      "1:51:22~1:54:46": "\"Weird Al\" Yankovic - Eat It",
+      "1:55:59~1:59:38": "\"Weird Al\" Yankovic - Fat",
+      "3:49:10~3:49:31": "Julio Iglesias - Nostalgie (Nostalgia)"
     },
     "2:11:32": "Вход в Discord",
     "Last Year": {
@@ -10212,7 +10212,7 @@
         "2:04:22~2:04:39",
         "3:30:16~3:33:47"
       ],
-      "03:48:02~03:51:16": "Yoko Takahashi - FLY ME TO THE MOON 2020",
+      "3:48:02~3:51:16": "Yoko Takahashi - FLY ME TO THE MOON 2020",
       "4:59:21~5:02:51": "Не указано"
     },
     "Нет звука (Twitch)": [
@@ -10271,20 +10271,20 @@
         "1:22:15~1:22:32",
         "2:39:03~2:40:48"
       ],
+      "Testify for Rage - Killing in the Name": [
+        "1:40:13~1:40:24",
+        "4:45:33~4:47:17",
+        "4:49:13~4:50:11"
+      ],
       "1:49:41~1:53:09": "Boston - Smokin'",
       "2:46:32~2:46:42": "Ozzy Osbourne - Hellraizer",
-      "02:51:34~02:52:40": "Above The Law - Murder Rap (Album Version)",
+      "2:51:34~2:52:40": "Above The Law - Murder Rap (Album Version)",
       "3:22:22~3:23:34": "Too $hort - The Ghetto",
       "4:24:37~4:25:51": "Toto - Hold the Line",
       "4:41:28~4:45:11": "The Stone Roses - Fools Gold (Remastered Edit)",
       "4:57:09~4:58:17": "Rob Base, DJ E-Z Rock - It Takes Two",
       "5:22:48~5:25:43": "Raze - Break 4 Love",
-      "05:33:52~05:36:02": "MFSB - Love Is the Message (A Tom Moulton Mix)",
-      "Testify for Rage - Killing in the Name": [
-        "01:40:13~01:40:24",
-        "04:45:33~04:47:17",
-        "04:49:13~04:50:11"
-      ]
+      "5:33:52~5:36:02": "MFSB - Love Is the Message (A Tom Moulton Mix)"
     },
     "1:29:56": "Заказ Биг Смоука",
     "2:54:28": "Стелс",
@@ -10383,7 +10383,7 @@
         "3:29:14~3:29:40",
         "3:37:13~3:37:53"
       ],
-      "03:47:34~03:47:45": "Above The Law - Murder Rap (Album Version)",
+      "3:47:34~3:47:45": "Above The Law - Murder Rap (Album Version)",
       "3:49:42~3:49:57": "Frankie Knuckles - It's a Cold World",
       "5:07:40~5:08:04": "Public Enemy - Rebel Without A Pause",
       "The Nightwriters - Let the Music (Use You)": [
@@ -11073,9 +11073,9 @@
       "29:02~30:42": "America - A Horse with No Name",
       "2:19:30~2:21:26": "Elvis Presley - New Orleans",
       "2:24:01~2:25:44": "Toto - Hold the Line",
-      "5:27:43~6:01:32": "Rocky Orchestra - Gonna Fly Now",
-      "03:30:24~03:30:37": "Depeche Mode - Personal Jesus",
-      "04:25:40~04:25:54": "Above The Law - Murder Rap (Album Version)"
+      "3:30:24~3:30:37": "Depeche Mode - Personal Jesus",
+      "4:25:40~4:25:54": "Above The Law - Murder Rap (Album Version)",
+      "5:27:43~6:01:32": "Rocky Orchestra - Gonna Fly Now"
     },
     "С первого раза": [
       "39:29",
@@ -17202,14 +17202,14 @@
     "4:59": "Стримлер",
     "6:54": "Меню",
     "8:06": "Игра",
+    "Проблемы с правообладателями": {
+      "21:32~23:58": "Miles Davis - Black Satin/What If/Agharta Prelude Dub"
+    },
     "1:44:31": "Лучший напарник",
     "1:50:31": "T-pose",
     "3:56:49": "Умный пистолет",
     "4:19:11": "Кибер-плотва",
-    "7:34:38": "Бонус",
-    "Проблемы с правообладателями": {
-      "00:21:32~00:23:58": "Miles Davis - Black Satin/What If/Agharta Prelude Dub"
-    }
+    "7:34:38": "Бонус"
   },
   "834647659": {
     "0:35": "Интро",
@@ -20473,7 +20473,7 @@
     "5:06": "Заставка",
     "5:33": "Игра",
     "Проблемы с правообладателями": {
-      "06:08:05~06:09:03": "Blue Oyster Cult - (Don't Fear) The Reaper"
+      "6:08:05~6:09:03": "Blue Oyster Cult - (Don't Fear) The Reaper"
     }
   },
   "1011964836": {
@@ -23802,7 +23802,7 @@
     "4:48": "Меню",
     "6:36": "Игра",
     "Проблемы с правообладателями": {
-      "04:42:23~04:43:36": "Keaton Henson - You"
+      "4:42:23~4:43:36": "Keaton Henson - You"
     }
   },
   "1154121803": {
@@ -26109,6 +26109,9 @@
     "4:07~11:14": "Стримлер",
     "10:16": "Анекдот",
     "26:02": "Викиреальность",
+    "Проблемы с правообладателями": {
+      "28:24~29:09": "Darude - Sandstorm"
+    },
     "Five Nights At Freddy's: Security Breach": {
       "29:51": "Меню",
       "31:01": "Игра"
@@ -26124,10 +26127,7 @@
       "4:04:28": "Приседания",
       "4:36:40": "Раскукожь его обратно"
     },
-    "6:02:09": "Бонус",
-    "Проблемы с правообладателями": {
-      "00:28:24~00:29:09": "Darude - Sandstorm"
-    }
+    "6:02:09": "Бонус"
   },
   "1245734451": {
     "2:08": "Интро",
@@ -30150,7 +30150,7 @@
       "1:14:57": "Half Dead 3"
     },
     "Проблемы с правообладателями": {
-      "00:26:01~00:26:48": "Vera Lynn - We'll Meet Again"
+      "26:01~26:48": "Vera Lynn - We'll Meet Again"
     },
     "Нарезки": {
       "55:42": "<a href=\"https://youtu.be/p4Yb2Stsjp8\">Quiet Man - Может грибниками станем?</a>",
@@ -31345,8 +31345,8 @@
         "21:59~22:37",
         "1:31:20~1:31:53"
       ],
-      "1:31:20~1:31:53": "Kidd Kenn - Vroom Vroom",
-      "54:58~57:50": "Hotwire - Invisible"
+      "54:58~57:50": "Hotwire - Invisible",
+      "1:31:20~1:31:53": "Kidd Kenn - Vroom Vroom"
     },
     "5:32~7:45": "Стримлер",
     "20:14": "Меню",
@@ -32342,14 +32342,14 @@
       ],
       "56:28": "Like a Dragon: Ishin!"
     },
-    "59:02": "Меню",
-    "1:01:23": "Интро",
     "Проблемы с правообладателями": {
       "The Black Keys - Lonely Boy": [
         "45:17~46:13",
         "1:01:25~1:05:35"
       ]
     },
+    "59:02": "Меню",
+    "1:01:23": "Интро",
     "1:06:23~1:06:43": "Игра",
     "2:08:20": "Упс..."
   },
@@ -33043,7 +33043,6 @@
   "1767632642": {
     "2:09": "Интро",
     "7:10": "Стримлер",
-    "26:32": "Странный сон",
     "Трейлеры": {
       "13:51": "Exoprimal",
       "Diablo 4": [
@@ -33053,6 +33052,7 @@
         "2:59:01"
       ]
     },
+    "26:32": "Странный сон",
     "Diablo II: Resurrected": {
       "30:19": "Меню",
       "31:26": "Создание персонажа",
@@ -33162,7 +33162,7 @@
     "2:29:55": "Мёртвый! Живой! Мёртвый!"
   },
   "1772504839": {
-    "00:53": "Стримлер",
+    "0:53": "Стримлер",
     "Трейлеры": {
       "2:44": "Counter-Strike 2 - Responsive Smoke",
       "4:16": "Eresys"
@@ -34150,8 +34150,8 @@
     "2:18": "Интро",
     "8:08": "Стримлер",
     "12:43": "Тики-тики",
-    "19:48": "Ноо ноо",
     "17:34": "Трейлер Planet of Lana",
+    "19:48": "Ноо ноо",
     "Amnesia: The Bunker (демо)": {
       "33:39": "Меню",
       "36:00": "Интро",
