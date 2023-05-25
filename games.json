@@ -4236,7 +4236,12 @@
         { "name": "Amnesia: The Bunker (демо)", "start": "33:39" },
         { "name": "Horror Exp+", "start": "2:12:43" }
       ] },
-      { "name": "Haunted Horror Stories: Gone With The Wind", "twitch": "1827232465,1827360298,1827371582,1827392675", "start": "4:25:39" }
+      { "name": "Haunted Horror Stories: Gone With The Wind", "twitch": "1827232465,1827360298,1827371582,1827392675", "start": "4:25:39" },
+      { "twitch": "1828848663", "subrefs": [
+        { "name": "The Lord of the Rings: Gollum", "start": "20:41" },
+        { "name": "Warhammer 40,000: Boltgun", "start": "2:11:08" },
+        { "name": "Planet of Lana", "start": "3:09:46" }
+      ] }
     ]
   },
   {
