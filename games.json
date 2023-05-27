@@ -2449,7 +2449,13 @@
         { "name": "The Witch of Sherdorne Forest", "start": "5:17:15" }
       ] },
       { "name": "Layers of Fear (демо)", "twitch": "1823827495", "start": "2:11:50" },
-      { "name": "Deppart Prototype", "twitch": "1826440973", "start": "1:11:28" }
+      { "name": "Deppart Prototype", "twitch": "1826440973", "start": "1:11:28" },
+      { "twitch": "1830612078", "subrefs": [
+        { "name": "Alone in the Dark: Prologue", "start": "22:49" },
+        { "name": "Presences: Dark Awakening (демо)", "start": "45:00" },
+        { "name": "Water Wheel", "start": "4:23:10" },
+        { "name": "My Eyes Deceive", "start": "4:47:28" }
+      ] }
     ]
   },
   {
@@ -4241,6 +4247,11 @@
         { "name": "The Lord of the Rings: Gollum", "start": "20:41" },
         { "name": "Warhammer 40,000: Boltgun", "start": "2:11:08" },
         { "name": "Planet of Lana", "start": "3:09:46" }
+      ] },
+      { "twitch": "1830612078", "subrefs": [
+        { "name": "The Wailer", "start": "1:12:44" },
+        { "name": "BloodWaters (Кровавые воды)", "start": "1:37:42" },
+        { "name": "Movie Night", "start": "4:10:52" }
       ] }
     ]
   },
@@ -4250,7 +4261,8 @@
     "id": "outlast-trials",
     "streams": [
       { "name": "1 (соло)", "twitch": "1826440973", "start": "4:39" },
-      { "name": "2 (с Куплиновым и Дангаром)", "twitch": "1827232465,1827360298,1827371582,1827392675", "start": "2:38:14" }
+      { "name": "2 (с Куплиновым и Дангаром)", "twitch": "1827232465,1827360298,1827371582,1827392675", "start": "2:38:14" },
+      { "name": "3 (с Куплиновым и Дангаром)", "twitch": "1830612078", "start": "2:36:04" }
     ]
   },
   {
