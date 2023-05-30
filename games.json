@@ -3678,6 +3678,15 @@
     ]
   },
   {
+    "name": "System Shock",
+    "category": "ongoing",
+    "id": "system-shock",
+    "streams": [
+      { "name": "Демо", "twitch": "928993182", "start": "46:48" },
+      { "name": "Релиз", "twitch": "1833150878", "start": "2:12:59" }
+    ]
+  },
+  {
     "name": "Первый взгляд 2021",
     "category": "first",
     "type": "list",
@@ -3699,7 +3708,6 @@
         { "name": "Tasomachi (демо)", "start": "5:48:58" }
       ] },
       { "name": "What Lives Below (демо)", "twitch": "916293705" },
-      { "name": "System Shock (демо)", "twitch": "928993182" },
       { "name": "HellSign", "twitch": "932891083" },
       { "twitch": "935303434", "subrefs": [
         { "name": "Winter Survival Simulator (демо)" },
@@ -4253,7 +4261,8 @@
         { "name": "The Wailer", "start": "1:12:44" },
         { "name": "BloodWaters (Кровавые воды)", "start": "1:37:42" },
         { "name": "Movie Night", "start": "4:10:52" }
-      ] }
+      ] },
+      { "name": "Shame Legacy", "twitch": "1833150878", "start": "28:47" }
     ]
   },
   {
