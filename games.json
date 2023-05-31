@@ -2065,10 +2065,7 @@
       { "name": "Paranormal Entities", "twitch": "785524800" },
       { "name": "Metal Gear Solid V: Ground Zeroes", "twitch": "791632745" },
       { "name": "Boogerman: A Pick and Flick Adventure", "twitch": "820741630" },
-      { "twitch": "828815728", "subrefs": [
-        { "name": "Stasis: Bone Totem (демо)", "start": "3:07:42" },
-        { "name": "DARQ: Complete Edition", "start": "4:43:52" }
-      ] },
+      { "name": "DARQ: Complete Edition", "twitch": "828815728", "start": "4:43:52" },
       { "name": "Call of the Sea", "twitch": "838158299", "start": "2:00:36" },
       { "name": "Harry Potter and the Chamber of Secrets", "twitch": "841556992" },
       { "twitch": "850367913", "subrefs": [
@@ -2455,7 +2452,8 @@
         { "name": "Presences: Dark Awakening (демо)", "start": "45:00" },
         { "name": "Water Wheel", "start": "4:23:10" },
         { "name": "My Eyes Deceive", "start": "4:47:28" }
-      ] }
+      ] },
+      { "name": "MyHouse.wad", "twitch": "1833989886,1834110105", "start": "1:52:03" }
     ]
   },
   {
@@ -2475,6 +2473,15 @@
       { "name": "Демо", "twitch": "785416056", "start": "41:47" },
       { "name": "1", "twitch": "1785306187", "start": "1:07:20" },
       { "name": "2", "twitch": "1786204138", "start": "26:27" }
+    ]
+  },
+  {
+    "name": "Stasis: Bone Totem",
+    "category": "ongoing",
+    "id": "stasis-bt",
+    "streams": [
+      { "name": "Демо", "twitch": "828815728", "start": "3:07:42" },
+      { "name": "Релиз", "twitch": "1833989886,1834110105", "start": "4:07:19" }
     ]
   },
   {
@@ -2762,9 +2769,10 @@
     "category": "abandoned",
     "id": "tiny-bunny",
     "streams": [
-      { "name": "Эпизод 1", "twitch": "990810001" },
-      { "name": "Эпизод 2", "twitch": "995413784" },
-      { "name": "Эпизод 3", "twitch": "1253678202,1253695802" }
+      { "name": "Эпизод 1", "twitch": "990810001", "start": "14:48" },
+      { "name": "Эпизод 2", "twitch": "995413784", "start": "1:01:48" },
+      { "name": "Эпизод 3", "twitch": "1253678202,1253695802", "start": "1:18:00" },
+      { "name": "Эпизод 4", "twitch": "1833989886,1834110105", "start": "24:04" }
     ]
   },
   {
