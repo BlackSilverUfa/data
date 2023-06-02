@@ -4191,6 +4191,15 @@
     ]
   },
   {
+    "name": "Diablo IV",
+    "category": "co-op",
+    "id": "diablo-4",
+    "streams": [
+      { "name": "Открытый тест (2D)", "twitch": "1767632642", "start": "3:03:11" },
+      { "name": "1 (4D)", "twitch": "1835656508", "start": "2:11:15" }
+    ]
+  },
+  {
     "name": "Первый взгляд 2023",
     "category": "first",
     "type": "list",
@@ -4237,8 +4246,7 @@
       { "name": "Anemoiapolis", "twitch": "1763033004", "start": "3:16:06" },
       { "twitch": "1767632642", "subrefs": [
         { "name": "Diablo II: Resurrected", "start": "30:19" },
-        { "name": "Diablo III", "start": "1:37:03" },
-        { "name": "Diablo IV", "start": "3:03:11" }
+        { "name": "Diablo III", "start": "1:37:03" }
       ] },
       { "name": "Polaris Outpost (демо)", "twitch": "1778016938", "start": "1:56:35" },
       { "name": "Apocalyptic Vibes", "twitch": "1778887686", "start": "3:20:52" },
@@ -4271,7 +4279,8 @@
         { "name": "BloodWaters (Кровавые воды)", "start": "1:37:42" },
         { "name": "Movie Night", "start": "4:10:52" }
       ] },
-      { "name": "Shame Legacy", "twitch": "1833150878", "start": "28:47" }
+      { "name": "Shame Legacy", "twitch": "1833150878", "start": "28:47" },
+      { "name": "Killer Frequency", "twitch": "1835656508", "start": "24:03" }
     ]
   },
   {
