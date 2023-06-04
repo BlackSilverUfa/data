@@ -2423,7 +2423,6 @@
       { "twitch": "1803169573", "subrefs": [
         { "name": "The Microwave Paradox", "start": "1:09:23" },
         { "name": "[Subject]", "start": "1:24:38" },
-        { "name": "Evil is Back", "start": "2:07:57" },
         { "name": "The Wish Machine (Машина желаний)", "start": "3:18:17" },
         { "name": "Lost Alone: Ultimate - The Day Before (демо)", "start": "4:26:15" }
       ] },
@@ -2585,11 +2584,12 @@
       ] },
       { "name": "Poop Killer 4", "twitch": "1603602197", "start": "4:41:14" },
       { "twitch": "1642266888,1642407202", "subrefs": [
-        { "name": "Poop Killer: Origins", "start": "1:28:21" },
+        { "name": "Poop Killer Origins", "start": "1:28:21" },
         { "name": "Legend Hunters", "start": "2:34:48" }
       ] },
       { "name": "Poop Killer 5", "twitch": "1663155573", "start": "5:06:15" },
       { "name": "Poop Killer 6", "twitch": "1728992336", "start": "2:50:02" },
+      { "name": "Evil is Back", "twitch": "1803169573", "start": "2:07:57" },
       { "name": "Poop Killer 7", "twitch": "1837484119", "start": "2:57:03" }
     ]
   },
