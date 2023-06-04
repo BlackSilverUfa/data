@@ -2453,7 +2453,15 @@
         { "name": "Water Wheel", "start": "4:23:10" },
         { "name": "My Eyes Deceive", "start": "4:47:28" }
       ] },
-      { "name": "MyHouse.wad", "twitch": "1833989886,1834110105", "start": "1:52:03" }
+      { "name": "MyHouse.wad", "twitch": "1833989886,1834110105", "start": "1:52:03" },
+      { "twitch": "1837484119", "subrefs": [
+        { "name": "CANINE", "start": "47:43" },
+        { "name": "Sinking Iron", "start": "1:36:08" },
+        { "name": "Last Night", "start": "2:05:23" },
+        { "name": "Eerie Enigma", "start": "2:26:37" },
+        { "name": "Poop Killer 7", "start": "2:57:03" },
+        { "name": "The Nefarious", "start": "3:34:25" }
+      ] }
     ]
   },
   {
@@ -4280,7 +4288,11 @@
         { "name": "Movie Night", "start": "4:10:52" }
       ] },
       { "name": "Shame Legacy", "twitch": "1833150878", "start": "28:47" },
-      { "name": "Killer Frequency", "twitch": "1835656508", "start": "24:03" }
+      { "name": "Killer Frequency", "twitch": "1835656508", "start": "24:03" },
+      { "twitch": "1837484119", "subrefs": [
+        { "name": "The Tartarus Key", "start": "4:18:25" },
+        { "name": "There is Something in the Anderghast Mine", "start": "4:44:26" }
+      ] }
     ]
   },
   {
