@@ -2459,7 +2459,6 @@
         { "name": "Sinking Iron", "start": "1:36:08" },
         { "name": "Last Night", "start": "2:05:23" },
         { "name": "Eerie Enigma", "start": "2:26:37" },
-        { "name": "Poop Killer 7", "start": "2:57:03" },
         { "name": "The Nefarious", "start": "3:34:25" }
       ] }
     ]
@@ -2560,10 +2559,10 @@
     ]
   },
   {
-    "name": "Trash Horror Collection",
-    "category": "finished",
+    "name": "616 GAMES",
+    "category": "infinite",
+    "id": "616-games",
     "type": "list",
-    "id": "trash-horror",
     "streams": [
       { "name": "The Clown's Fun", "twitch": "1472093056", "start": "14:38" },
       { "name": "After Midnight", "twitch": "1548174786", "start": "2:24:27" },
@@ -2579,15 +2578,7 @@
         { "name": "The Elevator", "start": "2:17:18" },
         { "name": "Night Revenge", "start": "2:37:55" },
         { "name": "Thursday the 12th", "start": "2:59:23" }
-      ] }
-    ]
-  },
-  {
-    "name": "Trash Horror Collection 2",
-    "category": "ongoing",
-    "type": "list",
-    "id": "trash-horror-2",
-    "streams": [
+      ] },
       { "twitch": "1596223040", "subrefs": [
         { "name": "We Are Not Alone", "start": "3:16:25" },
         { "name": "The House of Rats", "start": "3:47:50" }
@@ -2598,7 +2589,8 @@
         { "name": "Legend Hunters", "start": "2:34:48" }
       ] },
       { "name": "Poop Killer 5", "twitch": "1663155573", "start": "5:06:15" },
-      { "name": "Poop Killer 6", "twitch": "1728992336", "start": "2:50:02" }
+      { "name": "Poop Killer 6", "twitch": "1728992336", "start": "2:50:02" },
+      { "name": "Poop Killer 7", "twitch": "1837484119", "start": "2:57:03" }
     ]
   },
   {
