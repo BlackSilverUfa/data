@@ -4264,10 +4264,7 @@
         { "name": "Rewind or Die", "start": "3:25:26" }
       ] },
       { "name": "Dawn of Hell", "twitch": "1812854556", "start": "42:08" },
-      { "twitch": "1827232465,1827360298,1827371582,1827392675", "subrefs": [
-        { "name": "Amnesia: The Bunker (демо)", "start": "33:39" },
-        { "name": "Horror Exp+", "start": "2:12:43" }
-      ] },
+      { "name": "Horror Exp+", "twitch": "1827232465,1827360298,1827371582,1827392675", "start": "2:12:43" },
       { "name": "Haunted Horror Stories: Gone With The Wind", "twitch": "1827232465,1827360298,1827371582,1827392675", "start": "4:25:39" },
       { "twitch": "1828848663", "subrefs": [
         { "name": "The Lord of the Rings: Gollum", "start": "20:41" },
@@ -4285,6 +4282,15 @@
         { "name": "The Tartarus Key", "start": "4:18:25" },
         { "name": "There is Something in the Anderghast Mine", "start": "4:44:26" }
       ] }
+    ]
+  },
+  {
+    "name": "Amnesia: The Bunker",
+    "category": "ongoing",
+    "id": "amnesia-bunker",
+    "streams": [
+      { "name": "Демо", "twitch": "1827232465,1827360298,1827371582,1827392675", "start": "33:39" },
+      { "name": "1", "twitch": "1838317678", "start": "1:01:20" }
     ]
   },
   {
