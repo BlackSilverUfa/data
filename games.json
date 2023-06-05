@@ -2560,8 +2560,8 @@
   {
     "name": "616 GAMES",
     "category": "finished",
-    "id": "616-games",
     "type": "list",
+    "id": "616-games",
     "streams": [
       { "name": "The Clown's Fun", "twitch": "1472093056", "start": "14:38" },
       { "name": "After Midnight", "twitch": "1548174786", "start": "2:24:27" },
