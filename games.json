@@ -2513,7 +2513,7 @@
   },
   {
     "name": "Contraband Police",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "contraband-police",
     "streams": [
       { "name": "Демо", "twitch": "749640613", "start": "19:24" },
