@@ -2926,7 +2926,8 @@
       { "name": "4", "twitch": "1825542254", "start": "13:24" },
       { "name": "5", "twitch": "1828030256,1828157473,1828245817", "start": "16:35" },
       { "name": "6", "twitch": "1832232698", "start": "7:25" },
-      { "name": "7", "twitch": "1834756368", "start": "8:13" }
+      { "name": "7", "twitch": "1834756368", "start": "8:13" },
+      { "name": "8", "twitch": "1839110969", "start": "12:36" }
     ]
   },
   {
@@ -4286,11 +4287,12 @@
   },
   {
     "name": "Amnesia: The Bunker",
-    "category": "ongoing",
+    "category": "finished",
     "id": "amnesia-bunker",
     "streams": [
       { "name": "Демо", "twitch": "1827232465,1827360298,1827371582,1827392675", "start": "33:39" },
-      { "name": "1", "twitch": "1838317678", "start": "1:01:20" }
+      { "name": "1", "twitch": "1838317678", "start": "1:01:20" },
+      { "name": "2", "twitch": "1839110969", "start": "5:03:15" }
     ]
   },
   {
