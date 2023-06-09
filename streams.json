@@ -410,7 +410,7 @@
   },
   "259798230": { "youtube": "aO1vU8MX33I", "offset": "-0:05" },
   "260173384": { "youtube": "4E1DlNdCh-8", "offset": "-0:04" },
-  "260957900": {  },
+  "260957900": { "youtube": "iELyHG4xwzg", "official": false },
   "262352362": { "youtube": "pLUW8VXHDNk", "official": false },
   "262696959": [
     { "youtube": "cLYassVF_zw", "offset": "13:59" },
@@ -1336,7 +1336,9 @@
   "746844135": { "youtube": "QT-388R9gtU", "official": false },
   "747742325": { "youtube": "-EN8Eyn9Bgw", "official": false },
   "749640613": { "youtube": "UwLqQHKOUkM", "official": false },
-  "750578050": {  },
+  "750578050": {
+    "hls": "https://bsufiles.drhx.ru/streams/750578050.mp4/master.m3u8"
+  },
   "751534901": { "youtube": "myMg6jVXHUQ", "official": false },
   "752595682": { "youtube": "8hqFioxVlYM", "official": false },
   "754538542": { "youtube": "bke3eNThZD8", "official": false },
@@ -2189,17 +2191,32 @@
   "1824716509": { "youtube": "9xZ1aoXslUo" },
   "1825542254": { "youtube": "LHP5jtKnHds" },
   "1826440973": { "youtube": "ZD_8bg-sxJY" },
-  "1827232465": {  },
-  "1827360298": {  },
-  "1827371582": {  },
-  "1827392675": {  },
+  "1827232465": {
+    "hls": "https://bsufiles.drhx.ru/streams/1827232465.mp4/master.m3u8"
+  },
+  "1827360298": {
+    "hls": "https://bsufiles.drhx.ru/streams/1827360298.mp4/master.m3u8"
+  },
+  "1827371582": {
+    "hls": "https://bsufiles.drhx.ru/streams/1827371582.mp4/master.m3u8"
+  },
+  "1827392675": {
+    "hls": "https://bsufiles.drhx.ru/streams/1827392675.mp4/master.m3u8"
+  },
   "1827232465,1827360298,1827371582,1827392675": {
     "youtube": "Ouk7FqZ-T30",
     "offsets": ["0:00", "3:39:05", "3:55:44", "4:16:15"]
   },
-  "1828030256": {  },
-  "1828157473": { "source_cuts": ["19:50~24:02"] },
-  "1828245817": {  },
+  "1828030256": {
+    "hls": "https://bsufiles.drhx.ru/streams/1828030256.mp4/master.m3u8"
+  },
+  "1828157473": {
+    "source_cuts": ["19:50~24:02"],
+    "hls": "https://bsufiles.drhx.ru/streams/1828157473.mp4/master.m3u8"
+  },
+  "1828245817": {
+    "hls": "https://bsufiles.drhx.ru/streams/1828245817.mp4/master.m3u8"
+  },
   "1828030256,1828157473,1828245817": {
     "youtube": "fX16upyXu2w",
     "offsets": ["0:00", "3:59:00", "5:57:19"]
@@ -2210,8 +2227,12 @@
   "1831475865": { "youtube": "Rzn7IhjHhaA" },
   "1832232698": { "youtube": "vL3fOuZX4hA", "source_cuts": ["7:46:16~7:46:59"] },
   "1833150878": { "youtube": "SWPqHHH6P2c" },
-  "1833989886": {  },
-  "1834110105": {  },
+  "1833989886": {
+    "hls": "https://bsufiles.drhx.ru/streams/1833989886.mp4/master.m3u8"
+  },
+  "1834110105": {
+    "hls": "https://bsufiles.drhx.ru/streams/1834110105.mp4/master.m3u8"
+  },
   "1833989886,1834110105": {
     "youtube": "k4pxypAzhdk",
     "offsets": ["0:00", "3:25:07"]
