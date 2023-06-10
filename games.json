@@ -1568,11 +1568,22 @@
       { "name": "Square Enix Presents (Весна 2021)", "twitch": "953865835", "start": "3:04:45" },
       { "name": "Resident Evil Showcase (Апрель 2021)", "twitch": "988804108", "start": "27:07" },
       { "name": "WitcherCon", "twitch": "1081385499,1081403044", "start": "4:01:35" },
-      { "name": "Dead Space Remake Dev Stream", "twitch": "1134934289", "start": "3:57:26" },
+      { "name": "Dead Space Remake Dev Stream", "twitch": "1134934289", "start": "3:57:26" }
+    ]
+  },
+  {
+    "name": "Summer Game Fest 2023",
+    "category": "expos",
+    "id": "sgf-23",
+    "streams": [
       { "twitch": "1841766037", "subrefs": [
-        { "name": "Summer Game Fest 2023 (обзор)", "start": "19:11" },
-        { "name": "Devolver Direct 2023", "start": "1:23:57" },
-        { "name": "Summer Game Fest 2023 (обзор, продолжение)", "start": "1:47:39", "hidden": true }
+        { "name": "Открытие (обзор)", "start": "19:11" },
+        { "name": "Devolver Direct (соло)", "start": "1:23:57" },
+        { "name": "Открытие (обзор, продолжение)", "start": "1:47:39", "hidden": true }
+      ] },
+      { "twitch": "1842665393", "subrefs": [
+        { "name": "Wholesome Direct", "start": "3:06:07" },
+        { "name": "Future Games Show", "start": "4:04:00" }
       ] }
     ]
   },
@@ -4288,7 +4299,8 @@
       { "twitch": "1837484119", "subrefs": [
         { "name": "The Tartarus Key", "start": "4:18:25" },
         { "name": "There is Something in the Anderghast Mine", "start": "4:44:26" }
-      ] }
+      ] },
+      { "name": "Lies of P (демо)", "twitch": "1842665393", "start": "25:56" }
     ]
   },
   {
