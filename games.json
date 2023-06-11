@@ -1584,6 +1584,10 @@
       { "twitch": "1842665393", "subrefs": [
         { "name": "Wholesome Direct", "start": "3:06:07" },
         { "name": "Future Games Show", "start": "4:04:00" }
+      ] },
+      { "twitch": "1843524831", "subrefs": [
+        { "name": "Xbox Games Showcase", "start": "4:06:36" },
+        { "name": "Starfield Direct", "start": "5:11:33" }
       ] }
     ]
   },
@@ -2476,7 +2480,12 @@
         { "name": "Eerie Enigma", "start": "2:26:37" },
         { "name": "The Nefarious", "start": "3:34:25" }
       ] },
-      { "name": "Greyhill Incident", "twitch": "1841766037", "start": "2:15:36" }
+      { "name": "Greyhill Incident", "twitch": "1841766037", "start": "2:15:36" },
+      { "twitch": "1843524831", "subrefs": [
+        { "name": "The Book Walker: Thief of Tales (демо)", "start": "29:47" },
+        { "name": "En Garde! (демо)", "start": "2:02:42" },
+        { "name": "Sludge Life 2 (демо)", "start": "2:51:27" }
+      ] }
     ]
   },
   {
@@ -4300,7 +4309,11 @@
         { "name": "The Tartarus Key", "start": "4:18:25" },
         { "name": "There is Something in the Anderghast Mine", "start": "4:44:26" }
       ] },
-      { "name": "Lies of P (демо)", "twitch": "1842665393", "start": "25:56" }
+      { "name": "Lies of P (демо)", "twitch": "1842665393", "start": "25:56" },
+      { "twitch": "1843524831", "subrefs": [
+        { "name": "World's Worst Handyman (демо)", "start": "3:16:54" },
+        { "name": "Wizard With a Gun (демо)", "start": "3:35:03" }
+      ] }
     ]
   },
   {
