@@ -1572,14 +1572,14 @@
     ]
   },
   {
-    "name": "Summer Game Fest 2023",
+    "name": "неПрофессиональный \"E3\" 2023",
     "category": "expos",
-    "id": "sgf-23",
+    "id": "e3-2023",
     "streams": [
       { "twitch": "1841766037", "subrefs": [
-        { "name": "Открытие (обзор)", "start": "19:11" },
+        { "name": "Summer Game Fest (обзор)", "start": "19:11" },
         { "name": "Devolver Direct (соло)", "start": "1:23:57" },
-        { "name": "Открытие (обзор, продолжение)", "start": "1:47:39", "hidden": true }
+        { "name": "Summer Game Fest (обзор, продолжение)", "start": "1:47:39", "hidden": true }
       ] },
       { "twitch": "1842665393", "subrefs": [
         { "name": "Wholesome Direct", "start": "3:06:07" },
@@ -1588,6 +1588,10 @@
       { "twitch": "1843524831", "subrefs": [
         { "name": "Xbox Games Showcase", "start": "4:06:36" },
         { "name": "Starfield Direct", "start": "5:11:33" }
+      ] },
+      { "twitch": "1844321743", "subrefs": [
+        { "name": "PC Gaming Show (обзор)", "start": "4:26:22" },
+        { "name": "Ubisoft Forward", "start": "5:03:32" }
       ] }
     ]
   },
@@ -4313,7 +4317,8 @@
       { "twitch": "1843524831", "subrefs": [
         { "name": "World's Worst Handyman (демо)", "start": "3:16:54" },
         { "name": "Wizard With a Gun (демо)", "start": "3:35:03" }
-      ] }
+      ] },
+      { "name": "Final Fantasy XVI (демо)", "twitch": "1844321743", "start": "24:01" }
     ]
   },
   {
