@@ -7438,14 +7438,16 @@
     "category": "infinite",
     "id": "jurassic-world-evolution",
     "streams": [
-      { "name": "1", "twitch": "272392172", "start": "1:17:17" },
-      { "name": "2", "twitch": "272392172", "start": "2:57:48" },
-      { "name": "3", "twitch": "273929911" },
-      { "name": "4", "twitch": "274295872" },
-      { "name": "5", "twitch": "280402233", "segment": 1 },
-      { "name": "6", "twitch": "280767310", "segment": 0 }
+      { "twitch": "272392172", "subrefs": [
+        { "name": "1", "start": "1:17:17" },
+        { "name": "1 (продолжение)", "start": "2:57:48", "hidden": true }
+      ] },
+      { "name": "2", "twitch": "273929911" },
+      { "name": "3", "twitch": "274295872" },
+      { "name": "4", "twitch": "280402233", "segment": 1 },
+      { "name": "5", "twitch": "280767310", "segment": 0 }
     ],
-    "cover": 4
+    "cover": 3
   },
   {
     "name": "Moonlighter",
