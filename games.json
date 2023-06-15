@@ -2468,7 +2468,6 @@
         { "name": "The Pier House - Episode 1", "start": "5:05:08" },
         { "name": "The Witch of Sherdorne Forest", "start": "5:17:15" }
       ] },
-      { "name": "Layers of Fear (демо)", "twitch": "1823827495", "start": "2:11:50" },
       { "name": "Deppart Prototype", "twitch": "1826440973", "start": "1:11:28" },
       { "twitch": "1830612078", "subrefs": [
         { "name": "Alone in the Dark: Prologue", "start": "22:49" },
@@ -2490,6 +2489,15 @@
         { "name": "En Garde! (демо)", "start": "2:02:42" },
         { "name": "Sludge Life 2 (демо)", "start": "2:51:27" }
       ] }
+    ]
+  },
+  {
+    "name": "Layers of Fear (2023)",
+    "category": "ongoing",
+    "id": "lof-23",
+    "streams": [
+      { "name": "Демо", "twitch": "1823827495", "start": "2:11:50" },
+      { "name": "1", "twitch": "1846924247", "start": "1:40:55" }
     ]
   },
   {
