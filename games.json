@@ -2493,11 +2493,12 @@
   },
   {
     "name": "Layers of Fear (2023)",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "lof-23",
     "streams": [
       { "name": "Демо", "twitch": "1823827495", "start": "2:11:50" },
-      { "name": "1", "twitch": "1846924247", "start": "1:40:55" }
+      { "name": "1", "twitch": "1846924247", "start": "1:40:55" },
+      { "name": "2", "twitch": "1847650355,1847673917", "start": "9:31" }
     ]
   },
   {
