@@ -4335,13 +4335,21 @@
         { "name": "World's Worst Handyman (демо)", "start": "3:16:54" },
         { "name": "Wizard With a Gun (демо)", "start": "3:35:03" }
       ] },
-      { "name": "Final Fantasy XVI (демо)", "twitch": "1844321743", "start": "24:01" },
       { "twitch": "1849426857", "subrefs": [
         { "name": "Unholy", "start": "2:04:47" },
         { "name": "The Event (демо)", "start": "4:17:54" },
         { "name": "Scholar's Mate: First Move", "start": "4:59:08" }
       ] },
       { "name": "Aliens: Dark Descent", "twitch": "1851046365", "start": "29:59" }
+    ]
+  },
+  {
+    "name": "Final Fantasy XVI",
+    "category": "ongoing",
+    "id": "ff-xvi",
+    "streams": [
+      { "name": "Демо", "twitch": "1844321743", "start": "24:01" },
+      { "name": "1", "twitch": "1851883489", "start": "5:42" }
     ]
   },
   {
