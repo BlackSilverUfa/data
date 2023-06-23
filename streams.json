@@ -1094,7 +1094,7 @@
   "513964498": { "youtube": "4yvxCzK-gfc" },
   "514393833": { "youtube": "N41WAm4PNlI" },
   "516508179": { "youtube": "w8nJdnXrSJU" },
-  "516941489": { "youtube": "MZcLL5QWVwI", "official": false },
+  "516941489": {  },
   "517802976": { "youtube": "VQaQO9NjX60", "official": false },
   "518306588": { "youtube": "AK1CYqvyHIc" },
   "518751002": { "youtube": "gJO6G7Uc0IY" },
@@ -1763,7 +1763,7 @@
     "youtube": "_LU4gPiID_s", "official": false,
     "offsets": ["0:00", "3:59:35"]
   },
-  "1206191026": { "youtube": "HVcDAW3YR_0", "source_cuts": ["4:09:18~4:09:53"], "official": false },
+  "1206191026": { "source_cuts": ["4:09:18~4:09:53"] },
   "1207047094": { "youtube": "htqZL7EVZWo" },
   "1207997756": { "youtube": "G0JP9coh8rU", "official": false },
   "1208881098": {  },
