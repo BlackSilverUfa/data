@@ -4340,7 +4340,14 @@
         { "name": "The Event (демо)", "start": "4:17:54" },
         { "name": "Scholar's Mate: First Move", "start": "4:59:08" }
       ] },
-      { "name": "Aliens: Dark Descent", "twitch": "1851046365", "start": "29:59" }
+      { "name": "Aliens: Dark Descent", "twitch": "1851046365", "start": "29:59" },
+      { "twitch": "1854535719", "subrefs": [
+        { "name": "Viewfinder (демо)", "start": "15:14" },
+        { "name": "Trepang2", "start": "45:47" },
+        { "name": "Daydream: Forgotten Sorrow", "start": "1:51:44" },
+        { "name": "Only Up!", "start": "2:47:50" },
+        { "name": "Little Kitty, Big City (демо)", "start": "3:54:43" }
+      ] }
     ]
   },
   {
