@@ -2115,7 +2115,6 @@
         { "name": "Undying Symphony (демо)", "start": "5:24:46" }
       ] },
       { "twitch": "1061050549", "subrefs": [
-        { "name": "They Are Here (демо)", "start": "25:47" },
         { "name": "Last Village (демо)", "start": "49:19" },
         { "name": "Rocket Stop Incident (демо)", "start": "1:04:37" },
         { "name": "Interference (демо)", "start": "2:07:49" },
@@ -2488,7 +2487,23 @@
         { "name": "Night Security", "start": "22:13" },
         { "name": "Lazarus", "start": "3:21:51" },
         { "name": "Incident at Grove Lake", "start": "3:51:37" }
+      ] },
+      { "twitch": "1855403959", "subrefs": [
+        { "name": "Dyer Expedition (демо)", "start": "2:19:20" },
+        { "name": "Sniper Killer (демо)", "start": "2:43:06" },
+        { "name": "The Diner", "start": "3:38:41" },
+        { "name": "The Muller-Powell Principle (демо)", "start": "3:49:14" },
+        { "name": "Unknown Memoirs: The Rental", "start": "4:39:41" }
       ] }
+    ]
+  },
+  {
+    "name": "They Are Here: Alien Abduction Horror",
+    "category": "ongoing",
+    "id": "they-are-here",
+    "streams": [
+      { "name": "Демо 1", "twitch": "1061050549", "start": "25:47" },
+      { "name": "Демо 2", "twitch": "1855403959", "start": "30:07" }
     ]
   },
   {
@@ -3928,10 +3943,7 @@
         { "name": "Propnight", "start": "4:30:03" }
       ] },
       { "name": "Icarus", "twitch": "1223700316" },
-      { "twitch": "1224807350", "subrefs": [
-        { "name": "Stray Souls (демо)" },
-        { "name": "Sinfeld Remastered (демо)", "start": "2:34:39" }
-      ] },
+      { "name": "Sinfeld Remastered (демо)", "twitch": "1224807350", "start": "2:34:39" },
       { "name": "The Matrix Awakens", "twitch": "1229405550", "start": "3:10:43" },
       { "twitch": "1241348243", "subrefs": [
         { "name": "Planet Crafter: Prologue" },
@@ -3943,6 +3955,15 @@
         { "name": "Goya's Nightmare", "start": "3:46:11" },
         { "name": "Swamm", "start": "3:51:20" }
       ] }
+    ]
+  },
+  {
+    "name": "Stray Souls",
+    "category": "ongoing",
+    "id": "stray-souls",
+    "streams": [
+      { "name": "Демо 1", "twitch": "1224807350", "start": "2:00:36" },
+      { "name": "Демо 2", "twitch": "1855403959", "start": "1:29:45" }
     ]
   },
   {
@@ -4370,6 +4391,11 @@
         { "name": "Daydream: Forgotten Sorrow", "start": "1:51:44" },
         { "name": "Only Up!", "start": "2:47:50" },
         { "name": "Little Kitty, Big City (демо)", "start": "3:54:43" }
+      ] },
+      { "twitch": "1855403959", "subrefs": [
+        { "name": "Ebola Village (демо)", "start": "1:04:39" },
+        { "name": "SCP: Observer", "start": "1:53:58" },
+        { "name": "Horror Stories: Harvest Hunt", "start": "5:05:14" }
       ] }
     ]
   },
