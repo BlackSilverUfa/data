@@ -2110,7 +2110,6 @@
       { "name": "Paradise Lost", "twitch": "961225183" },
       { "name": "Scene Investigators (демо)", "twitch": "1003719769" },
       { "twitch": "1059978031", "subrefs": [
-        { "name": "Industria (демо)", "start": "2:30:31" },
         { "name": "Greak: Memories of Azur (демо)", "start": "3:06:53" },
         { "name": "Song of Iron (демо)", "start": "4:19:39" },
         { "name": "Undying Symphony (демо)", "start": "5:24:46" }
@@ -2135,7 +2134,6 @@
       { "name": "Twelve Minutes", "twitch": "1123005766", "start": "2:58:37" },
       { "name": "Burger & Frights", "twitch": "1140665211" },
       { "name": "Bright Lights of Svetlov", "twitch": "1154121803" },
-      { "name": "Industria", "twitch": "1164327068" },
       { "name": "Matanga 2", "twitch": "1166311485" },
       { "name": "Last Days of Lazarus (демо)", "twitch": "1190164000", "start": "4:25:09" },
       { "name": "Call of Duty: Vanguard (сюжет)", "twitch": "1196615295" },
@@ -2302,10 +2300,7 @@
         { "name": "Late Night Mop", "start": "4:16:00" },
         { "name": "The Death: Than Trung", "start": "4:32:51" }
       ] },
-      { "twitch": "1608110648", "subrefs": [
-        { "name": "Apocalyptic Vibes (демо)", "start": "1:06:16" },
-        { "name": "The Bathhouse", "start": "4:00:59" }
-      ] },
+      { "name": "The Bathhouse", "twitch": "1608110648", "start": "4:00:59" },
       { "twitch": "1619465701", "subrefs": [
         { "name": "Kona II: Brume (демо)", "start": "23:28" },
         { "name": "The Classrooms (демо)", "start": "1:27:12" },
@@ -3537,10 +3532,43 @@
       { "name": "Planet Zoo", "twitch": "504672487", "start": "3:50:24" },
       { "name": "Shenmue III", "twitch": "510472726", "start": "3:19:55" },
       { "name": "Gothic - Playable Teaser", "twitch": "521336731" },
-      { "twitch": "524865260", "subrefs": [
-        { "name": "Trepang2 (демо)" },
-        { "name": "The Paperman", "start": "2:49:10" }
-      ] }
+      { "name": "The Paperman", "twitch": "524865260", "start": "2:49:10" }
+    ]
+  },
+  {
+    "name": "Apocalyptic Vibes",
+    "category": "ongoing",
+    "id": "apocalyptic-vibes",
+    "streams": [
+      { "name": "Демо", "twitch": "1608110648", "start": "1:06:16" },
+      { "name": "Релиз", "twitch": "1778887686", "start": "3:20:52" }
+    ]
+  },
+  {
+    "name": "The Bridge Curse: Road to Salvation",
+    "category": "ongoing",
+    "id": "bridge-curse",
+    "streams": [
+      { "name": "Демо", "twitch": "1307474557", "start": "1:34:04" },
+      { "name": "Релиз", "twitch": "1578740848", "start": "3:40:18" }
+    ]
+  },
+  {
+    "name": "Industria",
+    "category": "finished",
+    "id": "industria",
+    "streams": [
+      { "name": "Демо", "twitch": "1059978031", "start": "2:30:31" },
+      { "name": "Релиз", "twitch": "1164327068", "start": "29:15" }
+    ]
+  },
+  {
+    "name": "Trepang2",
+    "category": "ongoing",
+    "id": "trepang2",
+    "streams": [
+      { "name": "Демо", "twitch": "524865260", "start": "21:03" },
+      { "name": "Релиз", "twitch": "1854535719", "start": "45:47" }
     ]
   },
   {
@@ -4020,7 +4048,6 @@
         { "name": "Total War: Warhammer III", "start": "4:02:07" }
       ] },
       { "twitch": "1307474557", "subrefs": [
-        { "name": "The Bridge Curse: Road to Salvation (демо)", "start": "1:34:04" },
         { "name": "My Friendly Neighborhood (демо)", "start": "2:20:39" },
         { "name": "SCP: Pandemic (демо)", "start": "3:17:59" }
       ] },
@@ -4141,7 +4168,6 @@
       { "twitch": "1572044648", "subrefs": [
         { "name": "Outbreak Island: Pendulum", "start": "2:49:13" },
         { "name": "Soulstice (демо)", "start": "4:12:28" },
-        { "name": "Mirror Forge (демо)", "start": "5:01:59" },
         { "name": "Super Catboy", "start": "5:52:25" }
       ] },
       { "twitch": "1573052503", "subrefs": [
@@ -4154,7 +4180,6 @@
         { "name": "Sinner 97", "start": "41:46" },
         { "name": "Unreasoning Fear", "start": "2:54:54" }
       ] },
-      { "name": "The Bridge Curse: Road To Salvation", "twitch": "1578740848", "start": "3:40:18" },
       { "twitch": "1586147183", "subrefs": [
         { "name": "NHL 2001", "start": "35:00" },
         { "name": "Monster Bass", "start": "1:49:25" },
@@ -4297,7 +4322,6 @@
         { "name": "Diablo III", "start": "1:37:03" }
       ] },
       { "name": "Polaris Outpost (демо)", "twitch": "1778016938", "start": "1:56:35" },
-      { "name": "Apocalyptic Vibes", "twitch": "1778887686", "start": "3:20:52" },
       { "name": "Reclusive", "twitch": "1782635771", "start": "26:09" },
       { "twitch": "1786204138", "subrefs": [
         { "name": "Eggcelerate! to the Tropics", "start": "1:37:55" },
@@ -4343,7 +4367,6 @@
       { "name": "Aliens: Dark Descent", "twitch": "1851046365", "start": "29:59" },
       { "twitch": "1854535719", "subrefs": [
         { "name": "Viewfinder (демо)", "start": "15:14" },
-        { "name": "Trepang2", "start": "45:47" },
         { "name": "Daydream: Forgotten Sorrow", "start": "1:51:44" },
         { "name": "Only Up!", "start": "2:47:50" },
         { "name": "Little Kitty, Big City (демо)", "start": "3:54:43" }
@@ -4577,6 +4600,7 @@
     "category": "abandoned",
     "id": "mirror-forge",
     "streams": [
+      { "name": "Демо", "twitch": "1572044648", "start": "5:01:59" },
       { "name": "1", "twitch": "1686763712", "start": "40:59" },
       { "name": "2", "twitch": "1687663796", "start": "5:08:01" }
     ]
