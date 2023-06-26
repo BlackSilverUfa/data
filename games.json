@@ -7887,13 +7887,5 @@
       { "name": "1", "twitch": "1550107736", "start": "16:59" },
       { "name": "2", "twitch": "1551976425", "start": "51:42" }
     ]
-  },
-  {
-    "name": "Не размечено",
-    "category": "other",
-    "id": "todo",
-    "streams": [
-      
-    ]
   }
 ]
