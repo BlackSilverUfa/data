@@ -4401,7 +4401,7 @@
   },
   {
     "name": "Final Fantasy XVI",
-    "category": "ongoing",
+    "category": "finished",
     "id": "ff-xvi",
     "streams": [
       { "name": "Демо", "twitch": "1844321743", "start": "24:01" },
@@ -4409,7 +4409,8 @@
       { "name": "2", "twitch": "1852712395", "start": "7:46" },
       { "name": "3", "twitch": "1853577518", "start": "7:41" },
       { "name": "4", "twitch": "1856178461", "start": "8:49" },
-      { "name": "5", "twitch": "1857876199", "start": "9:13" }
+      { "name": "5", "twitch": "1857876199", "start": "9:13" },
+      { "name": "6", "twitch": "1858764516", "start": "4:41" }
     ]
   },
   {
