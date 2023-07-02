@@ -7900,6 +7900,10 @@
         { "name": "Disney's Tarzan", "start": "1:03:28" },
         { "name": "Chessmaster II", "start": "2:23:22" },
         { "name": "Looney Tunes: Sheep Raider", "start": "3:44:13" }
+      ] },
+      { "twitch": "1861382266", "subrefs": [
+        { "name": "Bratz: Rock Angelz", "start": "16:02" },
+        { "name": "Bratz: Girlz Really Rock", "start": "2:13:58" }
       ] }
     ]
   }
