@@ -4513,7 +4513,7 @@
   },
   {
     "name": "Dredge",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "dredge",
     "streams": [
       { "name": "Демо", "twitch": "1618459269", "start": "51:30" },
@@ -6162,7 +6162,8 @@
       { "name": "17", "twitch": "985933335", "start": "4:48:01" },
       { "name": "18", "twitch": "1027931171", "start": "4:02:07" },
       { "name": "19", "twitch": "1048673954", "start": "3:27:57" },
-      { "name": "20", "twitch": "1140665211", "start": "4:07:15" }
+      { "name": "20", "twitch": "1140665211", "start": "4:07:15" },
+      { "name": "21", "twitch": "1866511537", "start": "2:04:46" }
     ]
   },
   {
@@ -7904,7 +7905,8 @@
       { "twitch": "1861382266", "subrefs": [
         { "name": "Bratz: Rock Angelz", "start": "16:02" },
         { "name": "Bratz: Girlz Really Rock", "start": "2:13:58" }
-      ] }
+      ] },
+      { "name": "Super Bunny Man", "twitch": "1866511537", "start": "1:17:20" }
     ]
   }
 ]
