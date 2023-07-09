@@ -7906,7 +7906,24 @@
         { "name": "Bratz: Rock Angelz", "start": "16:02" },
         { "name": "Bratz: Girlz Really Rock", "start": "2:13:58" }
       ] },
-      { "name": "Super Bunny Man", "twitch": "1866511537", "start": "1:17:20" }
+      { "name": "Super Bunny Man", "twitch": "1866511537", "start": "1:17:20" },
+      { "twitch": "1867374437", "subrefs": [
+        { "name": "Страшно и точка", "start": "27:04" },
+        { "name": "Ouija", "start": "58:02" },
+        { "name": "The Hole", "start": "1:04:43" },
+        { "name": "The Pizza", "start": "1:12:01" },
+        { "name": "The Apartment Next Door", "start": "1:23:22" },
+        { "name": "Survival & Horror: Mortanis Prisoners", "start": "1:54:03" },
+        { "name": "The Horror Within", "start": "2:19:38" },
+        { "name": "Decadence", "start": "2:34:59" },
+        { "name": "Miside", "start": "3:08:17" },
+        { "name": "Other Side", "start": "4:07:22" },
+        { "name": "Chosen Who", "start": "4:14:53" },
+        { "name": "Cryptid", "start": "4:26:22" },
+        { "name": "Call of the fire", "start": "5:01:37" },
+        { "name": "Mannequin", "start": "5:07:56" },
+        { "name": "Wendigo", "start": "5:17:08" }
+      ] }
     ]
   }
 ]
