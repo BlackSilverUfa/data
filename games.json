@@ -7931,7 +7931,19 @@
       { "name": "Amnesia: Rebirth", "twitch": "1869925818", "start": "45:02" },
       { "name": "Gylt", "twitch": "1870792843" },
       { "name": "Voidtrain", "twitch": "1871657339", "start": "1:11:08" },
-      { "name": "Jagged Alliance 3", "twitch": "1872459569" }
+      { "name": "Jagged Alliance 3", "twitch": "1872459569" },
+      { "twitch": "1873395096", "subrefs": [
+        { "name": "Abandoned Souls", "start": "39:06" },
+        { "name": "Schwarzwald", "start": "1:56:31" },
+        { "name": "Backrooms: Realm of Shadows", "start": "2:23:35" },
+        { "name": "The Tunnel", "start": "2:43:41" },
+        { "name": "Fear Underground", "start": "2:50:23" },
+        { "name": "Endless Suburbia", "start": "3:02:05" },
+        { "name": "ABEL", "start": "3:55:40" },
+        { "name": "Blood Field", "start": "4:22:29" },
+        { "name": "Paranormal Observation", "start": "4:47:19" },
+        { "name": "Vorax", "start": "5:22:02" }
+      ] }
     ]
   }
 ]
