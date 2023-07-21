@@ -7949,9 +7949,10 @@
         { "name": "Please, Forgive Me", "start": "39:36" },
         { "name": "Unholy", "start": "2:26:22" }
       ] },
-      { "name": "Exoprimal #1", "twitch": "1877734451", "start": "28:13" },
-      { "name": "Exoprimal #2", "twitch": "1877816047" },
-      { "name": "Tekken 8", "twitch": "1877882907" }
+      { "twitch": "1877734451,1877816047,1877882907", "subrefs": [
+        { "name": "Exoprimal", "start": "28:13" },
+        { "name": "Tekken 8", "start": "3:44:15" }
+      ] }
     ]
   }
 ]
