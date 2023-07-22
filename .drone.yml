@@ -18,4 +18,3 @@ steps:
       from_secret: drone_token
     repositories:
     - TheDrHax/BlackSilverUfa
-    - BlackSilverUfa/Legacy
