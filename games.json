@@ -411,7 +411,7 @@
   },
   {
     "name": "Redfall",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "redfall",
     "streams": [
       { "name": "1 (с Куплиновым и Дангаром)", "twitch": "1809409736", "start": "4:07:01" },
@@ -7974,7 +7974,8 @@
       { "twitch": "1886428924", "subrefs": [
         { "name": "The Ghost Train", "start": "47:07" },
         { "name": "Lunacy: Saint Rhodes #3", "start": "4:11:22" }
-      ] }
+      ] },
+      { "name": "Remnant II #4", "twitch": "1887286714", "start": "1:00:39" }
     ]
   }
 ]
