@@ -3138,7 +3138,7 @@
       { "name": "Сборка кресла", "twitch": "219463387" },
       { "name": "Посылки (01.04.18)", "twitch": "245415969" },
       { "name": "Посылки (30.12.18)", "twitch": "356378129" },
-      { "name": "Asus ROG Phone", "twitch": "366354053", "segment": 0 },
+      { "name": "Asus ROG Phone", "twitch": "366354053", "start": "6:32" },
       { "twitch": "420241791", "segment": 1, "subrefs": [
         { "name": "Asus ROG Zephyrus", "start": "1:25:03" },
         { "name": "Asus ROG Sheath", "start": "1:27:03" }
@@ -3174,7 +3174,7 @@
     "streams": [
       { "name": "1", "twitch": "215974261" },
       { "name": "2", "twitch": "220513992", "start": "1:06:26" },
-      { "name": "3", "twitch": "366354053", "segment": 1, "start": "2:26:24" },
+      { "name": "3", "twitch": "366354053", "start": "2:26:24" },
       { "name": "4", "twitch": "367994742", "segment": 0 },
       { "name": "5", "twitch": "372851375", "segment": 1, "start": "2:49:15" },
       { "name": "6", "twitch": "481343199", "start": "2:12:58" }
@@ -3188,7 +3188,7 @@
       { "name": "1", "twitch": "220513992" },
       { "name": "2", "twitch": "239731404" },
       { "name": "3", "twitch": "290213414", "segment": 0 },
-      { "name": "4", "twitch": "366354053", "segment": 1, "start": "1:10:04" },
+      { "name": "4", "twitch": "366354053", "start": "1:10:04" },
       { "name": "5", "twitch": "372293257", "segment": 0 },
       { "name": "6", "twitch": "414349690" },
       { "name": "7", "twitch": "577415879" },
