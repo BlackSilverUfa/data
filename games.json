@@ -7977,7 +7977,11 @@
         { "name": "Lunacy: Saint Rhodes #3", "start": "4:11:22" }
       ] },
       { "name": "Remnant II #4", "twitch": "1887286714", "start": "1:00:39" },
-      { "name": "Atomic Heart: Annihilation Instinct", "twitch": "1888133609", "start": "4:21:55" }
+      { "name": "Atomic Heart: Annihilation Instinct #1", "twitch": "1888133609", "start": "4:21:55" },
+      { "twitch": "1888974774", "subrefs": [
+        { "name": "Atomic Heart: Annihilation Instinct #2" },
+        { "name": "Baldur's Gate 3", "start": "5:34:09" }
+      ] }
     ]
   }
 ]
