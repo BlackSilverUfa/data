@@ -227,7 +227,7 @@
     "id": "beyond-blue",
     "streams": [
       { "name": "1 (часть 1)", "twitch": "647778850" },
-      { "name": "1 (часть 2)", "twitch": "647860070", "segment": 0 }
+      { "name": "1 (часть 2)", "twitch": "647860070", "start": "1:01" }
     ]
   },
   {
@@ -464,7 +464,7 @@
     "id": "darktide",
     "streams": [
       { "name": "Бета 1 (кооп)", "twitch": "1624846104", "start": "2:20:43" },
-      { "name": "Бета 2 (соло)", "twitch": "1657037267", "segment": 0, "start": "17:40" }
+      { "name": "Бета 2 (соло)", "twitch": "1657037267", "start": "17:40" }
     ]
   },
   {
@@ -784,7 +784,7 @@
     "streams": [
       { "name": "1 (бета)", "twitch": "764187591", "start": "3:04:23" },
       { "name": "2", "twitch": "771021424", "start": "3:26:19" },
-      { "name": "3", "twitch": "801377729", "segment": 0, "start": "2:54:32" },
+      { "name": "3", "twitch": "801377729", "start": "2:54:32" },
       { "name": "4 (1-й этап Cold War Rivals)", "twitch": "802744738" },
       { "name": "5 (2-й этап Cold War Rivals)", "twitch": "803926941" }
     ]
@@ -1755,7 +1755,7 @@
     "category": "expos",
     "id": "e3_2020",
     "streams": [
-      { "name": "Sony", "twitch": "647860070", "segment": 1 },
+      { "name": "Sony", "twitch": "647860070", "start": "3:12:38" },
       { "name": "PC Gaming Show", "twitch": "649632498", "start": "5:00:34" },
       { "name": "Square Enix - Marvel's Avengers (без Артёма)", "twitch": "660069027", "start": "3:59:33" },
       { "name": "CD Projekt Red - Cyberpunk 2077", "twitch": "661040084", "start": "2:58:33" },
@@ -2331,7 +2331,7 @@
       { "name": "Bramble: The Mountain (демо)", "twitch": "1642266888,1642407202", "start": "53:03" },
       { "name": "The Chant", "twitch": "1643172831", "start": "27:17" },
       { "name": "Somerville", "twitch": "1656106367", "start": "1:42:32" },
-      { "name": "The Dark Pictures: The Devil in Me", "twitch": "1657037267", "segment": 1, "start": "2:51:08" },
+      { "name": "The Dark Pictures: The Devil in Me", "twitch": "1657037267", "start": "2:51:08" },
       { "twitch": "1663155573", "subrefs": [
         { "name": "Help Me! (демо)", "start": "31:01" },
         { "name": "The House", "start": "1:36:22" },
@@ -5826,7 +5826,7 @@
     "category": "finished",
     "id": "cod-bo-cw",
     "streams": [
-      { "name": "1", "twitch": "801377729", "segment": 1 },
+      { "name": "1", "twitch": "801377729", "start": "12:51" },
       { "name": "2", "twitch": "804979766" }
     ]
   },
@@ -6153,7 +6153,7 @@
       { "name": "6", "twitch": "618698350", "start": "58:37" },
       { "name": "7", "twitch": "623734401", "start": "5:08:04" },
       { "name": "8", "twitch": "628517071", "start": "5:15:28" },
-      { "name": "9", "twitch": "647860070", "segment": 0, "start": "1:20:09" },
+      { "name": "9", "twitch": "647860070", "start": "1:20:09" },
       { "name": "10", "twitch": "688270341", "start": "3:58:45" },
       { "name": "11", "twitch": "759389769", "start": "4:48:54" },
       { "name": "12", "twitch": "892529745", "start": "4:38:08" },
