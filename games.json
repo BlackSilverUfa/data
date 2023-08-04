@@ -7899,7 +7899,8 @@
       { "name": "3", "twitch": "1876874955", "start": "4:53:11" },
       { "name": "4", "twitch": "1881238247", "start": "2:52:29" },
       { "name": "5", "twitch": "1883946844", "start": "1:08:17" },
-      { "name": "6", "twitch": "1886428924", "start": "2:35:00" }
+      { "name": "6", "twitch": "1886428924", "start": "2:35:00" },
+      { "name": "7", "twitch": "1889874082", "start": "2:06:15" }
     ]
   },
   {
@@ -7981,7 +7982,8 @@
       { "twitch": "1888974774", "subrefs": [
         { "name": "Atomic Heart: Annihilation Instinct #2" },
         { "name": "Baldur's Gate 3", "start": "5:34:09" }
-      ] }
+      ] },
+      { "name": "Welcome to Kowloon", "twitch": "1889874082", "start": "49:00" }
     ]
   }
 ]
