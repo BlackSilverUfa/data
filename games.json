@@ -7998,7 +7998,11 @@
         { "name": "Concrete Tremor", "start": "4:19:48" },
         { "name": "Tartarus Engine", "start": "4:54:33" }
       ] },
-      { "name": "Terminal 81", "twitch": "1894178506", "start": "1:29:48" }
+      { "name": "Terminal 81", "twitch": "1894178506", "start": "1:29:48" },
+      { "twitch": "1895024644", "subrefs": [
+        { "name": "Street Fighter 6", "start": "12:33" },
+        { "name": "Remnant II #5", "start": "1:38:41" }
+      ] }
     ]
   }
 ]
