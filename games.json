@@ -2514,6 +2514,14 @@
         { "name": "Chosen Who", "start": "4:14:48" },
         { "name": "Call of the Fire", "start": "5:02:03" },
         { "name": "Mannequin", "start": "5:06:42" }
+      ] },
+      { "twitch": "1896806146", "subrefs": [
+        { "name": "On The Bus", "start": "1:16:31" },
+        { "name": "Nocturia", "start": "1:30:37" },
+        { "name": "Last Signal", "start": "2:57:02" },
+        { "name": "Ergophobia", "start": "3:08:34" },
+        { "name": "Depth of Contamination", "start": "4:19:34" },
+        { "name": "Slender: Return to Rosswood Park", "start": "4:41:40" }
       ] }
     ]
   },
@@ -4437,7 +4445,8 @@
         { "name": "Страшно и точка", "start": "27:39" },
         { "name": "Cryptid", "start": "4:26:47" },
         { "name": "Wendigo", "start": "5:17:34" }
-      ] }
+      ] },
+      { "name": "POMBERO: The Lord of the Night", "twitch": "1896806146", "start": "3:31:14" }
     ]
   },
   {
