@@ -406,7 +406,8 @@
       { "name": "Tales of Terror", "twitch": "1618459269", "start": "3:41:56" },
       { "name": "Overwatch 2", "twitch": "1623036890", "start": "54:11" },
       { "name": "Ghostbusters: Spirits Unleashed", "twitch": "1624846104", "start": "4:27:41" },
-      { "name": "Inout", "twitch": "1804882802", "start": "2:04:46" }
+      { "name": "Inout", "twitch": "1804882802", "start": "2:04:46" },
+      { "name": "Super Bunny Man", "twitch": "1866511537", "start": "1:17:25" }
     ]
   },
   {
@@ -2497,6 +2498,10 @@
         { "name": "The Diner", "start": "3:38:41" },
         { "name": "The Muller-Powell Principle (демо)", "start": "3:49:14" },
         { "name": "Unknown Memoirs: The Rental", "start": "4:39:41" }
+      ] },
+      { "twitch": "1861382266", "subrefs": [
+        { "name": "Bratz: Rock Angelz", "start": "16:43" },
+        { "name": "Bratz: Girlz Really Rock", "start": "2:14:47" }
       ] }
     ]
   },
@@ -4180,8 +4185,7 @@
       { "name": "SCP: Fractured Minds (демо)", "twitch": "1557831331", "start": "44:00" },
       { "twitch": "1559742064", "subrefs": [
         { "name": "Twisted Metal: Small Brawl", "start": "1:50:55" },
-        { "name": "Hercules", "start": "3:09:17" },
-        { "name": "Chessmaster II", "start": "4:25:50" }
+        { "name": "Hercules", "start": "3:09:17" }
       ] },
       { "twitch": "1561677559", "subrefs": [
         { "name": "Dinner With Strangers (демо)", "start": "1:29:14" },
@@ -4280,6 +4284,15 @@
         { "name": "Who Knocks", "start": "1:47:05" }
       ] },
       { "name": "The Thing (by PanzerCat)", "twitch": "1690952607", "start": "3:54:09" }
+    ]
+  },
+  {
+    "name": "Chessmaster II",
+    "category": "ongoing",
+    "id": "chessmaster-2",
+    "streams": [
+      { "name": "1", "twitch": "1559742064", "start": "4:25:50" },
+      { "name": "2", "twitch": "1860536794", "start": "2:24:54" }
     ]
   },
   {
@@ -4403,6 +4416,10 @@
         { "name": "Ebola Village (демо)", "start": "1:04:39" },
         { "name": "SCP: Observer", "start": "1:53:58" },
         { "name": "Horror Stories: Harvest Hunt", "start": "5:05:14" }
+      ] },
+      { "twitch": "1860536794", "subrefs": [
+        { "name": "Disney's Tarzan", "start": "1:04:41" },
+        { "name": "Looney Tunes: Sheep Raider", "start": "3:45:56" }
       ] }
     ]
   },
@@ -6171,7 +6188,7 @@
       { "name": "18", "twitch": "1027931171", "start": "4:02:07" },
       { "name": "19", "twitch": "1048673954", "start": "3:27:57" },
       { "name": "20", "twitch": "1140665211", "start": "4:07:15" },
-      { "name": "21", "twitch": "1866511537", "start": "2:04:46" },
+      { "name": "21", "twitch": "1866511537", "start": "2:06:41" },
       { "name": "22", "twitch": "1869063797", "start": "1:10:00" }
     ]
   },
@@ -7534,7 +7551,8 @@
       { "name": "5", "twitch": "1559742064" },
       { "name": "6", "twitch": "1573052503" },
       { "name": "7", "twitch": "1586147183" },
-      { "name": "8", "twitch": "1614024019" }
+      { "name": "8", "twitch": "1614024019" },
+      { "name": "9", "twitch": "1860536794" }
     ]
   },
   {
@@ -7912,16 +7930,6 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "twitch": "1860536794", "subrefs": [
-        { "name": "Disney's Tarzan", "start": "1:03:28" },
-        { "name": "Chessmaster II", "start": "2:23:22" },
-        { "name": "Looney Tunes: Sheep Raider", "start": "3:44:13" }
-      ] },
-      { "twitch": "1861382266", "subrefs": [
-        { "name": "Bratz: Rock Angelz", "start": "16:02" },
-        { "name": "Bratz: Girlz Really Rock", "start": "2:13:58" }
-      ] },
-      { "name": "Super Bunny Man", "twitch": "1866511537", "start": "1:17:20" },
       { "twitch": "1867374437", "subrefs": [
         { "name": "Страшно и точка", "start": "27:04" },
         { "name": "Ouija", "start": "58:02" },
