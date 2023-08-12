@@ -912,8 +912,7 @@
       { "name": "1", "twitch": "518306588" },
       { "name": "2", "twitch": "527927154" },
       { "name": "3 (заново)", "twitch": "577415879", "start": "4:00:50" },
-      { "name": "4", "twitch": "612822436", "start": "1:58:40" },
-      { "name": "5", "twitch": "1869063797", "start": "4:39:54" }
+      { "name": "4", "twitch": "612822436", "start": "1:58:40" }
     ]
   },
   {
@@ -1391,8 +1390,7 @@
       { "name": "31", "twitch": "1111966540", "start": "5:52:25" },
       { "name": "32", "twitch": "1533471620", "start": "4:28:35" },
       { "name": "33", "twitch": "1587098639", "start": "4:50:34" },
-      { "name": "34", "twitch": "1679659879", "start": "5:31:53" },
-      { "name": "35", "twitch": "1869063797", "start": "4:31:32" }
+      { "name": "34", "twitch": "1679659879", "start": "5:31:53" }
     ]
   },
   {
@@ -2502,6 +2500,20 @@
       { "twitch": "1861382266", "subrefs": [
         { "name": "Bratz: Rock Angelz", "start": "16:43" },
         { "name": "Bratz: Girlz Really Rock", "start": "2:14:47" }
+      ] },
+      { "twitch": "1867374437", "subrefs": [
+        { "name": "Ouija", "start": "58:38" },
+        { "name": "The Hole", "start": "1:05:15" },
+        { "name": "The Pizza", "start": "1:12:40" },
+        { "name": "The Apartment Next Door", "start": "1:23:09" },
+        { "name": "Survival & Horror: Mortanis Prisoners (демо)", "start": "1:54:44" },
+        { "name": "The Horror Within", "start": "2:20:02" },
+        { "name": "Decadence", "start": "2:35:04" },
+        { "name": "Miside (демо)", "start": "3:08:16" },
+        { "name": "Other Side", "start": "4:07:47" },
+        { "name": "Chosen Who", "start": "4:14:48" },
+        { "name": "Call of the Fire", "start": "5:02:03" },
+        { "name": "Mannequin", "start": "5:06:42" }
       ] }
     ]
   },
@@ -2993,7 +3005,7 @@
       { "name": "9", "twitch": "1845108311", "start": "14:34" },
       { "name": "10", "twitch": "1847820448", "start": "5:12" },
       { "name": "11", "twitch": "1848514917", "start": "6:09" },
-      { "name": "12", "twitch": "1868119767", "start": "15:20" },
+      { "name": "12", "twitch": "1868119767", "start": "12:08" },
       { "name": "13", "twitch": "1882948971", "start": "7:07" },
       { "name": "14", "twitch": "1890707460,1890774077" }
     ]
@@ -4420,6 +4432,11 @@
       { "twitch": "1860536794", "subrefs": [
         { "name": "Disney's Tarzan", "start": "1:04:41" },
         { "name": "Looney Tunes: Sheep Raider", "start": "3:45:56" }
+      ] },
+      { "twitch": "1867374437", "subrefs": [
+        { "name": "Страшно и точка", "start": "27:39" },
+        { "name": "Cryptid", "start": "4:26:47" },
+        { "name": "Wendigo", "start": "5:17:34" }
       ] }
     ]
   },
@@ -6189,7 +6206,7 @@
       { "name": "19", "twitch": "1048673954", "start": "3:27:57" },
       { "name": "20", "twitch": "1140665211", "start": "4:07:15" },
       { "name": "21", "twitch": "1866511537", "start": "2:06:41" },
-      { "name": "22", "twitch": "1869063797", "start": "1:10:00" }
+      { "name": "22", "twitch": "1869063797", "start": "1:13:59" }
     ]
   },
   {
@@ -7930,23 +7947,6 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "twitch": "1867374437", "subrefs": [
-        { "name": "Страшно и точка", "start": "27:04" },
-        { "name": "Ouija", "start": "58:02" },
-        { "name": "The Hole", "start": "1:04:43" },
-        { "name": "The Pizza", "start": "1:12:01" },
-        { "name": "The Apartment Next Door", "start": "1:23:22" },
-        { "name": "Survival & Horror: Mortanis Prisoners", "start": "1:54:03" },
-        { "name": "The Horror Within", "start": "2:19:38" },
-        { "name": "Decadence", "start": "2:34:59" },
-        { "name": "Miside", "start": "3:08:17" },
-        { "name": "Other Side", "start": "4:07:22" },
-        { "name": "Chosen Who", "start": "4:14:53" },
-        { "name": "Cryptid", "start": "4:26:22" },
-        { "name": "Call of the fire", "start": "5:01:37" },
-        { "name": "Mannequin", "start": "5:07:56" },
-        { "name": "Wendigo", "start": "5:17:08" }
-      ] },
       { "name": "Amnesia: Rebirth", "twitch": "1869925818", "start": "45:02" },
       { "name": "Gylt", "twitch": "1870792843" },
       { "name": "Voidtrain", "twitch": "1871657339", "start": "1:11:08" },
