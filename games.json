@@ -4091,7 +4091,6 @@
     "id": "first-2022",
     "streams": [
       { "twitch": "1258121391", "subrefs": [
-        { "name": "Blood Field (демо)", "start": "2:08:50" },
         { "name": "Broken Veil (демо)", "start": "3:58:03" },
         { "name": "Blink: The Last Night", "start": "4:26:37" }
       ] },
@@ -4465,11 +4464,19 @@
         { "name": "Abandoned Souls", "start": "39:53" },
         { "name": "Schwarzwald (демо)", "start": "1:55:57" },
         { "name": "Backrooms: Realm of Shadows", "start": "2:24:23" },
-        { "name": "Blood Field", "start": "4:20:26" },
         { "name": "Paranormal Observation", "start": "4:47:46" },
         { "name": "Vorax", "start": "5:22:39" }
       ] },
       { "name": "POMBERO: The Lord of the Night", "twitch": "1896806146", "start": "3:31:14" }
+    ]
+  },
+  {
+    "name": "Blood Field",
+    "category": "ongoing",
+    "id": "blood-field",
+    "streams": [
+      { "name": "Демо", "twitch": "1258121391", "start": "2:08:50" },
+      { "name": "Релиз", "twitch": "1873395096", "start": "4:20:26" }
     ]
   },
   {
