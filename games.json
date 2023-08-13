@@ -5721,8 +5721,9 @@
     "category": "abandoned",
     "id": "song-of-horror",
     "streams": [
-      { "name": "1", "twitch": "878410974" },
-      { "name": "2", "twitch": "915004866" }
+      { "name": "1", "twitch": "878410974", "start": "47:28" },
+      { "name": "2", "twitch": "915004866", "start": "1:35:01" },
+      { "name": "1 (заново)", "twitch": "1897670218", "start": "27:10" }
     ]
   },
   {
