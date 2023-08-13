@@ -2002,6 +2002,15 @@
     ]
   },
   {
+    "name": "Amnesia: Rebirth",
+    "category": "finished",
+    "id": "amnesia-rebirth",
+    "streams": [
+      { "name": "Прохождение", "twitch": "775167526,776153173", "start": "5:02:17" },
+      { "name": "Заново", "twitch": "1869925818", "start": "42:25" }
+    ]
+  },
+  {
     "name": "Прохождения за один стрим",
     "category": "finished",
     "type": "list",
@@ -2086,7 +2095,6 @@
         { "name": "Re:Turn (демо)", "start": "4:16:10" }
       ] },
       { "name": "Xuan-Yuan Sword VII (демо)", "twitch": "767249770" },
-      { "name": "Amnesia: Rebirth", "twitch": "775167526,776153173" },
       { "name": "Harry Potter and the Sorcerer's Stone", "twitch": "779201810" },
       { "name": "Paranormal Entities", "twitch": "785524800" },
       { "name": "Metal Gear Solid V: Ground Zeroes", "twitch": "791632745" },
@@ -2514,6 +2522,13 @@
         { "name": "Chosen Who", "start": "4:14:48" },
         { "name": "Call of the Fire", "start": "5:02:03" },
         { "name": "Mannequin", "start": "5:06:42" }
+      ] },
+      { "name": "Gylt", "twitch": "1870792843", "start": "26:03" },
+      { "twitch": "1873395096", "subrefs": [
+        { "name": "The Tunnel", "start": "2:43:35" },
+        { "name": "Fear Underground (демо)", "start": "2:51:05" },
+        { "name": "Endless Suburbia", "start": "3:02:16" },
+        { "name": "ABEL", "start": "3:56:07" }
       ] },
       { "twitch": "1896806146", "subrefs": [
         { "name": "On The Bus", "start": "1:16:31" },
@@ -3926,7 +3941,6 @@
       { "name": "NEO: The World Ends with You", "twitch": "1111966540" },
       { "name": "ColdSide", "twitch": "1113958095" },
       { "name": "Glitchpunk", "twitch": "1114974794" },
-      { "name": "VoidTrain", "twitch": "1117002114" },
       { "name": "Humankind", "twitch": "1120971330" },
       { "twitch": "1128973572,1129122818", "subrefs": [
         { "name": "Bum Simulator" },
@@ -4445,6 +4459,15 @@
         { "name": "Страшно и точка", "start": "27:39" },
         { "name": "Cryptid", "start": "4:26:47" },
         { "name": "Wendigo", "start": "5:17:34" }
+      ] },
+      { "name": "Jagged Alliance 3", "twitch": "1872459569", "start": "19:12" },
+      { "twitch": "1873395096", "subrefs": [
+        { "name": "Abandoned Souls", "start": "39:53" },
+        { "name": "Schwarzwald (демо)", "start": "1:55:57" },
+        { "name": "Backrooms: Realm of Shadows", "start": "2:24:23" },
+        { "name": "Blood Field", "start": "4:20:26" },
+        { "name": "Paranormal Observation", "start": "4:47:46" },
+        { "name": "Vorax", "start": "5:22:39" }
       ] },
       { "name": "POMBERO: The Lord of the Night", "twitch": "1896806146", "start": "3:31:14" }
     ]
@@ -7952,26 +7975,19 @@
     ]
   },
   {
+    "name": "Voidtrain (ранний доступ)",
+    "category": "ongoing",
+    "id": "voidtrain",
+    "streams": [
+      { "name": "Соло", "twitch": "1117002114", "start": "13:54" },
+      { "name": "С Дашей и Джеком", "twitch": "1871657339", "start": "1:11:52" }
+    ]
+  },
+  {
     "name": "Не размечено",
     "category": "other",
     "id": "todo",
     "streams": [
-      { "name": "Amnesia: Rebirth", "twitch": "1869925818", "start": "45:02" },
-      { "name": "Gylt", "twitch": "1870792843" },
-      { "name": "Voidtrain", "twitch": "1871657339", "start": "1:11:08" },
-      { "name": "Jagged Alliance 3", "twitch": "1872459569" },
-      { "twitch": "1873395096", "subrefs": [
-        { "name": "Abandoned Souls", "start": "39:06" },
-        { "name": "Schwarzwald", "start": "1:56:31" },
-        { "name": "Backrooms: Realm of Shadows", "start": "2:23:35" },
-        { "name": "The Tunnel", "start": "2:43:41" },
-        { "name": "Fear Underground", "start": "2:50:23" },
-        { "name": "Endless Suburbia", "start": "3:02:05" },
-        { "name": "ABEL", "start": "3:55:40" },
-        { "name": "Blood Field", "start": "4:22:29" },
-        { "name": "Paranormal Observation", "start": "4:47:19" },
-        { "name": "Vorax", "start": "5:22:02" }
-      ] },
       { "twitch": "1876874955", "subrefs": [
         { "name": "Please, Forgive Me", "start": "39:36" },
         { "name": "Unholy", "start": "2:26:22" }
