@@ -2530,6 +2530,7 @@
         { "name": "Endless Suburbia", "start": "3:02:16" },
         { "name": "ABEL", "start": "3:56:07" }
       ] },
+      { "name": "Please, Forgive Me", "twitch": "1876874955", "start": "39:16" },
       { "twitch": "1896806146", "subrefs": [
         { "name": "On The Bus", "start": "1:16:31" },
         { "name": "Nocturia The Game", "start": "1:30:37" },
@@ -4434,7 +4435,6 @@
         { "name": "Wizard With a Gun (демо)", "start": "3:35:03" }
       ] },
       { "twitch": "1849426857", "subrefs": [
-        { "name": "Unholy", "start": "2:04:47" },
         { "name": "The Event (демо)", "start": "4:17:54" },
         { "name": "Scholar's Mate: First Move", "start": "4:59:08" }
       ] },
@@ -4467,7 +4467,20 @@
         { "name": "Paranormal Observation", "start": "4:47:46" },
         { "name": "Vorax", "start": "5:22:39" }
       ] },
-      { "name": "POMBERO: The Lord of the Night", "twitch": "1896806146", "start": "3:31:14" }
+      { "name": "POMBERO: The Lord of the Night", "twitch": "1896806146", "start": "3:31:14" },
+      { "twitch": "1877734451,1877816047,1877882907", "subrefs": [
+        { "name": "Exoprimal", "start": "28:35" },
+        { "name": "Tekken 8 (Closed Network Test)", "start": "3:47:42" }
+      ] }
+    ]
+  },
+  {
+    "name": "Unholy",
+    "category": "ongoing",
+    "id": "unholy",
+    "streams": [
+      { "name": "Демо", "twitch": "1849426857", "start": "2:04:47" },
+      { "name": "Релиз", "twitch": "1876874955", "start": "2:28:04" }
     ]
   },
   {
@@ -7974,7 +7987,7 @@
       { "name": "Демо", "twitch": "1193856809", "start": "40:06" },
       { "name": "1", "twitch": "1550107736", "start": "16:59" },
       { "name": "2", "twitch": "1551976425", "start": "51:42" },
-      { "name": "3", "twitch": "1876874955", "start": "4:53:11" },
+      { "name": "3", "twitch": "1876874955", "start": "4:54:32" },
       { "name": "4", "twitch": "1881238247", "start": "2:52:29" },
       { "name": "5", "twitch": "1883946844", "start": "1:08:17" },
       { "name": "6", "twitch": "1886428924", "start": "2:35:00" },
@@ -7992,20 +8005,22 @@
     ]
   },
   {
+    "name": "Remnant II",
+    "category": "ongoing",
+    "id": "remnant-2",
+    "streams": [
+      { "name": "1", "twitch": "1878676339", "start": "1:04:13" },
+      { "name": "2", "twitch": "1879541964", "start": "30:19" },
+      { "name": "3", "twitch": "1882127125", "start": "1:04:21" },
+      { "name": "4", "twitch": "1887286714", "start": "1:00:39" },
+      { "name": "5", "twitch": "1895024644", "start": "1:38:41" }
+    ]
+  },
+  {
     "name": "Не размечено",
     "category": "other",
     "id": "todo",
     "streams": [
-      { "twitch": "1876874955", "subrefs": [
-        { "name": "Please, Forgive Me", "start": "39:36" },
-        { "name": "Unholy", "start": "2:26:22" }
-      ] },
-      { "twitch": "1877734451,1877816047,1877882907", "subrefs": [
-        { "name": "Exoprimal", "start": "28:13" },
-        { "name": "Tekken 8", "start": "3:44:15" }
-      ] },
-      { "name": "Remnant II #1", "twitch": "1878676339", "start": "1:05:15" },
-      { "name": "Remnant II #2", "twitch": "1879541964", "start": "30:19" },
       { "twitch": "1880378307", "subrefs": [
         { "name": "The Complex: Expedition", "start": "48:31" },
         { "name": "Chester: Into the Light", "start": "2:26:14" },
@@ -8017,12 +8032,10 @@
         { "name": "Granny Remake", "start": "2:31:51" },
         { "name": "Lunacy: Saint Rhodes #2", "start": "4:02:57" }
       ] },
-      { "name": "Remnant II #3", "twitch": "1882127125", "start": "1:04:21" },
       { "twitch": "1886428924", "subrefs": [
         { "name": "The Ghost Train", "start": "47:07" },
         { "name": "Lunacy: Saint Rhodes #3", "start": "4:11:22" }
       ] },
-      { "name": "Remnant II #4", "twitch": "1887286714", "start": "1:00:39" },
       { "name": "Atomic Heart: Annihilation Instinct #1", "twitch": "1888133609", "start": "4:21:55" },
       { "twitch": "1888974774", "subrefs": [
         { "name": "Atomic Heart: Annihilation Instinct #2" },
@@ -8041,10 +8054,7 @@
         { "name": "Tartarus Engine", "start": "4:54:33" }
       ] },
       { "name": "Terminal 81", "twitch": "1894178506", "start": "1:29:48" },
-      { "twitch": "1895024644", "subrefs": [
-        { "name": "Street Fighter 6", "start": "12:33" },
-        { "name": "Remnant II #5", "start": "1:38:41" }
-      ] },
+      { "name": "Street Fighter 6", "twitch": "1895024644", "start": "12:33" },
       { "twitch": "1895922463", "subrefs": [
         { "name": "Pacify", "start": "1:16:09" },
         { "name": "Holy Purge", "start": "2:57:59" },
