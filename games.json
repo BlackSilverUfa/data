@@ -2331,7 +2331,6 @@
       { "twitch": "1635763389", "subrefs": [
         { "name": "Luto (демо)", "start": "21:21" },
         { "name": "Bughouse", "start": "1:25:11" },
-        { "name": "Lunacy: Saint Rhodes (демо)", "start": "2:05:17" },
         { "name": "Skinned Alive", "start": "2:40:47" },
         { "name": "Night Delivery", "start": "3:21:38" },
         { "name": "The Lies We Tell Ourselves (демо)", "start": "4:31:59" }
@@ -2531,6 +2530,7 @@
         { "name": "ABEL", "start": "3:56:07" }
       ] },
       { "name": "Please, Forgive Me", "twitch": "1876874955", "start": "39:16" },
+      { "name": "The Complex: Expedition", "twitch": "1880378307", "start": "48:12" },
       { "twitch": "1896806146", "subrefs": [
         { "name": "On The Bus", "start": "1:16:31" },
         { "name": "Nocturia The Game", "start": "1:30:37" },
@@ -3030,7 +3030,7 @@
       { "name": "10", "twitch": "1847820448", "start": "5:12" },
       { "name": "11", "twitch": "1848514917", "start": "6:09" },
       { "name": "12", "twitch": "1868119767", "start": "12:08" },
-      { "name": "13", "twitch": "1882948971", "start": "7:07" },
+      { "name": "13", "twitch": "1882948971", "start": "7:03" },
       { "name": "14", "twitch": "1890707460,1890774077" }
     ]
   },
@@ -4114,10 +4114,7 @@
         { "name": "Autopsy Simulator (демо)" },
         { "name": "Total War: Warhammer III", "start": "4:02:07" }
       ] },
-      { "twitch": "1307474557", "subrefs": [
-        { "name": "My Friendly Neighborhood (демо)", "start": "2:20:39" },
-        { "name": "SCP: Pandemic (демо)", "start": "3:17:59" }
-      ] },
+      { "name": "SCP: Pandemic (демо)", "twitch": "1307474557", "start": "3:17:59" },
       { "name": "Gran Turismo 7", "twitch": "1415016033" },
       { "name": "Weird West", "twitch": "1444100764", "start": "4:40:10" },
       { "twitch": "1445142982", "subrefs": [
@@ -4467,11 +4464,25 @@
         { "name": "Paranormal Observation", "start": "4:47:46" },
         { "name": "Vorax", "start": "5:22:39" }
       ] },
+      { "name": "Chester: Into the Light", "twitch": "1880378307", "start": "2:27:27" },
+      { "twitch": "1881238247", "subrefs": [
+        { "name": "The Backrooms (Dreams)", "start": "40:34" },
+        { "name": "Granny Remake", "start": "2:31:51" }
+      ] },
       { "name": "POMBERO: The Lord of the Night", "twitch": "1896806146", "start": "3:31:14" },
       { "twitch": "1877734451,1877816047,1877882907", "subrefs": [
         { "name": "Exoprimal", "start": "28:35" },
         { "name": "Tekken 8 (Closed Network Test)", "start": "3:47:42" }
       ] }
+    ]
+  },
+  {
+    "name": "My Friendly Neighborhood",
+    "category": "ongoing",
+    "id": "my-fn",
+    "streams": [
+      { "name": "Демо", "twitch": "1307474557", "start": "2:20:39" },
+      { "name": "Релиз", "twitch": "1881238247", "start": "1:56:01" }
     ]
   },
   {
@@ -7988,8 +7999,8 @@
       { "name": "1", "twitch": "1550107736", "start": "16:59" },
       { "name": "2", "twitch": "1551976425", "start": "51:42" },
       { "name": "3", "twitch": "1876874955", "start": "4:54:32" },
-      { "name": "4", "twitch": "1881238247", "start": "2:52:29" },
-      { "name": "5", "twitch": "1883946844", "start": "1:08:17" },
+      { "name": "4", "twitch": "1881238247", "start": "2:53:21" },
+      { "name": "5", "twitch": "1883946844", "start": "55:07" },
       { "name": "6", "twitch": "1886428924", "start": "2:35:00" },
       { "name": "7", "twitch": "1889874082", "start": "2:06:15" },
       { "name": "8", "twitch": "1894178506", "start": "3:53:56" }
@@ -8010,10 +8021,21 @@
     "id": "remnant-2",
     "streams": [
       { "name": "1", "twitch": "1878676339", "start": "1:04:13" },
-      { "name": "2", "twitch": "1879541964", "start": "30:19" },
-      { "name": "3", "twitch": "1882127125", "start": "1:04:21" },
+      { "name": "2", "twitch": "1879541964", "start": "30:40" },
+      { "name": "3", "twitch": "1882127125", "start": "1:05:18" },
       { "name": "4", "twitch": "1887286714", "start": "1:00:39" },
       { "name": "5", "twitch": "1895024644", "start": "1:38:41" }
+    ]
+  },
+  {
+    "name": "Lunacy: Saint Rhodes",
+    "category": "ongoing",
+    "id": "lunacy-sr",
+    "streams": [
+      { "name": "Демо", "twitch": "1635763389", "start": "2:05:17" },
+      { "name": "1", "twitch": "1880378307", "start": "2:55:16" },
+      { "name": "2", "twitch": "1881238247", "start": "4:03:45" },
+      { "name": "3", "twitch": "1886428924", "start": "4:11:22" }
     ]
   },
   {
@@ -8021,21 +8043,7 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "twitch": "1880378307", "subrefs": [
-        { "name": "The Complex: Expedition", "start": "48:31" },
-        { "name": "Chester: Into the Light", "start": "2:26:14" },
-        { "name": "Lunacy: Saint Rhodes #1", "start": "2:55:36" }
-      ] },
-      { "twitch": "1881238247", "subrefs": [
-        { "name": "The Backrooms - Dreams", "start": "40:34" },
-        { "name": "My Friendly Neighborhood", "start": "1:56:01" },
-        { "name": "Granny Remake", "start": "2:31:51" },
-        { "name": "Lunacy: Saint Rhodes #2", "start": "4:02:57" }
-      ] },
-      { "twitch": "1886428924", "subrefs": [
-        { "name": "The Ghost Train", "start": "47:07" },
-        { "name": "Lunacy: Saint Rhodes #3", "start": "4:11:22" }
-      ] },
+      { "name": "The Ghost Train", "twitch": "1886428924", "start": "47:07" },
       { "name": "Atomic Heart: Annihilation Instinct #1", "twitch": "1888133609", "start": "4:21:55" },
       { "twitch": "1888974774", "subrefs": [
         { "name": "Atomic Heart: Annihilation Instinct #2" },
