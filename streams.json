@@ -1445,7 +1445,9 @@
     "youtube": "Sx8oH-x-f5k", "official": false,
     "note": "У <a href=\"https://youtu.be/1c08ji3g-aw\">официальной записи</a> почему-то запрещено встраивание."
   },
-  "883419848": { "youtube": "dn9uQy2eePE", "official": false },
+  "883419848": {
+    "note": "На <a href=\"https://youtu.be/dn9uQy2eePE\">предыдущую запись</a> YouTube установил возрастное ограничение."
+  },
   "886277729": { "youtube": "ew9dM_1QDcQ" },
   "887445977": { "youtube": "jIGq-DDVWzY", "official": false },
   "889976499": { "youtube": "Rp3G96eHid0", "official": false },
