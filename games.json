@@ -2538,7 +2538,9 @@
         { "name": "Ergophobia", "start": "3:08:34" },
         { "name": "Depth of Contamination", "start": "4:19:34" },
         { "name": "Slender: Return to Rosswood Park", "start": "4:41:40" }
-      ] }
+      ] },
+      { "name": "The Ghost Train", "twitch": "1886428924", "start": "49:00" },
+      { "name": "Welcome to Kowloon", "twitch": "1889874082", "start": "51:10" }
     ]
   },
   {
@@ -3031,7 +3033,7 @@
       { "name": "11", "twitch": "1848514917", "start": "6:09" },
       { "name": "12", "twitch": "1868119767", "start": "12:08" },
       { "name": "13", "twitch": "1882948971", "start": "7:03" },
-      { "name": "14", "twitch": "1890707460,1890774077" }
+      { "name": "14", "twitch": "1890707460,1890774077", "start": "6:27" }
     ]
   },
   {
@@ -3644,6 +3646,15 @@
     ]
   },
   {
+    "name": "Baldur's Gate 3",
+    "category": "ongoing",
+    "id": "bg3",
+    "streams": [
+      { "name": "Ранний доступ (с Артёмом)", "twitch": "763202430", "start": "13:30" },
+      { "name": "Релиз", "twitch": "1888974774", "start": "5:34:58" }
+    ]
+  },
+  {
     "name": "Первый взгляд 2020",
     "category": "first",
     "type": "list",
@@ -3728,7 +3739,6 @@
       { "name": "Crysis: Remastered", "twitch": "746844135" },
       { "name": "BPM: Bullets Per Minute", "twitch": "747742325" },
       { "name": "Star Wars: Squadrons", "twitch": "758360932" },
-      { "name": "Baldur's Gate 3", "twitch": "763202430" },
       { "twitch": "767249770", "subrefs": [
         { "name": "Partisans 1941 (демо)", "start": "2:30:12" },
         { "name": "F.I.S.T.: Forged In Shadow Torch (демо)", "start": "3:16:45" }
@@ -4645,7 +4655,11 @@
       { "name": "2", "twitch": "1744660246", "start": "12:19" },
       { "name": "3", "twitch": "1745636782", "start": "8:49" },
       { "name": "4", "twitch": "1746607463,1746871491", "start": "37:03" },
-      { "name": "5", "twitch": "1888133609", "start": "28:16" }
+      { "twitch": "1888133609", "subrefs": [
+        { "name": "Перед DLC", "start": "28:46" },
+        { "name": "Annihilation Instinct #1", "start": "4:17:34" }
+      ] },
+      { "name": "Annihilation Instinct #2", "twitch": "1888974774", "start": "22:46" }
     ]
   },
   {
@@ -8001,8 +8015,8 @@
       { "name": "3", "twitch": "1876874955", "start": "4:54:32" },
       { "name": "4", "twitch": "1881238247", "start": "2:53:21" },
       { "name": "5", "twitch": "1883946844", "start": "55:07" },
-      { "name": "6", "twitch": "1886428924", "start": "2:35:00" },
-      { "name": "7", "twitch": "1889874082", "start": "2:06:15" },
+      { "name": "6", "twitch": "1886428924", "start": "2:35:52" },
+      { "name": "7", "twitch": "1889874082", "start": "2:06:36" },
       { "name": "8", "twitch": "1894178506", "start": "3:53:56" }
     ]
   },
@@ -8023,19 +8037,19 @@
       { "name": "1", "twitch": "1878676339", "start": "1:04:13" },
       { "name": "2", "twitch": "1879541964", "start": "30:40" },
       { "name": "3", "twitch": "1882127125", "start": "1:05:18" },
-      { "name": "4", "twitch": "1887286714", "start": "1:00:39" },
+      { "name": "4", "twitch": "1887286714", "start": "1:01:40" },
       { "name": "5", "twitch": "1895024644", "start": "1:38:41" }
     ]
   },
   {
     "name": "Lunacy: Saint Rhodes",
-    "category": "ongoing",
+    "category": "finished",
     "id": "lunacy-sr",
     "streams": [
       { "name": "Демо", "twitch": "1635763389", "start": "2:05:17" },
       { "name": "1", "twitch": "1880378307", "start": "2:55:16" },
       { "name": "2", "twitch": "1881238247", "start": "4:03:45" },
-      { "name": "3", "twitch": "1886428924", "start": "4:11:22" }
+      { "name": "3", "twitch": "1886428924", "start": "4:12:14" }
     ]
   },
   {
@@ -8043,13 +8057,6 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "name": "The Ghost Train", "twitch": "1886428924", "start": "47:07" },
-      { "name": "Atomic Heart: Annihilation Instinct #1", "twitch": "1888133609", "start": "4:21:55" },
-      { "twitch": "1888974774", "subrefs": [
-        { "name": "Atomic Heart: Annihilation Instinct #2" },
-        { "name": "Baldur's Gate 3", "start": "5:34:09" }
-      ] },
-      { "name": "Welcome to Kowloon", "twitch": "1889874082", "start": "49:00" },
       { "twitch": "1891624092", "subrefs": [
         { "name": "Where Is Sarah?", "start": "38:44" },
         { "name": "Episode 666", "start": "1:27:28" },
