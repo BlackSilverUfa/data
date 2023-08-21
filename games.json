@@ -407,7 +407,8 @@
       { "name": "Overwatch 2", "twitch": "1623036890", "start": "54:11" },
       { "name": "Ghostbusters: Spirits Unleashed", "twitch": "1624846104", "start": "4:27:41" },
       { "name": "Inout", "twitch": "1804882802", "start": "2:04:46" },
-      { "name": "Super Bunny Man", "twitch": "1866511537", "start": "1:17:25" }
+      { "name": "Super Bunny Man", "twitch": "1866511537", "start": "1:17:25" },
+      { "name": "Hello Engineer", "twitch": "1904659436", "start": "1:50:22" }
     ]
   },
   {
@@ -8049,14 +8050,15 @@
   },
   {
     "name": "Remnant II",
-    "category": "ongoing",
+    "category": "finished",
     "id": "remnant-2",
     "streams": [
       { "name": "1", "twitch": "1878676339", "start": "1:04:13" },
       { "name": "2", "twitch": "1879541964", "start": "30:40" },
       { "name": "3", "twitch": "1882127125", "start": "1:05:18" },
       { "name": "4", "twitch": "1887286714", "start": "1:01:40" },
-      { "name": "5", "twitch": "1895024644", "start": "1:38:41" }
+      { "name": "5", "twitch": "1895024644", "start": "1:38:41" },
+      { "name": "6", "twitch": "1904659436", "start": "1:05:57" }
     ]
   },
   {
