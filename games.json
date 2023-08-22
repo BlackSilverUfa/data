@@ -1173,7 +1173,10 @@
     "streams": [
       { "name": "1", "twitch": "207753795", "start": "3:24:00" },
       { "name": "2 (на PS4 Pro)", "twitch": "348930664", "segment": 0 },
-      { "name": "3", "twitch": "436159113", "segment": 1 },
+      { "twitch": "436159113", "subrefs": [
+        { "name": "3", "start": "2:07:58" },
+        { "name": "3 (продолжение)", "start": "6:16:38", "hidden": true }
+      ] },
       { "name": "4 (часть 1)", "twitch": "436769739", "segment": 0, "start": "6:55" },
       { "name": "4 (часть 2)", "twitch": "436769739", "segment": 1, "start": "2:34:57" },
       { "name": "5 (часть 1)", "twitch": "437135971", "segment": 0 },
@@ -1741,7 +1744,7 @@
     "category": "expos",
     "id": "e3_2019",
     "streams": [
-      { "name": "Electronic Arts", "twitch": "436159113", "segment": 1, "start": "3:21:16" },
+      { "name": "Electronic Arts", "twitch": "436159113", "start": "3:21:16" },
       { "name": "Microsoft", "twitch": "436769739", "segment": 0, "start": "56:39" },
       { "name": "Bethesda", "twitch": "436769739", "segment": 2, "start": "5:25:36" },
       { "name": "Devolver Digital", "twitch": "436769739", "segment": 3, "start": "6:50:27" },
@@ -1765,7 +1768,7 @@
         { "name": "Microsoft", "start": "2:32:00" },
         { "name": "Microsoft (часть 2)", "start": "2:57:55", "hidden": true }
       ] },
-      { "name": "Ubisoft (осень)", "twitch": "736906091", "segment": 0, "start": "5:28:27" }
+      { "name": "Ubisoft (осень)", "twitch": "736906091", "start": "5:28:27" }
     ]
   },
   {
@@ -2890,7 +2893,7 @@
     "category": "finished",
     "id": "black-mesa-xen",
     "streams": [
-      { "name": "0 (бета)", "twitch": "444937025", "segment": 0 },
+      { "name": "0 (бета)", "twitch": "444937025", "start": "13:17" },
       { "name": "1", "twitch": "518751002" },
       { "name": "2", "twitch": "520025510", "segment": 0 }
     ],
@@ -3527,12 +3530,14 @@
         { "name": "Bloodstained: Ritual of the Night", "start": "3:13:11" }
       ] },
       { "name": "Failed State", "twitch": "444021917", "start": "1:12:33" },
-      { "name": "Daymare: 1998 (демо)", "twitch": "447694923", "segment": 0 },
-      { "name": "Black Mesa", "twitch": "447694923", "segment": 1 },
+      { "twitch": "447694923", "subrefs": [
+        { "name": "Daymare: 1998 (демо)", "start": "40:19" },
+        { "name": "Black Mesa", "start": "3:09:58" }
+      ] },
       { "name": "Thief Simulator", "twitch": "454019548", "segment": 0 },
       { "name": "Spirit Hunter: Death Mark", "twitch": "466152548" },
       { "name": "Gibbous - A Cthulhu Adventure", "twitch": "466612968", "start": "2:07:28" },
-      { "name": "Ion Fury", "twitch": "467982647", "segment": 0 },
+      { "name": "Ion Fury", "twitch": "467982647", "start": "6:36" },
       { "name": "GreedFall", "twitch": "479485735" },
       { "name": "Borderlands 3", "twitch": "480853384" },
       { "name": "SCP-087-B", "twitch": "481343199", "start": "1:56:00" },
@@ -3676,8 +3681,8 @@
         { "name": "Streamer Life Simulator", "start": "3:41:19" }
       ] },
       { "name": "Kingdoms of Amalur: Re-Reckoning", "twitch": "735013484", "start": "1:53:30" },
-      { "twitch": "736906091", "segment": 0, "subrefs": [
-        { "name": "There Is No Light (демо)" },
+      { "twitch": "736906091", "subrefs": [
+        { "name": "There Is No Light (демо)", "start": "58:41" },
         { "name": "Star Renegades", "start": "1:36:53" },
         { "name": "Redneck Ed: Astro Monsters Show", "start": "2:16:23" }
       ] },
@@ -6446,7 +6451,7 @@
     "streams": [
       { "name": "1", "twitch": "531327327", "start": "3:34:09" },
       { "name": "2", "twitch": "545136550", "start": "3:23:17" },
-      { "name": "Star Wars - Journey to Batuu", "twitch": "736906091", "segment": 1 }
+      { "name": "Star Wars - Journey to Batuu", "twitch": "736906091", "start": "2:58:51" }
     ]
   },
   {
@@ -6869,7 +6874,7 @@
     "category": "finished",
     "id": "remnant-from-the-ashes",
     "streams": [
-      { "name": "1", "twitch": "467982647", "segment": 1 },
+      { "name": "1", "twitch": "467982647", "start": "48:47" },
       { "name": "2", "twitch": "468461070" },
       { "name": "3", "twitch": "469393130", "start": "2:32:24" },
       { "name": "4 (часть 1)", "twitch": "470762578" },
@@ -6883,7 +6888,7 @@
     "category": "finished",
     "id": "doki-doki",
     "streams": [
-      { "name": "1", "twitch": "454488796", "segment": 0 },
+      { "name": "1", "twitch": "454488796", "start": "17:58" },
       { "name": "2", "twitch": "455431771" }
     ]
   },
@@ -6893,7 +6898,7 @@
     "id": "gears-of-war-2",
     "streams": [
       { "name": "1", "twitch": "452633607" },
-      { "name": "2", "twitch": "454488796", "segment": 1 }
+      { "name": "2", "twitch": "454488796", "start": "3:06:18" }
     ]
   },
   {
@@ -6913,7 +6918,7 @@
       { "name": "1 (часть 1)", "twitch": "444061926" },
       { "name": "1 (часть 2)", "twitch": "444161282" },
       { "name": "2", "twitch": "444461379" },
-      { "name": "3", "twitch": "444937025", "segment": 1 },
+      { "name": "3", "twitch": "444937025", "start": "1:30:25" },
       { "name": "4", "twitch": "445389664" }
     ]
   },
@@ -7061,7 +7066,7 @@
       { "name": "8", "twitch": "422048555" },
       { "name": "9", "twitch": "423369283", "segment": 0 },
       { "name": "10", "twitch": "430120134", "segment": 0 },
-      { "name": "11", "twitch": "436159113", "segment": 0 },
+      { "name": "11", "twitch": "436159113", "start": "7:52" },
       { "name": "12", "twitch": "439860739" },
       { "name": "13", "twitch": "440294828" },
       { "name": "14", "twitch": "440765344" },

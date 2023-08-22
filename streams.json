@@ -938,10 +938,7 @@
     "youtube": "lasTzyCgapE", "official": false,
     "note": "<a href=\"https://youtu.be/mm462LoelaY\">Официальная запись</a> не может быть использована на этом сайте (встраивание запрещено)."
   },
-  "436159113": [
-    { "youtube": "tVgvh6sV8UI", "official": false },
-    { "offset": "2:00:20" }
-  ],
+  "436159113": { "youtube": "tVgvh6sV8UI", "official": false },
   "436769739": [
     {
       "note": "6rjDCeDh2JQ 0"
@@ -968,16 +965,10 @@
   "444061926": { "youtube": "P4Gq8oIuyqU", "official": false },
   "444161282": { "youtube": "lRtV79UL_OU", "official": false },
   "444461379": { "youtube": "R9xLDQce_9Y", "official": false },
-  "444937025": [
-    { "youtube": "ismFEtxKr9w", "official": false },
-    { "offset": "1:29:03" }
-  ],
+  "444937025": { "youtube": "ismFEtxKr9w", "official": false },
   "445389664": { "youtube": "S35fat0EraI", "official": false },
   "445866715": { "youtube": "7KDb1h8Z2iA", "official": false },
-  "447694923": [
-    { "youtube": "BxWoRycnMrA", "official": false },
-    { "offset": "3:09:13" }
-  ],
+  "447694923": { "youtube": "BxWoRycnMrA", "official": false },
   "448154135": { "youtube": "flr_jLcnQLg", "official": false },
   "448568048": [
     { "youtube": "LQ1B5gfvQUk", "official": false },
@@ -998,10 +989,7 @@
     { "youtube": "YN30SaQxsMs", "official": false },
     { "youtube": "UBL9Figogzo", "offset": "2:55:41", "official": false }
   ],
-  "454488796": [
-    { "youtube": "Yq3p_PwULoE", "official": false },
-    { "offset": "2:59:52" }
-  ],
+  "454488796": { "youtube": "Yq3p_PwULoE", "official": false },
   "455431771": { "youtube": "YD8cSXrgImY", "official": false },
   "455921735": { "youtube": "eNS_M1GhLqU", "official": false },
   "456859112": { "youtube": "3A3VtoKJ2WI", "official": false },
@@ -1009,10 +997,7 @@
   "466152548": { "youtube": "Q4-0bOYrmJY", "official": false },
   "466612968": { "youtube": "yQv_cTRtE9A", "official": false },
   "467081484": { "youtube": "F38n_bS_cG4", "official": false },
-  "467982647": [
-    { "youtube": "zNJacNQ36Ww", "official": false },
-    { "offset": "47:00" }
-  ],
+  "467982647": { "youtube": "zNJacNQ36Ww", "official": false },
   "468461070": { "youtube": "1Fle-JYj8x4", "official": false },
   "468908083": {
     "official": false,
@@ -1350,10 +1335,7 @@
   "733113254": { "youtube": "cJHElfSWazw", "official": false },
   "734046513": { "youtube": "_qQ2GXWV8to", "official": false },
   "735013484": { "youtube": "VkfiWfnoW48", "official": false },
-  "736906091": [
-    { "youtube": "rg58Y5Fe13M", "official": false },
-    { "offset": "2:58:26" }
-  ],
+  "736906091": { "youtube": "rg58Y5Fe13M", "official": false },
   "737853754": { "youtube": "4XSj80oJZ1s", "official": false },
   "738885129": { "youtube": "qE2ioYUcfxY", "official": false },
   "740853378": { "youtube": "0uXjZYTO2ks", "official": false },
