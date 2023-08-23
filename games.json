@@ -1571,7 +1571,11 @@
       { "name": "Square Enix Presents (Весна 2021)", "twitch": "953865835", "start": "3:04:45" },
       { "name": "Resident Evil Showcase (Апрель 2021)", "twitch": "988804108", "start": "27:07" },
       { "name": "WitcherCon", "twitch": "1081385499,1081403044", "start": "4:01:35" },
-      { "name": "Dead Space Remake Dev Stream", "twitch": "1134934289", "start": "3:57:26" }
+      { "name": "Dead Space Remake Dev Stream", "twitch": "1134934289", "start": "3:57:26" },
+      { "twitch": "1906345080", "subrefs": [
+        { "name": "Opening Night Live (обзор)", "start": "5:41:04" },
+        { "name": "Future Games Show", "start": "6:07:17" }
+      ] }
     ]
   },
   {
@@ -2549,7 +2553,8 @@
         { "name": "Liminal Symptom (демо)", "start": "3:15:49" },
         { "name": "Terror At Oakheart (демо)", "start": "3:40:00" },
         { "name": "Echoes From The Abyss", "start": "4:44:31" }
-      ] }
+      ] },
+      { "name": "Fort Solis", "twitch": "1906345080", "start": "15:10" }
     ]
   },
   {
