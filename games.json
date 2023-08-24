@@ -309,7 +309,6 @@
       { "name": "Project Winter", "twitch": "378392606" },
       { "name": "Diablo", "twitch": "394859046" },
       { "name": "Generation Zero", "twitch": "402450066", "segment": 1 },
-      { "name": "Pacify", "twitch": "410400457", "start": "1:33:15" },
       { "twitch": "410963500", "subrefs": [
         { "name": "Peekaboo", "start": "1:19:27" },
         { "name": "Shotgun Farmers", "start": "3:56:29" }
@@ -409,12 +408,20 @@
       { "name": "Inout", "twitch": "1804882802", "start": "2:04:46" },
       { "name": "Super Bunny Man", "twitch": "1866511537", "start": "1:17:25" },
       { "twitch": "1895922463", "subrefs": [
-        { "name": "Pacify", "start": "1:16:40" },
         { "name": "Holy Purge", "start": "2:30:58" },
         { "name": "Surrounded", "start": "3:50:05" },
         { "name": "Cartoon Rage", "start": "4:11:59" }
       ] },
       { "name": "Hello Engineer", "twitch": "1904659436", "start": "1:50:22" }
+    ]
+  },
+  {
+    "name": "Pacify",
+    "category": "co-op",
+    "id": "pacify",
+    "streams": [
+      { "name": "1", "twitch": "410400457", "start": "1:33:15" },
+      { "name": "2", "twitch": "1895922463", "start": "1:16:40" }
     ]
   },
   {
@@ -1577,11 +1584,19 @@
       { "name": "Square Enix Presents (Весна 2021)", "twitch": "953865835", "start": "3:04:45" },
       { "name": "Resident Evil Showcase (Апрель 2021)", "twitch": "988804108", "start": "27:07" },
       { "name": "WitcherCon", "twitch": "1081385499,1081403044", "start": "4:01:35" },
-      { "name": "Dead Space Remake Dev Stream", "twitch": "1134934289", "start": "3:57:26" },
+      { "name": "Dead Space Remake Dev Stream", "twitch": "1134934289", "start": "3:57:26" }
+    ]
+  },
+  {
+    "name": "Gamescom 2023",
+    "category": "expos",
+    "id": "gamescom-23",
+    "streams": [
       { "twitch": "1906345080", "subrefs": [
         { "name": "Opening Night Live (обзор)", "start": "5:41:04" },
         { "name": "Future Games Show", "start": "6:07:17" }
-      ] }
+      ] },
+      { "name": "Future Games Show (обзор)", "twitch": "1907179905", "start": "10:49" }
     ]
   },
   {
@@ -4523,7 +4538,8 @@
         { "name": "The King of the Shades", "start": "2:26:57" },
         { "name": "The Night Shift", "start": "4:03:21" },
         { "name": "Darker Skies: Remastered for PC", "start": "4:16:19" }
-      ] }
+      ] },
+      { "name": "Armored Core VI: Fires of Rubicon", "twitch": "1907179905", "start": "1:01:02" }
     ]
   },
   {
