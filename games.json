@@ -4538,8 +4538,16 @@
         { "name": "The King of the Shades", "start": "2:26:57" },
         { "name": "The Night Shift", "start": "4:03:21" },
         { "name": "Darker Skies: Remastered for PC", "start": "4:16:19" }
-      ] },
-      { "name": "Armored Core VI: Fires of Rubicon", "twitch": "1907179905", "start": "1:01:02" }
+      ] }
+    ]
+  },
+  {
+    "name": "Armored Core VI: Fires of Rubicon",
+    "category": "ongoing",
+    "id": "ac6-for",
+    "streams": [
+      { "name": "1", "twitch": "1907179905", "start": "1:01:02" },
+      { "name": "2 (без комментариев)", "twitch": "1909871377" }
     ]
   },
   {
