@@ -2583,7 +2583,11 @@
         { "name": "Terror At Oakheart (демо)", "start": "3:40:00" },
         { "name": "Echoes From The Abyss", "start": "4:44:31" }
       ] },
-      { "name": "Fort Solis", "twitch": "1906345080", "start": "15:10" }
+      { "name": "Fort Solis", "twitch": "1906345080", "start": "15:10" },
+      { "twitch": "1913348809", "subrefs": [
+        { "name": "Parasocial", "start": "2:09:04" },
+        { "name": "Decimate Drive (демо)", "start": "4:57:20" }
+      ] }
     ]
   },
   {
