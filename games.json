@@ -2591,6 +2591,14 @@
     ]
   },
   {
+    "name": "Starfield",
+    "category": "ongoing",
+    "id": "starfield",
+    "streams": [
+      { "name": "1", "twitch": "1914021087", "start": "9:19" }
+    ]
+  },
+  {
     "name": "They Are Here: Alien Abduction Horror",
     "category": "ongoing",
     "id": "they-are-here",
