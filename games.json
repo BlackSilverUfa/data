@@ -4273,7 +4273,6 @@
       ] },
       { "name": "Outbreak: Shades of Horror (тизер)", "twitch": "1551976425", "start": "5:54:48" },
       { "twitch": "1552996641", "subrefs": [
-        { "name": "Mortal Kombat", "start": "46:11" },
         { "name": "Michael Jackson's Moonwalker", "start": "2:04:47" },
         { "name": "Goofy's Hysterical History Tour", "start": "3:19:58" }
       ] },
@@ -4387,6 +4386,15 @@
         { "name": "Who Knocks", "start": "1:47:05" }
       ] },
       { "name": "The Thing (by PanzerCat)", "twitch": "1690952607", "start": "3:54:09" }
+    ]
+  },
+  {
+    "name": "Mortal Kombat",
+    "category": "ongoing",
+    "id": "mk",
+    "streams": [
+      { "name": "1", "twitch": "1552996641", "start": "46:11" },
+      { "name": "2", "twitch": "1925193288", "start": "51:14" }
     ]
   },
   {
@@ -4558,7 +4566,16 @@
         { "name": "The Night Shift", "start": "4:03:21" },
         { "name": "Darker Skies: Remastered for PC", "start": "4:16:19" }
       ] },
-      { "name": "Ad Infinitum", "twitch": "1924362967", "start": "1:16:09" }
+      { "name": "Ad Infinitum", "twitch": "1924362967", "start": "1:16:09" },
+      { "twitch": "1925193288", "subrefs": [
+        { "name": "Mortal Kombat 2", "start": "1:21:16" },
+        { "name": "Mortal Kombat 3", "start": "2:06:33" },
+        { "name": "Mortal Kombat Trilogy", "start": "2:13:39" },
+        { "name": "Mortal Kombat 4", "start": "2:54:18" },
+        { "name": "Mortal Kombat Mythologies: Sub-Zero", "start": "3:16:35" },
+        { "name": "Mortal Kombat: Special Forces", "start": "3:41:20" },
+        { "name": "Mortal Kombat 1", "start": "4:15:38" }
+      ] }
     ]
   },
   {
