@@ -4565,7 +4565,6 @@
         { "name": "The Night Shift", "start": "4:03:21" },
         { "name": "Darker Skies: Remastered for PC", "start": "4:16:19" }
       ] },
-      { "name": "Ad Infinitum", "twitch": "1924362967", "start": "1:16:09" },
       { "twitch": "1925193288", "subrefs": [
         { "name": "Mortal Kombat 2", "start": "1:21:16" },
         { "name": "Mortal Kombat 3", "start": "2:06:33" },
@@ -4575,6 +4574,15 @@
         { "name": "Mortal Kombat: Special Forces", "start": "3:41:20" }
       ] },
       { "name": "Ghostrunner 2", "twitch": "1925972150", "start": "4:18:07" }
+    ]
+  },
+  {
+    "name": "Ad Infinitum",
+    "category": "finished",
+    "id": "ad-infinitum",
+    "streams": [
+      { "name": "1", "twitch": "1924362967", "start": "1:16:09" },
+      { "name": "2", "twitch": "1926880821", "start": "14:34" }
     ]
   },
   {
@@ -5882,14 +5890,15 @@
   },
   {
     "name": "Song of Horror",
-    "category": "abandoned",
+    "category": "ongoing",
     "id": "song-of-horror",
     "streams": [
       { "name": "1", "twitch": "878410974", "start": "47:28" },
       { "name": "2", "twitch": "915004866", "start": "1:35:01" },
       { "name": "1 (заново)", "twitch": "1897670218", "start": "27:10" },
       { "name": "2", "twitch": "1901985410", "start": "49:28" },
-      { "name": "3", "twitch": "1902891024", "start": "2:38:38" }
+      { "name": "3", "twitch": "1902891024", "start": "2:38:38" },
+      { "name": "4", "twitch": "1926880821", "start": "3:31:17" }
     ]
   },
   {
