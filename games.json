@@ -2591,6 +2591,11 @@
       { "twitch": "1917728202", "subrefs": [
         { "name": "The Convenience Store", "start": "51:52" },
         { "name": "Seven Nights Ghost", "start": "2:41:44" }
+      ] },
+      { "twitch": "1927857923", "subrefs": [
+        { "name": "Greener Grass Awaits", "start": "1:25:27" },
+        { "name": "Tenebris Somnia (демо)", "start": "3:42:00" },
+        { "name": "Terror in the Kitchen", "start": "4:06:01" }
       ] }
     ]
   },
@@ -4573,7 +4578,11 @@
         { "name": "Mortal Kombat Mythologies: Sub-Zero", "start": "3:16:35" },
         { "name": "Mortal Kombat: Special Forces", "start": "3:41:20" }
       ] },
-      { "name": "Ghostrunner 2", "twitch": "1925972150", "start": "4:18:07" }
+      { "name": "Ghostrunner 2", "twitch": "1925972150", "start": "4:18:07" },
+      { "twitch": "1927857923", "subrefs": [
+        { "name": "Silent Scream", "start": "37:53" },
+        { "name": "The Great Fear", "start": "3:32:51" }
+      ] }
     ]
   },
   {
