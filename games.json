@@ -2320,7 +2320,6 @@
       ] },
       { "name": "Security Booth: Director's Cut", "twitch": "1578740848", "start": "39:03" },
       { "twitch": "1588071501", "subrefs": [
-        { "name": "Lempo (демо)", "start": "1:20:12" },
         { "name": "Mega", "start": "2:31:27" },
         { "name": "The Horrors Recrudesce (демо)", "start": "3:00:06" },
         { "name": "Bias (демо)", "start": "3:43:16" },
@@ -2596,6 +2595,10 @@
         { "name": "Greener Grass Awaits", "start": "1:25:27" },
         { "name": "Tenebris Somnia (демо)", "start": "3:42:00" },
         { "name": "Terror in the Kitchen", "start": "4:06:01" }
+      ] },
+      { "twitch": "1928706610", "subrefs": [
+        { "name": "Apartament 1406", "start": "19:45" },
+        { "name": "Squirrel Stapler", "start": "3:44:27" }
       ] }
     ]
   },
@@ -4583,6 +4586,15 @@
         { "name": "Silent Scream", "start": "37:53" },
         { "name": "The Great Fear", "start": "3:32:51" }
       ] }
+    ]
+  },
+  {
+    "name": "Lempo",
+    "category": "ongoing",
+    "id": "lempo",
+    "streams": [
+      { "name": "Демо", "twitch": "1588071501", "start": "1:20:12" },
+      { "name": "1", "twitch": "1928706610", "start": "1:27:04" }
     ]
   },
   {
