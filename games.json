@@ -4587,7 +4587,8 @@
       { "twitch": "1927857923", "subrefs": [
         { "name": "Silent Scream", "start": "37:53" },
         { "name": "The Great Fear", "start": "3:32:51" }
-      ] }
+      ] },
+      { "name": "Witchfire", "twitch": "1932106766", "start": "1:13:08" }
     ]
   },
   {
@@ -6179,8 +6180,9 @@
     "category": "co-op",
     "id": "party-animals",
     "streams": [
-      { "name": "1 (со зрителями)", "twitch": "767249770", "start": "3:40:17" },
-      { "name": "2", "twitch": "768182935", "start": "3:49:08" }
+      { "name": "1 (ранний доступ)", "twitch": "767249770", "start": "3:40:17" },
+      { "name": "2", "twitch": "768182935", "start": "3:49:08" },
+      { "name": "3 (релиз)", "twitch": "1932106766", "start": "3:23:04" }
     ]
   },
   {
