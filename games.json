@@ -2193,7 +2193,6 @@
         { "name": "Insomnis", "start": "2:24:46" }
       ] },
       { "twitch": "1265545024", "subrefs": [
-        { "name": "How Fish Is Made" },
         { "name": "Halloween", "start": "2:43:31" },
         { "name": "Slit Mouthed", "start": "2:58:08" },
         { "name": "Beetlebum: Resident Weevil", "start": "4:08:12" },
@@ -2599,7 +2598,23 @@
       { "twitch": "1928706610", "subrefs": [
         { "name": "Apartament 1406", "start": "19:45" },
         { "name": "Squirrel Stapler", "start": "3:44:27" }
+      ] },
+      { "twitch": "1933948782", "subrefs": [
+        { "name": "Stalls of Dread", "start": "1:21:08" },
+        { "name": "Endless Blue", "start": "1:36:07" },
+        { "name": "Dark Stories: The Workshop", "start": "2:32:41" },
+        { "name": "Pyramid Curse", "start": "3:33:57" },
+        { "name": "Martha's Dolls (демо)", "start": "4:32:32" }
       ] }
+    ]
+  },
+  {
+    "name": "How Fish Is Made",
+    "category": "finished",
+    "id": "hfim",
+    "streams": [
+      { "name": "Прохождение", "twitch": "1265545024", "start": "55:07" },
+      { "name": "The Last One and Then Another", "twitch": "1933948782", "start": "3:08:36" }
     ]
   },
   {
@@ -4435,6 +4450,15 @@
     ]
   },
   {
+    "name": "Holstin",
+    "category": "ongoing",
+    "id": "holstin",
+    "streams": [
+      { "name": "Демо 1", "twitch": "1728992336", "start": "2:22:09" },
+      { "name": "Демо 2", "twitch": "1933948782", "start": "2:49:48" }
+    ]
+  },
+  {
     "name": "Первый взгляд 2023",
     "category": "first",
     "type": "list",
@@ -4449,10 +4473,7 @@
         { "name": "Arrogation: Unlight of Day", "start": "4:17:53" },
         { "name": "NOX: Chapter I", "start": "5:16:15" }
       ] },
-      { "twitch": "1728992336", "subrefs": [
-        { "name": "Holstin (демо)", "start": "2:22:09" },
-        { "name": "In The Mountains", "start": "3:20:10" }
-      ] },
+      { "name": "In The Mountains", "twitch": "1728992336", "start": "3:20:10" },
       { "twitch": "1738806096,1739001121", "subrefs": [
         { "name": "Wanted: Dead", "start": "1:03:21" },
         { "name": "Wild Hearts", "start": "3:45:01" }
@@ -4588,7 +4609,12 @@
         { "name": "Silent Scream", "start": "37:53" },
         { "name": "The Great Fear", "start": "3:32:51" }
       ] },
-      { "name": "Witchfire", "twitch": "1932106766", "start": "1:13:08" }
+      { "name": "Witchfire", "twitch": "1932106766", "start": "1:13:08" },
+      { "twitch": "1933948782", "subrefs": [
+        { "name": "Lakefront Restaurant", "start": "45:09" },
+        { "name": "Time: A Backrooms Game", "start": "2:18:57" },
+        { "name": "Twin Peaks: Into the Night (демо)", "start": "4:46:07" }
+      ] }
     ]
   },
   {
