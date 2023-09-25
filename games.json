@@ -2993,12 +2993,13 @@
     "category": "finished",
     "id": "cyberpunk-2077",
     "streams": [
-      { "name": "1", "twitch": "830961978" },
-      { "name": "2 (часть 1)", "twitch": "832197729", "segment": 0 },
+      { "name": "1", "twitch": "830961978", "start": "1:01:56" },
+      { "name": "2 (часть 1)", "twitch": "832197729", "segment": 0, "start": "7:14" },
       { "name": "2 (часть 2)", "twitch": "832197729", "segment": 1 },
-      { "name": "3", "twitch": "833444670" },
-      { "name": "4", "twitch": "834647659" },
-      { "name": "5 (финал)", "twitch": "835893888" }
+      { "name": "3", "twitch": "833444670", "start": "6:54" },
+      { "name": "4", "twitch": "834647659", "start": "7:48" },
+      { "name": "5 (финал)", "twitch": "835893888", "start": "7:24" },
+      { "name": "6", "twitch": "1934826676", "start": "6:44" }
     ]
   },
   {
