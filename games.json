@@ -3873,9 +3873,17 @@
         { "name": "El Hijo: A Wild West Game" },
         { "name": "Worms Rumble", "start": "2:04:09" }
       ] },
-      { "name": "Gothic", "twitch": "849365667" },
       { "name": "Gone Golfing", "twitch": "850367913", "start": "3:22:30" },
       { "name": "Ebola 2", "twitch": "853883043", "start": "2:12:38" }
+    ]
+  },
+  {
+    "name": "Gothic",
+    "category": "ongoing",
+    "id": "gothic",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "849365667", "start": "1:52:05" },
+      { "name": "на Nintendo Switch", "twitch": "1941566102", "start": "1:48:20" }
     ]
   },
   {
@@ -5964,7 +5972,8 @@
       { "name": "3", "twitch": "1902891024", "start": "2:38:38" },
       { "name": "4", "twitch": "1926880821", "start": "3:31:17" },
       { "name": "5", "twitch": "1933030113", "start": "22:21" },
-      { "name": "6", "twitch": "1939009123", "start": "43:28" }
+      { "name": "6", "twitch": "1939009123", "start": "43:28" },
+      { "name": "7", "twitch": "1941566102", "start": "31:30" }
     ]
   },
   {
