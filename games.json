@@ -771,7 +771,8 @@
       { "name": "14 (с Куплиновым и Дангаром)", "twitch": "1501665729", "start": "3:19:58" },
       { "name": "15 (с Куплиновым и Дангаром)", "twitch": "1546161309", "start": "3:44:22" },
       { "name": "16 (с Куплиновым и Дангаром)", "twitch": "1676189043", "start": "2:17:44" },
-      { "name": "17 (с Куплиновым и Дангаром)", "twitch": "1781609483", "start": "3:44:01" }
+      { "name": "17 (с Куплиновым и Дангаром)", "twitch": "1781609483", "start": "3:44:01" },
+      { "name": "18 (с Куплиновым и Дангаром)", "twitch": "1945778448", "start": "43:15" }
     ]
   },
   {
@@ -2625,6 +2626,10 @@
         { "name": "Where's My Drink...?", "start": "4:07:39" },
         { "name": "Rusty Barrel", "start": "4:47:36" },
         { "name": "Mr. Lupin", "start": "5:01:59" }
+      ] },
+      { "twitch": "1945778448", "subrefs": [
+        { "name": "Steel Roamer", "start": "16:08" },
+        { "name": "Entity Room", "start": "3:53:04" }
       ] }
     ]
   },
@@ -4649,7 +4654,8 @@
       ] },
       { "name": "REVEIL (демо)", "twitch": "1939916692", "start": "4:02:16" },
       { "name": "Assassin's Creed Mirage", "twitch": "1942318458", "start": "19:13" },
-      { "name": "Dreamcore (демо)", "twitch": "1944892729", "start": "2:58:29" }
+      { "name": "Dreamcore (демо)", "twitch": "1944892729", "start": "2:58:29" },
+      { "name": "SCP-479: Shadows of the Mind", "twitch": "1945778448", "start": "3:31:10" }
     ]
   },
   {
