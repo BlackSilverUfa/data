@@ -2630,6 +2630,15 @@
       { "twitch": "1945778448", "subrefs": [
         { "name": "Steel Roamer", "start": "16:08" },
         { "name": "Entity Room", "start": "3:53:04" }
+      ] },
+      { "twitch": "1949027899", "subrefs": [
+        { "name": "April '86 (демо)", "start": "40:19" },
+        { "name": "ONE WAY HOME (демо)", "start": "1:12:55" },
+        { "name": "Pine Harbor (демо)", "start": "1:51:02" },
+        { "name": "The Bridge Curse 2: The Extrication (демо)", "start": "2:33:01" },
+        { "name": "Hollow Cocoon (демо)", "start": "3:57:22" },
+        { "name": "Nevermind This (демо)", "start": "5:00:05" },
+        { "name": "Paranormal Records (демо)", "start": "5:28:45" }
       ] }
     ]
   },
@@ -4655,7 +4664,8 @@
       { "name": "REVEIL (демо)", "twitch": "1939916692", "start": "4:02:16" },
       { "name": "Assassin's Creed Mirage", "twitch": "1942318458", "start": "19:13" },
       { "name": "Dreamcore (демо)", "twitch": "1944892729", "start": "2:58:29" },
-      { "name": "SCP-479: Shadows of the Mind", "twitch": "1945778448", "start": "3:31:10" }
+      { "name": "SCP-479: Shadows of the Mind", "twitch": "1945778448", "start": "3:31:10" },
+      { "name": "Chiyo (демо)", "twitch": "1949027899", "start": "4:38:37" }
     ]
   },
   {
