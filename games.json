@@ -411,8 +411,16 @@
         { "name": "Holy Purge", "start": "2:30:58" },
         { "name": "Surrounded", "start": "3:50:05" },
         { "name": "Cartoon Rage", "start": "4:11:59" }
-      ] },
-      { "name": "Hello Engineer", "twitch": "1904659436", "start": "1:50:22" }
+      ] }
+    ]
+  },
+  {
+    "name": "Hello Engineer",
+    "category": "co-op",
+    "id": "hello-engineer",
+    "streams": [
+      { "name": "1", "twitch": "1904659436", "start": "1:50:22" },
+      { "name": "2", "twitch": "1954044542", "start": "4:04:28" }
     ]
   },
   {
@@ -2653,6 +2661,11 @@
         { "name": "Haunted Memories: The Return (демо)", "start": "4:16:51" },
         { "name": "Hell of Verdun (демо)", "start": "4:55:51" },
         { "name": "The Black Within (демо)", "start": "5:11:30" }
+      ] },
+      { "name": "RoboCop: Rogue City (демо)", "twitch": "1952515492", "start": "14:14" },
+      { "twitch": "1954044542", "subrefs": [
+        { "name": "Tatari: The Arrival (демо)", "start": "35:51" },
+        { "name": "CHORDOSIS: Episode 1", "start": "1:23:58" }
       ] }
     ]
   },
@@ -4695,7 +4708,7 @@
         { "name": "Hinge (демо)", "start": "3:19:39" },
         { "name": "Empty Shell (демо)", "start": "4:33:35" }
       ] },
-      { "name": "RoboCop: Rogue City (демо)", "twitch": "1952515492", "start": "14:14" }
+      { "name": "Cannibals", "twitch": "1954044542", "start": "2:45:09" }
     ]
   },
   {
