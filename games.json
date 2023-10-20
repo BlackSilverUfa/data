@@ -4708,8 +4708,16 @@
         { "name": "Hinge (демо)", "start": "3:19:39" },
         { "name": "Empty Shell (демо)", "start": "4:33:35" }
       ] },
-      { "name": "Cannibals", "twitch": "1954044542", "start": "2:45:09" },
-      { "name": "Marvel's Spider-Man 2", "twitch": "1954787771", "start": "31:12" }
+      { "name": "Cannibals", "twitch": "1954044542", "start": "2:45:09" }
+    ]
+  },
+  {
+    "name": "Marvel's Spider-Man 2",
+    "category": "ongoing",
+    "id": "spider-man-2",
+    "streams": [
+      { "name": "1", "twitch": "1954787771", "start": "31:12" },
+      { "name": "2", "twitch": "1955568956", "start": "9:21" }
     ]
   },
   {
