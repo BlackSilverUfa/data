@@ -4713,11 +4713,12 @@
   },
   {
     "name": "Marvel's Spider-Man 2",
-    "category": "ongoing",
+    "category": "finished",
     "id": "spider-man-2",
     "streams": [
       { "name": "1", "twitch": "1954787771", "start": "31:12" },
-      { "name": "2", "twitch": "1955568956", "start": "9:21" }
+      { "name": "2", "twitch": "1955568956", "start": "9:21" },
+      { "name": "3", "twitch": "1956490392", "start": "11:21" }
     ]
   },
   {
