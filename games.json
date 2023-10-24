@@ -2667,7 +2667,8 @@
         { "name": "Tatari: The Arrival (демо)", "start": "35:51" },
         { "name": "CHORDOSIS: Episode 1", "start": "1:23:58" }
       ] },
-      { "name": "TELEFORUM", "twitch": "1957481459", "start": "3:50:38" }
+      { "name": "TELEFORUM", "twitch": "1957481459", "start": "3:50:38" },
+      { "name": "Лихо одноглазое (One-Eyed Likho) (демо)", "twitch": "1959105799", "start": "41:11" }
     ]
   },
   {
@@ -3506,8 +3507,9 @@
     "category": "ongoing",
     "id": "slender",
     "streams": [
-      { "name": "1", "twitch": "001701051", "start": "1:19:04" },
-      { "name": "2 (10th Anniversary)", "twitch": "1957481459", "start": "4:32:18" }
+      { "name": "Первый взгляд", "twitch": "001701051", "start": "1:19:04" },
+      { "name": "1 (10th Anniversary)", "twitch": "1957481459", "start": "4:32:18" },
+      { "name": "2", "twitch": "1959105799", "start": "1:09:21" }
     ]
   },
   {
@@ -4718,7 +4720,8 @@
         { "name": "Hinge (демо)", "start": "3:19:39" },
         { "name": "Empty Shell (демо)", "start": "4:33:35" }
       ] },
-      { "name": "Cannibals", "twitch": "1954044542", "start": "2:45:09" }
+      { "name": "Cannibals", "twitch": "1954044542", "start": "2:45:09" },
+      { "name": "Voices of the Void (демо)", "twitch": "1959105799", "start": "3:56:39" }
     ]
   },
   {
