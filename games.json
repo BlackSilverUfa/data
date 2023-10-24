@@ -4787,7 +4787,7 @@
   },
   {
     "name": "My Friendly Neighborhood",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "my-fn",
     "streams": [
       { "name": "Демо", "twitch": "1307474557", "start": "2:20:39" },
