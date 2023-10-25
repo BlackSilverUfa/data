@@ -2050,6 +2050,7 @@
     "category": "finished",
     "type": "list",
     "id": "single",
+    "split": "year",
     "streams": [
       { "name": "Manual Samuel", "twitch": "001610190" },
       { "name": "Root of Evil: The Tailor (с Дашей)", "twitch": "001612170", "start": "1:33:07" },
@@ -3427,58 +3428,20 @@
     ]
   },
   {
-    "name": "Первый взгляд 2015",
+    "name": "Первый взгляд",
     "category": "first",
     "type": "list",
     "id": "first",
+    "split": "year",
     "streams": [
       { "name": "Bloodborne", "twitch": "001508100", "start": "1:02:17" },
-      { "name": "Bioshock Infinite", "twitch": "001508120", "start": "1:11:49" }
-    ]
-  },
-  {
-    "name": "Nightmare House 2",
-    "category": "finished",
-    "id": "nightmare-house-2",
-    "streams": [
-      { "name": "Первый взгляд", "twitch": "001508120", "start": "11:09" },
-      { "name": "Прохождение", "twitch": "1689107812", "start": "3:55:41" }
-    ]
-  },
-  {
-    "name": "Metro 2033 Redux",
-    "category": "finished",
-    "id": "metro-2033",
-    "streams": [
-      { "name": "1", "twitch": "001508100" },
-      { "name": "1 (заново)", "twitch": "1254688558,1254720798", "start": "2:25:34" },
-      { "name": "2", "twitch": "1262176650" },
-      { "twitch": "1263236800", "subrefs": [
-        { "name": "3" },
-        { "name": "3 (часть 2)", "start": "5:02:52", "hidden": true }
-      ] }
-    ]
-  },
-  {
-    "name": "Первый взгляд 2016",
-    "category": "first",
-    "type": "list",
-    "id": "first-2016",
-    "streams": [
+      { "name": "Bioshock Infinite", "twitch": "001508120", "start": "1:11:49" },
       { "name": "Freelancer", "twitch": "001603300" },
       { "name": "Deus Ex: Human Revolution - Director's Cut", "twitch": "001607210" },
       { "name": "Titanfall 2", "twitch": "001610280" },
       { "name": "Assassin's Creed II - The Ezio Collection", "twitch": "001611160" },
       { "name": "Dungeon Nightmares II: The Memory (с Дашей)", "twitch": "001612170" },
-      { "name": "Let It Die", "twitch": "001612240", "start": "1:03:41" }
-    ]
-  },
-  {
-    "name": "Первый взгляд 2017",
-    "category": "first",
-    "type": "list",
-    "id": "first-2017",
-    "streams": [
+      { "name": "Let It Die", "twitch": "001612240", "start": "1:03:41" },
       { "twitch": "001701051", "subrefs": [
         { "name": "Captured", "start": "20:03" },
         { "name": "Wick", "start": "43:15" },
@@ -3499,57 +3462,7 @@
         { "name": "The Coma: Recut", "start": "1:44:54" },
         { "name": "Lone Survivor", "start": "2:52:00" }
       ] },
-      { "name": "Stifled", "twitch": "212678883" }
-    ]
-  },
-  {
-    "name": "Slender: The Arrival",
-    "category": "ongoing",
-    "id": "slender",
-    "streams": [
-      { "name": "Первый взгляд", "twitch": "001701051", "start": "1:19:04" },
-      { "name": "1 (10th Anniversary)", "twitch": "1957481459", "start": "4:32:18" },
-      { "name": "2", "twitch": "1959105799", "start": "1:09:21" }
-    ]
-  },
-  {
-    "name": "Road Redemption",
-    "category": "infinite",
-    "id": "road-redempion",
-    "streams": [
-      { "name": "1", "twitch": "180397849", "start": "17:26" },
-      { "name": "2", "twitch": "213247693", "start": "3:09:23" }
-    ]
-  },
-  {
-    "name": "Cuphead",
-    "category": "finished",
-    "id": "cuphead",
-    "streams": [
-      { "name": "Первый взгляд", "twitch": "178361269" },
-      { "name": "1", "twitch": "1520246163", "start": "13:15" },
-      { "twitch": "1522945141", "subrefs": [
-        { "name": "2", "start": "8:14" },
-        { "name": "The Delicious Last Course #1", "start": "5:46:23" }
-      ] },
-      { "name": "The Delicious Last Course #2", "twitch": "1529607663", "start": "53:19" }
-    ]
-  },
-  {
-    "name": "Deadly Premonition: Director's Cut",
-    "category": "abandoned",
-    "id": "deadly-premonition",
-    "streams": [
-      { "name": "1", "twitch": "001706170" },
-      { "name": "2 (заново)", "twitch": "1213619188" }
-    ]
-  },
-  {
-    "name": "Первый взгляд 2018",
-    "category": "first",
-    "type": "list",
-    "id": "first-2018",
-    "streams": [
+      { "name": "Stifled", "twitch": "212678883" },
       { "twitch": "222198164", "subrefs": [
         { "name": "The Witchkin" },
         { "name": "Emily Wants to Play Too", "start": "1:55:34" },
@@ -3684,15 +3597,7 @@
       ] },
       { "name": "The Long Dark - Redux", "twitch": "352177874" },
       { "name": "Thief 3: Deadly Shadows", "twitch": "352687063", "start": "1:59:07" },
-      { "name": "Lost In Vivo", "twitch": "355395099", "start": "3:20:27" }
-    ]
-  },
-  {
-    "name": "Первый взгляд 2019",
-    "category": "first",
-    "type": "list",
-    "id": "first-2019",
-    "streams": [
+      { "name": "Lost In Vivo", "twitch": "355395099", "start": "3:20:27" },
       { "twitch": "364318283", "segment": 2, "subrefs": [
         { "name": "Vane" },
         { "name": "Subject", "start": "4:27:10" }
@@ -3762,69 +3667,7 @@
       { "name": "Planet Zoo", "twitch": "504672487", "start": "3:50:24" },
       { "name": "Shenmue III", "twitch": "510472726", "start": "3:19:55" },
       { "name": "Gothic - Playable Teaser", "twitch": "521336731" },
-      { "name": "The Paperman", "twitch": "524865260", "start": "2:49:10" }
-    ]
-  },
-  {
-    "name": "Apocalyptic Vibes",
-    "category": "abandoned",
-    "id": "apocalyptic-vibes",
-    "streams": [
-      { "name": "Демо", "twitch": "1608110648", "start": "1:06:16" },
-      { "name": "Релиз", "twitch": "1778887686", "start": "3:20:52" }
-    ]
-  },
-  {
-    "name": "The Bridge Curse: Road to Salvation",
-    "category": "abandoned",
-    "id": "bridge-curse",
-    "streams": [
-      { "name": "Демо", "twitch": "1307474557", "start": "1:34:04" },
-      { "name": "Релиз", "twitch": "1578740848", "start": "3:40:18" }
-    ]
-  },
-  {
-    "name": "Industria",
-    "category": "finished",
-    "id": "industria",
-    "streams": [
-      { "name": "Демо", "twitch": "1059978031", "start": "2:30:31" },
-      { "name": "Релиз", "twitch": "1164327068", "start": "29:15" }
-    ]
-  },
-  {
-    "name": "Trepang2",
-    "category": "abandoned",
-    "id": "trepang2",
-    "streams": [
-      { "name": "Демо", "twitch": "524865260", "start": "21:03" },
-      { "name": "Релиз", "twitch": "1854535719", "start": "45:47" }
-    ]
-  },
-  {
-    "name": "Granny: Chapter Two",
-    "category": "abandoned",
-    "id": "granny-2",
-    "streams": [
-      { "name": "1", "twitch": "530784764", "start": "4:02:11" },
-      { "name": "2", "twitch": "1542254440", "start": "34:42" }
-    ]
-  },
-  {
-    "name": "Baldur's Gate 3",
-    "category": "ongoing",
-    "id": "bg3",
-    "streams": [
-      { "name": "Ранний доступ (с Артёмом)", "twitch": "763202430", "start": "13:30" },
-      { "name": "Релиз", "twitch": "1888974774", "start": "5:34:58" }
-    ]
-  },
-  {
-    "name": "Первый взгляд 2020",
-    "category": "first",
-    "type": "list",
-    "id": "first-2020",
-    "streams": [
+      { "name": "The Paperman", "twitch": "524865260", "start": "2:49:10" },
       { "name": "Zombie Claus", "twitch": "530784764", "start": "3:59:51" },
       { "name": "Warcraft III: Reforged", "twitch": "543591605" },
       { "twitch": "559668833", "subrefs": [
@@ -3939,90 +3782,7 @@
         { "name": "Worms Rumble", "start": "2:04:09" }
       ] },
       { "name": "Gone Golfing", "twitch": "850367913", "start": "3:22:30" },
-      { "name": "Ebola 2", "twitch": "853883043", "start": "2:12:38" }
-    ]
-  },
-  {
-    "name": "Gothic",
-    "category": "ongoing",
-    "id": "gothic",
-    "streams": [
-      { "name": "Первый взгляд", "twitch": "849365667", "start": "1:52:05" },
-      { "name": "на Nintendo Switch", "twitch": "1941566102", "start": "1:48:20" }
-    ]
-  },
-  {
-    "name": "Gloomwood",
-    "category": "abandoned",
-    "id": "gloomwood",
-    "streams": [
-      { "name": "Демо", "twitch": "653411860", "start": "2:33:58" },
-      { "name": "Ранний доступ", "twitch": "1583467635", "start": "32:46" }
-    ]
-  },
-  {
-    "name": "Hello Neighbor 2",
-    "category": "finished",
-    "id": "hello-neighbor-2",
-    "streams": [
-      { "name": "Альфа", "twitch": "690295728" },
-      { "name": "Бета", "twitch": "1471119730" },
-      { "name": "1 (релиз)", "twitch": "1672653498", "start": "1:32:19" },
-      { "name": "2", "twitch": "1673532308", "start": "29:59" }
-    ]
-  },
-  {
-    "name": "Hardspace: Shipbreaker",
-    "category": "abandoned",
-    "id": "hardspace-shipbreaker",
-    "streams": [
-      { "name": "1", "twitch": "653411860", "start": "1:53:28" },
-      { "name": "2", "twitch": "1241348243", "start": "3:05:32" }
-    ]
-  },
-  {
-    "name": "MONSTRUM 2",
-    "category": "infinite",
-    "id": "monstrum-2",
-    "streams": [
-      { "name": "Ранний доступ", "twitch": "892529745" },
-      { "name": "1", "twitch": "1227570391", "segment": 0, "start": "1:46:35" },
-      { "name": "2", "twitch": "1563545448", "start": "5:10:03" }
-    ]
-  },
-  {
-    "name": "Hidden Deep",
-    "category": "abandoned",
-    "id": "hidden-deep",
-    "streams": [
-      { "name": "Демо", "twitch": "860924750" },
-      { "name": "1 (с WLG)", "twitch": "1274362855", "start": "4:00:47" }
-    ]
-  },
-  {
-    "name": "Expedition Zero",
-    "category": "infinite",
-    "id": "expedition-zero",
-    "streams": [
-      { "name": "Демо #1", "twitch": "901835689" },
-      { "name": "Демо #2", "twitch": "1306396434", "start": "2:14:18" }
-    ]
-  },
-  {
-    "name": "System Shock",
-    "category": "abandoned",
-    "id": "system-shock",
-    "streams": [
-      { "name": "Демо", "twitch": "928993182", "start": "46:48" },
-      { "name": "Релиз", "twitch": "1833150878", "start": "2:12:59" }
-    ]
-  },
-  {
-    "name": "Первый взгляд 2021",
-    "category": "first",
-    "type": "list",
-    "id": "first-2021",
-    "streams": [
+      { "name": "Ebola 2", "twitch": "853883043", "start": "2:12:38" },
       { "name": "Medal of Honor: Above and Beyond", "twitch": "864545602" },
       { "name": "Yaga", "twitch": "870760177" },
       { "twitch": "896656796", "subrefs": [
@@ -4184,96 +3944,7 @@
         { "name": "Desolatium", "start": "3:26:45" },
         { "name": "Goya's Nightmare", "start": "3:46:11" },
         { "name": "Swamm", "start": "3:51:20" }
-      ] }
-    ]
-  },
-  {
-    "name": "Stray Souls",
-    "category": "abandoned",
-    "id": "stray-souls",
-    "streams": [
-      { "name": "Демо 1", "twitch": "1224807350", "start": "2:00:36" },
-      { "name": "Демо 2", "twitch": "1855403959", "start": "1:29:45" }
-    ]
-  },
-  {
-    "name": "The Polaris Incident",
-    "category": "finished",
-    "id": "polaris-incident",
-    "streams": [
-      { "name": "Первый взгляд", "twitch": "1619465701", "start": "2:38:19" },
-      { "name": "Прохождение", "twitch": "1619465701", "start": "2:38:19" }
-    ]
-  },
-  {
-    "name": "Starless",
-    "category": "abandoned",
-    "id": "starless",
-    "streams": [
-      { "name": "1", "twitch": "1017725694", "start": "1:48:28" },
-      { "name": "2", "twitch": "1575034539,1575155040", "start": "5:09:28" }
-    ]
-  },
-  {
-    "name": "Dagon (демо)",
-    "category": "finished",
-    "id": "dagon",
-    "streams": [
-      { "name": "1", "twitch": "1061050549", "start": "1:52:02" },
-      { "name": "2", "twitch": "1162515299", "start": "2:59:51" }
-    ]
-  },
-  {
-    "name": "DarkNot",
-    "category": "abandoned",
-    "id": "darknot",
-    "streams": [
-      { "name": "Демо 1", "twitch": "1199578310" },
-      { "name": "Демо 2", "twitch": "1544246712", "start": "27:51" }
-    ]
-  },
-  {
-    "name": "Stranger of Paradise: Final Fantasy Origin",
-    "category": "abandoned",
-    "id": "sop-ffo",
-    "streams": [
-      { "name": "Демо", "twitch": "1066067703", "start": "3:39:08" },
-      { "name": "Релиз", "twitch": "1432334680" }
-    ]
-  },
-  {
-    "name": "LiBER",
-    "category": "abandoned",
-    "id": "liber",
-    "streams": [
-      { "name": "Ранний доступ", "twitch": "1108872519" },
-      { "name": "Релиз", "twitch": "1261173013" }
-    ]
-  },
-  {
-    "name": "Blood West",
-    "category": "abandoned",
-    "id": "blood-west",
-    "streams": [
-      { "name": "Демо", "twitch": "1299859703" },
-      { "name": "1", "twitch": "1642266888,1642407202", "start": "3:05:01" }
-    ]
-  },
-  {
-    "name": "IXION",
-    "category": "abandoned",
-    "id": "ixion",
-    "streams": [
-      { "name": "Демо", "twitch": "1307474557", "start": "4:18:03" },
-      { "name": "Релиз", "twitch": "1673532308", "start": "3:36:56" }
-    ]
-  },
-  {
-    "name": "Первый взгляд 2022",
-    "category": "first",
-    "type": "list",
-    "id": "first-2022",
-    "streams": [
+      ] },
       { "twitch": "1258121391", "subrefs": [
         { "name": "Broken Veil (демо)", "start": "3:58:03" },
         { "name": "Blink: The Last Night", "start": "4:26:37" }
@@ -4496,60 +4167,7 @@
         { "name": "Creature Lab (демо)", "start": "59:57" },
         { "name": "Who Knocks", "start": "1:47:05" }
       ] },
-      { "name": "The Thing (by PanzerCat)", "twitch": "1690952607", "start": "3:54:09" }
-    ]
-  },
-  {
-    "name": "Mortal Kombat",
-    "category": "ongoing",
-    "id": "mk",
-    "streams": [
-      { "name": "1", "twitch": "1552996641", "start": "46:11" },
-      { "name": "2", "twitch": "1925193288", "start": "51:14" }
-    ]
-  },
-  {
-    "name": "Chessmaster II",
-    "category": "abandoned",
-    "id": "chessmaster-2",
-    "streams": [
-      { "name": "1", "twitch": "1559742064", "start": "4:25:50" },
-      { "name": "2", "twitch": "1860536794", "start": "2:24:54" }
-    ]
-  },
-  {
-    "name": "Forspoken",
-    "category": "abandoned",
-    "id": "forspoken",
-    "streams": [
-      { "name": "Демо", "twitch": "1674396025", "start": "2:44:31" },
-      { "name": "Релиз", "twitch": "1716951120", "start": "9:43" }
-    ]
-  },
-  {
-    "name": "Diablo IV",
-    "category": "co-op",
-    "id": "diablo-4",
-    "streams": [
-      { "name": "Открытый тест (2D)", "twitch": "1767632642", "start": "3:03:11" },
-      { "name": "1 (4D)", "twitch": "1835656508", "start": "2:11:15" }
-    ]
-  },
-  {
-    "name": "Holstin",
-    "category": "ongoing",
-    "id": "holstin",
-    "streams": [
-      { "name": "Демо 1", "twitch": "1728992336", "start": "2:22:09" },
-      { "name": "Демо 2", "twitch": "1933948782", "start": "2:49:48" }
-    ]
-  },
-  {
-    "name": "Первый взгляд 2023",
-    "category": "first",
-    "type": "list",
-    "id": "first-2023",
-    "streams": [
+      { "name": "The Thing (by PanzerCat)", "twitch": "1690952607", "start": "3:54:09" },
       { "name": "Sanri", "twitch": "1707073235", "start": "1:23:04" },
       { "name": "Jawbreaker (демо)", "twitch": "1715060185", "start": "35:49" },
       { "name": "Hi-Fi Rush", "twitch": "1718922216", "start": "59:02" },
@@ -4721,6 +4339,326 @@
       ] },
       { "name": "Cannibals", "twitch": "1954044542", "start": "2:45:09" },
       { "name": "World of Horror", "twitch": "1959921584", "start": "2:38:33" }
+    ]
+  },
+  {
+    "name": "Nightmare House 2",
+    "category": "finished",
+    "id": "nightmare-house-2",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "001508120", "start": "11:09" },
+      { "name": "Прохождение", "twitch": "1689107812", "start": "3:55:41" }
+    ]
+  },
+  {
+    "name": "Metro 2033 Redux",
+    "category": "finished",
+    "id": "metro-2033",
+    "streams": [
+      { "name": "1", "twitch": "001508100" },
+      { "name": "1 (заново)", "twitch": "1254688558,1254720798", "start": "2:25:34" },
+      { "name": "2", "twitch": "1262176650" },
+      { "twitch": "1263236800", "subrefs": [
+        { "name": "3" },
+        { "name": "3 (часть 2)", "start": "5:02:52", "hidden": true }
+      ] }
+    ]
+  },
+  {
+    "name": "Slender: The Arrival",
+    "category": "ongoing",
+    "id": "slender",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "001701051", "start": "1:19:04" },
+      { "name": "1 (10th Anniversary)", "twitch": "1957481459", "start": "4:32:18" },
+      { "name": "2", "twitch": "1959105799", "start": "1:09:21" }
+    ]
+  },
+  {
+    "name": "Road Redemption",
+    "category": "infinite",
+    "id": "road-redempion",
+    "streams": [
+      { "name": "1", "twitch": "180397849", "start": "17:26" },
+      { "name": "2", "twitch": "213247693", "start": "3:09:23" }
+    ]
+  },
+  {
+    "name": "Cuphead",
+    "category": "finished",
+    "id": "cuphead",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "178361269" },
+      { "name": "1", "twitch": "1520246163", "start": "13:15" },
+      { "twitch": "1522945141", "subrefs": [
+        { "name": "2", "start": "8:14" },
+        { "name": "The Delicious Last Course #1", "start": "5:46:23" }
+      ] },
+      { "name": "The Delicious Last Course #2", "twitch": "1529607663", "start": "53:19" }
+    ]
+  },
+  {
+    "name": "Deadly Premonition: Director's Cut",
+    "category": "abandoned",
+    "id": "deadly-premonition",
+    "streams": [
+      { "name": "1", "twitch": "001706170" },
+      { "name": "2 (заново)", "twitch": "1213619188" }
+    ]
+  },
+  {
+    "name": "Apocalyptic Vibes",
+    "category": "abandoned",
+    "id": "apocalyptic-vibes",
+    "streams": [
+      { "name": "Демо", "twitch": "1608110648", "start": "1:06:16" },
+      { "name": "Релиз", "twitch": "1778887686", "start": "3:20:52" }
+    ]
+  },
+  {
+    "name": "The Bridge Curse: Road to Salvation",
+    "category": "abandoned",
+    "id": "bridge-curse",
+    "streams": [
+      { "name": "Демо", "twitch": "1307474557", "start": "1:34:04" },
+      { "name": "Релиз", "twitch": "1578740848", "start": "3:40:18" }
+    ]
+  },
+  {
+    "name": "Industria",
+    "category": "finished",
+    "id": "industria",
+    "streams": [
+      { "name": "Демо", "twitch": "1059978031", "start": "2:30:31" },
+      { "name": "Релиз", "twitch": "1164327068", "start": "29:15" }
+    ]
+  },
+  {
+    "name": "Trepang2",
+    "category": "abandoned",
+    "id": "trepang2",
+    "streams": [
+      { "name": "Демо", "twitch": "524865260", "start": "21:03" },
+      { "name": "Релиз", "twitch": "1854535719", "start": "45:47" }
+    ]
+  },
+  {
+    "name": "Granny: Chapter Two",
+    "category": "abandoned",
+    "id": "granny-2",
+    "streams": [
+      { "name": "1", "twitch": "530784764", "start": "4:02:11" },
+      { "name": "2", "twitch": "1542254440", "start": "34:42" }
+    ]
+  },
+  {
+    "name": "Baldur's Gate 3",
+    "category": "ongoing",
+    "id": "bg3",
+    "streams": [
+      { "name": "Ранний доступ (с Артёмом)", "twitch": "763202430", "start": "13:30" },
+      { "name": "Релиз", "twitch": "1888974774", "start": "5:34:58" }
+    ]
+  },
+  {
+    "name": "Gothic",
+    "category": "ongoing",
+    "id": "gothic",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "849365667", "start": "1:52:05" },
+      { "name": "на Nintendo Switch", "twitch": "1941566102", "start": "1:48:20" }
+    ]
+  },
+  {
+    "name": "Gloomwood",
+    "category": "abandoned",
+    "id": "gloomwood",
+    "streams": [
+      { "name": "Демо", "twitch": "653411860", "start": "2:33:58" },
+      { "name": "Ранний доступ", "twitch": "1583467635", "start": "32:46" }
+    ]
+  },
+  {
+    "name": "Hello Neighbor 2",
+    "category": "finished",
+    "id": "hello-neighbor-2",
+    "streams": [
+      { "name": "Альфа", "twitch": "690295728" },
+      { "name": "Бета", "twitch": "1471119730" },
+      { "name": "1 (релиз)", "twitch": "1672653498", "start": "1:32:19" },
+      { "name": "2", "twitch": "1673532308", "start": "29:59" }
+    ]
+  },
+  {
+    "name": "Hardspace: Shipbreaker",
+    "category": "abandoned",
+    "id": "hardspace-shipbreaker",
+    "streams": [
+      { "name": "1", "twitch": "653411860", "start": "1:53:28" },
+      { "name": "2", "twitch": "1241348243", "start": "3:05:32" }
+    ]
+  },
+  {
+    "name": "MONSTRUM 2",
+    "category": "infinite",
+    "id": "monstrum-2",
+    "streams": [
+      { "name": "Ранний доступ", "twitch": "892529745" },
+      { "name": "1", "twitch": "1227570391", "segment": 0, "start": "1:46:35" },
+      { "name": "2", "twitch": "1563545448", "start": "5:10:03" }
+    ]
+  },
+  {
+    "name": "Hidden Deep",
+    "category": "abandoned",
+    "id": "hidden-deep",
+    "streams": [
+      { "name": "Демо", "twitch": "860924750" },
+      { "name": "1 (с WLG)", "twitch": "1274362855", "start": "4:00:47" }
+    ]
+  },
+  {
+    "name": "Expedition Zero",
+    "category": "infinite",
+    "id": "expedition-zero",
+    "streams": [
+      { "name": "Демо #1", "twitch": "901835689" },
+      { "name": "Демо #2", "twitch": "1306396434", "start": "2:14:18" }
+    ]
+  },
+  {
+    "name": "System Shock",
+    "category": "abandoned",
+    "id": "system-shock",
+    "streams": [
+      { "name": "Демо", "twitch": "928993182", "start": "46:48" },
+      { "name": "Релиз", "twitch": "1833150878", "start": "2:12:59" }
+    ]
+  },
+  {
+    "name": "Stray Souls",
+    "category": "abandoned",
+    "id": "stray-souls",
+    "streams": [
+      { "name": "Демо 1", "twitch": "1224807350", "start": "2:00:36" },
+      { "name": "Демо 2", "twitch": "1855403959", "start": "1:29:45" }
+    ]
+  },
+  {
+    "name": "The Polaris Incident",
+    "category": "finished",
+    "id": "polaris-incident",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "1619465701", "start": "2:38:19" },
+      { "name": "Прохождение", "twitch": "1619465701", "start": "2:38:19" }
+    ]
+  },
+  {
+    "name": "Starless",
+    "category": "abandoned",
+    "id": "starless",
+    "streams": [
+      { "name": "1", "twitch": "1017725694", "start": "1:48:28" },
+      { "name": "2", "twitch": "1575034539,1575155040", "start": "5:09:28" }
+    ]
+  },
+  {
+    "name": "Dagon (демо)",
+    "category": "finished",
+    "id": "dagon",
+    "streams": [
+      { "name": "1", "twitch": "1061050549", "start": "1:52:02" },
+      { "name": "2", "twitch": "1162515299", "start": "2:59:51" }
+    ]
+  },
+  {
+    "name": "DarkNot",
+    "category": "abandoned",
+    "id": "darknot",
+    "streams": [
+      { "name": "Демо 1", "twitch": "1199578310" },
+      { "name": "Демо 2", "twitch": "1544246712", "start": "27:51" }
+    ]
+  },
+  {
+    "name": "Stranger of Paradise: Final Fantasy Origin",
+    "category": "abandoned",
+    "id": "sop-ffo",
+    "streams": [
+      { "name": "Демо", "twitch": "1066067703", "start": "3:39:08" },
+      { "name": "Релиз", "twitch": "1432334680" }
+    ]
+  },
+  {
+    "name": "LiBER",
+    "category": "abandoned",
+    "id": "liber",
+    "streams": [
+      { "name": "Ранний доступ", "twitch": "1108872519" },
+      { "name": "Релиз", "twitch": "1261173013" }
+    ]
+  },
+  {
+    "name": "Blood West",
+    "category": "abandoned",
+    "id": "blood-west",
+    "streams": [
+      { "name": "Демо", "twitch": "1299859703" },
+      { "name": "1", "twitch": "1642266888,1642407202", "start": "3:05:01" }
+    ]
+  },
+  {
+    "name": "IXION",
+    "category": "abandoned",
+    "id": "ixion",
+    "streams": [
+      { "name": "Демо", "twitch": "1307474557", "start": "4:18:03" },
+      { "name": "Релиз", "twitch": "1673532308", "start": "3:36:56" }
+    ]
+  },
+  {
+    "name": "Mortal Kombat",
+    "category": "ongoing",
+    "id": "mk",
+    "streams": [
+      { "name": "1", "twitch": "1552996641", "start": "46:11" },
+      { "name": "2", "twitch": "1925193288", "start": "51:14" }
+    ]
+  },
+  {
+    "name": "Chessmaster II",
+    "category": "abandoned",
+    "id": "chessmaster-2",
+    "streams": [
+      { "name": "1", "twitch": "1559742064", "start": "4:25:50" },
+      { "name": "2", "twitch": "1860536794", "start": "2:24:54" }
+    ]
+  },
+  {
+    "name": "Forspoken",
+    "category": "abandoned",
+    "id": "forspoken",
+    "streams": [
+      { "name": "Демо", "twitch": "1674396025", "start": "2:44:31" },
+      { "name": "Релиз", "twitch": "1716951120", "start": "9:43" }
+    ]
+  },
+  {
+    "name": "Diablo IV",
+    "category": "co-op",
+    "id": "diablo-4",
+    "streams": [
+      { "name": "Открытый тест (2D)", "twitch": "1767632642", "start": "3:03:11" },
+      { "name": "1 (4D)", "twitch": "1835656508", "start": "2:11:15" }
+    ]
+  },
+  {
+    "name": "Holstin",
+    "category": "ongoing",
+    "id": "holstin",
+    "streams": [
+      { "name": "Демо 1", "twitch": "1728992336", "start": "2:22:09" },
+      { "name": "Демо 2", "twitch": "1933948782", "start": "2:49:48" }
     ]
   },
   {
