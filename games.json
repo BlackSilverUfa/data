@@ -4674,7 +4674,6 @@
         { "name": "Episode 666", "start": "1:27:52" }
       ] },
       { "name": "POMBERO: The Lord of the Night", "twitch": "1896806146", "start": "3:31:14" },
-      { "name": "Terminal 81", "twitch": "1894178506", "start": "1:29:05" },
       { "name": "Street Fighter 6", "twitch": "1895024644", "start": "12:28" },
       { "twitch": "1903801654,1903834688", "subrefs": [
         { "name": "Polar Night (демо)", "start": "33:59" },
@@ -4721,7 +4720,25 @@
         { "name": "Empty Shell (демо)", "start": "4:33:35" }
       ] },
       { "name": "Cannibals", "twitch": "1954044542", "start": "2:45:09" },
-      { "name": "Voices of the Void (демо)", "twitch": "1959105799", "start": "3:56:39" }
+      { "name": "World of Horror", "twitch": "1959921584", "start": "2:38:33" }
+    ]
+  },
+  {
+    "name": "Voices of the Void (демо)",
+    "category": "ongoing",
+    "id": "votv",
+    "streams": [
+      { "name": "1", "twitch": "1959105799", "start": "3:56:39" },
+      { "name": "2", "twitch": "1959921584", "start": "3:04:50" }
+    ]
+  },
+  {
+    "name": "Terminal 81",
+    "category": "finished",
+    "id": "terminal-81",
+    "streams": [
+      { "name": "1", "twitch": "1894178506", "start": "1:29:05" },
+      { "name": "2", "twitch": "1959921584", "start": "40:22" }
     ]
   },
   {
