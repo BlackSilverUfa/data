@@ -2046,20 +2046,35 @@
     ]
   },
   {
-    "name": "Прохождения за один стрим",
+    "name": "Прохождения за один стрим 2016",
     "category": "finished",
     "type": "list",
-    "id": "single",
-    "split": "year",
+    "id": "single-2016",
     "streams": [
       { "name": "Manual Samuel", "twitch": "001610190" },
-      { "name": "Root of Evil: The Tailor (с Дашей)", "twitch": "001612170", "start": "1:33:07" },
+      { "name": "Root of Evil: The Tailor (с Дашей)", "twitch": "001612170", "start": "1:33:07" }
+    ]
+  },
+  {
+    "name": "Прохождения за один стрим 2017",
+    "category": "finished",
+    "type": "list",
+    "id": "single-2017",
+    "streams": [
       { "name": "Michigan: Report from Hell", "twitch": "152253862" },
       { "name": "Absolver", "twitch": "174225353" },
       { "name": "The Count Lucanor", "twitch": "184468298" },
       { "name": "Call of Duty: WWII", "twitch": "187291538" },
       { "name": "Hidden Agenda", "twitch": "202329656" },
-      { "name": "Unforgiving: A Northern Hymn", "twitch": "204996737" },
+      { "name": "Unforgiving: A Northern Hymn", "twitch": "204996737" }
+    ]
+  },
+  {
+    "name": "Прохождения за один стрим 2018",
+    "category": "finished",
+    "type": "list",
+    "id": "single-2018",
+    "streams": [
       { "name": "DYING: Reborn", "twitch": "219166190" },
       { "name": "Remothered: Tormented Fathers", "twitch": "224600319" },
       { "name": "Shadow of the Colossus", "twitch": "226597573" },
@@ -2089,7 +2104,15 @@
       { "name": "God's Basement", "twitch": "323817086", "start": "2:35:30" },
       { "name": "Infliction", "twitch": "324642823" },
       { "name": "Battlefield V", "twitch": "333173605" },
-      { "name": "Room 303", "twitch": "347665549" },
+      { "name": "Room 303", "twitch": "347665549" }
+    ]
+  },
+  {
+    "name": "Прохождения за один стрим 2019",
+    "category": "finished",
+    "type": "list",
+    "id": "single-2019",
+    "streams": [
       { "name": "Deltarune - Ep. 1", "twitch": "361716902" },
       { "name": "Bright Memory - Ep. 1", "twitch": "364318283", "segment": 1 },
       { "name": "Devotion", "twitch": "383771606" },
@@ -2111,7 +2134,15 @@
       { "name": "Little Misfortune", "twitch": "488372344", "segment": 0 },
       { "name": "Superliminal", "twitch": "508178551", "start": "32:49" },
       { "name": "Lost Ember", "twitch": "512697561" },
-      { "name": "Suite 776", "twitch": "524865260", "start": "43:20" },
+      { "name": "Suite 776", "twitch": "524865260", "start": "43:20" }
+    ]
+  },
+  {
+    "name": "Прохождения за один стрим 2020",
+    "category": "finished",
+    "type": "list",
+    "id": "single-2020",
+    "streams": [
       { "name": "Walking Simulator", "twitch": "563856575", "start": "1:22:25" },
       { "name": "The Complex", "twitch": "594489443", "start": "2:46:52" },
       { "name": "Locked Up", "twitch": "603199458", "start": "3:50:00" },
@@ -2145,7 +2176,15 @@
       { "twitch": "851535429", "subrefs": [
         { "name": "SCP-002: The \"Living\" Room", "start": "1:07:27" },
         { "name": "SCP-1437: A Hole to Another Place", "start": "1:16:52" }
-      ] },
+      ] }
+    ]
+  },
+  {
+    "name": "Прохождения за один стрим 2021",
+    "category": "finished",
+    "type": "list",
+    "id": "single-2021",
+    "streams": [
       { "name": "Remothered: Broken Porcelain", "twitch": "860924750", "start": "2:54:07" },
       { "name": "Dom Rusalok", "twitch": "869571796", "start": "2:17:12" },
       { "name": "The Medium", "twitch": "891206240" },
@@ -2196,7 +2235,15 @@
         { "name": "Wayward Harbor", "start": "4:13:16" },
         { "name": "Silent Mementos", "start": "4:40:29" }
       ] },
-      { "name": "Tornuktu", "twitch": "1248804713", "start": "2:38:21" },
+      { "name": "Tornuktu", "twitch": "1248804713", "start": "2:38:21" }
+    ]
+  },
+  {
+    "name": "Прохождения за один стрим 2022",
+    "category": "finished",
+    "type": "list",
+    "id": "single-2022",
+    "streams": [
       { "name": "Shrek 2", "twitch": "1256959016" },
       { "twitch": "1258121391", "subrefs": [
         { "name": "Doghouse 1/2", "start": "1:51:15" },
@@ -2390,7 +2437,15 @@
         { "name": "The Thing: Station Survival", "start": "18:51" },
         { "name": "The Thing - P.T. (by Stefano Cagnani)", "start": "5:38:25" }
       ] },
-      { "name": "Crimson Snow", "twitch": "1693798502", "start": "1:39:13" },
+      { "name": "Crimson Snow", "twitch": "1693798502", "start": "1:39:13" }
+    ]
+  },
+  {
+    "name": "Прохождения за один стрим 2023",
+    "category": "finished",
+    "type": "list",
+    "id": "single-2023",
+    "streams": [
       { "twitch": "1701325068", "subrefs": [
         { "name": "September 7th", "start": "32:01" },
         { "name": "The 9th Charnel (демо)", "start": "1:46:03" },
@@ -3428,20 +3483,35 @@
     ]
   },
   {
-    "name": "Первый взгляд",
+    "name": "Первый взгляд 2015",
     "category": "first",
     "type": "list",
-    "id": "first",
-    "split": "year",
+    "id": "first-2015",
     "streams": [
       { "name": "Bloodborne", "twitch": "001508100", "start": "1:02:17" },
-      { "name": "Bioshock Infinite", "twitch": "001508120", "start": "1:11:49" },
+      { "name": "Bioshock Infinite", "twitch": "001508120", "start": "1:11:49" }
+    ]
+  },
+  {
+    "name": "Первый взгляд 2016",
+    "category": "first",
+    "type": "list",
+    "id": "first-2016",
+    "streams": [
       { "name": "Freelancer", "twitch": "001603300" },
       { "name": "Deus Ex: Human Revolution - Director's Cut", "twitch": "001607210" },
       { "name": "Titanfall 2", "twitch": "001610280" },
       { "name": "Assassin's Creed II - The Ezio Collection", "twitch": "001611160" },
       { "name": "Dungeon Nightmares II: The Memory (с Дашей)", "twitch": "001612170" },
-      { "name": "Let It Die", "twitch": "001612240", "start": "1:03:41" },
+      { "name": "Let It Die", "twitch": "001612240", "start": "1:03:41" }
+    ]
+  },
+  {
+    "name": "Первый взгляд 2017",
+    "category": "first",
+    "type": "list",
+    "id": "first-2017",
+    "streams": [
       { "twitch": "001701051", "subrefs": [
         { "name": "Captured", "start": "20:03" },
         { "name": "Wick", "start": "43:15" },
@@ -3462,7 +3532,15 @@
         { "name": "The Coma: Recut", "start": "1:44:54" },
         { "name": "Lone Survivor", "start": "2:52:00" }
       ] },
-      { "name": "Stifled", "twitch": "212678883" },
+      { "name": "Stifled", "twitch": "212678883" }
+    ]
+  },
+  {
+    "name": "Первый взгляд 2018",
+    "category": "first",
+    "type": "list",
+    "id": "first-2018",
+    "streams": [
       { "twitch": "222198164", "subrefs": [
         { "name": "The Witchkin" },
         { "name": "Emily Wants to Play Too", "start": "1:55:34" },
@@ -3597,7 +3675,15 @@
       ] },
       { "name": "The Long Dark - Redux", "twitch": "352177874" },
       { "name": "Thief 3: Deadly Shadows", "twitch": "352687063", "start": "1:59:07" },
-      { "name": "Lost In Vivo", "twitch": "355395099", "start": "3:20:27" },
+      { "name": "Lost In Vivo", "twitch": "355395099", "start": "3:20:27" }
+    ]
+  },
+  {
+    "name": "Первый взгляд 2019",
+    "category": "first",
+    "type": "list",
+    "id": "first-2019",
+    "streams": [
       { "twitch": "364318283", "segment": 2, "subrefs": [
         { "name": "Vane" },
         { "name": "Subject", "start": "4:27:10" }
@@ -3667,7 +3753,15 @@
       { "name": "Planet Zoo", "twitch": "504672487", "start": "3:50:24" },
       { "name": "Shenmue III", "twitch": "510472726", "start": "3:19:55" },
       { "name": "Gothic - Playable Teaser", "twitch": "521336731" },
-      { "name": "The Paperman", "twitch": "524865260", "start": "2:49:10" },
+      { "name": "The Paperman", "twitch": "524865260", "start": "2:49:10" }
+    ]
+  },
+  {
+    "name": "Первый взгляд 2020",
+    "category": "first",
+    "type": "list",
+    "id": "first-2020",
+    "streams": [
       { "name": "Zombie Claus", "twitch": "530784764", "start": "3:59:51" },
       { "name": "Warcraft III: Reforged", "twitch": "543591605" },
       { "twitch": "559668833", "subrefs": [
@@ -3782,7 +3876,15 @@
         { "name": "Worms Rumble", "start": "2:04:09" }
       ] },
       { "name": "Gone Golfing", "twitch": "850367913", "start": "3:22:30" },
-      { "name": "Ebola 2", "twitch": "853883043", "start": "2:12:38" },
+      { "name": "Ebola 2", "twitch": "853883043", "start": "2:12:38" }
+    ]
+  },
+  {
+    "name": "Первый взгляд 2021",
+    "category": "first",
+    "type": "list",
+    "id": "first-2021",
+    "streams": [
       { "name": "Medal of Honor: Above and Beyond", "twitch": "864545602" },
       { "name": "Yaga", "twitch": "870760177" },
       { "twitch": "896656796", "subrefs": [
@@ -3944,7 +4046,15 @@
         { "name": "Desolatium", "start": "3:26:45" },
         { "name": "Goya's Nightmare", "start": "3:46:11" },
         { "name": "Swamm", "start": "3:51:20" }
-      ] },
+      ] }
+    ]
+  },
+  {
+    "name": "Первый взгляд 2022",
+    "category": "first",
+    "type": "list",
+    "id": "first-2022",
+    "streams": [
       { "twitch": "1258121391", "subrefs": [
         { "name": "Broken Veil (демо)", "start": "3:58:03" },
         { "name": "Blink: The Last Night", "start": "4:26:37" }
@@ -4167,7 +4277,15 @@
         { "name": "Creature Lab (демо)", "start": "59:57" },
         { "name": "Who Knocks", "start": "1:47:05" }
       ] },
-      { "name": "The Thing (by PanzerCat)", "twitch": "1690952607", "start": "3:54:09" },
+      { "name": "The Thing (by PanzerCat)", "twitch": "1690952607", "start": "3:54:09" }
+    ]
+  },
+  {
+    "name": "Первый взгляд 2023",
+    "category": "first",
+    "type": "list",
+    "id": "first-2023",
+    "streams": [
       { "name": "Sanri", "twitch": "1707073235", "start": "1:23:04" },
       { "name": "Jawbreaker (демо)", "twitch": "1715060185", "start": "35:49" },
       { "name": "Hi-Fi Rush", "twitch": "1718922216", "start": "59:02" },
