@@ -4655,11 +4655,12 @@
   },
   {
     "name": "Stray Souls",
-    "category": "abandoned",
+    "category": "finished",
     "id": "stray-souls",
     "streams": [
       { "name": "Демо 1", "twitch": "1224807350", "start": "2:00:36" },
-      { "name": "Демо 2", "twitch": "1855403959", "start": "1:29:45" }
+      { "name": "Демо 2", "twitch": "1855403959", "start": "1:29:45" },
+      { "name": "Прохождение", "twitch": "1960706534", "start": "40:43" }
     ]
   },
   {
