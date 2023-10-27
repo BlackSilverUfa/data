@@ -5648,6 +5648,14 @@
     ]
   },
   {
+    "name": "Alan Wake II",
+    "category": "ongoing",
+    "id": "alan-wake-2",
+    "streams": [
+      { "name": "1", "twitch": "1961463026", "start": "9:29" }
+    ]
+  },
+  {
     "name": "The Eternal Cylinder",
     "category": "abandoned",
     "id": "eternal-cylinder",
