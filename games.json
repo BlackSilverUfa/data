@@ -5652,7 +5652,8 @@
     "category": "ongoing",
     "id": "alan-wake-2",
     "streams": [
-      { "name": "1", "twitch": "1961463026", "start": "9:29" }
+      { "name": "1", "twitch": "1961463026", "start": "9:29" },
+      { "name": "2", "twitch": "1962326035", "start": "8:36" }
     ]
   },
   {
