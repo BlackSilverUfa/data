@@ -5649,12 +5649,13 @@
   },
   {
     "name": "Alan Wake II",
-    "category": "ongoing",
+    "category": "finished",
     "id": "alan-wake-2",
     "streams": [
       { "name": "1", "twitch": "1961463026", "start": "9:29" },
       { "name": "2", "twitch": "1962326035", "start": "8:36" },
-      { "name": "3", "twitch": "1963183568", "start": "10:25" }
+      { "name": "3", "twitch": "1963183568", "start": "10:25" },
+      { "name": "4", "twitch": "1964026834", "start": "13:15" }
     ]
   },
   {
