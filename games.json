@@ -2395,6 +2395,7 @@
         { "name": "Kona II: Brume (демо)", "start": "23:28" },
         { "name": "The Classrooms (демо)", "start": "1:27:12" },
         { "name": "Quo (демо)", "start": "1:51:13" },
+        { "name": "The Polaris Incident", "start": "2:38:19" },
         { "name": "Broken Through", "start": "3:31:13" },
         { "name": "On One's Own", "start": "5:39:00" }
       ] },
@@ -4661,15 +4662,6 @@
       { "name": "Демо 1", "twitch": "1224807350", "start": "2:00:36" },
       { "name": "Демо 2", "twitch": "1855403959", "start": "1:29:45" },
       { "name": "Прохождение", "twitch": "1960706534", "start": "40:43" }
-    ]
-  },
-  {
-    "name": "The Polaris Incident",
-    "category": "finished",
-    "id": "polaris-incident",
-    "streams": [
-      { "name": "Первый взгляд", "twitch": "1619465701", "start": "2:38:19" },
-      { "name": "Прохождение", "twitch": "1619465701", "start": "2:38:19" }
     ]
   },
   {
