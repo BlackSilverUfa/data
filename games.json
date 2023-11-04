@@ -2882,9 +2882,7 @@
         { "name": "Poop Killer 3", "start": "1:59:22" },
         { "name": "The Elevator", "start": "2:17:18" },
         { "name": "Night Revenge", "start": "2:37:55" },
-        { "name": "Thursday the 12th", "start": "2:59:23" }
-      ] },
-      { "twitch": "1596223040", "subrefs": [
+        { "name": "Thursday the 12th", "start": "2:59:23" },
         { "name": "We Are Not Alone", "start": "3:16:25" },
         { "name": "The House of Rats", "start": "3:47:50" }
       ] },
@@ -4342,8 +4340,10 @@
         { "name": "Rewind or Die", "start": "3:25:26" }
       ] },
       { "name": "Dawn of Hell", "twitch": "1812854556", "start": "42:08" },
-      { "name": "Horror Exp+", "twitch": "1827232465,1827360298,1827371582,1827392675", "start": "2:12:43" },
-      { "name": "Haunted Horror Stories: Gone With The Wind", "twitch": "1827232465,1827360298,1827371582,1827392675", "start": "4:25:39" },
+      { "twitch": "1827232465,1827360298,1827371582,1827392675", "subrefs": [
+        { "name": "Horror Exp+", "start": "2:12:43" },
+        { "name": "Haunted Horror Stories: Gone With The Wind", "start": "4:25:39" }
+      ] },
       { "twitch": "1828848663", "subrefs": [
         { "name": "The Lord of the Rings: Gollum", "start": "20:41" },
         { "name": "Warhammer 40,000: Boltgun", "start": "2:11:08" },
