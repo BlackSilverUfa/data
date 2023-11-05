@@ -480,7 +480,10 @@
     { "youtube": "jtWuCoPh0SA", "offset": "1:51:16" }
   ],
   "265768902": { "youtube": "M0dROx0oTrA", "offset": "34:57" },
-  "267726322": { "youtube": "ng5A3gOPBzo", "official": false },
+  "267726322": {
+    "youtube": "ng5A3gOPBzo", "official": false,
+    "note": "Официальная запись <a href=\"https://youtu.be/7WmLTIQpciU\">Beware</a> не может быть добавлена сюда, т.к. она сделана в виде монтажа. Остальных записей пока нет."
+  },
   "268055630": { "youtube": "RjQzoSnVkLs", "official": false },
   "268114023": { "youtube": "36mVlOKf7cA", "official": false },
   "268497396": { "youtube": "qtiSoPbuteM", "official": false },
@@ -3147,5 +3150,6 @@
   "1961463026": { "youtube": "ykr_DEhURC4" },
   "1962326035": { "youtube": "OHAPHmvrEqU" },
   "1963183568": { "youtube": "yxaa7q-LxcE" },
-  "1964026834": { "youtube": "GHx7eakPaLE" }
+  "1964026834": { "youtube": "GHx7eakPaLE" },
+  "1969356180": {  }
 }

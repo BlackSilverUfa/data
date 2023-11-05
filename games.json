@@ -780,7 +780,8 @@
       { "name": "15 (с Куплиновым и Дангаром)", "twitch": "1546161309", "start": "3:44:22" },
       { "name": "16 (с Куплиновым и Дангаром)", "twitch": "1676189043", "start": "2:17:44" },
       { "name": "17 (с Куплиновым и Дангаром)", "twitch": "1781609483", "start": "3:44:01" },
-      { "name": "18 (с Куплиновым и Дангаром)", "twitch": "1945778448", "start": "43:15" }
+      { "name": "18 (с Куплиновым и Дангаром)", "twitch": "1945778448", "start": "43:15" },
+      { "name": "19 (с Куплиновым и Дангаром)", "twitch": "1969356180", "start": "50:37" }
     ]
   },
   {
@@ -2390,7 +2391,6 @@
         { "name": "Late Night Mop", "start": "4:16:00" },
         { "name": "The Death: Than Trung", "start": "4:32:51" }
       ] },
-      { "name": "The Bathhouse", "twitch": "1608110648", "start": "4:00:59" },
       { "twitch": "1619465701", "subrefs": [
         { "name": "Kona II: Brume (демо)", "start": "23:28" },
         { "name": "The Classrooms (демо)", "start": "1:27:12" },
@@ -2414,7 +2414,6 @@
         { "name": "Luto (демо)", "start": "21:21" },
         { "name": "Bughouse", "start": "1:25:11" },
         { "name": "Skinned Alive", "start": "2:40:47" },
-        { "name": "Night Delivery", "start": "3:21:38" },
         { "name": "The Lies We Tell Ourselves (демо)", "start": "4:31:59" }
       ] },
       { "name": "Bramble: The Mountain (демо)", "twitch": "1642266888,1642407202", "start": "53:03" },
@@ -2478,7 +2477,6 @@
         { "name": "The Director's Disorder: Pilot Episode", "start": "3:10:30" }
       ] },
       { "twitch": "1728992336", "subrefs": [
-        { "name": "Chilla's Art Complete Pack - The Karaoke", "start": "37:47" },
         { "name": "Interior Worlds (демо)", "start": "2:00:10" },
         { "name": "Project Code: Dark (демо)", "start": "3:32:43" },
         { "name": "Cannibal Abduction", "start": "3:51:47" },
@@ -2536,7 +2534,6 @@
         { "name": "Materna (демо)", "start": "5:22:53" },
         { "name": "Lucid Dreams", "start": "5:31:33" }
       ] },
-      { "name": "The Closing Shift", "twitch": "1797918117", "start": "1:56:09" },
       { "twitch": "1803169573", "subrefs": [
         { "name": "The Microwave Paradox", "start": "1:09:23" },
         { "name": "[Subject]", "start": "1:24:38" },
@@ -2583,7 +2580,6 @@
         { "name": "Sludge Life 2 (демо)", "start": "2:51:27" }
       ] },
       { "twitch": "1849426857", "subrefs": [
-        { "name": "Night Security", "start": "22:13" },
         { "name": "Lazarus", "start": "3:21:51" },
         { "name": "Incident at Grove Lake", "start": "3:51:37" }
       ] },
@@ -2629,7 +2625,6 @@
         { "name": "Depth of Contamination", "start": "4:19:34" },
         { "name": "Slender: Return to Rosswood Park", "start": "4:41:40" }
       ] },
-      { "name": "The Ghost Train", "twitch": "1886428924", "start": "49:00" },
       { "name": "Welcome to Kowloon", "twitch": "1889874082", "start": "51:10" },
       { "twitch": "1891624092", "subrefs": [
         { "name": "Step Into The Dark", "start": "1:50:15" },
@@ -2648,14 +2643,8 @@
         { "name": "Echoes From The Abyss", "start": "4:44:31" }
       ] },
       { "name": "Fort Solis", "twitch": "1906345080", "start": "15:10" },
-      { "twitch": "1913348809", "subrefs": [
-        { "name": "Parasocial", "start": "2:09:04" },
-        { "name": "Decimate Drive (демо)", "start": "4:57:20" }
-      ] },
-      { "twitch": "1917728202", "subrefs": [
-        { "name": "The Convenience Store", "start": "51:52" },
-        { "name": "Seven Nights Ghost", "start": "2:41:44" }
-      ] },
+      { "name": "Decimate Drive (демо)", "twitch": "1913348809", "start": "4:57:20" },
+      { "name": "Seven Nights Ghost", "twitch": "1917728202", "start": "2:41:44" },
       { "twitch": "1927857923", "subrefs": [
         { "name": "Greener Grass Awaits", "start": "1:25:27" },
         { "name": "Tenebris Somnia (демо)", "start": "3:42:00" },
@@ -2726,6 +2715,28 @@
       ] },
       { "name": "TELEFORUM", "twitch": "1957481459", "start": "3:50:38" },
       { "name": "Лихо одноглазое (One-Eyed Likho) (демо)", "twitch": "1959105799", "start": "41:11" }
+    ]
+  },
+  {
+    "name": "Chilla's Art",
+    "category": "finished",
+    "type": "list",
+    "id": "chillas-art",
+    "streams": [
+      { "name": "Welcome Back Daddy", "twitch": "267726322", "start": "2:22:59" },
+      { "name": "Blame him (демо)", "twitch": "404063748", "start": "1:00:15" },
+      { "name": "Onryo", "twitch": "603199458", "start": "53:16" },
+      { "name": "Missing Children", "twitch": "697191590", "start": "3:06:40" },
+      { "name": "The Radio Station", "twitch": "1193856809", "start": "2:18:12" },
+      { "name": "The Bathhouse", "twitch": "1608110648", "start": "4:00:59" },
+      { "name": "Night Delivery", "twitch": "1635763389", "start": "3:21:38" },
+      { "name": "The Karaoke", "twitch": "1728992336", "start": "37:47" },
+      { "name": "The Closing Shift", "twitch": "1797918117", "start": "1:56:09" },
+      { "name": "Night Security", "twitch": "1849426857", "start": "22:13" },
+      { "name": "The Ghost Train", "twitch": "1886428924", "start": "49:00" },
+      { "name": "Parasocial", "twitch": "1913348809", "start": "2:09:04" },
+      { "name": "The Convenience Store", "twitch": "1917728202", "start": "51:52" },
+      { "name": "The Kidnap", "twitch": "1969356180", "start": "3:10:06" }
     ]
   },
   {
@@ -3584,15 +3595,11 @@
       { "name": "Frostpunk", "twitch": "257985661", "start": "1:08:56" },
       { "name": "Dark Souls: Prepare to Die Edition", "twitch": "260173384" },
       { "name": "State of Decay 2", "twitch": "262696959", "segment": 1 },
-      {
-        "twitch": "267726322", "subrefs": [
-        { "name": "Beware (демо)" },
+      { "twitch": "267726322", "subrefs": [
+        { "name": "Beware (демо)", "start": "16:05" },
         { "name": "Graveyard Keeper", "start": "1:43:21" },
-        { "name": "Welcome Back Daddy", "start": "2:22:59" },
         { "name": "Smoke and Sacrifice", "start": "3:43:23" }
-      ],
-        "note": "Официальная запись <a href=\"https://youtu.be/7WmLTIQpciU\">Beware</a> не может быть добавлена сюда, т.к. она сделана в виде монтажа. Остальных записей пока нет."
-      },
+      ] },
       { "name": "Choice Chamber", "twitch": "268900992", "start": "3:00:48" },
       { "twitch": "270816212", "subrefs": [
         { "name": "Exiles" },
@@ -3697,8 +3704,7 @@
         { "name": "ШХД: Зима", "start": "2:58:46" }
       ] },
       { "twitch": "404063748", "subrefs": [
-        { "name": "SCP-3008" },
-        { "name": "Blame him (демо)", "start": "1:00:15" },
+        { "name": "SCP-3008", "start": "20:42" },
         { "name": "Demense: Chapter 1", "start": "1:44:39" }
       ] },
       { "twitch": "412393845", "subrefs": [
@@ -3777,7 +3783,6 @@
       ] },
       { "name": "Animal Crossing: New Horizons", "twitch": "573544874" },
       { "twitch": "603199458", "subrefs": [
-        { "name": "Onryo" },
         { "name": "Cloudpunk", "start": "1:19:57" },
         { "name": "Help Will Come Tomorrow", "start": "2:22:21" },
         { "name": "The Walking Evil", "start": "3:01:52" }
@@ -3812,9 +3817,8 @@
       { "name": "Trackmania", "twitch": "677524120", "start": "1:40:14" },
       { "name": "Rocket Arena", "twitch": "680344977", "start": "1:54:55" },
       { "twitch": "697191590", "subrefs": [
-        { "name": "What Happened" },
+        { "name": "What Happened", "start": "32:20" },
         { "name": "I Have a Fear", "start": "2:19:56" },
-        { "name": "Missing Children", "start": "3:06:40" },
         { "name": "Othercide", "start": "5:16:59" }
       ] },
       { "name": "Train 113", "twitch": "719986899" },
@@ -4010,10 +4014,7 @@
         { "name": "Prognostic" },
         { "name": "Horror Story: Hallowseed", "start": "3:06:06" }
       ] },
-      { "twitch": "1193856809", "subrefs": [
-        { "name": "Devil Inside Us: Root of Evil (демо)", "start": "1:52:04" },
-        { "name": "The Radio Station", "start": "2:18:12" }
-      ] },
+      { "name": "Devil Inside Us: Root of Evil (демо)", "twitch": "1193856809", "start": "1:52:04" },
       { "name": "Forza Horizon 5", "twitch": "1195666882" },
       { "name": "Grand Theft Auto III - Definitive Edition", "twitch": "1206191026" },
       { "name": "Babylon's Fall (бета)", "twitch": "1207047094" },
@@ -4572,7 +4573,7 @@
   },
   {
     "name": "Baldur's Gate 3",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "bg3",
     "streams": [
       { "name": "Ранний доступ (с Артёмом)", "twitch": "763202430", "start": "13:30" },
