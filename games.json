@@ -1930,7 +1930,6 @@
     "category": "finished",
     "id": "outlast-dw",
     "streams": [
-      { "name": "Первый взгляд (вне стримов)", "twitch": "001512070" },
       { "name": "1", "twitch": "001512080" },
       { "name": "2", "twitch": "001512110" },
       { "name": "Whistleblower", "twitch": "001512180" }
