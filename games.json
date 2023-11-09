@@ -2720,7 +2720,8 @@
         { "name": "Faith 64", "start": "1:19:14" },
         { "name": "Buried", "start": "3:09:36" },
         { "name": "Office Paradox", "start": "3:22:48" }
-      ] }
+      ] },
+      { "name": "Stay Still 2 (демо)", "twitch": "1972692139", "start": "25:26" }
     ]
   },
   {
@@ -4475,18 +4476,23 @@
       ] },
       { "name": "Cannibals", "twitch": "1954044542", "start": "2:45:09" },
       { "name": "World of Horror", "twitch": "1959921584", "start": "2:38:33" },
-      { "name": "Drive Up", "twitch": "1971837037", "start": "13:42" }
+      { "name": "Drive Up", "twitch": "1971837037", "start": "13:42" },
+      { "twitch": "1972692139", "subrefs": [
+        { "name": "Cat Fred Evil Pet", "start": "55:02" },
+        { "name": "Employee of the Month", "start": "1:28:26" }
+      ] }
     ]
   },
   {
     "name": "The Invincible",
-    "category": "ongoing",
+    "category": "finished",
     "id": "invincible",
     "streams": [
       { "name": "Демо", "twitch": "1811995960", "start": "1:26:53" },
       { "name": "1", "twitch": "1970199475", "start": "3:05:32" },
       { "name": "2", "twitch": "1971007084", "start": "3:02:47" },
-      { "name": "3", "twitch": "1971837037", "start": "4:23:51" }
+      { "name": "3", "twitch": "1971837037", "start": "4:23:51" },
+      { "name": "4", "twitch": "1972692139", "start": "2:57:16" }
     ]
   },
   {
@@ -5870,7 +5876,8 @@
       { "name": "Часть 5 #1", "twitch": "1530567140", "start": "3:30:10" },
       { "name": "Часть 5 #2", "twitch": "1558782985", "start": "2:51:39" },
       { "name": "Часть 6 #1", "twitch": "1971007084", "start": "1:47:58" },
-      { "name": "Часть 6 #2", "twitch": "1971837037", "start": "3:43:31" }
+      { "name": "Часть 6 #2", "twitch": "1971837037", "start": "3:43:31" },
+      { "name": "Часть 6 #3", "twitch": "1972692139", "start": "1:49:26" }
     ]
   },
   {
