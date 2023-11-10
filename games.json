@@ -3254,7 +3254,7 @@
   },
   {
     "name": "The Legend of Zelda: Tears of the Kingdom",
-    "category": "ongoing",
+    "category": "finished",
     "id": "tloz_totk",
     "streams": [
       { "name": "1", "twitch": "1817831979", "start": "8:41" },
@@ -3273,7 +3273,8 @@
       { "name": "14", "twitch": "1890707460,1890774077", "start": "6:27" },
       { "name": "15", "twitch": "1901048765", "start": "1:50:54" },
       { "name": "16", "twitch": "1929503291", "start": "10:40" },
-      { "name": "17", "twitch": "1943941713", "start": "5:21" }
+      { "name": "17", "twitch": "1943941713", "start": "5:21" },
+      { "name": "18", "twitch": "1973510528", "start": "9:04" }
     ]
   },
   {
