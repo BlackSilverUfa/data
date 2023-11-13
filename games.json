@@ -412,7 +412,13 @@
         { "name": "Surrounded", "start": "3:50:05" },
         { "name": "Cartoon Rage", "start": "4:11:59" }
       ] },
-      { "name": "Lethal Company (с Куплиновым и Дангаром)", "twitch": "1974525272", "start": "1:10:03" }
+      { "name": "Lethal Company (с Куплиновым и Дангаром)", "twitch": "1974525272", "start": "1:10:03" },
+      { "twitch": "1976316443", "subrefs": [
+        { "name": "Demonic Episode", "start": "3:38:38" },
+        { "name": "Silent Rain", "start": "4:10:03" },
+        { "name": "Gehinnom", "start": "4:52:45" },
+        { "name": "Escape Simulator", "start": "6:07:19" }
+      ] }
     ]
   },
   {
@@ -430,7 +436,8 @@
     "id": "pacify",
     "streams": [
       { "name": "1", "twitch": "410400457", "start": "1:33:15" },
-      { "name": "2", "twitch": "1895922463", "start": "1:16:40" }
+      { "name": "2", "twitch": "1895922463", "start": "1:16:40" },
+      { "name": "3", "twitch": "1976316443", "start": "3:08:37" }
     ]
   },
   {
@@ -2694,7 +2701,6 @@
       { "name": "Dark Fracture (демо)", "twitch": "1949835858", "start": "3:13:08" },
       { "twitch": "1950762078", "subrefs": [
         { "name": "ELDRIMAR (демо)", "start": "42:00" },
-        { "name": "Жил-Ячейка (демо)", "start": "2:17:02" },
         { "name": "Forgive Me Father 2 (демо)", "start": "3:16:25" }
       ] },
       { "twitch": "1951658427", "subrefs": [
@@ -2723,6 +2729,15 @@
         { "name": "Office Paradox", "start": "3:22:48" }
       ] },
       { "name": "Stay Still 2 (демо)", "twitch": "1972692139", "start": "25:26" }
+    ]
+  },
+  {
+    "name": "Жил-Ячейка (Living Cell)",
+    "category": "finished",
+    "id": "living-cell",
+    "streams": [
+      { "name": "Демо", "twitch": "1950762078", "start": "2:17:02" },
+      { "name": "Прохождение", "twitch": "1976316443", "start": "43:40" }
     ]
   },
   {
@@ -4483,7 +4498,11 @@
         { "name": "Cat Fred Evil Pet", "start": "55:02" },
         { "name": "Employee of the Month", "start": "1:28:26" }
       ] },
-      { "name": "Nancy Drew: Warnings at Waverly Academy (Нэнси Дрю. Записки чёрной кошки)", "twitch": "1975480188", "start": "28:08" }
+      { "name": "Nancy Drew: Warnings at Waverly Academy (Нэнси Дрю. Записки чёрной кошки)", "twitch": "1975480188", "start": "28:08" },
+      { "twitch": "1976316443", "subrefs": [
+        { "name": "Polygon of Reality (демо)", "start": "29:48" },
+        { "name": "BoneField: Bodycam Horror (демо)", "start": "2:43:26" }
+      ] }
     ]
   },
   {
