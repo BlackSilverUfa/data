@@ -418,7 +418,8 @@
         { "name": "Silent Rain", "start": "4:10:03" },
         { "name": "Gehinnom", "start": "4:52:45" },
         { "name": "Escape Simulator", "start": "6:07:19" }
-      ] }
+      ] },
+      { "name": "Hellstuck: Rage With Your Friends", "twitch": "1977184678", "start": "2:48:56" }
     ]
   },
   {
@@ -4502,6 +4503,10 @@
       { "twitch": "1976316443", "subrefs": [
         { "name": "Polygon of Reality (демо)", "start": "29:48" },
         { "name": "BoneField: Bodycam Horror (демо)", "start": "2:43:26" }
+      ] },
+      { "twitch": "1977184678", "subrefs": [
+        { "name": "Exilium", "start": "40:19" },
+        { "name": "Lunacid", "start": "1:03:29" }
       ] }
     ]
   },
@@ -6477,7 +6482,8 @@
       { "name": "2", "twitch": "768182935", "start": "3:49:08" },
       { "name": "3 (релиз)", "twitch": "1932106766", "start": "3:23:04" },
       { "name": "4", "twitch": "1933030113", "start": "5:11:20" },
-      { "name": "5 (с Куплиновым и Дангаром)", "twitch": "1949835858", "start": "1:02:51" }
+      { "name": "5 (с Куплиновым и Дангаром)", "twitch": "1949835858", "start": "1:02:51" },
+      { "name": "6 (4D)", "twitch": "1977184678", "start": "4:20:07" }
     ]
   },
   {
