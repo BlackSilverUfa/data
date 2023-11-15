@@ -2729,7 +2729,12 @@
         { "name": "Buried", "start": "3:09:36" },
         { "name": "Office Paradox", "start": "3:22:48" }
       ] },
-      { "name": "Stay Still 2 (демо)", "twitch": "1972692139", "start": "25:26" }
+      { "name": "Stay Still 2 (демо)", "twitch": "1972692139", "start": "25:26" },
+      { "twitch": "1978045200", "subrefs": [
+        { "name": "Terminal Error (демо)", "start": "39:15" },
+        { "name": "Excuse Me Sir (демо)", "start": "1:22:06" },
+        { "name": "Flaw Detection", "start": "3:04:54" }
+      ] }
     ]
   },
   {
@@ -4507,7 +4512,8 @@
       { "twitch": "1977184678", "subrefs": [
         { "name": "Exilium", "start": "40:19" },
         { "name": "Lunacid", "start": "1:03:29" }
-      ] }
+      ] },
+      { "name": "Flaw Detection - Tape Two", "twitch": "1978045200", "start": "3:15:07" }
     ]
   },
   {
@@ -5905,7 +5911,11 @@
       { "name": "Часть 6 #1", "twitch": "1971007084", "start": "1:47:58" },
       { "name": "Часть 6 #2", "twitch": "1971837037", "start": "3:43:31" },
       { "name": "Часть 6 #3", "twitch": "1972692139", "start": "1:49:26" },
-      { "name": "Часть 6 #4", "twitch": "1974525272", "start": "3:11:07" }
+      { "name": "Часть 6 #4", "twitch": "1974525272", "start": "3:11:07" },
+      { "twitch": "1978045200", "subrefs": [
+        { "name": "Часть 6 #5", "start": "1:56:30" },
+        { "name": "Часть 6 #5 (продолжение)", "start": "3:32:06", "hidden": true }
+      ] }
     ]
   },
   {
