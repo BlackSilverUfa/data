@@ -2734,6 +2734,14 @@
         { "name": "Terminal Error (демо)", "start": "39:15" },
         { "name": "Excuse Me Sir (демо)", "start": "1:22:06" },
         { "name": "Flaw Detection", "start": "3:04:54" }
+      ] },
+      { "twitch": "1981641620", "subrefs": [
+        { "name": "SCAREBNB (демо)", "start": "1:00:43" },
+        { "name": "Incoherence", "start": "1:26:14" },
+        { "name": "Perished Truth (демо)", "start": "2:00:03" },
+        { "name": "Insomnia Experiment", "start": "2:46:17" },
+        { "name": "Cleany's Window Service", "start": "3:08:41" },
+        { "name": "Point Click Killer", "start": "3:41:51" }
       ] }
     ]
   },
@@ -4513,7 +4521,12 @@
         { "name": "Exilium", "start": "40:19" },
         { "name": "Lunacid", "start": "1:03:29" }
       ] },
-      { "name": "Flaw Detection - Tape Two", "twitch": "1978045200", "start": "3:15:07" }
+      { "name": "Flaw Detection - Tape Two", "twitch": "1978045200", "start": "3:15:07" },
+      { "twitch": "1981641620", "subrefs": [
+        { "name": "Simulacrum: Chapter One", "start": "3:54:52" },
+        { "name": "My Work Is Not Yet Done", "start": "4:47:45" },
+        { "name": "Nightmare Side: The Game", "start": "4:58:01" }
+      ] }
     ]
   },
   {
