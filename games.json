@@ -4512,7 +4512,6 @@
         { "name": "Cat Fred Evil Pet", "start": "55:02" },
         { "name": "Employee of the Month", "start": "1:28:26" }
       ] },
-      { "name": "Nancy Drew: Warnings at Waverly Academy (Нэнси Дрю. Записки чёрной кошки)", "twitch": "1975480188", "start": "28:08" },
       { "twitch": "1976316443", "subrefs": [
         { "name": "Polygon of Reality (демо)", "start": "29:48" },
         { "name": "BoneField: Bodycam Horror (демо)", "start": "2:43:26" }
@@ -4527,6 +4526,15 @@
         { "name": "My Work Is Not Yet Done", "start": "4:47:45" },
         { "name": "Nightmare Side: The Game", "start": "4:58:01" }
       ] }
+    ]
+  },
+  {
+    "name": "Nancy Drew: Warnings at Waverly Academy (Нэнси Дрю. Записки чёрной кошки)",
+    "category": "finished",
+    "id": "nancy-drew-wawa",
+    "streams": [
+      { "name": "1", "twitch": "1975480188", "start": "28:08" },
+      { "name": "2", "twitch": "1982520100", "start": "32:47" }
     ]
   },
   {
