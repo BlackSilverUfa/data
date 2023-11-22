@@ -419,7 +419,20 @@
         { "name": "Gehinnom", "start": "4:52:45" },
         { "name": "Escape Simulator", "start": "6:07:19" }
       ] },
-      { "name": "Hellstuck: Rage With Your Friends", "twitch": "1977184678", "start": "2:48:56" }
+      { "twitch": "1984225169", "subrefs": [
+        { "name": "Entities", "start": "2:21:48" },
+        { "name": "SCP: 5K", "start": "3:22:42" },
+        { "name": "Paranormal Cleanup", "start": "4:38:22" }
+      ] }
+    ]
+  },
+  {
+    "name": "Hellstuck: Rage With Your Friends",
+    "category": "co-op",
+    "id": "hellstuck",
+    "streams": [
+      { "name": "1", "twitch": "1977184678", "start": "2:48:56" },
+      { "name": "2", "twitch": "1984225169", "start": "4:18:01" }
     ]
   },
   {
@@ -5930,7 +5943,7 @@
       { "name": "Часть 2 #1", "twitch": "1095567001,1095811167", "start": "2:50:23" },
       { "twitch": "1102702263", "subrefs": [
         { "name": "Часть 2 #2", "start": "5:10:43" },
-        { "name": "Часть 3", "start": "5:26:49" }
+        { "name": "Часть 3 #1", "start": "5:26:49" }
       ] },
       { "name": "Часть 4 #1", "twitch": "1258121391", "start": "5:14:33" },
       { "name": "Часть 4 #2", "twitch": "1262176650", "start": "6:15:22" },
@@ -5947,6 +5960,10 @@
       { "twitch": "1983368585", "subrefs": [
         { "name": "Часть 1 #2", "start": "2:15:35" },
         { "name": "Часть 2 #3", "start": "4:18:03"  }
+      ] },
+      { "twitch": "1984225169", "subrefs": [
+        { "name": "Часть 2 #4", "start": "40:03" },
+        { "name": "Часть 3 #2", "start": "48:13" }
       ] }
     ]
   },
@@ -6525,7 +6542,8 @@
       { "name": "3 (релиз)", "twitch": "1932106766", "start": "3:23:04" },
       { "name": "4", "twitch": "1933030113", "start": "5:11:20" },
       { "name": "5 (с Куплиновым и Дангаром)", "twitch": "1949835858", "start": "1:02:51" },
-      { "name": "6 (4D)", "twitch": "1977184678", "start": "4:20:07" }
+      { "name": "6 (4D)", "twitch": "1977184678", "start": "4:20:07" },
+      { "name": "7 (4D)", "twitch": "1984225169", "start": "5:10:07" }
     ]
   },
   {
