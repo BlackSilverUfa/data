@@ -412,7 +412,6 @@
         { "name": "Surrounded", "start": "3:50:05" },
         { "name": "Cartoon Rage", "start": "4:11:59" }
       ] },
-      { "name": "Lethal Company (с Куплиновым и Дангаром)", "twitch": "1974525272", "start": "1:10:03" },
       { "twitch": "1976316443", "subrefs": [
         { "name": "Demonic Episode", "start": "3:38:38" },
         { "name": "Silent Rain", "start": "4:10:03" },
@@ -424,6 +423,15 @@
         { "name": "SCP: 5K", "start": "3:22:42" },
         { "name": "Paranormal Cleanup", "start": "4:38:22" }
       ] }
+    ]
+  },
+  {
+    "name": "Lethal Company",
+    "category": "co-op",
+    "id": "lethal-company",
+    "streams": [
+      { "name": "1 (с Димами)", "twitch": "1974525272", "start": "1:10:03" },
+      { "name": "2 (4D)", "twitch": "1986776678", "start": "3:49:36" }
     ]
   },
   {
@@ -5355,7 +5363,7 @@
   },
   {
     "name": "Yakuza 0",
-    "category": "abandoned",
+    "category": "ongoing",
     "id": "yakuza-0",
     "streams": [
       { "name": "1", "twitch": "1598875892", "start": "7:54" },
@@ -5365,7 +5373,8 @@
       { "name": "5", "twitch": "1670961161", "start": "23:22" },
       { "name": "6", "twitch": "1671788984", "start": "25:49" },
       { "name": "7", "twitch": "1709052941", "start": "13:45" },
-      { "name": "8", "twitch": "1740746666", "start": "55:30" }
+      { "name": "8", "twitch": "1740746666", "start": "55:30" },
+      { "name": "9", "twitch": "1986776678", "start": "11:08" }
     ]
   },
   {
