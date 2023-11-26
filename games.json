@@ -2764,9 +2764,7 @@
         { "name": "Cleany's Window Service", "start": "3:08:41" },
         { "name": "Point Click Killer", "start": "3:41:51" }
       ] },
-      { "twitch": "1983368585", "subrefs": [
-        { "name": "Abtos Covert (демо)", "start": "51:52" }
-      ] },
+      { "name": "Abtos Covert (демо)", "twitch": "1983368585", "start": "51:52" },
       { "name": "Slay the Princess", "twitch": "1985909107", "start": "58:18" }
     ]
   },
@@ -4551,9 +4549,7 @@
         { "name": "My Work Is Not Yet Done", "start": "4:47:45" },
         { "name": "Nightmare Side: The Game", "start": "4:58:01" }
       ] },
-      { "twitch": "1983368585", "subrefs": [
-        { "name": "Alternate Watch", "start": "1:54:53" }
-      ] }
+      { "name": "Alternate Watch", "twitch": "1983368585", "start": "1:54:53" }
     ]
   },
   {
@@ -4965,7 +4961,7 @@
   },
   {
     "name": "Armored Core VI: Fires of Rubicon",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "ac6-for",
     "streams": [
       { "name": "1", "twitch": "1907179905", "start": "1:01:02" },
@@ -5969,7 +5965,7 @@
       ] },
       { "twitch": "1983368585", "subrefs": [
         { "name": "Часть 1 #2", "start": "2:15:35" },
-        { "name": "Часть 2 #3", "start": "4:18:03"  }
+        { "name": "Часть 2 #3", "start": "4:18:03" }
       ] },
       { "twitch": "1984225169", "subrefs": [
         { "name": "Часть 2 #4", "start": "40:03" },
