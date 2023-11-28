@@ -2766,7 +2766,11 @@
         { "name": "Point Click Killer", "start": "3:41:51" }
       ] },
       { "name": "Abtos Covert (демо)", "twitch": "1983368585", "start": "51:52" },
-      { "name": "Slay the Princess", "twitch": "1985909107", "start": "58:18" }
+      { "name": "Slay the Princess", "twitch": "1985909107", "start": "58:18" },
+      { "twitch": "1989452096", "subrefs": [
+        { "name": "Dark Descent (демо)", "start": "1:04:26" },
+        { "name": "Loggerhead (демо)", "start": "2:13:21" }
+      ] }
     ]
   },
   {
@@ -4550,7 +4554,11 @@
         { "name": "My Work Is Not Yet Done", "start": "4:47:45" },
         { "name": "Nightmare Side: The Game", "start": "4:58:01" }
       ] },
-      { "name": "Alternate Watch", "twitch": "1983368585", "start": "1:54:53" }
+      { "name": "Alternate Watch", "twitch": "1983368585", "start": "1:54:53" },
+      { "twitch": "1989452096", "subrefs": [
+        { "name": "Who Are You!?", "start": "1:17:20" },
+        { "name": "Who's Lila?", "start": "1:54:02" }
+      ] }
     ]
   },
   {
@@ -5972,7 +5980,8 @@
       { "twitch": "1984225169", "subrefs": [
         { "name": "Часть 2 #4", "start": "40:03" },
         { "name": "Часть 3 #2", "start": "48:13" }
-      ] }
+      ] },
+      { "name": "Часть 4 #3", "twitch": "1989452096", "start": "2:51:00" }
     ]
   },
   {
@@ -6551,7 +6560,8 @@
       { "name": "4", "twitch": "1933030113", "start": "5:11:20" },
       { "name": "5 (с Куплиновым и Дангаром)", "twitch": "1949835858", "start": "1:02:51" },
       { "name": "6 (4D)", "twitch": "1977184678", "start": "4:20:07" },
-      { "name": "7 (4D)", "twitch": "1984225169", "start": "5:10:07" }
+      { "name": "7 (4D)", "twitch": "1984225169", "start": "5:10:07" },
+      { "name": "8", "twitch": "1989452096", "start": "4:04:03" }
     ]
   },
   {
