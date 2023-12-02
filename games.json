@@ -2424,7 +2424,6 @@
         { "name": "The Death: Than Trung", "start": "4:32:51" }
       ] },
       { "twitch": "1619465701", "subrefs": [
-        { "name": "Kona II: Brume (демо)", "start": "23:28" },
         { "name": "The Classrooms (демо)", "start": "1:27:12" },
         { "name": "Quo (демо)", "start": "1:51:13" },
         { "name": "The Polaris Incident", "start": "2:38:19" },
@@ -4564,8 +4563,25 @@
       { "twitch": "1990296421", "subrefs": [
         { "name": "Moonbase Lambda (демо)", "start": "46:08" },
         { "name": "Vaudeville", "start": "1:09:39" }
-      ] },
-      { "name": "Kona", "twitch": "1992044853", "start": "2:06:59" }
+      ] }
+    ]
+  },
+  {
+    "name": "Kona",
+    "category": "finished",
+    "id": "kona",
+    "streams": [
+      { "name": "1", "twitch": "1992044853", "start": "2:06:59" },
+      { "name": "2", "twitch": "1992956397", "start": "21:56" }
+    ]
+  },
+  {
+    "name": "Kona II: Brume",
+    "category": "ongoing",
+    "id": "kona-2",
+    "streams": [
+      { "name": "Демо", "twitch": "1619465701", "start": "23:28" },
+      { "name": "1", "twitch": "1992956397", "start": "1:30:57" }
     ]
   },
   {
