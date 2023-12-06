@@ -4594,11 +4594,12 @@
   },
   {
     "name": "Kona II: Brume",
-    "category": "ongoing",
+    "category": "finished",
     "id": "kona-2",
     "streams": [
       { "name": "Демо", "twitch": "1619465701", "start": "23:28" },
-      { "name": "1", "twitch": "1992956397", "start": "1:30:57" }
+      { "name": "1", "twitch": "1992956397", "start": "1:30:57" },
+      { "name": "2", "twitch": "1996657327", "start": "27:14" }
     ]
   },
   {
