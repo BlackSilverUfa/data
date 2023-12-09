@@ -1710,7 +1710,7 @@
       { "name": "2020", "twitch": "832197729", "segment": 1, "start": "12:34:01" },
       { "name": "2021 (обзор)", "twitch": "1229405550", "start": "4:01:43" },
       { "name": "2022 (обзор)", "twitch": "1674396025", "start": "26:07" },
-      { "name": "2023 (обзор)", "twitch": "1992044853", "start": "52:06" }
+      { "name": "2023 (обзор)", "twitch": "1999409596", "start": "41:43" }
     ]
   },
   {
@@ -4581,7 +4581,8 @@
       ] },
       { "name": "Madhouse Madness", "twitch": "1994975780", "start": "1:42:06" },
       { "name": "This House Is Not A Home", "twitch": "1995822970", "start": "5:11:38" },
-      { "name": "Avatar: Frontiers of Pandora", "twitch": "1997524923", "start": "19:01" }
+      { "name": "Avatar: Frontiers of Pandora", "twitch": "1997524923", "start": "19:01" },
+      { "name": "Skull Island: Rise of Kong", "twitch": "1999409596", "start": "2:53:11" }
     ]
   },
   {
@@ -6604,7 +6605,8 @@
       { "name": "5 (с Куплиновым и Дангаром)", "twitch": "1949835858", "start": "1:02:51" },
       { "name": "6 (4D)", "twitch": "1977184678", "start": "4:20:07" },
       { "name": "7 (4D)", "twitch": "1984225169", "start": "5:10:07" },
-      { "name": "8", "twitch": "1989452096", "start": "4:04:03" }
+      { "name": "8", "twitch": "1989452096", "start": "4:04:03" },
+      { "name": "9", "twitch": "1999409596", "start": "" }
     ]
   },
   {
