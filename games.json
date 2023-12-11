@@ -435,7 +435,8 @@
       { "name": "2 (4D)", "twitch": "1986776678", "start": "3:49:36" },
       { "name": "3 (4D)", "twitch": "1987710775", "start": "3:36:45" },
       { "name": "4 (4D)", "twitch": "1990296421", "start": "2:41:08" },
-      { "name": "5 (с Димами)", "twitch": "2000344386", "start": "1:06:31" }
+      { "name": "5 (с Димами)", "twitch": "2000344386", "start": "1:06:31" },
+      { "name": "6 (4D)", "twitch": "2001246384", "start": "2:14:15" }
     ]
   },
   {
@@ -3004,7 +3005,8 @@
       { "name": "Evil is Back", "twitch": "1803169573", "start": "2:07:57" },
       { "name": "Poop Killer 7", "twitch": "1837484119", "start": "2:57:03" },
       { "name": "Deer", "twitch": "1951658427", "start": "2:45:42" },
-      { "name": "Hello, I came to kill you", "twitch": "1971007084", "start": "1:09:59" }
+      { "name": "Hello, I came to kill you", "twitch": "1971007084", "start": "1:09:59" },
+      { "name": "Shhh!", "twitch": "2001246384", "start": "1:00:16" }
     ]
   },
   {
