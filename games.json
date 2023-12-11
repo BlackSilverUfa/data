@@ -4590,9 +4590,7 @@
       { "name": "This House Is Not A Home", "twitch": "1995822970", "start": "5:11:38" },
       { "name": "Avatar: Frontiers of Pandora", "twitch": "1997524923", "start": "19:01" },
       { "name": "Skull Island: Rise of Kong", "twitch": "1999409596", "start": "2:53:11" },
-      { "twitch": "2000344386", "subrefs": [
-        { "name": "Nafanya the Poltergeist", "start": "3:19:53" }
-      ] }
+      { "name": "Nafanya the Poltergeist", "twitch": "2000344386", "start": "3:19:53" }
     ]
   },
   {
