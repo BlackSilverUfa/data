@@ -2721,7 +2721,6 @@
         { "name": "ONE WAY HOME (демо)", "start": "1:12:55" },
         { "name": "Pine Harbor (демо)", "start": "1:51:02" },
         { "name": "The Bridge Curse 2: The Extrication (демо)", "start": "2:33:01" },
-        { "name": "Hollow Cocoon (демо)", "start": "3:57:22" },
         { "name": "Nevermind This (демо)", "start": "5:00:05" },
         { "name": "Paranormal Records (демо)", "start": "5:28:45" }
       ] },
@@ -2794,7 +2793,8 @@
         { "name": "Abandoned: Short Message", "start": "4:00:01" },
         { "name": "silkbulb test", "start": "4:20:45" },
         { "name": "Whispering Woods (демо)", "start": "4:33:06" }
-      ] }
+      ] },
+      { "name": "Cursed Enigma: Priest and Prayers", "twitch": "2002100435", "start": "40:55" }
     ]
   },
   {
@@ -4584,15 +4584,30 @@
         { "name": "Who Are You!?", "start": "1:17:20" },
         { "name": "Who's Lila?", "start": "1:54:02" }
       ] },
-      { "twitch": "1990296421", "subrefs": [
-        { "name": "Moonbase Lambda (демо)", "start": "46:08" },
-        { "name": "Vaudeville", "start": "1:09:39" }
-      ] },
+      { "name": "Moonbase Lambda (демо)", "twitch": "1990296421", "start": "46:08" },
       { "name": "Madhouse Madness", "twitch": "1994975780", "start": "1:42:06" },
       { "name": "This House Is Not A Home", "twitch": "1995822970", "start": "5:11:38" },
       { "name": "Avatar: Frontiers of Pandora", "twitch": "1997524923", "start": "19:01" },
       { "name": "Skull Island: Rise of Kong", "twitch": "1999409596", "start": "2:53:11" },
       { "name": "Nafanya the Poltergeist", "twitch": "2000344386", "start": "3:19:53" }
+    ]
+  },
+  {
+    "name": "Vaudeville",
+    "category": "ongoing",
+    "id": "vaudeville",
+    "streams": [
+      { "name": "1", "twitch": "1990296421", "start": "1:09:39" },
+      { "name": "2", "twitch": "2002100435", "start": "1:29:33" }
+    ]
+  },
+  {
+    "name": "Hollow Coccoon",
+    "category": "ongoing",
+    "id": "hollow-coccoon",
+    "streams": [
+      { "name": "Демо", "twitch": "1949027899", "start": "3:57:22" },
+      { "name": "Релиз", "twitch": "2002100435", "start": "2:00:24" }
     ]
   },
   {
