@@ -424,7 +424,8 @@
         { "name": "Paranormal Cleanup", "start": "4:38:22" }
       ] },
       { "name": "Xtract (с Димами)", "twitch": "1994074198", "start": "48:27" },
-      { "name": "Abiotic Factor (демо)", "twitch": "2002964506", "start": "3:10:08" }
+      { "name": "Abiotic Factor (демо)", "twitch": "2002964506", "start": "3:10:08" },
+      { "name": "Ready or Not", "twitch": "2003812256", "start": "2:40:03" }
     ]
   },
   {
@@ -4909,7 +4910,8 @@
     "id": "blood-west",
     "streams": [
       { "name": "Демо", "twitch": "1299859703" },
-      { "name": "1", "twitch": "1642266888,1642407202", "start": "3:05:01" }
+      { "name": "1", "twitch": "1642266888,1642407202", "start": "3:05:01" },
+      { "name": "2", "twitch": "2003812256", "start": "16:10" }
     ]
   },
   {
