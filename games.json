@@ -4925,7 +4925,7 @@
   },
   {
     "name": "Mortal Kombat",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "mk",
     "streams": [
       { "name": "1", "twitch": "1552996641", "start": "46:11" },
@@ -5026,7 +5026,7 @@
   },
   {
     "name": "Lies of P",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "lies-of-p",
     "streams": [
       { "name": "Демо", "twitch": "1842665393", "start": "25:56" },
