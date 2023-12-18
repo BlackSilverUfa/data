@@ -424,8 +424,16 @@
         { "name": "Paranormal Cleanup", "start": "4:38:22" }
       ] },
       { "name": "Xtract (с Димами)", "twitch": "1994074198", "start": "48:27" },
-      { "name": "Abiotic Factor (демо)", "twitch": "2002964506", "start": "3:10:08" },
-      { "name": "Ready or Not", "twitch": "2003812256", "start": "2:40:03" }
+      { "name": "Abiotic Factor (демо)", "twitch": "2002964506", "start": "3:10:08" }
+    ]
+  },
+  {
+    "name": "Ready or Not",
+    "category": "co-op",
+    "id": "ready-or-not",
+    "streams": [
+      { "name": "1", "twitch": "2003812256", "start": "2:40:03" },
+      { "name": "2", "twitch": "2007394703", "start": "2:18:04" }
     ]
   },
   {
@@ -3011,7 +3019,8 @@
       { "name": "Poop Killer 7", "twitch": "1837484119", "start": "2:57:03" },
       { "name": "Deer", "twitch": "1951658427", "start": "2:45:42" },
       { "name": "Hello, I came to kill you", "twitch": "1971007084", "start": "1:09:59" },
-      { "name": "Shhh!", "twitch": "2001246384", "start": "1:00:16" }
+      { "name": "Shhh!", "twitch": "2001246384", "start": "1:00:16" },
+      { "name": "Poop Killer 8", "twitch": "2007394703", "start": "43:07" }
     ]
   },
   {
@@ -4596,8 +4605,16 @@
       { "name": "Skull Island: Rise of Kong", "twitch": "1999409596", "start": "2:53:11" },
       { "name": "Nafanya the Poltergeist", "twitch": "2000344386", "start": "3:19:53" },
       { "name": "Chaperone", "twitch": "2002964506", "start": "44:10" },
-      { "name": "I Love You Freddy", "twitch": "2005613219", "start": "3:20:05" },
       { "name": "Ice Age 2: The Meltdown (Ледниковый Период 2)", "twitch": "2006538127", "start": "31:14" }
+    ]
+  },
+  {
+    "name": "I Love You Freddy",
+    "category": "finished",
+    "id": "love-you-freddy",
+    "streams": [
+      { "name": "1", "twitch": "2005613219", "start": "3:20:05" },
+      { "name": "2", "twitch": "2007394703", "start": "1:35:12" }
     ]
   },
   {
