@@ -424,7 +424,16 @@
         { "name": "Paranormal Cleanup", "start": "4:38:22" }
       ] },
       { "name": "Xtract (с Димами)", "twitch": "1994074198", "start": "48:27" },
-      { "name": "Abiotic Factor (демо)", "twitch": "2002964506", "start": "3:10:08" }
+      { "name": "Sanguivore: Twenty Below", "twitch": "2008212794", "start": "3:40:33" }
+    ]
+  },
+  {
+    "name": "Abiotic Factor",
+    "category": "co-op",
+    "id": "abiotic-factor",
+    "streams": [
+      { "name": "1 (демо, со зрителями)", "twitch": "2002964506", "start": "3:10:08" },
+      { "name": "2 (4D)", "twitch": "2008212794", "start": "3:40:33" }
     ]
   },
   {
@@ -433,7 +442,8 @@
     "id": "ready-or-not",
     "streams": [
       { "name": "1", "twitch": "2003812256", "start": "2:40:03" },
-      { "name": "2", "twitch": "2007394703", "start": "2:18:04" }
+      { "name": "2", "twitch": "2007394703", "start": "2:18:04" },
+      { "name": "3", "twitch": "2008212794", "start": "6:28:45" }
     ]
   },
   {
@@ -2747,7 +2757,6 @@
         { "name": "Hell of Verdun (демо)", "start": "4:55:51" },
         { "name": "The Black Within (демо)", "start": "5:11:30" }
       ] },
-      { "name": "RoboCop: Rogue City (демо)", "twitch": "1952515492", "start": "14:14" },
       { "twitch": "1954044542", "subrefs": [
         { "name": "Tatari: The Arrival (демо)", "start": "35:51" },
         { "name": "CHORDOSIS: Episode 1", "start": "1:23:58" }
@@ -2807,6 +2816,15 @@
       { "name": "Cursed Enigma: Priest and Prayers", "twitch": "2002100435", "start": "40:55" },
       { "name": "Ding Dong Dead", "twitch": "2002964506", "start": "1:13:28" },
       { "name": "The Dire", "twitch": "2005613219", "start": "4:33:51" }
+    ]
+  },
+  {
+    "name": "RoboCop: Rogue City",
+    "category": "ongoing",
+    "id": "robocop",
+    "streams": [
+      { "name": "1 (демо)", "twitch": "1952515492", "start": "14:14" },
+      { "name": "2", "twitch": "2008212794", "start": "18:46" }
     ]
   },
   {
