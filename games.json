@@ -2816,7 +2816,8 @@
       ] },
       { "name": "Cursed Enigma: Priest and Prayers", "twitch": "2002100435", "start": "40:55" },
       { "name": "Ding Dong Dead", "twitch": "2002964506", "start": "1:13:28" },
-      { "name": "The Dire", "twitch": "2005613219", "start": "4:33:51" }
+      { "name": "The Dire", "twitch": "2005613219", "start": "4:33:51" },
+      { "name": "Revenge Of The Colon", "twitch": "2011805602", "start": "3:26:45" }
     ]
   },
   {
@@ -3039,7 +3040,8 @@
       { "name": "Deer", "twitch": "1951658427", "start": "2:45:42" },
       { "name": "Hello, I came to kill you", "twitch": "1971007084", "start": "1:09:59" },
       { "name": "Shhh!", "twitch": "2001246384", "start": "1:00:16" },
-      { "name": "Poop Killer 8", "twitch": "2007394703", "start": "43:07" }
+      { "name": "Poop Killer 8", "twitch": "2007394703", "start": "43:07" },
+      { "name": "The Lights Went Out", "twitch": "2011805602", "start": "28:12" }
     ]
   },
   {
@@ -5149,9 +5151,10 @@
     "id": "outlast-trials",
     "streams": [
       { "name": "1 (соло)", "twitch": "1826440973", "start": "4:39" },
-      { "name": "2 (с Куплиновым и Дангаром)", "twitch": "1827232465,1827360298,1827371582,1827392675", "start": "2:38:14" },
-      { "name": "3 (с Куплиновым и Дангаром)", "twitch": "1830612078", "start": "2:36:04" },
-      { "name": "4 (с Куплиновым и Дангаром)", "twitch": "1902891024", "start": "46:52" }
+      { "name": "2 (с Димами)", "twitch": "1827232465,1827360298,1827371582,1827392675", "start": "2:38:14" },
+      { "name": "3 (с Димами)", "twitch": "1830612078", "start": "2:36:04" },
+      { "name": "4 (с Димами)", "twitch": "1902891024", "start": "46:52" },
+      { "name": "5 (с тремя Димами)", "twitch": "2011805602", "start": "1:13:48" }
     ]
   },
   {
