@@ -4626,8 +4626,16 @@
       { "name": "Skull Island: Rise of Kong", "twitch": "1999409596", "start": "2:53:11" },
       { "name": "Nafanya the Poltergeist", "twitch": "2000344386", "start": "3:19:53" },
       { "name": "Chaperone", "twitch": "2002964506", "start": "44:10" },
-      { "name": "Ice Age 2: The Meltdown (Ледниковый Период 2)", "twitch": "2006538127", "start": "31:14" },
       { "name": "Biohazard 2 (by PerroAutonomo)", "twitch": "2009126367", "start": "1:01:18" }
+    ]
+  },
+  {
+    "name": "Ice Age 2: The Meltdown (Ледниковый период 2: Глобальное потепление)",
+    "category": "finished",
+    "id": "ice-age-2",
+    "streams": [
+      { "name": "1", "twitch": "2006538127", "start": "31:14" },
+      { "name": "2", "twitch": "2012687193", "start": "3:02:36" }
     ]
   },
   {
@@ -6677,11 +6685,12 @@
       { "name": "2", "twitch": "768182935", "start": "3:49:08" },
       { "name": "3 (релиз)", "twitch": "1932106766", "start": "3:23:04" },
       { "name": "4", "twitch": "1933030113", "start": "5:11:20" },
-      { "name": "5 (с Куплиновым и Дангаром)", "twitch": "1949835858", "start": "1:02:51" },
+      { "name": "5 (с Димами)", "twitch": "1949835858", "start": "1:02:51" },
       { "name": "6 (4D)", "twitch": "1977184678", "start": "4:20:07" },
       { "name": "7 (4D)", "twitch": "1984225169", "start": "5:10:07" },
       { "name": "8", "twitch": "1989452096", "start": "4:04:03" },
-      { "name": "9", "twitch": "1999409596" }
+      { "name": "9", "twitch": "1999409596" },
+      { "name": "10 (с тремя Димами)", "twitch": "2012687193", "start": "50:02" }
     ]
   },
   {
