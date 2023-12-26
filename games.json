@@ -2458,8 +2458,7 @@
       { "name": "Call of Duty: Modern Warfare II", "twitch": "1630171647", "start": "12:47" },
       { "twitch": "1633962812", "subrefs": [
         { "name": "The Shadow over Route 80", "start": "1:18:40" },
-        { "name": "Father's Day", "start": "2:07:07" },
-        { "name": "Silence Channel 2 (демо)", "start": "5:16:15" }
+        { "name": "Father's Day", "start": "2:07:07" }
       ] },
       { "twitch": "1634888055", "subrefs": [
         { "name": "Please Don't Litter", "start": "1:56:34" },
@@ -2493,6 +2492,15 @@
         { "name": "The Thing - P.T. (by Stefano Cagnani)", "start": "5:38:25" }
       ] },
       { "name": "Crimson Snow", "twitch": "1693798502", "start": "1:39:13" }
+    ]
+  },
+  {
+    "name": "Silence Channel 2",
+    "category": "ongoing",
+    "id": "silence-channel-2",
+    "streams": [
+      { "name": "Демо", "twitch": "1633962812", "start": "5:16:15" },
+      { "name": "Релиз", "twitch": "2014172398", "start": "1:02:43" }
     ]
   },
   {
@@ -2817,7 +2825,12 @@
       { "name": "Cursed Enigma: Priest and Prayers", "twitch": "2002100435", "start": "40:55" },
       { "name": "Ding Dong Dead", "twitch": "2002964506", "start": "1:13:28" },
       { "name": "The Dire", "twitch": "2005613219", "start": "4:33:51" },
-      { "name": "Revenge Of The Colon", "twitch": "2011805602", "start": "3:26:45" }
+      { "name": "Revenge Of The Colon", "twitch": "2011805602", "start": "3:26:45" },
+      { "twitch": "2014172398", "subrefs": [
+        { "name": "DMV: Become Viechle", "start": "3:45:48" },
+        { "name": "Christmas Nightmare", "start": "3:54:06" }
+      ] }
+      
     ]
   },
   {
@@ -4626,7 +4639,12 @@
       { "name": "Skull Island: Rise of Kong", "twitch": "1999409596", "start": "2:53:11" },
       { "name": "Nafanya the Poltergeist", "twitch": "2000344386", "start": "3:19:53" },
       { "name": "Chaperone", "twitch": "2002964506", "start": "44:10" },
-      { "name": "Biohazard 2 (by PerroAutonomo)", "twitch": "2009126367", "start": "1:01:18" }
+      { "name": "Biohazard 2 (by PerroAutonomo)", "twitch": "2009126367", "start": "1:01:18" },
+      { "twitch": "2014172398", "subrefs": [
+        { "name": "Dino Trauma (демо)", "start": "1:52:03" },
+        { "name": "The Backrooms: Unbounded", "start": "2:36:33" },
+        { "name": "Dead Faces: Prologue (демо)", "start": "3:13:09" }
+      ] }
     ]
   },
   {
