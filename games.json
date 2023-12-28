@@ -4643,8 +4643,16 @@
         { "name": "Dino Trauma (демо)", "start": "1:52:03" },
         { "name": "The Backrooms: Unbounded", "start": "2:36:33" },
         { "name": "Dead Faces: Prologue (демо)", "start": "3:13:09" }
-      ] },
-      { "name": "Ai korosu yori, Ai korosaretai (Пусть лучше меня убьёт любовь, чем я убью её)", "twitch": "2015063082", "start": "26:30" }
+      ] }
+    ]
+  },
+  {
+    "name": "Ai korosu yori, Ai korosaretai (Пусть лучше меня убьёт любовь, чем я убью её)",
+    "category": "finished",
+    "id": "ai-korosu-yori",
+    "streams": [
+      { "name": "1", "twitch": "2015063082", "start": "26:30" },
+      { "name": "2", "twitch": "2016002631", "start": "1:01:56" }
     ]
   },
   {
@@ -6965,7 +6973,8 @@
       { "name": "19", "twitch": "1048673954", "start": "3:27:57" },
       { "name": "20", "twitch": "1140665211", "start": "4:07:15" },
       { "name": "21", "twitch": "1866511537", "start": "2:06:41" },
-      { "name": "22", "twitch": "1869063797", "start": "1:13:59" }
+      { "name": "22", "twitch": "1869063797", "start": "1:13:59" },
+      { "name": "23", "twitch": "2016002631", "start": "3:07:19" }
     ]
   },
   {
