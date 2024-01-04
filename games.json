@@ -4881,7 +4881,7 @@
   },
   {
     "name": "Gothic",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "gothic",
     "streams": [
       { "name": "Первый взгляд", "twitch": "849365667", "start": "1:52:05" },
@@ -6466,7 +6466,7 @@
   },
   {
     "name": "Song of Horror",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "song-of-horror",
     "streams": [
       { "name": "1", "twitch": "878410974", "start": "47:28" },
