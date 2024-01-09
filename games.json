@@ -4687,6 +4687,7 @@
     "name": "Прохождения за один стрим 2024",
     "category": "finished",
     "id": "single-2024",
+    "type": "list",
     "streams": [
       { "twitch": "2026423132", "subrefs": [
         { "name": "Amygdala: Prelude (демо)", "start": "1:27:51" },
