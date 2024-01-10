@@ -3837,7 +3837,6 @@
         "note": "Начало игры доступно на <a href=\"https://youtu.be/z5sgJou7Tfw\">YouTube</a>."
       },
       { "name": "Pokemon: Let's Go, Pikachu!", "twitch": "337051811" },
-      { "name": "Metal Gear Solid 3: Snake Eater", "twitch": "338345713", "segment": 1 },
       { "name": "Darksiders 3", "twitch": "340934900" },
       { "twitch": "344508969", "segment": 1, "subrefs": [
         { "name": "Return 2 Games: Book of Demons" },
@@ -7434,6 +7433,15 @@
       { "name": "1", "twitch": "521837299", "start": "4:27:23" },
       { "name": "2", "twitch": "523121734" },
       { "name": "3", "twitch": "525744926" }
+    ]
+  },
+  {
+    "name": "Metal Gear Solid 3: Snake Eater",
+    "category": "ongoing",
+    "id": "mgs-3",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "338345713", "segment": 1, "start": "2:17:12" },
+      { "name": "1", "twitch": "2028265580", "start": "20:46" }
     ]
   },
   {
