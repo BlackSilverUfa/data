@@ -456,7 +456,8 @@
     "streams": [
       { "name": "1", "twitch": "2003812256", "start": "2:40:03" },
       { "name": "2", "twitch": "2007394703", "start": "2:18:04" },
-      { "name": "3", "twitch": "2008212794", "start": "6:28:45" }
+      { "name": "3", "twitch": "2008212794", "start": "6:28:45" },
+      { "name": "4", "twitch": "2033253291", "start": "2:12:48" }
     ]
   },
   {
@@ -4680,7 +4681,8 @@
     "type": "list",
     "id": "first-2024",
     "streams": [
-      { "name": "Robocop vs Predator", "twitch": "2032273403", "start": "1:32:53" }
+      { "name": "Robocop vs Predator", "twitch": "2032273403", "start": "1:32:53" },
+      { "name": "Serenity: At the Heart of Altai", "twitch": "2033253291", "start": "47:55" }
     ]
   },
   {
