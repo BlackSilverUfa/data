@@ -3078,9 +3078,10 @@
       { "name": "Poop Killer 7", "twitch": "1837484119", "start": "2:57:03" },
       { "name": "Deer", "twitch": "1951658427", "start": "2:45:42" },
       { "name": "Hello, I came to kill you", "twitch": "1971007084", "start": "1:09:59" },
-      { "name": "Shhh!", "twitch": "2001246384", "start": "1:00:16" },
+      { "name": "Shhh! - Morgan's House", "twitch": "2001246384", "start": "1:00:16" },
       { "name": "Poop Killer 8", "twitch": "2007394703", "start": "43:07" },
-      { "name": "The Lights Went Out", "twitch": "2011805602", "start": "28:12" }
+      { "name": "The Lights Went Out", "twitch": "2011805602", "start": "28:12" },
+      { "name": "Shhh! - Witch Forest", "twitch": "2039280243", "start": "2:13:43" }
     ]
   },
   {
@@ -4682,7 +4683,12 @@
     "id": "first-2024",
     "streams": [
       { "name": "Robocop vs Predator", "twitch": "2032273403", "start": "1:32:53" },
-      { "name": "Serenity: At the Heart of Altai", "twitch": "2033253291", "start": "47:55" }
+      { "name": "Serenity: At the Heart of Altai", "twitch": "2033253291", "start": "47:55" },
+      { "twitch": "2039280243", "subrefs": [
+        { "name": "Rotten Flesh", "start": "1:12:07" },
+        { "name": "The Descent", "start": "2:52:19" },
+        { "name": "Void Crawler (демо)", "start": "3:49:56" }
+      ] }
     ]
   },
   {
