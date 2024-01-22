@@ -4688,7 +4688,8 @@
         { "name": "Rotten Flesh", "start": "1:12:07" },
         { "name": "The Descent", "start": "2:52:19" },
         { "name": "Void Crawler (демо)", "start": "3:49:56" }
-      ] }
+      ] },
+      { "name": "False Dream", "twitch": "2040254115", "start": "3:17:08" }
     ]
   },
   {
@@ -4702,7 +4703,11 @@
         { "name": "Drive Me to Hell", "start": "2:58:07" },
         { "name": "Supernatural (демо)", "start": "3:40:19" }
       ] },
-      { "name": "Supernormal", "twitch": "2027362039", "start": "1:09:57" }
+      { "name": "Supernormal", "twitch": "2027362039", "start": "1:09:57" },
+      { "twitch": "2040254115", "subrefs": [
+        { "name": "Holidays in Khrushchevsk", "start": "1:03:58" },
+        { "name": "Martha's Dolls", "start": "2:20:15" }
+      ] }
     ]
   },
   {
