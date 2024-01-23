@@ -2735,8 +2735,7 @@
         { "name": "Stalls of Dread", "start": "1:21:08" },
         { "name": "Endless Blue", "start": "1:36:07" },
         { "name": "Dark Stories: The Workshop", "start": "2:32:41" },
-        { "name": "Pyramid Curse", "start": "3:33:57" },
-        { "name": "Martha's Dolls (демо)", "start": "4:32:32" }
+        { "name": "Pyramid Curse", "start": "3:33:57" }
       ] },
       { "twitch": "1939916692", "subrefs": [
         { "name": "Teke-teke", "start": "40:28" },
@@ -4518,10 +4517,7 @@
         { "name": "Rewind or Die", "start": "3:25:26" }
       ] },
       { "name": "Dawn of Hell", "twitch": "1812854556", "start": "42:08" },
-      { "twitch": "1827232465,1827360298,1827371582,1827392675", "subrefs": [
-        { "name": "Horror Exp+", "start": "2:12:43" },
-        { "name": "Haunted Horror Stories: Gone With The Wind", "start": "4:25:39" }
-      ] },
+      { "name": "Horror Exp+", "twitch": "1827232465,1827360298,1827371582,1827392675", "start": "2:12:43" },
       { "twitch": "1828848663", "subrefs": [
         { "name": "The Lord of the Rings: Gollum", "start": "20:41" },
         { "name": "Warhammer 40,000: Boltgun", "start": "2:11:08" },
@@ -4688,8 +4684,7 @@
         { "name": "Rotten Flesh", "start": "1:12:07" },
         { "name": "The Descent", "start": "2:52:19" },
         { "name": "Void Crawler (демо)", "start": "3:49:56" }
-      ] },
-      { "name": "False Dream", "twitch": "2040254115", "start": "3:17:08" }
+      ] }
     ]
   },
   {
@@ -4704,10 +4699,40 @@
         { "name": "Supernatural (демо)", "start": "3:40:19" }
       ] },
       { "name": "Supernormal", "twitch": "2027362039", "start": "1:09:57" },
-      { "twitch": "2040254115", "subrefs": [
-        { "name": "Holidays in Khrushchevsk", "start": "1:03:58" },
-        { "name": "Martha's Dolls", "start": "2:20:15" }
+      { "name": "Holidays in Khrushchevsk", "twitch": "2040254115", "start": "1:03:58" },
+      { "twitch": "2041199784", "subrefs": [
+        { "name": "Midnight Custody", "start": "1:04:21" },
+        { "name": "Callout", "start": "1:17:29" },
+        { "name": "Forest Ranger Services", "start": "1:30:21" },
+        { "name": "Leave Me Alone!", "start": "1:56:46" }
       ] }
+    ]
+  },
+  {
+    "name": "Martha's Dolls",
+    "category": "finished",
+    "id": "marthas-dolls",
+    "streams": [
+      { "name": "Демо", "twitch": "1933948782", "start": "4:32:32" },
+      { "name": "Релиз", "twitch": "2040254115", "start": "2:20:15" }
+    ]
+  },
+  {
+    "name": "Haunted Horror Stories: Gone With the Wind",
+    "category": "ongoing",
+    "id": "hhs-gwtw",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "1827232465,1827360298,1827371582,1827392675", "start": "4:25:39" },
+      { "name": "Прохождение", "twitch": "2041199784", "start": "2:23:36" }
+    ]
+  },
+  {
+    "name": "False Dream",
+    "category": "finished",
+    "id": "false-dream",
+    "streams": [
+      { "name": "1", "twitch": "2040254115", "start": "3:17:08" },
+      { "name": "2", "twitch": "2041199784", "start": "3:08:21" }
     ]
   },
   {
