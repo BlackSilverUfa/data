@@ -5609,7 +5609,7 @@
   },
   {
     "name": "Yakuza 0",
-    "category": "ongoing",
+    "category": "finished",
     "id": "yakuza-0",
     "streams": [
       { "name": "1", "twitch": "1598875892", "start": "7:54" },
@@ -5621,7 +5621,8 @@
       { "name": "7", "twitch": "1709052941", "start": "13:45" },
       { "name": "8", "twitch": "1740746666", "start": "55:30" },
       { "name": "9", "twitch": "1986776678", "start": "11:08" },
-      { "name": "10", "twitch": "1987710775", "start": "22:51" }
+      { "name": "10", "twitch": "1987710775", "start": "22:51" },
+      { "name": "11", "twitch": "2042125818", "start": "12:03" }
     ]
   },
   {
