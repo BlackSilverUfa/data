@@ -4571,10 +4571,7 @@
         { "name": "Paranormal Observation", "start": "4:47:46" },
         { "name": "Vorax", "start": "5:22:39" }
       ] },
-      { "twitch": "1877734451,1877816047,1877882907", "subrefs": [
-        { "name": "Exoprimal", "start": "28:35" },
-        { "name": "Tekken 8 (Closed Network Test)", "start": "3:47:42" }
-      ] },
+      { "name": "Exoprimal", "twitch": "1877734451,1877816047,1877882907", "start": "28:35" },
       { "name": "Chester: Into the Light", "twitch": "1880378307", "start": "2:27:27" },
       { "twitch": "1881238247", "subrefs": [
         { "name": "The Backrooms (Dreams)", "start": "40:34" },
@@ -4742,6 +4739,15 @@
     "streams": [
       { "name": "1", "twitch": "2015063082", "start": "26:30" },
       { "name": "2", "twitch": "2016002631", "start": "1:01:56" }
+    ]
+  },
+  {
+    "name": "Tekken 8",
+    "category": "ongoing",
+    "id": "tekken-8",
+    "streams": [
+      { "name": "Closed Network Test", "twitch": "1877734451,1877816047,1877882907", "start": "3:47:42" },
+      { "name": "Релиз", "twitch": "2044117184", "start": "27:45" }
     ]
   },
   {
@@ -7064,7 +7070,8 @@
       { "name": "20", "twitch": "1140665211", "start": "4:07:15" },
       { "name": "21", "twitch": "1866511537", "start": "2:06:41" },
       { "name": "22", "twitch": "1869063797", "start": "1:13:59" },
-      { "name": "23", "twitch": "2016002631", "start": "3:07:19" }
+      { "name": "23", "twitch": "2016002631", "start": "3:07:19" },
+      { "name": "24", "twitch": "2044117184", "start": "2:39:10" }
     ]
   },
   {
