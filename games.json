@@ -4617,7 +4617,6 @@
         { "name": "Gennady (демо)", "start": "1:34:40" },
         { "name": "The Talos Principle II (демо)", "start": "1:39:52" },
         { "name": "The Thaumaturge (демо)", "start": "2:37:20" },
-        { "name": "Enshrouded (демо)", "start": "3:36:41" },
         { "name": "The Enjenir (демо)", "start": "4:08:54" }
       ] },
       { "twitch": "1951658427", "subrefs": [
@@ -4667,6 +4666,15 @@
         { "name": "Dead Faces: Prologue (демо)", "start": "3:13:09" }
       ] },
       { "name": "Inky's Sleep (демо)", "twitch": "2016955242", "start": "1:36:00" }
+    ]
+  },
+  {
+    "name": "Enshrouded",
+    "category": "co-op",
+    "id": "enshrouded",
+    "streams": [
+      { "name": "Демо (соло)", "twitch": "1950762078", "start": "3:36:41" },
+      { "name": "Релиз", "twitch": "2045072225", "start": "27:03" }
     ]
   },
   {
