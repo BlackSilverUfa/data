@@ -4762,7 +4762,8 @@
     "id": "tekken-8",
     "streams": [
       { "name": "Closed Network Test", "twitch": "1877734451,1877816047,1877882907", "start": "3:47:42" },
-      { "name": "Релиз", "twitch": "2044117184", "start": "27:45" }
+      { "name": "1", "twitch": "2044117184", "start": "27:45" },
+      { "name": "2", "twitch": "2048089662", "start": "13:21" }
     ]
   },
   {
