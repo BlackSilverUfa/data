@@ -3123,7 +3123,8 @@
     "id": "poppy-playtime",
     "streams": [
       { "name": "Глава 1", "twitch": "1181039582" },
-      { "name": "Глава 2", "twitch": "1314842666" }
+      { "name": "Глава 2", "twitch": "1314842666" },
+      { "name": "1 (заново)", "twitch": "2049927382", "start": "4:05:24" }
     ]
   },
   {
@@ -4718,7 +4719,8 @@
         { "name": "Forest Ranger Services", "start": "1:30:21" },
         { "name": "Leave Me Alone!", "start": "1:56:46" }
       ] },
-      { "name": "I'm counting to 6...", "twitch": "2046157845", "start": "36:53" }
+      { "name": "I'm counting to 6...", "twitch": "2046157845", "start": "36:53" },
+      { "name": "Silent Hill: The Short Message", "twitch": "2049927382", "start": "1:10:04" }
     ]
   },
   {
