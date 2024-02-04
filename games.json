@@ -4699,7 +4699,8 @@
         { "name": "The Descent", "start": "2:52:19" },
         { "name": "Void Crawler (демо)", "start": "3:49:56" }
       ] },
-      { "name": "Persona 3 Reload", "twitch": "2050830271", "start": "14:35" }
+      { "name": "Persona 3 Reload", "twitch": "2050830271", "start": "14:35" },
+      { "name": "Harold Halibut", "twitch": "2052963702", "start": "4:52:27" }
     ]
   },
   {
@@ -4722,7 +4723,20 @@
         { "name": "Leave Me Alone!", "start": "1:56:46" }
       ] },
       { "name": "I'm counting to 6...", "twitch": "2046157845", "start": "36:53" },
-      { "name": "Silent Hill: The Short Message", "twitch": "2049927382", "start": "1:10:04" }
+      { "name": "Silent Hill: The Short Message", "twitch": "2049927382", "start": "1:10:04" },
+      { "twitch": "2052963702", "subrefs": [
+        { "name": "Anji Implication", "start": "35:35" },
+        { "name": "Project 13", "start": "51:02" },
+        { "name": "Lamp Post", "start": "1:27:48" },
+        { "name": "SCP: Contamination (демо)", "start": "1:45:42" },
+        { "name": "The Backrooms: Lost Tape", "start": "2:08:20" },
+        { "name": "Nip For Speed", "start": "3:23:15" },
+        { "name": "5 Nights at Grek's Hotel", "start": "3:29:40" },
+        { "name": "5 Nights at Shrek's Hotel", "start": "3:51:48" },
+        { "name": "Subdread", "start": "4:29:53" },
+        { "name": "Jack In The Box", "start": "4:42:31" },
+        { "name": "Mouthwashing (демо)", "start": "4:59:18" }
+      ] }
     ]
   },
   {
