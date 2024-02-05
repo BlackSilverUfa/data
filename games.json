@@ -3087,7 +3087,8 @@
       { "name": "Shhh! - Morgan's House", "twitch": "2001246384", "start": "1:00:16" },
       { "name": "Poop Killer 8", "twitch": "2007394703", "start": "43:07" },
       { "name": "The Lights Went Out", "twitch": "2011805602", "start": "28:12" },
-      { "name": "Shhh! - Witch Forest", "twitch": "2039280243", "start": "2:13:43" }
+      { "name": "Shhh! - Witch Forest", "twitch": "2039280243", "start": "2:13:43" },
+      { "name": "Community", "twitch": "2053929102", "start": "3:49:04" }
     ]
   },
   {
@@ -3119,13 +3120,14 @@
   },
   {
     "name": "Poppy Playtime",
-    "category": "abandoned",
+    "category": "finished",
     "id": "poppy-playtime",
     "streams": [
       { "name": "Глава 1", "twitch": "1181039582" },
       { "name": "Глава 2", "twitch": "1314842666" },
       { "name": "1 (заново)", "twitch": "2049927382", "start": "4:05:24" },
-      { "name": "2", "twitch": "2051914598", "start": "39:25" }
+      { "name": "2", "twitch": "2051914598", "start": "39:25" },
+      { "name": "3", "twitch": "2053929102", "start": "34:11" }
     ]
   },
   {
@@ -4700,7 +4702,8 @@
         { "name": "Void Crawler (демо)", "start": "3:49:56" }
       ] },
       { "name": "Persona 3 Reload", "twitch": "2050830271", "start": "14:35" },
-      { "name": "Harold Halibut", "twitch": "2052963702", "start": "4:52:27" }
+      { "name": "Harold Halibut", "twitch": "2052963702", "start": "4:52:27" },
+      { "name": "MULLET MAD JACK (демо)", "twitch": "2053929102", "start": "4:53:23" }
     ]
   },
   {
