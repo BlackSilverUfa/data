@@ -251,7 +251,7 @@
   "163612448": { "youtube": "ujz4o78-orM" },
   "164116949": { "youtube": "5JOCDsqrhOY", "offset": "-0:07" },
   "164165380": { "youtube": "yH9DIXACVkA", "offset": "-0:07" },
-  "164633577": { "youtube": "0XeyDh7T0Jw" },
+  "164633577": {  },
   "165359272": {
     "youtube": "izclf2abLMU", "official": false,
     "note": "<a href=\"https://youtu.be/qInCMF9MuEs\">Официальная запись</a> сломана (недоступно качество выше 360p)"
@@ -382,7 +382,7 @@
   "233711282": { "youtube": "UTVKKl5OZng", "offset": "32:55" },
   "234037742": [
     {
-      "youtube": "7osmQxT12SE", "offset": "0:19", "official": false,
+      "offset": "0:19",
       "note": "Официальная запись <a href=\"https://vk.com/wall-28387068_3201905\">заблокирована</a>."
     },
     {
@@ -1347,7 +1347,7 @@
     "note": "<a href=\"https://youtu.be/P9H7zaD1juw\">Официальная запись</a> сломана (недоступно качество выше 360p)"
   },
   "532787117": { "youtube": "7BwEYyVi1YU" },
-  "533269694": {  },
+  "533269694": { "youtube": "6wVtH0IbfT0", "official": false },
   "533755753": { "youtube": "AN7xJO44nxM" },
   "534301966": { "youtube": "yky_-3I336M" },
   "534316789": { "youtube": "MHWJzW9QqYw", "official": false },
