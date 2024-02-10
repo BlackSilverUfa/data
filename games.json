@@ -432,7 +432,8 @@
       { "twitch": "2046157845", "subrefs": [
         { "name": "LASERS", "start": "2:32:09" },
         { "name": "Minigame Game", "start": "4:03:09" }
-      ] }
+      ] },
+      { "name": "Helldivers 2", "twitch": "2058685006", "start": "2:56:57" }
     ]
   },
   {
@@ -4710,7 +4711,11 @@
         { "name": "CYGNI: All Guns Blazing (демо)", "start": "3:21:17" },
         { "name": "Star Trucker (демо)", "start": "4:11:44" }
       ] },
-      { "name": "Final Fantasy VII Rebirth", "twitch": "2055762940", "start": "3:26:28" }
+      { "twitch": "2058685006", "subrefs": [
+        { "name": "Islands of Insight (демо)", "start": "1:11:23" },
+        { "name": "Outcast: A New Beginning (демо)", "start": "1:37:54" },
+        { "name": "Cryptmaster (демо)", "start": "2:18:01" }
+      ] }
     ]
   },
   {
@@ -4746,7 +4751,8 @@
         { "name": "Subdread", "start": "4:29:53" },
         { "name": "Jack In The Box", "start": "4:42:31" },
         { "name": "Mouthwashing (демо)", "start": "4:59:18" }
-      ] }
+      ] },
+      { "name": "Final Fantasy VII Rebirth (демо)", "twitch": "2055762940", "start": "3:26:28" }
     ]
   },
   {
