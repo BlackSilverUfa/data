@@ -432,8 +432,16 @@
       { "twitch": "2046157845", "subrefs": [
         { "name": "LASERS", "start": "2:32:09" },
         { "name": "Minigame Game", "start": "4:03:09" }
-      ] },
-      { "name": "Helldivers 2", "twitch": "2058685006", "start": "2:56:57" }
+      ] }
+    ]
+  },
+  {
+    "name": "Helldivers 2",
+    "category": "co-op",
+    "id": "helldivers-2",
+    "streams": [
+      { "name": "1", "twitch": "2058685006", "start": "2:56:57" },
+      { "name": "2", "twitch": "2059745251", "start": "1:39:05" }
     ]
   },
   {
@@ -462,7 +470,8 @@
       { "name": "1", "twitch": "2003812256", "start": "2:40:03" },
       { "name": "2", "twitch": "2007394703", "start": "2:18:04" },
       { "name": "3", "twitch": "2008212794", "start": "6:28:45" },
-      { "name": "4", "twitch": "2033253291", "start": "2:12:48" }
+      { "name": "4", "twitch": "2033253291", "start": "2:12:48" },
+      { "name": "5", "twitch": "2059745251", "start": "5:08:00" }
     ]
   },
   {
@@ -4715,6 +4724,11 @@
         { "name": "Islands of Insight (демо)", "start": "1:11:23" },
         { "name": "Outcast: A New Beginning (демо)", "start": "1:37:54" },
         { "name": "Cryptmaster (демо)", "start": "2:18:01" }
+      ] },
+      { "twitch": "2059745251", "subrefs": [
+        { "name": "Level Unknown: Backrooms (демо)", "start": "41:22" },
+        { "name": "Backrooms (демо)", "start": "1:07:31" },
+        { "name": "Homeworld 3 (демо)", "start": "1:13:42" }
       ] }
     ]
   },
