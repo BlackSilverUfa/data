@@ -4729,7 +4729,8 @@
         { "name": "Level Unknown: Backrooms (демо)", "start": "41:22" },
         { "name": "Backrooms (демо)", "start": "1:07:31" },
         { "name": "Homeworld 3 (демо)", "start": "1:13:42" }
-      ] }
+      ] },
+      { "name": "God of War (2005)", "twitch": "2060617824", "start": "40:12" }
     ]
   },
   {
@@ -8761,7 +8762,7 @@
     ]
   },
   {
-    "name": "God of War",
+    "name": "God of War (2018)",
     "category": "finished",
     "id": "god-of-war",
     "streams": [
