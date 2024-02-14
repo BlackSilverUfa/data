@@ -4731,7 +4731,11 @@
         { "name": "Homeworld 3 (демо)", "start": "1:13:42" }
       ] },
       { "name": "God of War (2005)", "twitch": "2060617824", "start": "40:12" },
-      { "name": "Banishers: Ghosts of New Eden", "twitch": "2061535064", "start": "38:13" }
+      { "name": "Banishers: Ghosts of New Eden", "twitch": "2061535064", "start": "38:13" },
+      { "twitch": "2062465117", "subrefs": [
+        { "name": "Tomb Raider I: Remastered", "start": "8:46" },
+        { "name": "Tomb Raider II: Remastered", "start": "1:49:35" }
+      ] }
     ]
   },
   {
