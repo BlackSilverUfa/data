@@ -548,13 +548,14 @@
     ]
   },
   {
-    "name": "Sons of the Forest (с Дашей и Джеком)",
+    "name": "Sons of the Forest",
     "category": "finished",
     "id": "sons-forest",
     "streams": [
-      { "name": "1", "twitch": "1750602082", "start": "22:06" },
+      { "name": "1 (с Дашей и Джеком)", "twitch": "1750602082", "start": "22:06" },
       { "name": "2", "twitch": "1751502984", "start": "3:27" },
-      { "name": "3", "twitch": "1752454738", "start": "17:33" }
+      { "name": "3", "twitch": "1752454738", "start": "17:33" },
+      { "name": "1 (4D)", "twitch": "2071202910", "start": "4:16:41" }
     ]
   },
   {
@@ -2477,7 +2478,6 @@
       { "twitch": "1607244038", "subrefs": [
         { "name": "Go Home Annie: An SCP Game (демо)", "start": "1:47:33" },
         { "name": "Convenient", "start": "2:42:05" },
-        { "name": "Lazaret (демо)", "start": "3:24:49" },
         { "name": "Late Night Mop", "start": "4:16:00" },
         { "name": "The Death: Than Trung", "start": "4:32:51" }
       ] },
@@ -4716,7 +4716,6 @@
       { "name": "Harold Halibut", "twitch": "2052963702", "start": "4:52:27" },
       { "name": "MULLET MAD JACK (демо)", "twitch": "2053929102", "start": "4:53:23" },
       { "twitch": "2054830363", "subrefs": [
-        { "name": "Pacific Drive (демо)", "start": "31:21" },
         { "name": "Lightyear Frontier (демо)", "start": "2:28:47" },
         { "name": "CYGNI: All Guns Blazing (демо)", "start": "3:21:17" },
         { "name": "Star Trucker (демо)", "start": "4:11:44" }
@@ -4738,10 +4737,26 @@
         { "name": "Tomb Raider II: Remastered", "start": "1:49:35" }
       ] },
       { "name": "Escape Floor Zero", "twitch": "2069337431", "start": "2:55:32" },
-      { "twitch": "2070293042", "subrefs": [
-        { "name": "IFU", "start": "1:14:29" },
-        { "name": "Lazaret", "start": "3:56:52" }
-      ] }
+      { "name": "IFU", "twitch": "2070293042", "start": "1:14:29" }
+    ]
+  },
+  {
+    "name": "Lazaret",
+    "category": "finished",
+    "id": "lazaret",
+    "streams": [
+      { "name": "Демо", "twitch": "1607244038", "start": "3:24:49" },
+      { "name": "1", "twitch": "2070293042", "start": "3:56:52" },
+      { "name": "2", "twitch": "2071202910", "start": "22:39" }
+    ]
+  },
+  {
+    "name": "Pacific Drive",
+    "category": "ongoing",
+    "id": "pacific-drive",
+    "streams": [
+      { "name": "Демо", "twitch": "2054830363", "start": "31:21" },
+      { "name": "Релиз", "twitch": "2071202910", "start": "2:32:36" }
     ]
   },
   {
