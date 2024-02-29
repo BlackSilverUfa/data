@@ -4797,7 +4797,6 @@
         { "name": "Jack In The Box", "start": "4:42:31" },
         { "name": "Mouthwashing (демо)", "start": "4:59:18" }
       ] },
-      { "name": "Final Fantasy VII Rebirth (демо)", "twitch": "2055762940", "start": "3:26:28" },
       { "twitch": "2069337431", "subrefs": [
         { "name": "Backrooms: The Project (демо)", "start": "1:09:55" },
         { "name": "Within the Unknown", "start": "2:21:10" },
@@ -4807,6 +4806,15 @@
         { "name": "Pools (демо)", "start": "48:30" },
         { "name": "Quod: Episode 1", "start": "2:05:10" }
       ] }
+    ]
+  },
+  {
+    "name": "Final Fantasy VII Rebirth",
+    "category": "ongoing",
+    "id": "ff-vii-rebirth",
+    "streams": [
+      { "name": "Демо", "twitch": "2055762940", "start": "3:26:28" },
+      { "name": "1", "twitch": "2076970270", "start": "10:25" }
     ]
   },
   {
