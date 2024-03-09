@@ -4743,7 +4743,6 @@
       ] },
       { "name": "Escape Floor Zero", "twitch": "2069337431", "start": "2:55:32" },
       { "name": "IFU", "twitch": "2070293042", "start": "1:14:29" },
-      { "name": "Nancy Drew: Last Train to Blue Moon Canyon (Нэнси Дрю. Последний поезд в Лунное ущелье)", "twitch": "2080031749", "start": "56:19" },
       { "twitch": "2081886159", "subrefs": [
         { "name": "Fossilfuel 2", "start": "30:46" },
         { "name": "Expeditions: A MudRunner Game", "start": "1:59:25" },
@@ -4751,9 +4750,29 @@
         { "name": "The Zhukov Line", "start": "5:05:39" }
       ] },
       { "twitch": "2083745262", "subrefs": [
-        { "name": "Samosbor", "start": "13:53:33" },
-        { "name": "A Difficult Game About Climbing", "start": "4:05:41" }
+        { "name": "Samosbor", "start": "13:53:33" }
+      ] },
+      { "twitch": "2085706176", "subrefs": [
+        { "name": "Snow Plowing Simulator", "start": "3:25:42" }
       ] }
+    ]
+  },
+  {
+    "name": "Nancy Drew: Last Train to Blue Moon Canyon (Нэнси Дрю. Последний поезд в Лунное ущелье)",
+    "category": "finished",
+    "id": "nancy-drew-lttbmc",
+    "streams": [
+      { "name": "1", "twitch": "2080031749", "start": "56:19" },
+      { "name": "2", "twitch": "2085706176", "start": "39:14" }
+    ]
+  },
+  {
+    "name": "A Difficult Game About Climbing",
+    "category": "ongoing",
+    "id": "climbing-game",
+    "streams": [
+      { "name": "1", "twitch": "2083745262", "start": "4:05:41" },
+      { "name": "2", "twitch": "2085706176", "start": "3:44:11" }
     ]
   },
   {
