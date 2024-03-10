@@ -4750,7 +4750,11 @@
         { "name": "The Zhukov Line", "start": "5:05:39" }
       ] },
       { "name": "Samosbor", "twitch": "2083745262", "start": "3:53:33" },
-      { "name": "Snow Plowing Simulator", "twitch": "2085706176", "start": "3:25:42" }
+      { "name": "Snow Plowing Simulator", "twitch": "2085706176", "start": "3:25:42" },
+      { "twitch": "2086750139", "subrefs": [
+        { "name": "Hospital 666", "start": "3:38:14" },
+        { "name": "Irritated Mind: Fear of Warehouse (демо)", "start": "5:07:35" }
+      ] }
     ]
   },
   {
@@ -4844,6 +4848,15 @@
       { "twitch": "2083745262", "subrefs": [
         { "name": "YOKO", "start": "1:22:15" },
         { "name": "Backrooms Rec. (демо)", "start": "3:06:08" }
+      ] },
+      { "twitch": "2086750139", "subrefs": [
+        { "name": "Elevator Zero", "start": "1:14:26" },
+        { "name": "Trust the Watchers", "start": "2:06:27" },
+        { "name": "Midnight Monitor: Aldercourt", "start": "2:17:04" },
+        { "name": "Perfect Spot", "start": "3:02:56" },
+        { "name": "Barbotine", "start": "3:14:39" },
+        { "name": "The Last Monday", "start": "3:50:01" },
+        { "name": "The Earl Street Massacre", "start": "4:51:42" }
       ] }
     ]
   },
