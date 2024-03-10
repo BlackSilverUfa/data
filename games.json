@@ -4749,12 +4749,8 @@
         { "name": "Quiet Farm", "start": "3:12:11" },
         { "name": "The Zhukov Line", "start": "5:05:39" }
       ] },
-      { "twitch": "2083745262", "subrefs": [
-        { "name": "Samosbor", "start": "13:53:33" }
-      ] },
-      { "twitch": "2085706176", "subrefs": [
-        { "name": "Snow Plowing Simulator", "start": "3:25:42" }
-      ] }
+      { "name": "Samosbor", "twitch": "2083745262", "start": "13:53:33" },
+      { "name": "Snow Plowing Simulator", "twitch": "2085706176", "start": "3:25:42" }
     ]
   },
   {
