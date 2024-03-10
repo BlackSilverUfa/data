@@ -4749,7 +4749,7 @@
         { "name": "Quiet Farm", "start": "3:12:11" },
         { "name": "The Zhukov Line", "start": "5:05:39" }
       ] },
-      { "name": "Samosbor", "twitch": "2083745262", "start": "13:53:33" },
+      { "name": "Samosbor", "twitch": "2083745262", "segment": 0, "start": "13:53:33" },
       { "name": "Snow Plowing Simulator", "twitch": "2085706176", "start": "3:25:42" }
     ]
   },
@@ -4767,7 +4767,7 @@
     "category": "ongoing",
     "id": "climbing-game",
     "streams": [
-      { "name": "1", "twitch": "2083745262", "start": "4:05:41" },
+      { "name": "1", "twitch": "2083745262", "segment": 0, "start": "4:05:41" },
       { "name": "2", "twitch": "2085706176", "start": "3:44:11" }
     ]
   },
@@ -4841,7 +4841,7 @@
         { "name": "A Night on the Farm", "start": "4:06:37" }
       ] },
       { "name": "My Dear Neighbor, Edition 404 (демо)", "twitch": "2081886159", "start": "4:31:27" },
-      { "twitch": "2083745262", "subrefs": [
+      { "twitch": "2083745262", "segment": 1, "subrefs": [
         { "name": "YOKO", "start": "1:22:15" },
         { "name": "Backrooms Rec. (демо)", "start": "3:06:08" }
       ] }
