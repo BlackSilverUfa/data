@@ -4936,7 +4936,7 @@
   },
   {
     "name": "Vaudeville",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "vaudeville",
     "streams": [
       { "name": "1", "twitch": "1990296421", "start": "1:09:39" },
