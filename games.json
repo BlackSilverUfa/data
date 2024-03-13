@@ -8668,16 +8668,17 @@
   },
   {
     "name": "Dark Souls: Remastered",
-    "category": "abandoned",
+    "category": "ongoing",
     "id": "ds-remastered",
     "streams": [
       { "name": "Network test", "twitch": "260173384", "start": "1:02:52" },
-      { "name": "1", "twitch": "263867941" },
-      { "name": "2", "twitch": "264598516" },
-      { "name": "1 (заново, со зрителями)", "twitch": "268114023" },
-      { "name": "2 (со зрителями)", "twitch": "277001302" },
-      { "name": "1 (заново)", "twitch": "1239503220" },
-      { "name": "2", "twitch": "1242283203" }
+      { "name": "1", "twitch": "263867941", "start": "16:21" },
+      { "name": "2", "twitch": "264598516", "start": "16:24" },
+      { "name": "1 (заново, со зрителями)", "twitch": "268114023", "start": "14:48" },
+      { "name": "2 (со зрителями)", "twitch": "277001302", "start": "21:20" },
+      { "name": "1 (заново 2)", "twitch": "1239503220", "start": "37:23" },
+      { "name": "2", "twitch": "1242283203", "start": "25:54" },
+      { "name": "1 (заново 3)", "twitch": "2089475024", "start": "9:58" }
     ]
   },
   {
