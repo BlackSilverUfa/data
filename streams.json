@@ -382,6 +382,7 @@
   "233711282": { "youtube": "UTVKKl5OZng", "offset": "32:55" },
   "234037742": [
     {
+      "youtube": "L5L0UwftSe0", "official": false,
       "note": "Официальная запись <a href=\"https://vk.com/wall-28387068_3201905\">заблокирована</a>."
     },
     {
@@ -528,7 +529,7 @@
   "277001302": { "youtube": "3Oi8NA-gd6k", "official": false },
   "277440900": { "youtube": "WI-mcZ3EJeI", "offset": "-0:04" },
   "278566845": [
-    { "youtube": "and1SDN4Nyo", "offset": "24:17" },
+    { "offset": "24:17" },
     { "youtube": "QckEUr4SLLg", "offset": "2:43:25" }
   ],
   "278920291": [
@@ -1329,7 +1330,7 @@
     "note": "<a href=\"https://youtu.be/k_6_SsfSmlM\">Официальная запись</a> сломана (недоступно качество выше 360p)"
   },
   "523968481": { "youtube": "9NLDRfKPMKg", "official": false },
-  "524415764": { "youtube": "g568M41jCtQ", "official": false },
+  "524415764": {  },
   "524865260": { "youtube": "Do6LKdxoE-k", "offset": "-0:05" },
   "525744926": { "youtube": "zx1dANJ3KnM" },
   "526101430": { "youtube": "wnKqILQQXvk" },
@@ -1570,7 +1571,6 @@
   "688270341": { "youtube": "4sNGzIz8k4w" },
   "689243227": { "youtube": "BkBVa_qIghE" },
   "690295728": {
-    "youtube": "VBr-sIzeZAg", "official": false,
     "note": "<a href=\"https://youtu.be/5bxMm_E-jGo\">Официальная запись</a> сломана (недоступно качество выше 360p)"
   },
   "693186645": { "youtube": "AlunRIkGSa8" },
@@ -1616,12 +1616,12 @@
   "734046513": { "youtube": "_qQ2GXWV8to", "official": false },
   "735013484": { "youtube": "VkfiWfnoW48", "official": false },
   "736906091": [
-    { "youtube": "rg58Y5Fe13M", "official": false },
+    {  },
     { "youtube": "S3mF719QRgo", "offset": "2:58:26" }
   ],
   "737853754": { "youtube": "4XSj80oJZ1s", "official": false },
   "738885129": { "youtube": "qE2ioYUcfxY", "official": false },
-  "740853378": {  },
+  "740853378": { "youtube": "0uXjZYTO2ks", "official": false },
   "746844135": { "youtube": "QT-388R9gtU", "official": false },
   "747742325": { "youtube": "-EN8Eyn9Bgw", "official": false },
   "749640613": { "youtube": "UwLqQHKOUkM", "official": false },
@@ -1633,7 +1633,7 @@
   "757370746": { "youtube": "i1r0epPVTFA", "official": false },
   "758360932": { "youtube": "69ZbJiwjVy0" },
   "759389769": { "youtube": "nCyijEdFoKE", "official": false },
-  "760503086": { "youtube": "SGh2FxYWKnY", "official": false },
+  "760503086": {  },
   "761311327": { "youtube": "rTvbE1fnAI4", "official": false },
   "763202430": { "youtube": "mWyGVLQfTRI", "official": false },
   "764187591": { "youtube": "ygYMMVC0KiI", "official": false },
@@ -2149,7 +2149,7 @@
   "1183729753": { "youtube": "6q_VJ5cjVkA" },
   "1185672025": { "youtube": "7za5JxIA4NE" },
   "1186535358": { "youtube": "AkXq-1XVPpo", "official": false },
-  "1187388604": { "youtube": "5-22H4VAGRE", "official": false },
+  "1187388604": {  },
   "1188297728": { "youtube": "s0YqpQzZ2gA", "official": false },
   "1190164000": { "youtube": "Fk2u05f8ytU", "official": false },
   "1191176581": { "youtube": "lSNF_gwlSfY" },

@@ -699,7 +699,8 @@
       "2:26:18~2:27:58": "George Michael - Careless Whisper",
       "2:42:21~2:44:00": "Perry Como - Papa Loves Mambo",
       "4:32:31~4:35:51": "Stealth - Judgement Day",
-      "4:36:13~4:39:22": "Scooter - Fire"
+      "4:36:13~4:39:22": "Scooter - Fire",
+      "39:56~41:23": "Sigur Rós - Við spilum endalaust"
     },
     "20:36": "Игра",
     "-уши": [
@@ -1591,7 +1592,10 @@
     "4:34:01": "Хай<u>л</u>ульский шансон",
     "4:42:41": "Южный рудник",
     "4:46:53": "Горонград",
-    "4:49:47": "Гостиница"
+    "4:49:47": "Гостиница",
+    "Проблемы с правообладателями": {
+      "2:49:13~2:50:26": "Howard Shore - The Bridge of Khazad Dum"
+    }
   },
   "135336477": {
     "3:02": "Стримлер",
@@ -2297,7 +2301,9 @@
     "3:33:04": "Getting Over It",
     "Проблемы с правообладателями": {
       "3:48:37~3:50:17": "James Horner - A Life So Changed",
-      "3:50:18~3:53:09": "James Horner - Rose"
+      "3:50:18~3:53:09": "James Horner - Rose",
+      "4:49:40~4:31:36": "Howard Shore - The Ring Goes South",
+      "4:12:41~4:13:07": "Howard Shore - The Shadow Of The Past"
     }
   },
   "233355849": {
@@ -3074,7 +3080,8 @@
       "1:38:30~1:45:57": "Daryl Hall & John Oates - Out of Touch",
       "2:37:50~2:39:57": "Roger Whittaker - New World in the Morning",
       "2:50:34~2:55:50": "Музыка удалена средствами YouTube",
-      "3:33:29~3:36:43": "Good Charlotte - Break Apart Her Heart"
+      "3:33:29~3:36:43": "Good Charlotte - Break Apart Her Heart",
+      "4:00:57~4:05:15": "Junkie XL - Cities In Dust"
     }
   },
   "277440900": {
@@ -3083,7 +3090,10 @@
   "278566845": {
     "23:46": "The Awesome Adventures of Captain Spirit",
     "2:56:02": "Wreckfest",
-    "4:19:56": "Persona 5"
+    "4:19:56": "Persona 5",
+    "Проблемы с правообладателями": {
+      "2:10:46~2:13:46": "Bat For Lashes - Moon And Moon"
+    }
   },
   "278920291": {
     "17:21": "Hot Lava",
@@ -6886,6 +6896,9 @@
         "10:10:09",
         "10:14:15"
       ]
+    },
+    "Проблемы с правообладателями": {
+      "1:54:12~1:54:38": "Panic! At The Disco - High Hopes"
     }
   },
   "437956853": {
@@ -9363,7 +9376,11 @@
         "5:39:37~5:40:19",
         "5:52:10~5:53:27"
       ],
-      "5:48:21~5:49:57": "Michael Jackson - Wanna Be Startin' Somethin'"
+      "5:48:21~5:49:57": "Michael Jackson - Wanna Be Startin' Somethin'",
+      "Dua Lipa - Don't Start Now": [
+        "16:49~17:23",
+        "17:57~18:40"
+      ]
     },
     "58:20": "Повар 4-го разряда",
     "2:19:02": "( ͡° ͜ʖ ͡°)",
@@ -9776,7 +9793,8 @@
       "1:51:22~1:54:46": "\"Weird Al\" Yankovic - Eat It",
       "1:55:59~1:59:38": "\"Weird Al\" Yankovic - Fat",
       "3:30:35~3:30:57": "Bobby Helms - Jingle Bell Rock",
-      "3:49:10~3:49:31": "Julio Iglesias - Nostalgie (Nostalgia)"
+      "3:49:10~3:49:31": "Julio Iglesias - Nostalgie (Nostalgia)",
+      "1:38:56~1:42:36": "Gorillaz - Feel Good Inc."
     },
     "2:11:32": "Вход в Discord",
     "Last Year": {
@@ -10235,7 +10253,9 @@
         "3:30:16~3:33:47"
       ],
       "3:48:02~3:51:16": "Yoko Takahashi - FLY ME TO THE MOON 2020",
-      "4:59:21~5:02:51": "Не указано"
+      "4:59:21~5:02:51": "Не указано",
+      "2:16:04~2:19:22": "Meg Myers - Done",
+      "1:23:43~1:27:10": "Tones And I - Dance Monkey"
     },
     "Нет звука (Twitch)": [
       "1:23:59~1:29:59",
@@ -10710,7 +10730,8 @@
       "2:06:56~2:10:36": "CeeLo Green - Fuck You",
       "3:16:35~3:21:08": "Ice Nine Kills - IT Is The End",
       "3:50:23~3:54:54": "Hiroyuki Sawano - No Differences",
-      "4:35:35~4:41:08": "Не указано"
+      "4:35:35~4:41:08": "Не указано",
+      "3:47:21~3:49:59": "Panic! At The Disco - Emperor's New Clothes"
     },
     "The Sims 4": {
       "3:23:17": "Меню",
@@ -12472,7 +12493,7 @@
       "1:02:04": "The Last of Us: Part II"
     },
     "Проблемы с правообладателями": {
-      "30:14~30:47": "Tom Morello, Knife Party - Battle Sirens"
+      "30:14~31:54": "Tom Morello, Knife Party - Battle Sirens"
     },
     "1:00:00": "Вход в Discord",
     "Moving Out": {
@@ -14151,6 +14172,16 @@
       "30:19": "The Falconeer",
       "34:10": "League of Legends: Семья запятнанного клинка"
     },
+    "Проблемы с правообладателями": {
+      "Howard Shore - The Bridge of Khazad Dum": [
+        "5:36:45~5:37:28",
+        "5:42:50~5:45:20"
+      ],
+      "Howard Shore - A Journey in the Dark": [
+        "5:31:08~5:31:54",
+        "5:32:49~5:34:45"
+      ]
+    },
     "48:02": "<a href=\"https://youtu.be/utpnIrRwJPc\">KeDavra TV - Хубики 2019: Compilation of Degradation</a>",
     "Hello Neighbor 2 (альфа 1)": {
       "55:33": "Меню",
@@ -15012,6 +15043,9 @@
       "42:37": "Call of Duty: Black Ops - Cold War",
       "2:13:46": "Minecraft - Stylized Resource Pack"
     },
+    "Проблемы с правообладателями": {
+      "54:43~55:36": "Pendulum - The Tempest"
+    },
     "49:31~53:37": "<a href=\"https://vocaroo.com/1z2mgDJJIC0w\">Песня об Артуре и чате</a>",
     "54:08": "Большая ссора",
     "There Is No Light (демо)": {
@@ -15549,6 +15583,10 @@
         "3:35:01",
         "3:40:41"
       ]
+    },
+    "Проблемы с правообладателями": {
+      "2:55:19~2:58:37": "Howard Shore - The Treason of Isengard",
+      "3:00:32~3:00:49": "Howard Shore - The Black Rider"
     }
   },
   "761311327": {
@@ -15909,7 +15947,8 @@
       "2:34:10": "Игра"
     },
     "Проблемы с правообладателями": {
-      "3:41:46~3:44:55": "Frankie Laine - Jezebel"
+      "3:41:46~3:44:55": "Frankie Laine - Jezebel",
+      "2:52:07~2:53:03": "Tones And I - Dance Monkey"
     },
     "Noita": {
       "3:58:41": "Меню",
@@ -18727,6 +18766,12 @@
     "Minecraft": {
       "1:27:04": "Игра",
       "3:07:16": "Деда накрыло"
+    },
+    "Проблемы с правообладателями": {
+      "Howard Shore - A Journey in the Dark": [
+        "5:11:22~5:13:28",
+        "5:25:22~5:27:34"
+      ]
     }
   },
   "905895866": {
@@ -24623,7 +24668,8 @@
       "2:22:36~2:24:39": "A Flock Of Seagulls - I Ran (So Far Away)",
       "2:52:59~2:53:37": "a-ha - Take on Me",
       "6:26:19~6:26:54": "Autograph - Turn up the Radio",
-      "7:24:44~7:26:47": "Не указано"
+      "7:24:44~7:26:47": "Не указано",
+      "6:03:39~6:04:35": "Hot Chocolate - Every 1's a Winner"
     },
     "13:04": "Игра",
     "16:40": "Гав",
