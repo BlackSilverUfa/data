@@ -529,7 +529,7 @@
   "277001302": { "youtube": "3Oi8NA-gd6k", "official": false },
   "277440900": { "youtube": "WI-mcZ3EJeI", "offset": "-0:04" },
   "278566845": [
-    { "offset": "24:17" },
+    {  },
     { "youtube": "QckEUr4SLLg", "offset": "2:43:25" }
   ],
   "278920291": [
@@ -3247,5 +3247,5 @@
   "2086750139": { "youtube": "hjkq4hhToYw" },
   "2087633256": { "youtube": "qtu7bP7SKsc", "source_cuts": ["3:55:15~3:55:58"] },
   "2088572261": { "youtube": "5MCIr3ndjNM" },
-  "2089475024": {  }
+  "2089475024": { "youtube": "C4V1NO1bQck" }
 }
