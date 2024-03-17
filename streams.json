@@ -1306,7 +1306,7 @@
     "youtube": "8_VogvYGWfM", "official": false,
     "note": "<a href=\"https://youtu.be/w8nJdnXrSJU\">Официальная запись</a> сломана (недоступно качество выше 360p)"
   },
-  "516941489": {  },
+  "516941489": { "youtube": "Al3rhwnCHGI", "official": false },
   "517802976": { "youtube": "VQaQO9NjX60", "official": false },
   "518306588": { "youtube": "AK1CYqvyHIc" },
   "518751002": {
@@ -1483,7 +1483,7 @@
   "610027262": { "youtube": "T7R1n_QCQng", "official": false },
   "610935319": { "youtube": "dz-qfoPYopM" },
   "611858028": { "youtube": "ZCzzHlDl4uU" },
-  "612822436": {  },
+  "612822436": { "youtube": "Z-2e7UZwyXk", "official": false },
   "613793616": { "youtube": "5C7S1X_761k", "official": false },
   "614769111": { "youtube": "OtOIEe-PUsM" },
   "615757437": {
@@ -1617,7 +1617,7 @@
   "734046513": { "youtube": "_qQ2GXWV8to", "official": false },
   "735013484": { "youtube": "VkfiWfnoW48", "official": false },
   "736906091": [
-    {  },
+    { "youtube": "soghQKPllZg", "official": false },
     { "youtube": "S3mF719QRgo", "offset": "2:58:26" }
   ],
   "737853754": { "youtube": "4XSj80oJZ1s", "official": false },
@@ -2150,7 +2150,7 @@
   "1183729753": { "youtube": "6q_VJ5cjVkA" },
   "1185672025": { "youtube": "7za5JxIA4NE" },
   "1186535358": { "youtube": "AkXq-1XVPpo", "official": false },
-  "1187388604": {  },
+  "1187388604": { "youtube": "7c8knw-tvZ4", "official": false },
   "1188297728": { "youtube": "s0YqpQzZ2gA", "official": false },
   "1190164000": { "youtube": "Fk2u05f8ytU", "official": false },
   "1191176581": { "youtube": "lSNF_gwlSfY" },
