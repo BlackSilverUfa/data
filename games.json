@@ -2880,7 +2880,8 @@
   },
   {
     "name": "Alone in the Dark",
-    "category": "aitd",
+    "category": "ongoing",
+    "id": "aitd-24",
     "streams": [
       { "name": "Prologue", "twitch": "1830612078", "start": "22:49" },
       { "twitch": "2095255750", "subrefs": [
