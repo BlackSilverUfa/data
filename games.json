@@ -2658,7 +2658,6 @@
       ] },
       { "name": "Deppart Prototype", "twitch": "1826440973", "start": "1:11:28" },
       { "twitch": "1830612078", "subrefs": [
-        { "name": "Alone in the Dark: Prologue", "start": "22:49" },
         { "name": "Presences: Dark Awakening (демо)", "start": "45:00" },
         { "name": "Water Wheel", "start": "4:23:10" },
         { "name": "My Eyes Deceive", "start": "4:47:28" }
@@ -2876,6 +2875,17 @@
         { "name": "Krampus of Kirkwall", "start": "1:13:06" },
         { "name": "How to Build a Snowman", "start": "1:41:22" },
         { "name": "Slay Bells", "start": "2:07:23" }
+      ] }
+    ]
+  },
+  {
+    "name": "Alone in the Dark",
+    "category": "aitd",
+    "streams": [
+      { "name": "Prologue", "twitch": "1830612078", "start": "22:49" },
+      { "twitch": "2095255750", "subrefs": [
+        { "name": "Prologue", "start": "47:41" },
+        { "name": "1", "start": "58:54" }
       ] }
     ]
   },
