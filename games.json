@@ -2880,7 +2880,7 @@
   },
   {
     "name": "Alone in the Dark",
-    "category": "ongoing",
+    "category": "finished",
     "id": "aitd-24",
     "streams": [
       { "name": "Prologue", "twitch": "1830612078", "start": "22:49" },
@@ -2888,7 +2888,8 @@
         { "name": "Prologue", "start": "47:41" },
         { "name": "1", "start": "58:54" }
       ] },
-      { "name": "2", "twitch": "2096134765", "start": "13:47" }
+      { "name": "2", "twitch": "2096134765", "start": "13:47" },
+      { "name": "3", "twitch": "2097967869", "start": "18:20" }
     ]
   },
   {
@@ -4767,8 +4768,16 @@
         { "name": "Hospital 666", "start": "3:38:14" },
         { "name": "Irritated Mind: Fear of Warehouse (демо)", "start": "5:07:35" }
       ] },
-      { "name": "Exanimum: The Silent Call", "twitch": "2093411719", "start": "5:18:04" },
-      { "name": "Dragon's Dogma II", "twitch": "2097054127", "start": "8:38" }
+      { "name": "Exanimum: The Silent Call", "twitch": "2093411719", "start": "5:18:04" }
+    ]
+  },
+  {
+    "name": "Dragon's Dogma II",
+    "category": "ongoing",
+    "id": "dd-2",
+    "streams": [
+      { "name": "1", "twitch": "2097054127", "start": "8:38" },
+      { "name": "2", "twitch": "2097967869", "start": "3:00:10" }
     ]
   },
   {
