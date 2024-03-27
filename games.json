@@ -2534,7 +2534,7 @@
   },
   {
     "name": "Silence Channel 2",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "silence-channel-2",
     "streams": [
       { "name": "Демо", "twitch": "1633962812", "start": "5:16:15" },
