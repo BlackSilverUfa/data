@@ -4770,7 +4770,8 @@
         { "name": "Irritated Mind: Fear of Warehouse (демо)", "start": "5:07:35" }
       ] },
       { "name": "Exanimum: The Silent Call", "twitch": "2093411719", "start": "5:18:04" },
-      { "name": "Project 13: Taxidermy Trails", "twitch": "2102886465", "start": "4:19:57" }
+      { "name": "Project 13: Taxidermy Trails", "twitch": "2102886465", "start": "4:19:57" },
+      { "name": "Revere", "twitch": "2103837925", "start": "2:52:50" }
     ]
   },
   {
@@ -4892,7 +4893,15 @@
         { "name": "Squidward's Suicide (демо)", "start": "4:14:34" },
         { "name": "Valley of Shadows", "start": "4:37:00" }
       ] },
-      { "name": "There's Something In The Ice", "twitch": "2102886465", "start": "2:17:49" }
+      { "name": "There's Something In The Ice", "twitch": "2102886465", "start": "2:17:49" },
+      { "twitch": "2103837925", "subrefs": [
+        { "name": "Akai Onna", "start": "30:00" },
+        { "name": "Y. Village: The Visitors", "start": "1:22:32" },
+        { "name": "Hibernation", "start": "3:11:24" },
+        { "name": "Carne Vescens", "start": "3:26:36" },
+        { "name": "Silver Falls", "start": "3:43:51" },
+        { "name": "Eclipsium (демо)", "start": "4:21:01" }
+      ] }
     ]
   },
   {
