@@ -2736,7 +2736,6 @@
         { "name": "Mom's Tent", "start": "2:45:13" },
         { "name": "Sweet Dreams", "start": "3:03:43" },
         { "name": "Liminal Symptom (демо)", "start": "3:15:49" },
-        { "name": "Terror At Oakheart (демо)", "start": "3:40:00" },
         { "name": "Echoes From The Abyss", "start": "4:44:31" }
       ] },
       { "name": "Fort Solis", "twitch": "1906345080", "start": "15:10" },
@@ -4902,10 +4901,16 @@
         { "name": "Silver Falls", "start": "3:43:51" },
         { "name": "Eclipsium (демо)", "start": "4:21:01" }
       ] },
-      { "twitch": "2104774881", "subrefs": [
-        { "name": "Midnight Scenes: A Safe Place", "start": "43:45" },
-        { "name": "Terror at Oakheart", "start": "3:10:47" }
-      ] }
+      { "name": "Midnight Scenes: A Safe Place", "twitch": "2104774881", "start": "43:45" }
+    ]
+  },
+  {
+    "name": "Terror at Oakheart",
+    "category": "finished",
+    "id": "terror-at-oakheart",
+    "streams": [
+      { "name": "Демо", "twitch": "1903801654,1903834688", "start": "3:40:00" },
+      { "name": "Прохождение", "twitch": "2104774881", "start": "3:10:47" }
     ]
   },
   {
@@ -8761,7 +8766,8 @@
       { "name": "4 (часть 1)", "twitch": "264219962" },
       { "name": "4 (часть 2)", "twitch": "264227986" },
       { "name": "4 (часть 3)", "twitch": "264244000" },
-      { "name": "4 (часть 4)", "twitch": "264290927" }
+      { "name": "4 (часть 4)", "twitch": "264290927" },
+      { "name": "1 (за мага)", "twitch": "2105757365", "start": "14:25" }
     ],
     "cover": 1
   },
