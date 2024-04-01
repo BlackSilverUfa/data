@@ -440,8 +440,9 @@
     "category": "co-op",
     "id": "helldivers-2",
     "streams": [
-      { "name": "1", "twitch": "2058685006", "start": "2:56:57" },
-      { "name": "2", "twitch": "2059745251", "start": "1:39:05" }
+      { "name": "1 (4D)", "twitch": "2058685006", "start": "2:56:57" },
+      { "name": "2 (4D)", "twitch": "2059745251", "start": "1:39:05" },
+      { "name": "3 (с Димами)", "twitch": "2107695454", "start": "1:58:56" }
     ]
   },
   {
@@ -4901,7 +4902,11 @@
         { "name": "Silver Falls", "start": "3:43:51" },
         { "name": "Eclipsium (демо)", "start": "4:21:01" }
       ] },
-      { "name": "Midnight Scenes: A Safe Place", "twitch": "2104774881", "start": "43:45" }
+      { "name": "Midnight Scenes: A Safe Place", "twitch": "2104774881", "start": "43:45" },
+      { "twitch": "2107695454", "subrefs": [
+        { "name": "Stellar Blade (демо)", "start": "37:14" },
+        { "name": "Stellar Blade (продолжение)", "start": "4:15:30", "hidden": true }
+      ] }
     ]
   },
   {
