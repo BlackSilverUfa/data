@@ -2867,9 +2867,7 @@
         { "name": "DMV: Become Viechle", "start": "3:45:48" },
         { "name": "Christmas Nightmare", "start": "3:54:06" }
       ] },
-      { "twitch": "2016955242", "subrefs": [
-        { "name": "Star Wars Deathroopers (демо)", "start": "52:24" }
-      ] },
+      { "name": "Star Wars Deathroopers (демо)", "twitch": "2016955242", "start": "52:24" },
       { "twitch": "2017906776", "subrefs": [
         { "name": "Santy Is Home", "start": "48:47" },
         { "name": "Krampus of Kirkwall", "start": "1:13:06" },
