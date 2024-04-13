@@ -4779,7 +4779,11 @@
       ] },
       { "name": "Exanimum: The Silent Call", "twitch": "2093411719", "start": "5:18:04" },
       { "name": "Project 13: Taxidermy Trails", "twitch": "2102886465", "start": "4:19:57" },
-      { "name": "Revere", "twitch": "2103837925", "start": "2:52:50" }
+      { "name": "Revere", "twitch": "2103837925", "start": "2:52:50" },
+      { "twitch": "2118671984", "subrefs": [
+        { "name": "Resident Evil 3: Nemesis", "start": "1:33:05" },
+        { "name": "Bloody Roar 2", "start": "3:25:25" }
+      ] }
     ]
   },
   {
@@ -8731,7 +8735,8 @@
       { "name": "6", "twitch": "1573052503" },
       { "name": "7", "twitch": "1586147183" },
       { "name": "8", "twitch": "1614024019" },
-      { "name": "9", "twitch": "1860536794" }
+      { "name": "9", "twitch": "1860536794" },
+      { "name": "10", "twitch": "2118671984" }
     ]
   },
   {
