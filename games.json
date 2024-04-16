@@ -4784,7 +4784,11 @@
         { "name": "Resident Evil 3: Nemesis", "start": "1:33:05" },
         { "name": "Bloody Roar 2", "start": "3:25:25" }
       ] },
-      { "name": "The Pink Panther: Passport to Peril (Розовая Пантера: Право на риск)", "twitch": "2119599582", "start": "42:21" }
+      { "name": "The Pink Panther: Passport to Peril (Розовая Пантера: Право на риск)", "twitch": "2119599582", "start": "42:21" },
+      { "twitch": "2121268856", "subrefs": [
+        { "name": "Planet Crafter (демо)", "start": "36:18" },
+        { "name": "The Game of Sisyphus", "start": "3:28:36" }
+      ] }
     ]
   },
   {
@@ -4952,6 +4956,10 @@
       { "twitch": "2116005347", "subrefs": [
         { "name": "Fear the Moon: Chapter 1", "start": "1:57:41" },
         { "name": "The Penjikent Creature", "start": "2:37:56" }
+      ] },
+      { "twitch": "2121268856", "subrefs": [
+        { "name": "Contra: Operation Galuga (демо)", "start": "2:27:21" },
+        { "name": "Iron Meat (демо)", "start": "3:08:22" }
       ] }
     ]
   },
