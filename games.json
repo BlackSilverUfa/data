@@ -4781,10 +4781,8 @@
       { "name": "Project 13: Taxidermy Trails", "twitch": "2102886465", "start": "4:19:57" },
       { "name": "Revere", "twitch": "2103837925", "start": "2:52:50" },
       { "twitch": "2118671984", "subrefs": [
-        { "name": "Resident Evil 3: Nemesis", "start": "1:33:05" },
         { "name": "Bloody Roar 2", "start": "3:25:25" }
       ] },
-      { "name": "The Pink Panther: Passport to Peril (Розовая Пантера: Право на риск)", "twitch": "2119599582", "start": "42:21" },
       { "twitch": "2121268856", "subrefs": [
         { "name": "Planet Crafter (демо)", "start": "36:18" },
         { "name": "The Game of Sisyphus", "start": "3:28:36" }
@@ -4794,6 +4792,24 @@
         { "name": "Among Ashes (демо)", "start": "2:55:17" },
         { "name": "No Rest for the Wicked", "start": "4:18:34" }
       ] }
+    ]
+  },
+  {
+    "name": "Resident Evil 3: Nemesis",
+    "category": "ongoing",
+    "id": "re3-nemesis",
+    "streams": [
+      { "name": "1", "twitch": "2118671984", "start": "1:33:05" },
+      { "name": "2", "twitch": "2124805276", "start": "3:10:23" }
+    ]
+  },
+  {
+    "name": "The Pink Panther: Passport to Peril (Розовая Пантера: Право на риск)",
+    "category": "finished",
+    "id": "tpp-ptp",
+    "streams": [
+      { "name": "1", "twitch": "2119599582", "start": "42:21" },
+      { "name": "2", "twitch": "2124805276", "start": "47:30" }
     ]
   },
   {
