@@ -4780,9 +4780,7 @@
       { "name": "Exanimum: The Silent Call", "twitch": "2093411719", "start": "5:18:04" },
       { "name": "Project 13: Taxidermy Trails", "twitch": "2102886465", "start": "4:19:57" },
       { "name": "Revere", "twitch": "2103837925", "start": "2:52:50" },
-      { "twitch": "2118671984", "subrefs": [
-        { "name": "Bloody Roar 2", "start": "3:25:25" }
-      ] },
+      { "name": "Bloody Roar 2", "twitch": "2118671984", "start": "3:25:25" },
       { "twitch": "2121268856", "subrefs": [
         { "name": "Planet Crafter (демо)", "start": "36:18" },
         { "name": "The Game of Sisyphus", "start": "3:28:36" }
