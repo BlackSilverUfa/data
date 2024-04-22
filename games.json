@@ -2614,10 +2614,6 @@
         { "name": "Silent Nights", "start": "43:18" },
         { "name": "File Destined", "start": "4:10:16" }
       ] },
-      { "twitch": "1778016938", "subrefs": [
-        { "name": "UNFOLLOW", "start": "41:19" },
-        { "name": "UNFOLLOW (продолжение)", "start": "1:27:16", "hidden": true }
-      ] },
       { "twitch": "1782635771", "subrefs": [
         { "name": "The Touch", "start": "51:05" },
         { "name": "Alpen Ghoul: Prologue", "start": "1:01:54" },
@@ -4791,7 +4787,11 @@
         { "name": "Among Ashes (демо)", "start": "2:55:17" },
         { "name": "No Rest for the Wicked", "start": "4:18:34" }
       ] },
-      { "name": "Sector A7", "twitch": "2125739785", "start": "3:52:53" }
+      { "name": "Sector A7", "twitch": "2125739785", "start": "3:52:53" },
+      { "twitch": "2126590741", "subrefs": [
+        { "name": "Fancyland", "start": "1:29:07" },
+        { "name": "Dishwashing Simulator", "start": "4:34:30" }
+      ] }
     ]
   },
   {
@@ -4984,11 +4984,29 @@
       ] },
       { "name": "Europa (демо)", "twitch": "2123000940,2123160474", "start": "2:12:49" },
       { "twitch": "2125739785", "subrefs": [
-        { "name": "Unfollow (демо)", "start": "44:42" },
         { "name": "Night Bus", "start": "1:30:21" },
         { "name": "Call to Summon", "start": "3:28:29" },
         { "name": "Replay", "start": "3:43:12" }
+      ] },
+      { "twitch": "2126590741", "subrefs": [
+        { "name": "Nightmare Collection: Telephone Call", "start": "41:40" },
+        { "name": "Darwake: Awakening from the Nightmare (демо)", "start": "2:11:37" },
+        { "name": "Carcass", "start": "2:30:17" },
+        { "name": "Night Grove", "start": "3:25:19" },
+        { "name": "Yo Bro, Whats That In Your Mirror Bro?", "start": "4:27:14" }
       ] }
+    ]
+  },
+  {
+    "name": "Unfollow",
+    "category": "ongoing",
+    "id": "unfollow",
+    "streams": [
+      { "twitch": "1778016938", "subrefs": [
+        { "name": "Демо 1", "start": "41:19" },
+        { "name": "Демо 1 (продолжение)", "start": "1:27:16", "hidden": true }
+      ] },
+      { "name": "Демо 2", "twitch": "2125739785", "start": "44:42" }
     ]
   },
   {
