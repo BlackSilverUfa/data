@@ -4788,10 +4788,16 @@
         { "name": "No Rest for the Wicked", "start": "4:18:34" }
       ] },
       { "name": "Sector A7", "twitch": "2125739785", "start": "3:52:53" },
-      { "twitch": "2126590741", "subrefs": [
-        { "name": "Fancyland", "start": "1:29:07" },
-        { "name": "Dishwashing Simulator", "start": "4:34:30" }
-      ] }
+      { "name": "Fancyland", "twitch": "2126590741", "start": "1:29:07" }
+    ]
+  },
+  {
+    "name": "Dishwashing Simulator",
+    "category": "ongoing",
+    "id": "dishwashing",
+    "streams": [
+      { "name": "1", "twitch": "2126590741", "start": "4:34:30" },
+      { "name": "2", "twitch": "2127410165", "start": "1:30:19" }
     ]
   },
   {
@@ -4994,7 +5000,8 @@
         { "name": "Carcass", "start": "2:30:17" },
         { "name": "Night Grove", "start": "3:25:19" },
         { "name": "Yo Bro, Whats That In Your Mirror Bro?", "start": "4:27:14" }
-      ] }
+      ] },
+      { "name": "Hades II (ранний доступ)", "twitch": "2127410165", "start": "28:42" }
     ]
   },
   {
