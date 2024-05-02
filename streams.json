@@ -1381,7 +1381,7 @@
   "545136550": { "youtube": "zPPB2lKx7sE", "official": false },
   "545709814": { "youtube": "GuhIfvrEh0I" },
   "546672311": { "youtube": "1Vvuwf6-AzU", "cuts": ["26:35~26:50", "27:01~28:45"] },
-  "547176657": { "youtube": "zZjQyNfpn6w", "official": false },
+  "547176657": {  },
   "548170121": {
     "youtube": "uUJJLFl55m8", "official": false,
     "note": "<a href=\"https://youtu.be/4U4FcuihhrE\">Официальная запись</a> сломана (недоступно качество выше 360p)"
@@ -1403,7 +1403,7 @@
     "note": "<a href=\"https://youtu.be/PaREfiJNcmw\">Официальная запись</a> сломана (недоступно качество выше 360p)"
   },
   "553926728": { "youtube": "UrNnQwJZieY" },
-  "554432443": { "youtube": "g4jLYPi6Jxs", "official": false },
+  "554432443": {  },
   "555473037": {
     "youtube": "_fjBtmK14k8", "official": false,
     "note": "<a href=\"https://youtu.be/eEB_n5KHBcI\">Официальная запись</a> сломана (недоступно качество выше 360p)"
@@ -1680,7 +1680,7 @@
     "note": "<a href=\"https://youtu.be/XlWQs5dExRg\">Официальная запись</a> сломана (недоступно качество выше 360p)"
   },
   "799135139": { "youtube": "2z92zj8luok" },
-  "800233089": { "youtube": "YdkjKeBIfnE", "official": false },
+  "800233089": {  },
   "801377729": [
     { "youtube": "plgno45snwg", "official": false },
     { "youtube": "DTRtUFC-uvg" }
