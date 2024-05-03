@@ -4922,10 +4922,7 @@
         { "name": "Within the Unknown", "start": "2:21:10" },
         { "name": "Prayers of the Abyss (демо)", "start": "3:49:45" }
       ] },
-      { "twitch": "2070293042", "subrefs": [
-        { "name": "Pools (демо)", "start": "48:30" },
-        { "name": "Quod: Episode 1", "start": "2:05:10" }
-      ] },
+      { "name": "Quod: Episode 1", "twitch": "2070293042", "start": "2:05:10" },
       { "twitch": "2080976588", "subrefs": [
         { "name": "Death Motel", "start": "39:37" },
         { "name": "When The Devil Takes Hold (демо)", "start": "2:42:58" },
@@ -5001,7 +4998,17 @@
         { "name": "Night Grove", "start": "3:25:19" },
         { "name": "Yo Bro, Whats That In Your Mirror Bro?", "start": "4:27:14" }
       ] },
-      { "name": "Hades II (ранний доступ)", "twitch": "2127410165", "start": "28:42" }
+      { "name": "Hades II (ранний доступ)", "twitch": "2127410165", "start": "28:42" },
+      { "name": "Zero Protocol (демо)", "twitch": "2136144666", "start": "50:49" }
+    ]
+  },
+  {
+    "name": "POOLS",
+    "category": "finished",
+    "id": "pools",
+    "streams": [
+      { "name": "Демо", "twitch": "2070293042", "start": "48:30" },
+      { "name": "Прохождение", "twitch": "2136144666", "start": "1:53:48" }
     ]
   },
   {
