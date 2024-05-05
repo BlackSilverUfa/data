@@ -2492,7 +2492,6 @@
         { "name": "The Death: Than Trung", "start": "4:32:51" }
       ] },
       { "twitch": "1619465701", "subrefs": [
-        { "name": "The Classrooms (демо)", "start": "1:27:12" },
         { "name": "Quo (демо)", "start": "1:51:13" },
         { "name": "The Polaris Incident", "start": "2:38:19" },
         { "name": "Broken Through", "start": "3:31:13" },
@@ -2536,6 +2535,15 @@
         { "name": "The Thing - P.T. (by Stefano Cagnani)", "start": "5:38:25" }
       ] },
       { "name": "Crimson Snow", "twitch": "1693798502", "start": "1:39:13" }
+    ]
+  },
+  {
+    "name": "The Classrooms",
+    "category": "ongoing",
+    "id": "classrooms",
+    "streams": [
+      { "name": "Демо", "twitch": "1619465701", "start": "1:27:12" },
+      { "name": "Ранний доступ", "twitch": "2137947745", "start": "2:57:19" }
     ]
   },
   {
@@ -4792,7 +4800,8 @@
       ] },
       { "name": "Sector A7", "twitch": "2125739785", "start": "3:52:53" },
       { "name": "Fancyland", "twitch": "2126590741", "start": "1:29:07" },
-      { "name": "Phantom Fury", "twitch": "2136987621", "start": "1:39:47" }
+      { "name": "Phantom Fury", "twitch": "2136987621", "start": "1:39:47" },
+      { "name": "Poltergeist Watcher", "twitch": "2137947745", "start": "4:53:18" }
     ]
   },
   {
@@ -5004,7 +5013,18 @@
         { "name": "Yo Bro, Whats That In Your Mirror Bro?", "start": "4:27:14" }
       ] },
       { "name": "Hades II (ранний доступ)", "twitch": "2127410165", "start": "28:42" },
-      { "name": "Zero Protocol (демо)", "twitch": "2136144666", "start": "50:49" }
+      { "name": "Zero Protocol (демо)", "twitch": "2136144666", "start": "50:49" },
+      { "twitch": "2137947745", "subrefs": [
+        { "name": "Confusion", "start": "39:26" },
+        { "name": "Eyeless Jack", "start": "1:41:07" },
+        { "name": "Hazing: Hazing Nightshift", "start": "2:01:07" },
+        { "name": "Please Stop Crying", "start": "2:21:54" },
+        { "name": "Mimic Search", "start": "2:34:32" },
+        { "name": "Laundry Night", "start": "3:47:09" },
+        { "name": "Late Night Shift", "start": "3:58:59" },
+        { "name": "The VHS Paradise", "start": "4:15:00" },
+        { "name": "Moves Away", "start": "4:35:42" }
+      ] }
     ]
   },
   {
