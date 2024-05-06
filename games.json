@@ -2539,11 +2539,12 @@
   },
   {
     "name": "The Classrooms",
-    "category": "ongoing",
+    "category": "finished",
     "id": "classrooms",
     "streams": [
       { "name": "Демо", "twitch": "1619465701", "start": "1:27:12" },
-      { "name": "Ранний доступ", "twitch": "2137947745", "start": "2:57:19" }
+      { "name": "1 (ранний доступ)", "twitch": "2137947745", "start": "2:57:19" },
+      { "name": "2", "twitch": "2138806382", "start": "48:36" }
     ]
   },
   {
@@ -4801,7 +4802,19 @@
       { "name": "Sector A7", "twitch": "2125739785", "start": "3:52:53" },
       { "name": "Fancyland", "twitch": "2126590741", "start": "1:29:07" },
       { "name": "Phantom Fury", "twitch": "2136987621", "start": "1:39:47" },
-      { "name": "Poltergeist Watcher", "twitch": "2137947745", "start": "4:53:18" }
+      { "twitch": "2138806382", "subrefs": [
+        { "name": "Candyland: Sweet Survival", "start": "3:24:21" },
+        { "name": "Haisonmeguri", "start": "3:43:45" }
+      ] }
+    ]
+  },
+  {
+    "name": "Poltergeist Watcher",
+    "category": "ongoing",
+    "id": "polter-watcher",
+    "streams": [
+      { "name": "1", "twitch": "2137947745", "start": "4:53:18" },
+      { "name": "2", "twitch": "2138806382", "start": "4:03:28" }
     ]
   },
   {
