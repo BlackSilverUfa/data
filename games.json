@@ -2998,11 +2998,12 @@
   },
   {
     "name": "They Are Here: Alien Abduction Horror",
-    "category": "abandoned",
+    "category": "ongoing",
     "id": "they-are-here",
     "streams": [
       { "name": "Демо 1", "twitch": "1061050549", "start": "25:47" },
-      { "name": "Демо 2", "twitch": "1855403959", "start": "30:07" }
+      { "name": "Демо 2", "twitch": "1855403959", "start": "30:07" },
+      { "name": "Демо 3", "twitch": "2140448165", "start": "36:27" }
     ]
   },
   {
@@ -4822,7 +4823,8 @@
       { "twitch": "2138806382", "subrefs": [
         { "name": "Candyland: Sweet Survival", "start": "3:24:21" },
         { "name": "Haisonmeguri", "start": "3:43:45" }
-      ] }
+      ] },
+      { "name": "Surveillance", "twitch": "2140448165", "start": "4:04:20" }
     ]
   },
   {
@@ -5054,6 +5056,12 @@
         { "name": "Late Night Shift", "start": "3:58:59" },
         { "name": "The VHS Paradise", "start": "4:15:00" },
         { "name": "Moves Away", "start": "4:35:42" }
+      ] },
+      { "twitch": "2140448165", "subrefs": [
+        { "name": "The Cursed Tape", "start": "1:11:16" },
+        { "name": "Is This Game Trying to Kill Me?: Preface", "start": "1:54:34" },
+        { "name": "Void Whispers", "start": "2:41:35" },
+        { "name": "Cursed Enigma: The Midnight Apartment", "start": "3:26:35" }
       ] }
     ]
   },
