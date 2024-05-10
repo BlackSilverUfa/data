@@ -2803,7 +2803,6 @@
       { "twitch": "1949027899", "subrefs": [
         { "name": "April '86 (демо)", "start": "40:19" },
         { "name": "ONE WAY HOME (демо)", "start": "1:12:55" },
-        { "name": "The Bridge Curse 2: The Extrication (демо)", "start": "2:33:01" },
         { "name": "Nevermind This (демо)", "start": "5:00:05" },
         { "name": "Paranormal Records (демо)", "start": "5:28:45" }
       ] },
@@ -5318,6 +5317,15 @@
     "streams": [
       { "name": "Демо", "twitch": "1307474557", "start": "1:34:04" },
       { "name": "Релиз", "twitch": "1578740848", "start": "3:40:18" }
+    ]
+  },
+  {
+    "name": "The Bridge Curse 2: The Extrication",
+    "category": "ongoing",
+    "id": "bridge-curse-2",
+    "streams": [
+      { "name": "Демо", "twitch": "1949027899", "start": "2:33:01" },
+      { "name": "1", "twitch": "2142133135", "start": "54:51" }
     ]
   },
   {
