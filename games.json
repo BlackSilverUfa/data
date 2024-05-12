@@ -5062,7 +5062,17 @@
         { "name": "Void Whispers", "start": "2:41:35" },
         { "name": "Cursed Enigma: The Midnight Apartment", "start": "3:26:35" }
       ] },
-      { "name": "SCP: Descent", "twitch": "2143015001", "start": "3:34:26" }
+      { "name": "SCP: Descent", "twitch": "2143015001", "start": "3:34:26" },
+      { "twitch": "2143886218", "subrefs": [
+        { "name": "Necrophosis (демо)", "start": "56:25" },
+        { "name": "Bora (by lumdumbora)", "start": "1:38:19" },
+        { "name": "Ritual", "start": "1:54:38" },
+        { "name": "Take Out the Trash", "start": "2:43:36" },
+        { "name": "A Missing Salesman", "start": "3:02:55" },
+        { "name": "Goofy Night Stalker: Home Alone", "start": "3:12:25" },
+        { "name": "Little Jimmy's Gift", "start": "3:33:47" },
+        { "name": "Old Times", "start": "3:43:18" }
+      ] }
     ]
   },
   {
