@@ -433,7 +433,8 @@
         { "name": "LASERS", "start": "2:32:09" },
         { "name": "Minigame Game", "start": "4:03:09" }
       ] },
-      { "name": "Sketchy's Contract", "twitch": "2136987621", "start": "3:13:31" }
+      { "name": "Sketchy's Contract", "twitch": "2136987621", "start": "3:13:31" },
+      { "name": "Super Buckyball Tournament (с Димами)", "twitch": "2147955328", "start": "3:04:55" }
     ]
   },
   {
@@ -4823,7 +4824,8 @@
         { "name": "Haisonmeguri", "start": "3:43:45" }
       ] },
       { "name": "Surveillance", "twitch": "2140448165", "start": "4:04:20" },
-      { "name": "Live Meat", "twitch": "2147132532", "start": "4:23:13" }
+      { "name": "Live Meat", "twitch": "2147132532", "start": "4:23:13" },
+      { "name": "24H Stories: The Rule 7", "twitch": "2147955328", "start": "2:12:26" }
     ]
   },
   {
@@ -5086,7 +5088,8 @@
         { "name": "The Stairway 7 (продолжение)", "start": "3:32:09", "hidden": true },
         { "name": "Rose and Cross (демо)", "start": "4:29:50" },
         { "name": "The Lancaster Leak: O'Brien State Park", "start": "4:40:26" }
-      ] }
+      ] },
+      { "name": "Навь (демо)", "twitch": "2147955328", "start": "1:01:26" }
     ]
   },
   {
