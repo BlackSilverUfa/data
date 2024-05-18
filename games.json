@@ -6965,10 +6965,11 @@
   },
   {
     "name": "Like a Dragon: Infinite Wealth",
-    "category": "abandoned",
+    "category": "ongoing",
     "id": "like-dragon-iw",
     "streams": [
-      { "name": "1", "twitch": "2047046153", "start": "15:36" }
+      { "name": "1", "twitch": "2047046153", "start": "15:36" },
+      { "name": "2", "twitch": "2148774961", "start": "11:15" }
     ]
   },
   {
