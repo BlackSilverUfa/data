@@ -4828,6 +4828,10 @@
       { "name": "24H Stories: The Rule 7", "twitch": "2147955328", "start": "2:12:26" },
       { "twitch": "2149736276", "subrefs": [
         { "name": "Descending The Woods", "start": "2:21:46" }
+      ] },
+      { "twitch": "2150566668", "subrefs": [
+        { "name": "Whispers in the Void", "start": "53:48" },
+        { "name": "The Tower on the Borderland", "start": "1:25:59" }
       ] }
     ]
   },
@@ -5089,7 +5093,6 @@
         { "name": "Le Dernier Don", "start": "2:08:49" },
         { "name": "April 24th", "start": "2:41:58" },
         { "name": "The Stairway 7 (продолжение)", "start": "3:32:09", "hidden": true },
-        { "name": "Rose and Cross (демо)", "start": "4:29:50" },
         { "name": "The Lancaster Leak: O'Brien State Park", "start": "4:40:26" }
       ] },
       { "name": "Навь (демо)", "twitch": "2147955328", "start": "1:01:26" },
@@ -5099,7 +5102,19 @@
         { "name": "Sonic.EXE", "start": "3:30:19" },
         { "name": "Midnight Lane", "start": "3:55:08" },
         { "name": "Teeth of Glass", "start": "4:38:16" }
+      ] },
+      { "twitch": "2150566668", "subrefs": [
+        { "name": "Indigo Park", "start": "3:01:33" }
       ] }
+    ]
+  },
+  {
+    "name": "Rose and Cross",
+    "category": "finished",
+    "id": "rose-and-cross",
+    "streams": [
+      { "name": "Демо", "twitch": "2147132532", "start": "4:29:50" },
+      { "name": "Прохождение", "twitch": "2150566668", "start": "2:21:38" }
     ]
   },
   {
