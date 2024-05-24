@@ -4826,9 +4826,7 @@
       { "name": "Surveillance", "twitch": "2140448165", "start": "4:04:20" },
       { "name": "Live Meat", "twitch": "2147132532", "start": "4:23:13" },
       { "name": "24H Stories: The Rule 7", "twitch": "2147955328", "start": "2:12:26" },
-      { "twitch": "2149736276", "subrefs": [
-        { "name": "Descending The Woods", "start": "2:21:46" }
-      ] },
+      { "name": "Descending The Woods", "twitch": "2149736276", "start": "2:21:46" },
       { "twitch": "2150566668", "subrefs": [
         { "name": "Whispers in the Void", "start": "53:48" },
         { "name": "The Tower on the Borderland", "start": "1:25:59" }
@@ -4939,7 +4937,7 @@
   },
   {
     "name": "Pacific Drive",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "pacific-drive",
     "streams": [
       { "name": "Демо", "twitch": "2054830363", "start": "31:21" },
@@ -5103,9 +5101,7 @@
         { "name": "Midnight Lane", "start": "3:55:08" },
         { "name": "Teeth of Glass", "start": "4:38:16" }
       ] },
-      { "twitch": "2150566668", "subrefs": [
-        { "name": "Indigo Park", "start": "3:01:33" }
-      ] }
+      { "name": "Indigo Park", "twitch": "2150566668", "start": "3:01:33" }
     ]
   },
   {
