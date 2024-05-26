@@ -2778,16 +2778,15 @@
   "1727935216": { "youtube": "2SnqCTf4gDQ" },
   "1728992336": { "youtube": "ZdLty-coTys" },
   "1729899835": {
-    "youtube": "f1Han53uevA", "source_cuts": ["5:52:11~5:52:41"], "official": false,
+    "source_cuts": ["5:52:11~5:52:41"],
     "note": "<a href=\"https://youtu.be/D51vro2KMd4\">Официальная запись</a> сломана (недоступно качество выше 360p)"
   },
   "1730836289": {
-    "youtube": "AESrRmYDqp0", "official": false,
     "note": "<a href=\"https://youtu.be/fWAzcVTL4X0\">Официальная запись</a> сломана (недоступно качество выше 360p)"
   },
   "1731887577": { "youtube": "w2yzTVjcyW8", "official": false },
   "1732877770": {
-    "youtube": "__uvuVGfYNY", "source_cuts": ["6:24:40~6:25:17"], "official": false,
+    "source_cuts": ["6:24:40~6:25:17"],
     "note": "<a href=\"https://youtu.be/Df4NepV59fs\">Официальная запись</a> сломана (недоступно качество выше 360p)"
   },
   "1733865086": { "youtube": "gCrfWqg0rs4" },
