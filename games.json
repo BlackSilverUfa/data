@@ -4835,7 +4835,8 @@
       { "twitch": "2155743330", "subrefs": [
         { "name": "Silent Hill: Fan Remake Demo", "start": "1:37:49" },
         { "name": "Astral Maze: Escape the Horror", "start": "4:29:11" }
-      ] }
+      ] },
+      { "name": "Haunted Bloodlines", "twitch": "2156572508", "start": "3:41:14" }
     ]
   },
   {
@@ -5111,6 +5112,10 @@
         { "name": "Dr. Finklestein's Marvelous Room (демо)", "start": "2:11:08" },
         { "name": "The Lost Fear", "start": "4:06:25" },
         { "name": "Bloody Hallowfest", "start": "4:40:40" }
+      ] },
+      { "twitch": "2156572508", "subrefs": [
+        { "name": "Witch's Doll", "start": "49:40" },
+        { "name": "Stairway", "start": "2:55:43" }
       ] }
     ]
   },
