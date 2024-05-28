@@ -2973,7 +2973,8 @@
       { "name": "The Convenience Store", "twitch": "1917728202", "start": "51:52" },
       { "name": "The Kidnap", "twitch": "1969356180", "start": "3:10:06" },
       { "name": "Jisatsu", "twitch": "2005613219", "start": "1:35:43" },
-      { "name": "Shinkansen 0", "twitch": "2102886465", "start": "56:52" }
+      { "name": "Shinkansen 0", "twitch": "2102886465", "start": "56:52" },
+      { "name": "Okaeri", "twitch": "2157418915", "start": "2:55:32" }
     ]
   },
   {
@@ -4836,7 +4837,10 @@
         { "name": "Silent Hill: Fan Remake Demo", "start": "1:37:49" },
         { "name": "Astral Maze: Escape the Horror", "start": "4:29:11" }
       ] },
-      { "name": "Haunted Bloodlines", "twitch": "2156572508", "start": "3:41:14" }
+      { "name": "Haunted Bloodlines", "twitch": "2156572508", "start": "3:41:14" },
+      { "twitch": "2157418915", "subrefs": [
+        { "name": "Project13: Nightwatch", "start": "2:20:39" }
+      ] }
     ]
   },
   {
@@ -5116,6 +5120,10 @@
       { "twitch": "2156572508", "subrefs": [
         { "name": "Witch's Doll", "start": "49:40" },
         { "name": "Stairway", "start": "2:55:43" }
+      ] },
+      { "twitch": "2157418915", "subrefs": [
+        { "name": "Faint Call", "start": "58:42" },
+        { "name": "The Rainman", "start": "3:31:43" } 
       ] }
     ]
   },
