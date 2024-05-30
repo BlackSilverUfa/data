@@ -1069,7 +1069,8 @@
       { "name": "3 (с Артёмом, Джеком и Gamelife)", "twitch": "786440219", "start": "4:56:37" },
       { "name": "4 (релиз)", "twitch": "1235847606", "start": "3:24:17" },
       { "name": "5", "twitch": "1238591362", "start": "3:58:57" },
-      { "name": "6", "twitch": "1240425069", "start": "4:13:10" }
+      { "name": "6", "twitch": "1240425069", "start": "4:13:10" },
+      { "name": "7 (4D)", "twitch": "2159059575", "start": "3:17:21" }
     ],
     "cover": 1
   },
@@ -4840,7 +4841,11 @@
         { "name": "Astral Maze: Escape the Horror", "start": "4:29:11" }
       ] },
       { "name": "Haunted Bloodlines", "twitch": "2156572508", "start": "3:41:14" },
-      { "name": "Project13: Nightwatch", "twitch": "2157418915", "start": "2:20:39" }
+      { "name": "Project13: Nightwatch", "twitch": "2157418915", "start": "2:20:39" },
+      { "twitch": "2159059575", "subrefs": [
+        { "name": "Mirthwood", "start": "31:07" },
+        { "name": "Crow Country", "start": "1:23:50" }
+      ] }
     ]
   },
   {
