@@ -4456,7 +4456,6 @@
       { "twitch": "1573052503", "subrefs": [
         { "name": "Pepsiman", "start": "55:55" },
         { "name": "Ballerburg", "start": "2:21:22" },
-        { "name": "Dune 2000", "start": "3:37:14" },
         { "name": "Driver", "start": "5:06:22" }
       ] },
       { "twitch": "1575034539,1575155040", "subrefs": [
@@ -4535,6 +4534,15 @@
         { "name": "Who Knocks", "start": "1:47:05" }
       ] },
       { "name": "The Thing (by PanzerCat)", "twitch": "1690952607", "start": "3:54:09" }
+    ]
+  },
+  {
+    "name": "Dune 2000",
+    "category": "ongoing",
+    "id": "dune-2000",
+    "streams": [
+      { "name": "1", "twitch": "1573052503", "start": "3:37:14" },
+      { "name": "2", "twitch": "2160830982", "start": "3:42:23" }
     ]
   },
   {
@@ -4845,7 +4853,8 @@
       { "twitch": "2159059575", "subrefs": [
         { "name": "Mirthwood", "start": "31:07" },
         { "name": "Crow Country", "start": "1:23:50" }
-      ] }
+      ] },
+      { "name": "Alien Resurrection", "twitch": "2160830982", "start": "2:17:41" }
     ]
   },
   {
@@ -6925,7 +6934,8 @@
     "id": "sh",
     "streams": [
       { "name": "1", "twitch": "979835510", "start": "2:03:45" },
-      { "name": "2", "twitch": "980365564" }
+      { "name": "2", "twitch": "980365564" },
+      { "name": "3 (заново, ВРИ)", "twitch": "2160830982", "start": "55:29" }
     ]
   },
   {
@@ -8964,7 +8974,8 @@
       { "name": "7", "twitch": "1586147183" },
       { "name": "8", "twitch": "1614024019" },
       { "name": "9", "twitch": "1860536794" },
-      { "name": "10", "twitch": "2118671984" }
+      { "name": "10", "twitch": "2118671984" },
+      { "name": "11", "twitch": "2160830982" }
     ]
   },
   {
