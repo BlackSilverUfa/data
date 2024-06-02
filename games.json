@@ -4627,10 +4627,7 @@
         { "name": "World's Worst Handyman (демо)", "start": "3:16:54" },
         { "name": "Wizard With a Gun (демо)", "start": "3:35:03" }
       ] },
-      { "twitch": "1849426857", "subrefs": [
-        { "name": "The Event (демо)", "start": "4:17:54" },
-        { "name": "Scholar's Mate: First Move", "start": "4:59:08" }
-      ] },
+      { "name": "The Event (демо)", "twitch": "1849426857", "start": "4:17:54" },
       { "name": "Aliens: Dark Descent", "twitch": "1851046365", "start": "29:59" },
       { "twitch": "1854535719", "subrefs": [
         { "name": "Viewfinder (демо)", "start": "15:14" },
@@ -4757,6 +4754,15 @@
     ]
   },
   {
+    "name": "Scholar's Mate",
+    "category": "ongoing",
+    "id": "scholars-mate",
+    "streams": [
+      { "name": "First Move", "twitch": "1849426857", "start": "4:59:08" },
+      { "name": "1", "twitch": "2161695467", "start": "49:47" }
+    ]
+  },
+  {
     "name": "Enshrouded",
     "category": "co-op",
     "id": "enshrouded",
@@ -4854,7 +4860,11 @@
         { "name": "Mirthwood", "start": "31:07" },
         { "name": "Crow Country", "start": "1:23:50" }
       ] },
-      { "name": "Alien Resurrection", "twitch": "2160830982", "start": "2:17:41" }
+      { "name": "Alien Resurrection", "twitch": "2160830982", "start": "2:17:41" },
+      { "twitch": "2161695467", "subrefs": [
+        { "name": "Nightmare Kart", "start": "3:29:21" },
+        { "name": "Flathead", "start": "4:39:59" }
+      ] }
     ]
   },
   {
@@ -5138,6 +5148,11 @@
       { "twitch": "2157418915", "subrefs": [
         { "name": "Faint Call", "start": "58:42" },
         { "name": "The Rainman", "start": "3:31:43" }
+      ] },
+      { "twitch": "2161695467", "subrefs": [
+        { "name": "Baisu", "start": "1:00:01" },
+        { "name": "Platform 8", "start": "2:45:11" },
+        { "name": "Mourning Tide", "start": "4:12:04" }
       ] }
     ]
   },
