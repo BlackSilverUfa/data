@@ -433,8 +433,17 @@
         { "name": "LASERS", "start": "2:32:09" },
         { "name": "Minigame Game", "start": "4:03:09" }
       ] },
-      { "name": "Sketchy's Contract", "twitch": "2136987621", "start": "3:13:31" },
-      { "name": "Super Buckyball Tournament (с Димами)", "twitch": "2147955328", "start": "3:04:55" }
+      { "name": "Super Buckyball Tournament (с Димами)", "twitch": "2147955328", "start": "3:04:55" },
+      { "name": "Panicore", "twitch": "2162458886", "start": "3:24:18" }
+    ]
+  },
+  {
+    "name": "Sketchy's Contract",
+    "category": "co-op",
+    "id": "sketchys-contract",
+    "streams": [
+      { "name": "1", "twitch": "2136987621", "start": "3:13:31" },
+      { "name": "2", "twitch": "2162458886", "start": "3:56:13" }
     ]
   },
   {
@@ -502,7 +511,8 @@
       { "name": "8", "twitch": "2032273403", "start": "2:20:14" },
       { "name": "9", "twitch": "2109539858", "start": "4:24:41" },
       { "name": "10", "twitch": "2136987621", "start": "4:23:54" },
-      { "name": "11", "twitch": "2139593833", "start": "3:27:43" }
+      { "name": "11", "twitch": "2139593833", "start": "3:27:43" },
+      { "name": "12", "twitch": "2162458886", "start": "4:51:17" }
     ]
   },
   {
@@ -4861,10 +4871,28 @@
         { "name": "Crow Country", "start": "1:23:50" }
       ] },
       { "name": "Alien Resurrection", "twitch": "2160830982", "start": "2:17:41" },
-      { "twitch": "2161695467", "subrefs": [
-        { "name": "Nightmare Kart", "start": "3:29:21" },
-        { "name": "Flathead", "start": "4:39:59" }
+      { "twitch": "2162458886", "subrefs": [
+        { "name": "The Rogue Prince of Persia", "start": "13:23" },
+        { "name": "Soulmask", "start": "1:24:50" }
       ] }
+    ]
+  },
+  {
+    "name": "Nightmare Kart",
+    "category": "ongoing",
+    "id": "nightmare-kart",
+    "streams": [
+      { "name": "1", "twitch": "2161695467", "start": "3:29:21" },
+      { "name": "2", "twitch": "2162458886", "start": "2:51:06" }
+    ]
+  },
+  {
+    "name": "Flathead",
+    "category": "finished",
+    "id": "flathead",
+    "streams": [
+      { "name": "1", "twitch": "2161695467", "start": "4:39:59" },
+      { "name": "2", "twitch": "2162458886", "start": "2:28:54" }
     ]
   },
   {
@@ -5151,9 +5179,18 @@
       ] },
       { "twitch": "2161695467", "subrefs": [
         { "name": "Baisu", "start": "1:00:01" },
-        { "name": "Platform 8", "start": "2:45:11" },
         { "name": "Mourning Tide", "start": "4:12:04" }
-      ] }
+      ] },
+      { "name": "Doki Doki AI Interrogation", "twitch": "2162458886", "start": "50:27" }
+    ]
+  },
+  {
+    "name": "Platform 8",
+    "category": "finished",
+    "id": "platform-8",
+    "streams": [
+      { "name": "1", "twitch": "2161695467", "start": "2:45:11" },
+      { "name": "2", "twitch": "2162458886", "start": "2:01:15" }
     ]
   },
   {
