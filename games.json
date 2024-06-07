@@ -1972,6 +1972,14 @@
     ]
   },
   {
+    "name": "неПрофессиональный \"E3\" 2024",
+    "category": "expos",
+    "id": "e3_2024",
+    "streams": [
+      { "name": "Guerilla Collective (обзор)", "twitch": "2165854609", "start": "52:42" }
+    ]
+  },
+  {
     "name": "неПрофессиональный E3 2017",
     "category": "expos",
     "id": "e3_2017",
@@ -4341,10 +4349,7 @@
       { "name": "OlliOlli World", "twitch": "1290138739" },
       { "name": "Kingdom of the Dead", "twitch": "1299859703", "start": "2:53:03" },
       { "name": "Horizon Zero Dawn", "twitch": "1300779617" },
-      { "twitch": "1306396434", "subrefs": [
-        { "name": "Autopsy Simulator (демо)" },
-        { "name": "Total War: Warhammer III", "start": "4:02:07" }
-      ] },
+      { "name": "Total War: Warhammer III", "twitch": "1306396434", "start": "4:02:07" },
       { "name": "SCP: Pandemic (демо)", "twitch": "1307474557", "start": "3:17:59" },
       { "name": "Gran Turismo 7", "twitch": "1415016033" },
       { "name": "Weird West", "twitch": "1444100764", "start": "4:40:10" },
@@ -4544,6 +4549,15 @@
         { "name": "Who Knocks", "start": "1:47:05" }
       ] },
       { "name": "The Thing (by PanzerCat)", "twitch": "1690952607", "start": "3:54:09" }
+    ]
+  },
+  {
+    "name": "Autopsy Simulator",
+    "category": "ongoing",
+    "id": "autopsy-sim",
+    "streams": [
+      { "name": "Демо", "twitch": "1306396434", "start": "25:52" },
+      { "name": "1", "twitch": "2165854609", "start": "1:56:29" }
     ]
   },
   {
