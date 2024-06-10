@@ -1978,7 +1978,12 @@
     "streams": [
       { "name": "Guerilla Collective (обзор)", "twitch": "2165854609", "start": "52:42" },
       { "name": "Summer Game Fest", "twitch": "2166179110", "start": "30:10" },
-      { "name": "Devolver Direct", "twitch": "2166707321", "start": "12:57" }
+      { "name": "Devolver Direct", "twitch": "2166707321", "start": "12:57" },
+      { "twitch": "2168445264", "subrefs": [
+        { "name": "Xbox Games Showcase (обзор)", "start": "13:53" },
+        { "name": "PC Gaming Show (обзор)", "start": "2:13:22" },
+        { "name": "Future Games Show (обзор)", "start": "4:04:50" }
+      ] }
     ]
   },
   {
@@ -5197,7 +5202,8 @@
         { "name": "Baisu", "start": "1:00:01" },
         { "name": "Mourning Tide", "start": "4:12:04" }
       ] },
-      { "name": "Doki Doki AI Interrogation", "twitch": "2162458886", "start": "50:27" }
+      { "name": "Doki Doki AI Interrogation", "twitch": "2162458886", "start": "50:27" },
+      { "name": "Lucky Tower Ultimate (демо)", "twitch": "2168445264", "start": "4:27:36" }
     ]
   },
   {
