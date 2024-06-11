@@ -1983,7 +1983,8 @@
         { "name": "Xbox Games Showcase (обзор)", "start": "13:53" },
         { "name": "PC Gaming Show (обзор)", "start": "2:13:22" },
         { "name": "Future Games Show (обзор)", "start": "4:04:50" }
-      ] }
+      ] },
+      { "name": "Ubisoft Forward (обзор)", "twitch": "2169221839", "start": "20:39" }
     ]
   },
   {
@@ -4895,6 +4896,11 @@
       { "twitch": "2162458886", "subrefs": [
         { "name": "The Rogue Prince of Persia", "start": "13:23" },
         { "name": "Soulmask", "start": "1:24:50" }
+      ] },
+      { "twitch": "2169221839", "subrefs": [
+        { "name": "The Alters (демо)", "start": "2:16:26" },
+        { "name": "FUMES (демо)", "start": "4:34:06" },
+        { "name": "Tormenture (демо)", "start": "6:52:27" }
       ] }
     ]
   },
@@ -5203,7 +5209,20 @@
         { "name": "Mourning Tide", "start": "4:12:04" }
       ] },
       { "name": "Doki Doki AI Interrogation", "twitch": "2162458886", "start": "50:27" },
-      { "name": "Lucky Tower Ultimate (демо)", "twitch": "2168445264", "start": "4:27:36" }
+      { "twitch": "2169221839", "subrefs": [
+        { "name": "Phantom Line (демо)", "start": "1:26:27" },
+        { "name": "Steel Seed (демо)", "start": "4:51:54" },
+        { "name": "Reason Unfound (демо)", "start": "6:23:23" }
+      ] }
+    ]
+  },
+  {
+    "name": "Lucky Tower Ultimate (демо)",
+    "category": "ongoing",
+    "id": "lucky-tower",
+    "streams": [
+      { "name": "1", "twitch": "2168445264", "start": "4:27:36" },
+      { "name": "2", "twitch": "2169221839", "start": "5:33:20" }
     ]
   },
   {
