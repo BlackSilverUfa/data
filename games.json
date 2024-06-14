@@ -4562,11 +4562,12 @@
   },
   {
     "name": "Autopsy Simulator",
-    "category": "ongoing",
+    "category": "finished",
     "id": "autopsy-sim",
     "streams": [
       { "name": "Демо", "twitch": "1306396434", "start": "25:52" },
-      { "name": "1", "twitch": "2165854609", "start": "1:56:29" }
+      { "name": "1", "twitch": "2165854609", "start": "1:56:29" },
+      { "name": "2", "twitch": "2171772619", "start": "10:10" }
     ]
   },
   {
