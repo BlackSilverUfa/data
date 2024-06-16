@@ -4752,10 +4752,7 @@
         { "name": "Cat Fred Evil Pet", "start": "55:02" },
         { "name": "Employee of the Month", "start": "1:28:26" }
       ] },
-      { "twitch": "1976316443", "subrefs": [
-        { "name": "Polygon of Reality (демо)", "start": "29:48" },
-        { "name": "BoneField: Bodycam Horror (демо)", "start": "2:43:26" }
-      ] },
+      { "name": "Polygon of Reality (демо)", "twitch": "1976316443", "start": "29:48" },
       { "twitch": "1977184678", "subrefs": [
         { "name": "Exilium", "start": "40:19" },
         { "name": "Lunacid", "start": "1:03:29" }
@@ -4901,8 +4898,7 @@
       ] },
       { "twitch": "2169221839", "subrefs": [
         { "name": "The Alters (демо)", "start": "2:16:26" },
-        { "name": "FUMES (демо)", "start": "4:34:06" },
-        { "name": "Tormenture (демо)", "start": "6:52:27" }
+        { "name": "FUMES (демо)", "start": "4:34:06" }
       ] },
       { "name": "Nancy Drew: Ghost Dogs of Moon Lake (Нэнси Дрю. Псы-призраки Лунного озера)", "twitch": "2170124389", "start": "21:28" },
       { "twitch": "2170904450", "subrefs": [
@@ -4913,7 +4909,21 @@
         { "name": "Fallen Aces", "start": "43:19" },
         { "name": "Hollywood Animal", "start": "1:33:37" },
         { "name": "Caravan SandWitch (демо)", "start": "3:11:06" }
+      ] },
+      { "twitch": "2173541595", "subrefs": [
+        { "name": "I.O. Setter (демо)", "start": "1:29:44" },
+        { "name": "Abaddon (демо)", "start": "3:45:28" },
+        { "name": "Paranormal Investigators", "start": "4:01:00" }
       ] }
+    ]
+  },
+  {
+    "name": "BoneField: Bodycam Horror (демо)",
+    "category": "ongoing",
+    "id": "bonefield",
+    "streams": [
+      { "name": "1", "twitch": "1976316443", "start": "2:43:26" },
+      { "name": "2", "twitch": "2173541595", "start": "3:23:09" }
     ]
   },
   {
@@ -5225,7 +5235,23 @@
         { "name": "Phantom Line (демо)", "start": "1:26:27" },
         { "name": "Steel Seed (демо)", "start": "4:51:54" },
         { "name": "Reason Unfound (демо)", "start": "6:23:23" }
+      ] },
+      { "twitch": "2173541595", "subrefs": [
+        { "name": "[Nightmare Files] Clap Clap", "start": "47:43" },
+        { "name": "Bite Night", "start": "2:06:29" },
+        { "name": "The Crawler", "start": "2:52:56" },
+        { "name": "Don't Let Her In", "start": "3:10:11" },
+        { "name": "Mbembe Radio", "start": "4:11:09" }
       ] }
+    ]
+  },
+  {
+    "name": "Tormenture (демо)",
+    "category": "finished",
+    "id": "tormenture",
+    "streams": [
+      { "name": "1", "twitch": "2169221839", "start": "6:52:27" },
+      { "name": "2", "twitch": "2173541595", "start": "4:38:30" }
     ]
   },
   {
