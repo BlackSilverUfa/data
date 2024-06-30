@@ -703,6 +703,7 @@
       "2:05:50~2:07:23": "Не указано",
       "2:26:18~2:27:58": "George Michael - Careless Whisper",
       "2:42:21~2:44:00": "Perry Como - Papa Loves Mambo",
+      "2:51:43~2:53:46": "Junkie XL - End Credits",
       "4:32:31~4:35:51": "Stealth - Judgement Day",
       "4:36:13~4:39:22": "Scooter - Fire"
     },
@@ -1151,7 +1152,8 @@
       "1:33:50"
     ],
     "Проблемы с правообладателями": {
-      "1:08:54~1:14:43": "Snow Patrol - Run"
+      "1:08:54~1:14:43": "Snow Patrol - Run",
+      "1:39:49~1:43:39": "Jaymes Young - I'll Be Good"
     },
     "2:01:16": "Хлопушка"
   },
@@ -6242,6 +6244,9 @@
       "10:31": "Оно 2",
       "15:31": "Final Fantasy VII: Remake"
     },
+    "Проблемы с правообладателями": {
+      "2:19:47~2:19:59": "Halestorm - I Am the Fire"
+    },
     "Hollow Knight": {
       "19:22": "Меню",
       "19:37": "Игра",
@@ -8923,6 +8928,11 @@
         "37:04~38:30",
         "38:16~39:19"
       ],
+      "The Drifters - Honey Love (with Clyde McPhatter)": [
+        "45:49~47:46",
+        "1:01:58~1:03:11",
+        "1:57:26~1:59:09"
+      ],
       "Roy Hamilton - Don't Let Go": [
         "1:08:25~1:09:23",
         "2:33:47~2:34:34",
@@ -8953,6 +8963,9 @@
   "504248004": {
     "3:18": "Стримлер",
     "11:52": "<a href=\"https://youtu.be/vWCt26TXeu0\">Lori Anger - Семейка БлэкУфа</a>",
+    "Проблемы с правообладателями": {
+      "4:39:54~4:40:57": "The Drifters - Honey Love (with Clyde McPhatter)"
+    },
     "Need for Speed Heat": {
       "30:48": "Меню",
       "33:31": "Интро",
