@@ -3778,12 +3778,20 @@
     ]
   },
   {
+    "name": "Bloodborne",
+    "category": "ongoing",
+    "id": "bloodborne",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "001508100", "start": "1:02:17" },
+      { "name": "1", "twitch": "2188923473", "start": "14:10" }
+    ]
+  },
+  {
     "name": "Первый взгляд 2015",
     "category": "first",
     "type": "list",
     "id": "first-2015",
     "streams": [
-      { "name": "Bloodborne", "twitch": "001508100", "start": "1:02:17" },
       { "name": "Bioshock Infinite", "twitch": "001508120", "start": "1:11:49" }
     ]
   },
@@ -4607,7 +4615,6 @@
         { "name": "I Am Future (демо)", "start": "5:30:52" }
       ] },
       { "twitch": "1741779316", "subrefs": [
-        { "name": "White Day 2: The Flower That Tells Lies", "start": "3:37:48" },
         { "name": "Paranormal VHS (демо)", "start": "4:50:20" },
         { "name": "Echoes of the Living (демо)", "start": "5:04:38" }
       ] },
@@ -4914,8 +4921,16 @@
         { "name": "I.O. Setter (демо)", "start": "1:29:44" },
         { "name": "Abaddon (демо)", "start": "3:45:28" },
         { "name": "Paranormal Investigators", "start": "4:01:00" }
-      ] },
-      { "name": "White Day 2: The Flower That Tells Lies", "twitch": "2188101827", "start": "1:19:20" }
+      ] }
+    ]
+  },
+  {
+    "name": "White Day 2: The Flower That Tells Lies",
+    "category": "ongoing",
+    "id": "white-day-2",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "1741779316", "start": "3:37:48" },
+      { "name": "1", "twitch": "2188101827", "start": "1:19:20" }
     ]
   },
   {
