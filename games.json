@@ -3786,13 +3786,14 @@
   },
   {
     "name": "Bloodborne",
-    "category": "ongoing",
+    "category": "finished",
     "id": "bloodborne",
     "streams": [
       { "name": "Первый взгляд", "twitch": "001508100", "start": "1:02:17" },
       { "name": "1", "twitch": "2188923473", "start": "14:10" },
       { "name": "2", "twitch": "2189730910", "start": "14:56" },
-      { "name": "3", "twitch": "2192277031", "start": "9:19" }
+      { "name": "3", "twitch": "2192277031", "start": "9:19" },
+      { "name": "4", "twitch": "2193102588", "start": "10:04" }
     ]
   },
   {
