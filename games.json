@@ -437,9 +437,21 @@
       { "name": "Panicore", "twitch": "2162458886", "start": "3:24:18" },
       { "twitch": "2190605372", "subrefs": [
         { "name": "Dungeonborne", "start": "24:08" },
-        { "name": "Chained Together", "start": "2:40:02" },
         { "name": "Murky Divers", "start": "4:53:05" }
+      ] },
+      { "twitch": "2193968354", "subrefs": [
+        { "name": "Dark and Darker", "start": "41:16" },
+        { "name": "Pilgrim", "start": "2:47:05" }
       ] }
+    ]
+  },
+  {
+    "name": "Chained Together",
+    "category": "co-op",
+    "id": "chained-together",
+    "streams": [
+      { "name": "1", "twitch": "2190605372", "start": "2:40:02" },
+      { "name": "2", "twitch": "2193968354", "start": "4:58:27" }
     ]
   },
   {
@@ -4425,7 +4437,6 @@
         { "name": "Escape The Ayuwoki", "start": "5:44:43" }
       ] },
       { "twitch": "1502569152", "subrefs": [
-        { "name": "Anger Foot", "start": "3:38:21" },
         { "name": "Sker Ritual (демо)", "start": "4:49:28" },
         { "name": "The Last Worker (демо)", "start": "5:01:44" },
         { "name": "Midnight Fight Express (демо)", "start": "5:26:12" }
@@ -4576,6 +4587,15 @@
         { "name": "Who Knocks", "start": "1:47:05" }
       ] },
       { "name": "The Thing (by PanzerCat)", "twitch": "1690952607", "start": "3:54:09" }
+    ]
+  },
+  {
+    "name": "Anger Foot",
+    "category": "ongoing",
+    "id": "anger-foot",
+    "streams": [
+      { "name": "Демо", "twitch": "1502569152", "start": "3:38:21" },
+      { "name": "Релиз", "twitch": "2193968354", "start": "11:24" }
     ]
   },
   {
