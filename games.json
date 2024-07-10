@@ -5023,7 +5023,7 @@
   },
   {
     "name": "Surveillance Work",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "surveillance-work",
     "streams": [
       { "name": "1", "twitch": "2109539858", "start": "38:19" },
@@ -5032,7 +5032,7 @@
   },
   {
     "name": "Mouthhole",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "mouthhole",
     "streams": [
       { "name": "1", "twitch": "2113378651", "start": "3:43:24" },
