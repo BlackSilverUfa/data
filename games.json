@@ -2688,7 +2688,6 @@
         { "name": "The Touch", "start": "51:05" },
         { "name": "Alpen Ghoul: Prologue", "start": "1:01:54" },
         { "name": "The Portraits", "start": "2:31:41" },
-        { "name": "The Renovator: Origins", "start": "2:52:49" },
         { "name": "see no FEAR", "start": "3:27:16" },
         { "name": "Manacle", "start": "3:39:13" },
         { "name": "Cry of the Mermaid", "start": "4:42:36" }
@@ -3203,7 +3202,8 @@
       { "name": "Meat", "twitch": "2080976588", "start": "2:03:16" },
       { "name": "Trash Night", "twitch": "2125739785", "start": "2:16:36" },
       { "name": "We Are Not Alone - Contact", "twitch": "2155743330", "start": "2:40:39" },
-      { "name": "Dad", "twitch": "2191494883", "start": "2:12:22" }
+      { "name": "Dad", "twitch": "2191494883", "start": "2:12:22" },
+      { "name": "Halloween Revenge", "twitch": "2197410316", "start": "1:35:53" }
     ]
   },
   {
@@ -4956,6 +4956,11 @@
         { "name": "Grouls", "start": "46:12" },
         { "name": "Someone's Outside", "start": "3:20:44" },
         { "name": "I See You Now", "start": "3:25:03" }
+      ] },
+      { "twitch": "2197410316", "subrefs": [
+        { "name": "Full Fathom (демо)", "start": "42:15" },
+        { "name": "Tremors", "start": "3:41:54" },
+        { "name": "Shadow Fang", "start": "4:13:09" }
       ] }
     ]
   },
@@ -5301,7 +5306,22 @@
         { "name": "Cassiculus", "start": "3:58:08" },
         { "name": "It's just a prank", "start": "4:40:01" }
       ] },
-      { "name": "The Renovator: Origins", "twitch": "2196566763", "start": "51:44" }
+      { "twitch": "2197410316", "subrefs": [
+        { "name": "Finding Her", "start": "2:29:53" },
+        { "name": "Наследники", "start": "2:42:42" },
+        { "name": "Something Bad is on the Moon", "start": "3:26:58" },
+        { "name": "Nightfall Whiskers", "start": "4:25:18" },
+        { "name": "Holbrook Hotel", "start": "4:42:01" }
+      ] }
+    ]
+  },
+  {
+    "name": "The Renovator: Origins",
+    "category": "finished",
+    "id": "renovator",
+    "streams": [
+      { "name": "Демо", "twitch": "1782635771", "start": "2:52:49" },
+      { "name": "Релиз", "twitch": "2196566763", "start": "51:44" }
     ]
   },
   {
