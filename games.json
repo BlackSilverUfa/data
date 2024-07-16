@@ -4974,7 +4974,7 @@
     "category": "finished",
     "id": "full-fathom",
     "streams": [
-        { "name": "1", "twitch": "2197410316", "start": "42:15" },
+      { "name": "1", "twitch": "2197410316", "start": "42:15" },
       { "name": "2", "twitch": "2198179845", "start": "11:20" }
     ]
   },
