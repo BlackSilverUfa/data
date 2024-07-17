@@ -4966,7 +4966,8 @@
         { "name": "Agujero", "start": "3:01:35" },
         { "name": "Phantoms", "start": "3:20:51" },
         { "name": "CRUELTY", "start": "3:34:23" }
-      ] }
+      ] },
+      { "name": "Nobody Wants to Die", "twitch": "2199958279", "start": "15:28" }
     ]
   },
   {
@@ -5133,8 +5134,7 @@
     "streams": [
       { "twitch": "2026423132", "subrefs": [
         { "name": "Amygdala: Prelude (демо)", "start": "1:27:51" },
-        { "name": "Drive Me to Hell", "start": "2:58:07" },
-        { "name": "Supernatural (демо)", "start": "3:40:19" }
+        { "name": "Drive Me to Hell", "start": "2:58:07" }
       ] },
       { "name": "Supernormal", "twitch": "2027362039", "start": "1:09:57" },
       { "name": "Holidays in Khrushchevsk", "twitch": "2040254115", "start": "1:03:58" },
@@ -5327,10 +5327,16 @@
         { "name": "Nightfall Whiskers", "start": "4:25:18" },
         { "name": "Holbrook Hotel", "start": "4:42:01" }
       ] },
-      { "twitch": "2198179845", "subrefs": [
-        { "name": "Fork Road", "start": "1:34:46" },
-        { "name": "Supernatural", "start": "4:06:08" }
-      ] }
+      { "name": "Fork Road", "twitch": "2198179845", "start": "1:34:46" }
+    ]
+  },
+  {
+    "name": "Supernatural",
+    "category": "finished",
+    "id": "supernatural",
+    "streams": [
+      { "name": "1", "twitch": "2026423132", "start": "3:40:19" },
+      { "name": "2", "twitch": "2198179845", "start": "4:06:08" }
     ]
   },
   {
