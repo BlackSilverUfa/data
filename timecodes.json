@@ -193,7 +193,10 @@
     "4:02": "Меню",
     "5:11": "Игра",
     "Проблемы с правообладателями": {
-      "53:11~55:33": "Kim Wilde - Kids In America"
+      "Kim Wilde - Kids In America": [
+        "53:11~55:33",
+        "55:42~56:38"
+      ]
     }
   },
   "001510050": {
@@ -12522,7 +12525,8 @@
       "1:25:04~1:27:21": "Creedence Clearwater Revival - Green River",
       "1:19:45~1:22:40": "Creedence Clearwater Revival - Run Through The Jungle",
       "1:38:36~1:41:01": "Creedence Clearwater Revival - Up Around The Bend",
-      "1:22:44~1:24:53": "Creedence Clearwater Revival - Fortunate Son"
+      "1:22:44~1:24:53": "Creedence Clearwater Revival - Fortunate Son",
+      "1:56:43~1:58:45": "Little Richard and His Band - Long Tall Sally"
     },
     "2:05:44": "Время поэзии",
     "2:46:01": "Взяточник Creed",
