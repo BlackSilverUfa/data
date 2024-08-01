@@ -4988,7 +4988,8 @@
         { "name": "Phantoms", "start": "3:20:51" },
         { "name": "CRUELTY", "start": "3:34:23" }
       ] },
-      { "name": "Kunitsu-Gami: Path of the Goddess", "twitch": "2202570561", "start": "16:49" }
+      { "name": "Kunitsu-Gami: Path of the Goddess", "twitch": "2202570561", "start": "16:49" },
+      { "name": "Paranormal Place", "twitch": "2212959007", "start": "4:18:53" }
     ]
   },
   {
@@ -5366,7 +5367,12 @@
         { "name": "Nightfall Whiskers", "start": "4:25:18" },
         { "name": "Holbrook Hotel", "start": "4:42:01" }
       ] },
-      { "name": "Fork Road", "twitch": "2198179845", "start": "1:34:46" }
+      { "name": "Fork Road", "twitch": "2198179845", "start": "1:34:46" },
+      { "twitch": "2212959007", "subrefs": [
+        { "name": "Chuxie", "start": "58:23" },
+        { "name": "10:59", "start": "2:39:52" },
+        { "name": "Shift 87", "start": "3:44:16" }
+      ] }
     ]
   },
   {
