@@ -4989,7 +4989,11 @@
         { "name": "CRUELTY", "start": "3:34:23" }
       ] },
       { "name": "Kunitsu-Gami: Path of the Goddess", "twitch": "2202570561", "start": "16:49" },
-      { "name": "Paranormal Place", "twitch": "2212959007", "start": "4:18:53" }
+      { "name": "Paranormal Place", "twitch": "2212959007", "start": "4:18:53" },
+      { "twitch": "2213762112", "subrefs": [
+        { "name": "CONSCRIPT", "start": "13:10" },
+        { "name": "Thank Goodness You're Here", "start": "2:06:21" }
+      ] }
     ]
   },
   {
@@ -9666,7 +9670,8 @@
       { "name": "3", "twitch": "1882127125", "start": "1:05:18" },
       { "name": "4", "twitch": "1887286714", "start": "1:01:40" },
       { "name": "5", "twitch": "1895024644", "start": "1:38:40" },
-      { "name": "6", "twitch": "1904659436", "start": "1:05:57" }
+      { "name": "6", "twitch": "1904659436", "start": "1:05:57" },
+      { "name": "DLC: Awakened King", "twitch": "2213762112", "start": "3:02:27" }
     ]
   },
   {
