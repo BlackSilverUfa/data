@@ -3225,7 +3225,8 @@
       { "name": "Trash Night", "twitch": "2125739785", "start": "2:16:36" },
       { "name": "We Are Not Alone - Contact", "twitch": "2155743330", "start": "2:40:39" },
       { "name": "Dad", "twitch": "2191494883", "start": "2:12:22" },
-      { "name": "Halloween Revenge", "twitch": "2197410316", "start": "1:35:53" }
+      { "name": "Halloween Revenge", "twitch": "2197410316", "start": "1:35:53" },
+      { "name": "Fart Killer", "twitch": "2215556640", "start": "3:11:00" }
     ]
   },
   {
@@ -4993,6 +4994,9 @@
       { "twitch": "2213762112", "subrefs": [
         { "name": "CONSCRIPT", "start": "13:10" },
         { "name": "Thank Goodness You're Here", "start": "2:06:21" }
+      ] },
+      { "twitch": "2215556640", "subrefs": [
+        { "name": "[Rec] Paroxysm", "start": "4:25:30" }
       ] }
     ]
   },
@@ -5377,7 +5381,13 @@
         { "name": "10:59", "start": "2:39:52" },
         { "name": "Shift 87", "start": "3:44:16" }
       ] },
-      { "name": "Сэттээх", "twitch": "2214697978", "start": "45:51" }
+      { "name": "Сэттээх", "twitch": "2214697978", "start": "45:51" },
+      { "twitch": "2215556640", "subrefs": [
+        { "name": "The Midnight Bus", "start": "35:46" },
+        { "name": "The Tunnels of Saint Mercy Road", "start": "1:00:51" },
+        { "name": "Befriended Curse", "start": "2:03:22" },
+        { "name": "[Rec] Paroxysm", "start": "4:25:30" }
+      ] }
     ]
   },
   {
