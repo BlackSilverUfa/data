@@ -4994,9 +4994,6 @@
       { "twitch": "2213762112", "subrefs": [
         { "name": "CONSCRIPT", "start": "13:10" },
         { "name": "Thank Goodness You're Here", "start": "2:06:21" }
-      ] },
-      { "twitch": "2215556640", "subrefs": [
-        { "name": "[Rec] Paroxysm", "start": "4:25:30" }
       ] }
     ]
   },
@@ -5387,7 +5384,8 @@
         { "name": "The Tunnels of Saint Mercy Road", "start": "1:00:51" },
         { "name": "Befriended Curse", "start": "2:03:22" },
         { "name": "[Rec] Paroxysm", "start": "4:25:30" }
-      ] }
+      ] },
+      { "name": "My Last Appointment", "twitch": "2217218158", "start": "21:41" }
     ]
   },
   {
@@ -9683,7 +9681,8 @@
       { "name": "4", "twitch": "1887286714", "start": "1:01:40" },
       { "name": "5", "twitch": "1895024644", "start": "1:38:40" },
       { "name": "6", "twitch": "1904659436", "start": "1:05:57" },
-      { "name": "DLC: Awakened King", "twitch": "2213762112", "start": "3:02:27" }
+      { "name": "DLC: Awakened King #1", "twitch": "2213762112", "start": "3:02:27" },
+      { "name": "DLC: Awakened King #2", "twitch": "2217218158", "start": "2:01:14" }
     ]
   },
   {
