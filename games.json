@@ -449,7 +449,11 @@
         { "name": "Project Unknown", "start": "4:37:14" },
         { "name": "Bureau of Contacts", "start": "5:00:11" }
       ] },
-      { "name": "InfestStation", "twitch": "2205157138", "start": "53:24" }
+      { "name": "InfestStation", "twitch": "2205157138", "start": "53:24" },
+      { "twitch": "2219800754", "subrefs": [
+        { "name": "Shark Siege", "start": "1:30:13" },
+        { "name": "Клеть", "start": "2:13:24" }
+      ] }
     ]
   },
   {
@@ -549,7 +553,8 @@
       { "name": "10", "twitch": "2136987621", "start": "4:23:54" },
       { "name": "11", "twitch": "2139593833", "start": "3:27:43" },
       { "name": "12", "twitch": "2162458886", "start": "4:51:17" },
-      { "name": "13", "twitch": "2190605372", "start": "5:53:29" }
+      { "name": "13", "twitch": "2190605372", "start": "5:53:29" },
+      { "name": "14", "twitch": "2219800754", "start": "3:17:21" }
     ]
   },
   {
@@ -4992,11 +4997,17 @@
       ] },
       { "name": "Kunitsu-Gami: Path of the Goddess", "twitch": "2202570561", "start": "16:49" },
       { "name": "Paranormal Place", "twitch": "2212959007", "start": "4:18:53" },
-      { "twitch": "2213762112", "subrefs": [
-        { "name": "CONSCRIPT", "start": "13:10" },
-        { "name": "Thank Goodness You're Here", "start": "2:06:21" }
-      ] },
+      { "name": "CONSCRIPT", "twitch": "2213762112", "start": "13:10" },
       { "name": "Insomnia", "twitch": "2218965206", "start": "2:17:52" }
+    ]
+  },
+  {
+    "name": "Thank Goodness You're Here",
+    "category": "ongoing",
+    "id": "tgyh",
+    "streams": [
+      { "name": "1", "twitch": "2213762112", "start": "2:06:21" },
+      { "name": "2", "twitch": "2219800754", "start": "30:35" }
     ]
   },
   {
