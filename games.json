@@ -2969,7 +2969,7 @@
   },
   {
     "name": "Pine Harbor",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "pine-harbor",
     "streams": [
       { "name": "Демо", "twitch": "1949027899", "start": "1:51:02" },
@@ -3074,7 +3074,7 @@
   },
   {
     "name": "They Are Here: Alien Abduction Horror",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "they-are-here",
     "streams": [
       { "name": "Демо 1", "twitch": "1061050549", "start": "25:47" },
@@ -5084,7 +5084,7 @@
   },
   {
     "name": "Poltergeist Watcher",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "polter-watcher",
     "streams": [
       { "name": "1", "twitch": "2137947745", "start": "4:53:18" },
