@@ -3050,7 +3050,8 @@
       { "name": "The Kidnap", "twitch": "1969356180", "start": "3:10:06" },
       { "name": "Jisatsu", "twitch": "2005613219", "start": "1:35:43" },
       { "name": "Shinkansen 0", "twitch": "2102886465", "start": "56:52" },
-      { "name": "Okaeri", "twitch": "2157418915", "start": "2:55:32" }
+      { "name": "Okaeri", "twitch": "2157418915", "start": "2:55:32" },
+      { "name": "The Bathhouse: Restored Edition", "twitch": "2224031390", "start": "1:46:44" }
     ]
   },
   {
@@ -5001,7 +5002,8 @@
       { "twitch": "2222362452,2222444727", "subrefs": [
         { "name": "The Walls Still Stand", "start": "39:54" },
         { "name": "Krypta FM", "start": "4:22:53" }
-      ] }
+      ] },
+      { "name": "Dark and Deep", "twitch": "2224031390", "start": "58:05" }
     ]
   },
   {
