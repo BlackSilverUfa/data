@@ -9440,6 +9440,11 @@
       "4:19:54~4:20:35": "Kate Bush - Wow",
       "4:27:42~4:27:56": "Benny Moré - Maracaibo Oriental",
       "4:30:06~4:32:14": "Herbie Hancock - Rockit",
+      "Twisted Sister - I Wanna Rock": [
+        "1:08:13~1:08:35",
+        "1:10:46~1:11:01",
+        "5:26:44~5:28:23"
+      ],
       "5:37:23~5:38:10": "The Outfield - Your Love",
       "Mr. Mister - Broken Wings": [
         "5:39:37~5:40:19",
@@ -25301,6 +25306,9 @@
       "Не указано": [
         "3:33:03~3:34:16",
         "3:35:21~3:35:44"
+      ],
+      "Twisted Sister - I Wanna Rock": [
+        "4:26:09~4:26:26"
       ],
       "3:36:14~3:36:24": "RUN DMC - Rock Box",
       "3:41:04~3:41:42": "Daryl Hall & John Oates - Out of Touch",

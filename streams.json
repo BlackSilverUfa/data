@@ -1308,7 +1308,7 @@
     "note": "<a href=\"https://youtu.be/w8nJdnXrSJU\">Официальная запись</a> сломана (недоступно качество выше 360p)"
   },
   "516941489": {  },
-  "517802976": { "youtube": "xeV--IGxA8c", "official": false },
+  "517802976": {  },
   "518306588": { "youtube": "AK1CYqvyHIc" },
   "518751002": {
     "youtube": "ojKJR0vB5ac", "official": false,
@@ -2179,7 +2179,7 @@
     "youtube": "_LU4gPiID_s", "official": false,
     "offsets": ["0:00", "3:59:35"]
   },
-  "1206191026": { "youtube": "HVcDAW3YR_0", "source_cuts": ["4:09:18~4:09:53"], "official": false },
+  "1206191026": { "source_cuts": ["4:09:18~4:09:53"] },
   "1207047094": { "youtube": "htqZL7EVZWo" },
   "1207997756": { "youtube": "G0JP9coh8rU", "official": false },
   "1208881098": {  },
