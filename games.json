@@ -3234,7 +3234,8 @@
       { "name": "We Are Not Alone - Contact", "twitch": "2155743330", "start": "2:40:39" },
       { "name": "Dad", "twitch": "2191494883", "start": "2:12:22" },
       { "name": "Halloween Revenge", "twitch": "2197410316", "start": "1:35:53" },
-      { "name": "Fart Killer", "twitch": "2215556640", "start": "3:11:00" }
+      { "name": "Fart Killer", "twitch": "2215556640", "start": "3:11:00" },
+      { "name": "Gears 2", "twitch": "2226616537", "start": "4:27:39" }
     ]
   },
   {
@@ -5003,7 +5004,11 @@
         { "name": "The Walls Still Stand", "start": "39:54" },
         { "name": "Krypta FM", "start": "4:22:53" }
       ] },
-      { "name": "Dark and Deep", "twitch": "2224031390", "start": "58:05" }
+      { "name": "Dark and Deep", "twitch": "2224031390", "start": "58:05" },
+      { "twitch": "2226616537", "subrefs": [
+        { "name": "Crime Scene Cleaner", "start": "1:35:19" },
+        { "name": "Intravenous 2", "start": "3:33:37" }
+      ] }
     ]
   },
   {
@@ -5422,6 +5427,10 @@
         { "name": "Coagulation Station", "start": "3:04:30" },
         { "name": "Inside Under and Out", "start": "3:37:25" },
         { "name": "The Keeper", "start": "4:00:55" }
+      ] },
+      { "twitch": "2226616537", "subrefs": [
+        { "name": "Elevator Warp", "start": "32:53" },
+        { "name": "Seeing Things", "start": "2:53:36" }
       ] }
     ]
   },
