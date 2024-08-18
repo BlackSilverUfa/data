@@ -453,7 +453,8 @@
       { "twitch": "2219800754", "subrefs": [
         { "name": "Shark Siege", "start": "1:30:13" },
         { "name": "Клеть", "start": "2:13:24" }
-      ] }
+      ] },
+      { "name": "Stalcraft: X (с Димами)", "twitch": "2227459008", "start": "2:07:28" }
     ]
   },
   {
@@ -3235,7 +3236,11 @@
       { "name": "Dad", "twitch": "2191494883", "start": "2:12:22" },
       { "name": "Halloween Revenge", "twitch": "2197410316", "start": "1:35:53" },
       { "name": "Fart Killer", "twitch": "2215556640", "start": "3:11:00" },
-      { "name": "Gears 2", "twitch": "2226616537", "start": "4:27:39" }
+      { "name": "Gears 2 #1", "twitch": "2226616537", "start": "4:27:39" },
+      { "twitch": "2227459008", "subrefs": [
+        { "name": "Gears 2 #2", "start": "5:18:27" },
+        { "name": "Gears", "start": "5:26:26" }
+      ] }
     ]
   },
   {
@@ -5005,10 +5010,8 @@
         { "name": "Krypta FM", "start": "4:22:53" }
       ] },
       { "name": "Dark and Deep", "twitch": "2224031390", "start": "58:05" },
-      { "twitch": "2226616537", "subrefs": [
-        { "name": "Crime Scene Cleaner", "start": "1:35:19" },
-        { "name": "Intravenous 2", "start": "3:33:37" }
-      ] }
+      { "name": "Intravenous 2", "twitch": "2226616537", "start": "3:33:37" },
+      { "name": "Rodland of Pipes", "twitch": "2227459008", "start": "5:00:54" }
     ]
   },
   {
@@ -5431,7 +5434,8 @@
       { "twitch": "2226616537", "subrefs": [
         { "name": "Elevator Warp", "start": "32:53" },
         { "name": "Seeing Things", "start": "2:53:36" }
-      ] }
+      ] },
+      { "name": "Phantom Ten", "twitch": "2227459008", "start": "4:19:35" }
     ]
   },
   {
@@ -6023,12 +6027,14 @@
     ]
   },
   {
-    "name": "Crime Scene Cleaner (демо)",
-    "category": "finished",
+    "name": "Crime Scene Cleaner",
+    "category": "ongoing",
     "id": "csc",
     "streams": [
-      { "name": "1", "twitch": "1949835858", "start": "28:03" },
-      { "name": "2", "twitch": "1950762078", "start": "4:15:41" }
+      { "name": "1 (демо)", "twitch": "1949835858", "start": "28:03" },
+      { "name": "2", "twitch": "1950762078", "start": "4:15:41" },
+      { "name": "3 (релиз)", "twitch": "2226616537", "start": "1:35:19" },
+      { "name": "4", "twitch": "2227459008", "start": "33:33" }
     ]
   },
   {
