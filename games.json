@@ -3240,7 +3240,8 @@
       { "twitch": "2227459008", "subrefs": [
         { "name": "Gears 2 #2", "start": "5:18:27" },
         { "name": "Gears", "start": "5:26:26" }
-      ] }
+      ] },
+      { "name": "Gears 2 #3", "twitch": "2228324519", "start": "3:39:42" }
     ]
   },
   {
@@ -5011,7 +5012,8 @@
       ] },
       { "name": "Dark and Deep", "twitch": "2224031390", "start": "58:05" },
       { "name": "Intravenous 2", "twitch": "2226616537", "start": "3:33:37" },
-      { "name": "Rodland of Pipes", "twitch": "2227459008", "start": "5:00:54" }
+      { "name": "Rodland of Pipes", "twitch": "2227459008", "start": "5:00:54" },
+      { "name": "No, I'm Not Human", "twitch": "2228324519", "start": "3:39:42" }
     ]
   },
   {
@@ -5435,7 +5437,12 @@
         { "name": "Elevator Warp", "start": "32:53" },
         { "name": "Seeing Things", "start": "2:53:36" }
       ] },
-      { "name": "Phantom Ten", "twitch": "2227459008", "start": "4:19:35" }
+      { "name": "Phantom Ten", "twitch": "2227459008", "start": "4:19:35" },
+      { "twitch": "2228324519", "subrefs": [
+        { "name": "Thank Goodness You're Here!", "start": "1:02:45" },
+        { "name": "Kiosk", "start": "2:39:39" },
+        { "name": "VHS: Violent Horror Stories", "start": "3:23:27" }
+      ] }
     ]
   },
   {
