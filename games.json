@@ -5013,7 +5013,6 @@
       { "name": "Dark and Deep", "twitch": "2224031390", "start": "58:05" },
       { "name": "Intravenous 2", "twitch": "2226616537", "start": "3:33:37" },
       { "name": "Rodland of Pipes", "twitch": "2227459008", "start": "5:00:54" },
-      { "name": "No, I'm Not Human", "twitch": "2228324519", "start": "3:39:42" },
       { "name": "Black Myth: Wukong", "twitch": "2229109359", "start": "11:44" }
     ]
   },
@@ -5441,9 +5440,21 @@
       { "name": "Phantom Ten", "twitch": "2227459008", "start": "4:19:35" },
       { "twitch": "2228324519", "subrefs": [
         { "name": "Thank Goodness You're Here!", "start": "1:02:45" },
-        { "name": "Kiosk", "start": "2:39:39" },
-        { "name": "VHS: Violent Horror Stories", "start": "3:23:27" }
+        { "name": "Kiosk", "start": "2:39:39" }
       ] }
+    ]
+  },
+  {
+    "name": "VHS: Violent Horror Stories",
+    "category": "ongoing",
+    "id": "vhs",
+    "type": "list",
+    "streams": [
+      { "twitch": "2228324519", "subrefs": [
+        { "name": "I Ate Old Man's Liver", "start": "3:23:27" },
+        { "name": "No, I'm Not Human #1", "start": "3:39:42" }
+      ] },
+      { "name": "No, I'm Not Human #2", "twitch": "2231748428", "start": "5:03:53" }
     ]
   },
   {
@@ -5480,7 +5491,8 @@
     "streams": [
       { "name": "1", "twitch": "2168445264", "start": "4:27:36" },
       { "name": "2", "twitch": "2169221839", "start": "5:33:20" },
-      { "name": "3", "twitch": "2172620884", "start": "3:45:44" }
+      { "name": "3", "twitch": "2172620884", "start": "3:45:44" },
+      { "name": "4", "twitch": "2231748428", "start": "36:55" }
     ]
   },
   {
@@ -6042,7 +6054,8 @@
       { "name": "1 (демо)", "twitch": "1949835858", "start": "28:03" },
       { "name": "2", "twitch": "1950762078", "start": "4:15:41" },
       { "name": "3 (релиз)", "twitch": "2226616537", "start": "1:35:19" },
-      { "name": "4", "twitch": "2227459008", "start": "33:33" }
+      { "name": "4", "twitch": "2227459008", "start": "33:33" },
+      { "name": "5", "twitch": "2231748428", "start": "2:08:49" }
     ]
   },
   {
