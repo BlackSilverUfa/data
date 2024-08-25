@@ -5448,8 +5448,8 @@
   {
     "name": "VHS: Violent Horror Stories",
     "category": "ongoing",
-    "id": "vhs",
     "type": "list",
+    "id": "vhs",
     "streams": [
       { "twitch": "2228324519", "subrefs": [
         { "name": "I Ate Old Man's Liver", "start": "3:23:27" },
