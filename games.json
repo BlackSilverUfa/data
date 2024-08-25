@@ -5014,7 +5014,12 @@
       { "name": "Dark and Deep", "twitch": "2224031390", "start": "58:05" },
       { "name": "Intravenous 2", "twitch": "2226616537", "start": "3:33:37" },
       { "name": "Rodland of Pipes", "twitch": "2227459008", "start": "5:00:54" },
-      { "name": "Black Myth: Wukong", "twitch": "2229109359", "start": "11:44" }
+      { "name": "Black Myth: Wukong", "twitch": "2229109359", "start": "11:44" },
+      { "twitch": "2233576575", "subrefs": [
+        { "name": "The Gravedigger", "start": "49:52" },
+        { "name": "Echoes of The Backrooms", "start": "1:51:22" },
+        { "name": "Naribikimura", "start": "3:35:03" }
+      ] }
     ]
   },
   {
@@ -5442,6 +5447,11 @@
       { "twitch": "2228324519", "subrefs": [
         { "name": "Thank Goodness You're Here!", "start": "1:02:45" },
         { "name": "Kiosk", "start": "2:39:39" }
+      ] },
+      { "twitch": "2233576575", "subrefs": [
+        { "name": "Golly Soda Pop", "start": "2:05:22" },
+        { "name": "Macabre no Zantou: Remnants of the Macabre", "start": "3:08:59" },
+        { "name": "When the Devil Takes Hold", "start": "3:58:21" }
       ] }
     ]
   },
