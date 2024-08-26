@@ -503,7 +503,8 @@
     "streams": [
       { "name": "1 (4D)", "twitch": "2058685006", "start": "2:56:57" },
       { "name": "2 (4D)", "twitch": "2059745251", "start": "1:39:05" },
-      { "name": "3 (с Димами)", "twitch": "2107695454", "start": "1:58:56" }
+      { "name": "3 (с Димами)", "twitch": "2107695454", "start": "1:58:56" },
+      { "name": "4 (4D)", "twitch": "2234409670", "start": "2:10:57" }
     ]
   },
   {
@@ -5255,7 +5256,6 @@
       { "name": "Quod: Episode 1", "twitch": "2070293042", "start": "2:05:10" },
       { "twitch": "2080976588", "subrefs": [
         { "name": "Death Motel", "start": "39:37" },
-        { "name": "When The Devil Takes Hold (демо)", "start": "2:42:58" },
         { "name": "Crawl", "start": "3:15:49" },
         { "name": "Kitty Kart 64", "start": "3:42:40" },
         { "name": "A Night on the Farm", "start": "4:06:37" }
@@ -5450,9 +5450,17 @@
       ] },
       { "twitch": "2233576575", "subrefs": [
         { "name": "Golly Soda Pop", "start": "2:05:22" },
-        { "name": "Macabre no Zantou: Remnants of the Macabre", "start": "3:08:59" },
-        { "name": "When the Devil Takes Hold", "start": "3:58:21" }
+        { "name": "Macabre no Zantou: Remnants of the Macabre", "start": "3:08:59" }
       ] }
+    ]
+  },
+  {
+    "name": "When the Devil Takes Hold",
+    "category": "finished",
+    "id": "wtdth",
+    "streams": [
+      { "name": "Демо", "twitch": "2080976588", "start": "2:42:58" },
+      { "name": "Прохождение", "twitch": "2233576575", "start": "3:58:21" }
     ]
   },
   {
@@ -6067,7 +6075,8 @@
       { "name": "3 (релиз)", "twitch": "2226616537", "start": "1:35:19" },
       { "name": "4", "twitch": "2227459008", "start": "33:33" },
       { "name": "5", "twitch": "2231748428", "start": "2:08:49" },
-      { "name": "6", "twitch": "2232659937", "start": "14:32" }
+      { "name": "6", "twitch": "2232659937", "start": "14:32" },
+      { "name": "7", "twitch": "2234409670", "start": "22:29" }
     ]
   },
   {
