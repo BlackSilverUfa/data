@@ -5022,7 +5022,11 @@
         { "name": "Naribikimura", "start": "3:35:03" }
       ] },
       { "name": "Star Wars Outlaws", "twitch": "2235210317", "start": "16:43" },
-      { "name": "Beyond Hanwell (демо)", "twitch": "2236123674", "start": "1:45:53" }
+      { "name": "Beyond Hanwell (демо)", "twitch": "2236123674", "start": "1:45:53" },
+      { "twitch": "2236986219", "subrefs": [
+        { "name": "Roswell Ranch", "start": "2:06:13" },
+        { "name": "Whispering Lane", "start": "4:41:50" }
+      ] }
     ]
   },
   {
@@ -5454,7 +5458,11 @@
         { "name": "Golly Soda Pop", "start": "2:05:22" },
         { "name": "Macabre no Zantou: Remnants of the Macabre", "start": "3:08:59" }
       ] },
-      { "name": "209 (демо)", "twitch": "2236123674", "start": "1:31:51" }
+      { "name": "209 (демо)", "twitch": "2236123674", "start": "1:31:51" },
+      { "twitch": "2236986219", "subrefs": [
+        { "name": "Selene's Unbearable Night", "start": "2:38:09" },
+        { "name": "The Veiled Ones", "start": "3:04:53" }
+      ] }
     ]
   },
   {
@@ -5477,7 +5485,11 @@
         { "name": "No, I'm Not Human #1", "start": "3:39:42" }
       ] },
       { "name": "No, I'm Not Human #2", "twitch": "2231748428", "start": "5:03:53" },
-      { "name": "No, I'm Not Human #3", "twitch": "2236123674", "start": "4:07:55" }
+      { "name": "No, I'm Not Human #3", "twitch": "2236123674", "start": "4:07:55" },
+      { "twitch": "2236986219", "subrefs": [
+        { "name": "Sensation", "start": "3:58:49" },
+        { "name": "All Along the Toon Tower", "start": "4:18:18" }
+      ] }
     ]
   },
   {
@@ -6081,7 +6093,8 @@
       { "name": "5", "twitch": "2231748428", "start": "2:08:49" },
       { "name": "6", "twitch": "2232659937", "start": "14:32" },
       { "name": "7", "twitch": "2234409670", "start": "22:29" },
-      { "name": "8", "twitch": "2236123674", "start": "23:27" }
+      { "name": "8", "twitch": "2236123674", "start": "23:27" },
+      { "name": "9", "twitch": "2236986219", "start" :"18:53" }
     ]
   },
   {
