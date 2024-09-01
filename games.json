@@ -4651,7 +4651,7 @@
   },
   {
     "name": "Dune 2000",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "dune-2000",
     "streams": [
       { "name": "1", "twitch": "1573052503", "start": "3:37:14" },
@@ -4864,7 +4864,7 @@
   },
   {
     "name": "Scholar's Mate",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "scholars-mate",
     "streams": [
       { "name": "First Move", "twitch": "1849426857", "start": "4:59:08" },
@@ -6096,7 +6096,7 @@
       { "name": "6", "twitch": "2232659937", "start": "14:32" },
       { "name": "7", "twitch": "2234409670", "start": "22:29" },
       { "name": "8", "twitch": "2236123674", "start": "23:27" },
-      { "name": "9", "twitch": "2236986219", "start" :"18:53" }
+      { "name": "9", "twitch": "2236986219", "start": "18:53" }
     ]
   },
   {
