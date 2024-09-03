@@ -5028,9 +5028,16 @@
         { "name": "Roswell Ranch", "start": "2:06:13" },
         { "name": "Whispering Lane", "start": "4:41:50" }
       ] },
-      { "twitch": "2240618772", "subrefs": [
-        { "name": "The Ten Bells", "start": "3:12:38" }
-      ] }
+      { "name": "Krypta FM", "twitch": "2241467494", "start": "3:38:07" }
+    ]
+  },
+  {
+    "name": "The Ten Bells",
+    "category": "finished",
+    "id": "ten-bells",
+    "streams": [
+      { "name": "1", "twitch": "2240618772", "start": "3:12:38" },
+      { "name": "2", "twitch": "2241467494", "start": "2:05:22" }
     ]
   },
   {
@@ -6105,7 +6112,8 @@
       { "name": "6", "twitch": "2232659937", "start": "14:32" },
       { "name": "7", "twitch": "2234409670", "start": "22:29" },
       { "name": "8", "twitch": "2236123674", "start": "23:27" },
-      { "name": "9", "twitch": "2236986219", "start": "18:53" }
+      { "name": "9", "twitch": "2236986219", "start": "18:53" },
+      { "name": "10", "twitch": "2241467494", "start": "31:06" }
     ]
   },
   {
