@@ -5009,10 +5009,7 @@
       { "name": "CONSCRIPT", "twitch": "2213762112", "start": "13:10" },
       { "name": "Insomnia", "twitch": "2218965206", "start": "2:17:52" },
       { "name": "VLADiK BRUTAL", "twitch": "2221505591", "start": "33:44" },
-      { "twitch": "2222362452,2222444727", "subrefs": [
-        { "name": "The Walls Still Stand", "start": "39:54" },
-        { "name": "Krypta FM", "start": "4:22:53" }
-      ] },
+      { "name": "The Walls Still Stand", "twitch": "2222362452,2222444727", "start": "39:54" },
       { "name": "Dark and Deep", "twitch": "2224031390", "start": "58:05" },
       { "name": "Intravenous 2", "twitch": "2226616537", "start": "3:33:37" },
       { "name": "Rodland of Pipes", "twitch": "2227459008", "start": "5:00:54" },
@@ -5028,7 +5025,19 @@
         { "name": "Roswell Ranch", "start": "2:06:13" },
         { "name": "Whispering Lane", "start": "4:41:50" }
       ] },
-      { "name": "Krypta FM", "twitch": "2241467494", "start": "3:38:07" }
+      { "twitch": "2242337852", "subrefs": [
+        { "name": "Warhammer 40,000: Space Marine", "start": "22:28" },
+        { "name": "Warhammer 40,000: Space Marine II (кооп)", "start": "3:06:24" }
+      ] }
+    ]
+  },
+  {
+    "name": "Krypta FM",
+    "category": "ongoing",
+    "id": "krypta-fm",
+    "streams": [
+      { "name": "1", "twitch": "2222362452,2222444727", "start": "4:22:53" },
+      { "name": "2", "twitch": "2241467494", "start": "3:38:07" }
     ]
   },
   {
