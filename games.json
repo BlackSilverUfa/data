@@ -5025,10 +5025,16 @@
         { "name": "Roswell Ranch", "start": "2:06:13" },
         { "name": "Whispering Lane", "start": "4:41:50" }
       ] },
-      { "twitch": "2242337852", "subrefs": [
-        { "name": "Warhammer 40,000: Space Marine", "start": "22:28" },
-        { "name": "Warhammer 40,000: Space Marine II (кооп)", "start": "3:06:24" }
-      ] }
+      { "name": "Warhammer 40,000: Space Marine", "twitch": "2242337852", "start": "22:28" }
+    ]
+  },
+  {
+    "name": "Warhammer 40,000: Space Marine II (кооп)",
+    "category": "ongoing",
+    "id": "wh40k-sm2",
+    "streams": [
+      { "name": "1", "twitch": "2242337852", "start": "3:06:24" },
+      { "name": "2", "twitch": "2243137535", "start": "1:25:30" }
     ]
   },
   {
@@ -6122,7 +6128,8 @@
       { "name": "7", "twitch": "2234409670", "start": "22:29" },
       { "name": "8", "twitch": "2236123674", "start": "23:27" },
       { "name": "9", "twitch": "2236986219", "start": "18:53" },
-      { "name": "10", "twitch": "2241467494", "start": "31:06" }
+      { "name": "10", "twitch": "2241467494", "start": "31:06" },
+      { "name": "11", "twitch": "2243137535", "start": "15:11" }
     ]
   },
   {
