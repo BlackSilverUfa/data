@@ -439,10 +439,7 @@
         { "name": "Dungeonborne", "start": "24:08" },
         { "name": "Murky Divers", "start": "4:53:05" }
       ] },
-      { "twitch": "2193968354", "subrefs": [
-        { "name": "Dark and Darker", "start": "41:16" },
-        { "name": "Pilgrim", "start": "2:47:05" }
-      ] },
+      { "name": "Dark and Darker", "twitch": "2193968354", "start": "41:16" },
       { "twitch": "2204264411", "subrefs": [
         { "name": "Backrooms: Escape Together", "start": "1:44:39" },
         { "name": "Dark Hours: Prologue", "start": "3:52:56" },
@@ -455,6 +452,15 @@
         { "name": "Клеть", "start": "2:13:24" }
       ] },
       { "name": "Stalcraft: X (с Димами)", "twitch": "2227459008", "start": "2:07:28" }
+    ]
+  },
+  {
+    "name": "Pilgrim",
+    "category": "ongoing",
+    "id": "pilgrim",
+    "streams": [
+      { "name": "1", "twitch": "2193968354", "start": "2:47:05" },
+      { "name": "2", "twitch": "2244890208", "start": "1:58:50" }
     ]
   },
   {
@@ -558,7 +564,8 @@
       { "name": "13", "twitch": "2190605372", "start": "5:53:29" },
       { "name": "14", "twitch": "2219800754", "start": "3:17:21" },
       { "name": "15", "twitch": "2232659937", "start": "1:54:10" },
-      { "name": "16", "twitch": "2238825958", "start": "1:33:00" }
+      { "name": "16", "twitch": "2238825958", "start": "1:33:00" },
+      { "name": "17", "twitch": "2244890208", "start": "2:35:26" }
     ]
   },
   {
@@ -6129,7 +6136,8 @@
       { "name": "8", "twitch": "2236123674", "start": "23:27" },
       { "name": "9", "twitch": "2236986219", "start": "18:53" },
       { "name": "10", "twitch": "2241467494", "start": "31:06" },
-      { "name": "11", "twitch": "2243137535", "start": "15:11" }
+      { "name": "11", "twitch": "2243137535", "start": "15:11" },
+      { "name": "12", "twitch": "2244890208", "start": "24:41" }
     ]
   },
   {
