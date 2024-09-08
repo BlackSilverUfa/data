@@ -2649,16 +2649,10 @@
   },
   "1653285370": { "youtube": "hj4sQ0QsIWo" },
   "1656106367": { "youtube": "nuD4eXw2YMQ" },
-  "1657037267": [
-    {
-      "youtube": "gxT_K0oGoQY", "official": false,
-      "note": "<a href=\"https://youtu.be/Kj7RKQB_jgI\">Официальная запись</a> сломана (недоступно качество выше 360p)"
-    },
-    {
-      "youtube": "gxT_K0oGoQY", "offset": "2:45:04", "official": false,
-      "note": "<a href=\"https://youtu.be/TYDJXMvqT6g\">Официальная запись</a> сломана (недоступно качество выше 360p) <!-- offset=2:45:04 -->"
-    }
-  ],
+  "1657037267": {
+    "youtube": "gxT_K0oGoQY", "official": false,
+    "note": "Официальные записи <a href=\"https://youtu.be/Kj7RKQB_jgI\">1</a> и <a href=\"https://youtu.be/TYDJXMvqT6g\">2</a> сломаны (недоступно качество выше 360p)"
+  },
   "1658062393": { "youtube": "ptfAE_6v5vQ" },
   "1659790980": {
     "youtube": "SkdWgLFXTPc", "official": false,
@@ -3377,5 +3371,5 @@
   "2241467494": { "youtube": "J-RMp4kD2gQ", "source_cuts": ["31:50~32:28"] },
   "2242337852": { "youtube": "y_518xDAmDQ", "source_cuts": ["1:59:20~1:59:58", "4:39:31~4:40:19", "5:22:23~5:23:07"] },
   "2243137535": { "source_cuts": ["4:16:37~4:17:28", "4:42:56~4:43:41"] },
-  "2244890208": { "source_cuts": ["51:31+57", "4:14:26~4:15:04", "4:25:22~4:26:02", "5:32:08+54"] }
+  "2244890208": { "source_cuts": ["51:31~52:28", "4:14:26~4:15:04", "4:25:22~4:26:02", "5:32:08~5:33:02"] }
 }

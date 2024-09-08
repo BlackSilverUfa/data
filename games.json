@@ -656,7 +656,7 @@
     "id": "darktide",
     "streams": [
       { "name": "Бета 1 (кооп)", "twitch": "1624846104", "start": "2:20:43" },
-      { "name": "Бета 2 (соло)", "twitch": "1657037267", "segment": 0, "start": "17:40" }
+      { "name": "Бета 2 (соло)", "twitch": "1657037267", "start": "17:40" }
     ]
   },
   {
@@ -2614,7 +2614,7 @@
       { "name": "Bramble: The Mountain (демо)", "twitch": "1642266888,1642407202", "start": "53:03" },
       { "name": "The Chant", "twitch": "1643172831", "start": "27:17" },
       { "name": "Somerville", "twitch": "1656106367", "start": "1:42:32" },
-      { "name": "The Dark Pictures: The Devil in Me", "twitch": "1657037267", "segment": 1, "start": "2:51:08" },
+      { "name": "The Dark Pictures: The Devil in Me", "twitch": "1657037267", "start": "2:51:08" },
       { "twitch": "1663155573", "subrefs": [
         { "name": "Help Me! (демо)", "start": "31:01" },
         { "name": "The House", "start": "1:36:22" },
