@@ -4995,10 +4995,7 @@
         { "name": "The Alters (демо)", "start": "2:16:26" },
         { "name": "FUMES (демо)", "start": "4:34:06" }
       ] },
-      { "twitch": "2170904450", "subrefs": [
-        { "name": "Enotria: The Last Song", "start": "19:54" },
-        { "name": "Flintlock: The Siege of Dawn", "start": "2:17:10" }
-      ] },
+      { "name": "Flintlock: The Siege of Dawn", "twitch": "2170904450", "start": "2:17:10" },
       { "twitch": "2172620884", "subrefs": [
         { "name": "Fallen Aces", "start": "43:19" },
         { "name": "Hollywood Animal", "start": "1:33:37" },
@@ -5046,7 +5043,17 @@
         { "name": "Creepy Camping", "start": "2:38:44" },
         { "name": "In My Head", "start": "3:30:44" }
       ] },
-      { "name": "Edge of Sanity", "twitch": "2246630814", "start": "3:02:41" }
+      { "name": "Edge of Sanity", "twitch": "2246630814", "start": "3:02:41" },
+      { "name": "Frostpunk 2", "twitch": "2253290479", "start": "6:28:02" }
+    ]
+  },
+  {
+    "name": "Enotria: The Last Song",
+    "category": "ongoing",
+    "id": "enotria",
+    "streams": [
+      { "name": "Демо", "twitch": "2170904450", "start": "19:54" },
+      { "name": "Релиз", "twitch": "2253290479", "start": "20:14" }
     ]
   },
   {
@@ -5070,12 +5077,13 @@
   },
   {
     "name": "Warhammer 40,000: Space Marine II (кооп)",
-    "category": "ongoing",
+    "category": "finished",
     "id": "wh40k-sm2",
     "streams": [
       { "name": "1", "twitch": "2242337852", "start": "3:06:24" },
       { "name": "2", "twitch": "2243137535", "start": "1:25:30" },
-      { "name": "3", "twitch": "2249923453", "start": "51:07" }
+      { "name": "3", "twitch": "2249923453", "start": "51:07" },
+      { "name": "4", "twitch": "2253290479", "start": "3:10:20" }
     ]
   },
   {
@@ -5620,7 +5628,8 @@
       { "name": "6 (релиз)", "twitch": "2249129409", "start": "4:36:16" },
       { "name": "7", "twitch": "2249923453", "start": "19:35" },
       { "name": "8", "twitch": "2250799817", "start": "1:05:18" },
-      { "name": "9", "twitch": "2252500218", "start": "29:09" }
+      { "name": "9", "twitch": "2252500218", "start": "29:09" },
+      { "name": "10", "twitch": "2253290479", "start": "2:15:55" }
     ]
   },
   {
