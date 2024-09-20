@@ -5124,11 +5124,12 @@
   },
   {
     "name": "Thank Goodness You're Here",
-    "category": "ongoing",
+    "category": "finished",
     "id": "tgyh",
     "streams": [
       { "name": "1", "twitch": "2213762112", "start": "2:06:21" },
-      { "name": "2", "twitch": "2219800754", "start": "30:35" }
+      { "name": "2", "twitch": "2219800754", "start": "30:35" },
+      { "name": "3", "twitch": "2228324519", "start": "1:02:45" }
     ]
   },
   {
@@ -5533,10 +5534,7 @@
         { "name": "Seeing Things", "start": "2:53:36" }
       ] },
       { "name": "Phantom Ten", "twitch": "2227459008", "start": "4:19:35" },
-      { "twitch": "2228324519", "subrefs": [
-        { "name": "Thank Goodness You're Here!", "start": "1:02:45" },
-        { "name": "Kiosk", "start": "2:39:39" }
-      ] },
+      { "name": "Kiosk", "twitch": "2228324519", "start": "2:39:39" },
       { "twitch": "2233576575", "subrefs": [
         { "name": "Golly Soda Pop", "start": "2:05:22" },
         { "name": "Macabre no Zantou: Remnants of the Macabre", "start": "3:08:59" }
