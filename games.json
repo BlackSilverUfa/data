@@ -5050,6 +5050,9 @@
       { "twitch": "2259131911,2259184395", "subrefs": [
         { "name": "Bring me...", "start": "3:07:13" },
         { "name": "Scotophobia (демо)", "start": "4:13:10" }
+      ] },
+      { "twitch": "2259920440,2259955568,2260022618", "subrefs": [
+        { "name": "The Forever Winter", "start": "47:12" }
       ] }
     ]
   },
@@ -5564,10 +5567,17 @@
       { "name": "Bad Omens: 8th Apartment", "twitch": "2246630814", "start": "4:46:32" },
       { "name": "THRESHOLD (демо)", "twitch": "2249129409", "start": "31:17" },
       { "name": "Water Delivery", "twitch": "2258364525,2258462533", "start": "1:58:57" },
-      { "twitch": "2259131911,2259184395", "subrefs": [
-        { "name": "Funeralopolis: Last Days", "start": "1:20:02" },
-        { "name": "Ignited Entry", "start": "4:40:32" }
-      ] }
+      { "name": "Ignited Entry", "twitch": "2259131911,2259184395", "start": "4:40:32" },
+      { "name": "Arctic Eggs", "twitch": "2259920440,2259955568,2260022618", "start": "2:23:40" }
+    ]
+  },
+  {
+    "name": "Funeralopolis: Last Days",
+    "category": "finished",
+    "id": "funeralopolis",
+    "streams": [
+      { "name": "1", "twitch": "2259131911,2259184395", "start": "1:20:02" },
+      { "name": "2", "twitch": "2259920440,2259955568,2260022618", "start": "1:50:09" }
     ]
   },
   {
