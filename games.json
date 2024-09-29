@@ -5349,8 +5349,7 @@
         { "name": "5 Nights at Grek's Hotel", "start": "3:29:40" },
         { "name": "5 Nights at Shrek's Hotel", "start": "3:51:48" },
         { "name": "Subdread", "start": "4:29:53" },
-        { "name": "Jack In The Box", "start": "4:42:31" },
-        { "name": "Mouthwashing (демо)", "start": "4:59:18" }
+        { "name": "Jack In The Box", "start": "4:42:31" }
       ] },
       { "twitch": "2069337431", "subrefs": [
         { "name": "Backrooms: The Project (демо)", "start": "1:09:55" },
@@ -5573,6 +5572,15 @@
       { "name": "Water Delivery", "twitch": "2258364525", "start": "1:58:57" },
       { "name": "Ignited Entry", "twitch": "2259184395", "start": "3:02:32" },
       { "name": "Arctic Eggs", "twitch": "2260022618", "start": "19:58" }
+    ]
+  },
+  {
+    "name": "Mouthwashing",
+    "category": "finished",
+    "id": "mouthwashing",
+    "streams": [
+      { "name": "Демо", "twitch": "2052963702", "start": "4:59:18" },
+      { "name": "Прохождение", "twitch": "2263360429", "start": "1:08:12" }
     ]
   },
   {
