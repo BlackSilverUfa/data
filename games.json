@@ -5411,10 +5411,7 @@
         { "name": "That Which Gave Chase", "start": "2:13:07" }
       ] },
       { "name": "The Penjikent Creature", "twitch": "2116005347", "start": "2:37:56" },
-      { "twitch": "2121268856", "subrefs": [
-        { "name": "Contra: Operation Galuga (демо)", "start": "2:27:21" },
-        { "name": "Iron Meat (демо)", "start": "3:08:22" }
-      ] },
+      { "name": "Contra: Operation Galuga (демо)", "twitch": "2121268856", "start": "2:27:21" },
       { "name": "Europa (демо)", "twitch": "2123000940", "start": "2:12:49" },
       { "twitch": "2125739785", "subrefs": [
         { "name": "Night Bus", "start": "1:30:21" },
@@ -5572,6 +5569,15 @@
       { "name": "Water Delivery", "twitch": "2258364525", "start": "1:58:57" },
       { "name": "Ignited Entry", "twitch": "2259184395", "start": "3:02:32" },
       { "name": "Arctic Eggs", "twitch": "2260022618", "start": "19:58" }
+    ]
+  },
+  {
+    "name": "Iron Meat",
+    "category": "ongoing",
+    "id": "iron-meat",
+    "streams": [
+      { "name": "Демо", "twitch": "2121268856", "start": "3:08:22" },
+      { "name": "1 (тестовый стрим)", "twitch": "2263725920", "start": "8:59" }
     ]
   },
   {
