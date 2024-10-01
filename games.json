@@ -5568,8 +5568,16 @@
       { "name": "THRESHOLD (демо)", "twitch": "2249129409", "start": "31:17" },
       { "name": "Water Delivery", "twitch": "2258364525", "start": "1:58:57" },
       { "name": "Ignited Entry", "twitch": "2259184395", "start": "3:02:32" },
-      { "name": "Arctic Eggs", "twitch": "2260022618", "start": "19:58" },
-      { "name": "Zoochosis", "twitch": "2264093759", "start": "2:15:17" }
+      { "name": "Arctic Eggs", "twitch": "2260022618", "start": "19:58" }
+    ]
+  },
+  {
+    "name": "Zoochosis",
+    "category": "finished",
+    "id": "zoochosis",
+    "streams": [
+      { "name": "1", "twitch": "2264093759", "start": "2:15:17" },
+      { "name": "2", "twitch": "2264864573", "start": "44:44" }
     ]
   },
   {
@@ -5679,7 +5687,8 @@
       { "name": "10", "twitch": "2253290479", "start": "2:15:55" },
       { "name": "11", "twitch": "2258324506", "start": "7:23" },
       { "name": "12", "twitch": "2259131911", "start": "4:12" },
-      { "name": "13", "twitch": "2264093759", "start": "26:55" }
+      { "name": "13", "twitch": "2264093759", "start": "26:55" },
+      { "name": "14", "twitch": "2264864573", "start": "4:48:06" }
     ]
   },
   {
