@@ -2924,10 +2924,7 @@
       ] },
       { "name": "TELEFORUM", "twitch": "1957481459", "start": "3:50:38" },
       { "name": "Лихо одноглазое (One-Eyed Likho) (демо)", "twitch": "1959105799", "start": "41:11" },
-      { "twitch": "1970199475", "subrefs": [
-        { "name": "Crowded. Followed.", "start": "2:33:09" },
-        { "name": "Suspicious Person Information", "start": "2:48:16" }
-      ] },
+      { "name": "Suspicious Person Information", "twitch": "1970199475", "start": "2:48:16" },
       { "twitch": "1971837037", "subrefs": [
         { "name": "Faith 64", "start": "1:19:14" },
         { "name": "Buried", "start": "3:09:36" },
@@ -5594,11 +5591,19 @@
         { "name": "Vanished Soul (демо)", "start": "4:08:31" }
       ] },
       { "twitch": "2270698327", "subrefs": [
-        { "name": "Crowded. Followed. (демо)", "start": "1:35:38" },
         { "name": "Don't Drop The Cake: Prologue", "start": "1:50:29" },
         { "name": "Silent Still", "start": "3:02:19" },
         { "name": "Grunn", "start": "4:11:59" }
       ] }
+    ]
+  },
+  {
+    "name": "Crowded. Followed.",
+    "category": "ongoing",
+    "id": "crowded-followed",
+    "streams": [
+      { "name": "Демо 1", "twitch": "1970199475", "start": "2:33:09" },
+      { "name": "Демо 2", "twitch": "2270698327", "start": "1:35:38" }
     ]
   },
   {
