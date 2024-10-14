@@ -5063,7 +5063,8 @@
         { "name": "Dino Crisis: Rebirth", "start": "48:18" },
         { "name": "Prophecy (демо)", "start": "2:15:28" }
       ] },
-      { "name": "Butcher's Creek (демо)", "twitch": "2274972530", "start": "3:44:24" }
+      { "name": "Butcher's Creek (демо)", "twitch": "2274972530", "start": "3:44:24" },
+      { "name": "Captured", "twitch": "2275791324", "start": "1:15:33" }
     ]
   },
   {
@@ -5602,6 +5603,12 @@
         { "name": "ФУ: Зеленые Глаза (демо)", "start": "2:54:16" },
         { "name": "Creepy Shift: Roadside Diner (демо)", "start": "4:03:21" },
         { "name": "Fear the Timeloop (демо)", "start": "4:24:46" }
+      ] },
+      { "twitch": "2275791324", "subrefs": [
+        { "name": "P.T. by 7780s", "start": "36:16" },
+        { "name": "The Ferry", "start": "2:24:22" },
+        { "name": "Devious Path", "start": "3:03:27" },
+        { "name": "Bad Parenting 1: Mr. Red Face", "start": "4:18:09" }
       ] }
     ]
   },
