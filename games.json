@@ -5064,7 +5064,15 @@
         { "name": "Prophecy (демо)", "start": "2:15:28" }
       ] },
       { "name": "Butcher's Creek (демо)", "twitch": "2274972530", "start": "3:44:24" },
-      { "name": "Captured", "twitch": "2275791324", "start": "1:15:33" }
+      { "name": "CAPTURED", "twitch": "2275791324", "start": "1:15:33" },
+      { "twitch": "2276579699", "subrefs": [
+        { "name": "Secret Agent Wizard Boy and the International Crime Syndicate (демо)", "start": "26:00" },
+        { "name": "The Precinct (демо)", "start": "1:14:43" },
+        { "name": "Zaru", "start": "2:47:18" },
+        { "name": "Hi! These Are Your Eyeballs", "start": "3:08:21" },
+        { "name": "Targeosity", "start": "3:50:51" },
+        { "name": "Waffle Cone Willie", "start": "5:56:18" }
+      ] }
     ]
   },
   {
@@ -5609,6 +5617,12 @@
         { "name": "The Ferry", "start": "2:24:22" },
         { "name": "Devious Path", "start": "3:03:27" },
         { "name": "Bad Parenting 1: Mr. Red Face", "start": "4:18:09" }
+      ] },
+      { "twitch": "2276579699", "subrefs": [
+        { "name": "Liminalcore (демо)", "start": "1:37:59" },
+        { "name": "BrokenLore: LOW (демо)", "start": "2:11:01" },
+        { "name": "BrokenLore: Don't Watch (демо)", "start": "2:33:28" },
+        { "name": "Voyager-19", "start": "4:51:33" }
       ] }
     ]
   },
