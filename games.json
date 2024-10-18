@@ -5072,8 +5072,16 @@
         { "name": "Hi! These Are Your Eyeballs", "start": "3:08:21" },
         { "name": "Targeosity", "start": "3:50:51" },
         { "name": "Waffle Cone Willie (демо)", "start": "5:56:18" }
-      ] },
-      { "name": "A Quiet Place: The Road Ahead", "twitch": "2278223950", "start": "1:02:05" }
+      ] }
+    ]
+  },
+  {
+    "name": "A Quiet Place: The Road Ahead",
+    "category": "finished",
+    "id": "quiet-place",
+    "streams": [
+      { "name": "1", "twitch": "2278223950", "start": "1:02:05" },
+      { "name": "2", "twitch": "2279005882", "start": "36:40" }
     ]
   },
   {
