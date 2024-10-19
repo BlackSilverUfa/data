@@ -460,7 +460,8 @@
     "id": "expeditions",
     "streams": [
       { "name": "Первый взгляд", "twitch": "2081886159", "start": "1:59:25" },
-      { "name": "Кооп", "twitch": "2247438660", "start": "1:58:03" }
+      { "name": "1", "twitch": "2247438660", "start": "1:58:03" },
+      { "name": "2", "twitch": "2279931089,2279943471,2279948458", "start": "3:17:50" }
     ]
   },
   {
@@ -5072,7 +5073,8 @@
         { "name": "Hi! These Are Your Eyeballs", "start": "3:08:21" },
         { "name": "Targeosity", "start": "3:50:51" },
         { "name": "Waffle Cone Willie (демо)", "start": "5:56:18" }
-      ] }
+      ] },
+      { "name": "Unknown 9: Awakening", "twitch": "2279931089,2279943471,2279948458", "start": "1:41:50" }
     ]
   },
   {
