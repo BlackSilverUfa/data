@@ -5074,7 +5074,11 @@
         { "name": "Targeosity", "start": "3:50:51" },
         { "name": "Waffle Cone Willie (демо)", "start": "5:56:18" }
       ] },
-      { "name": "Unknown 9: Awakening", "twitch": "2279931089,2279943471,2279948458", "start": "1:41:50" }
+      { "name": "Unknown 9: Awakening", "twitch": "2279931089,2279943471,2279948458", "start": "1:41:50" },
+      { "twitch": "2280809196", "subrefs": [
+        { "name": "The Bookman", "start": "3:19:50" },
+        { "name": "Mannequin Machine", "start": "4:17:42" }
+      ] }
     ]
   },
   {
@@ -5634,6 +5638,13 @@
         { "name": "BrokenLore: LOW (демо)", "start": "2:11:01" },
         { "name": "BrokenLore: Don't Watch (демо)", "start": "2:33:28" },
         { "name": "Voyager-19", "start": "4:51:33" }
+      ] },
+      { "twitch": "2280809196", "subrefs": [
+        { "name": "KARMA: The Dark World", "start": "53:38" },
+        { "name": "Paraedolon", "start": "2:00:38" },
+        { "name": "Dollmare (демо)", "start": "2:14:57" },
+        { "name": "Creature Packets", "start": "2:53:57" },
+        { "name": "True Nightmare: Roadside Сafe (демо)", "start": "3:41:07" }
       ] }
     ]
   },
