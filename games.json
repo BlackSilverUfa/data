@@ -2802,7 +2802,6 @@
       ] },
       { "twitch": "1855403959", "subrefs": [
         { "name": "Dyer Expedition (демо)", "start": "2:19:20" },
-        { "name": "Sniper Killer (демо)", "start": "2:43:06" },
         { "name": "The Diner", "start": "3:38:41" },
         { "name": "The Muller-Powell Principle (демо)", "start": "3:49:14" },
         { "name": "Unknown Memoirs: The Rental", "start": "4:39:41" }
@@ -2986,6 +2985,15 @@
         { "name": "How to Build a Snowman", "start": "1:41:22" },
         { "name": "Slay Bells", "start": "2:07:23" }
       ] }
+    ]
+  },
+  {
+    "name": "Sniper Killer",
+    "category": "finished",
+    "id": "sniper-killer",
+    "streams": [
+      { "name": "Демо", "twitch": "1855403959", "start": "2:43:06" },
+      { "name": "Релиз", "twitch": "2283169019", "start": "2:32:39" }
     ]
   },
   {
@@ -5075,10 +5083,16 @@
         { "name": "Waffle Cone Willie (демо)", "start": "5:56:18" }
       ] },
       { "name": "Unknown 9: Awakening", "twitch": "2279931089,2279943471,2279948458", "start": "1:41:50" },
-      { "twitch": "2280809196", "subrefs": [
-        { "name": "The Bookman", "start": "3:19:50" },
-        { "name": "Mannequin Machine", "start": "4:17:42" }
-      ] }
+      { "name": "The Bookman", "twitch": "2280809196", "start": "3:19:50" }
+    ]
+  },
+  {
+    "name": "Mannequin Machine",
+    "category": "finished",
+    "id": "mannequin-machine",
+    "streams": [
+      { "name": "1", "twitch": "2280809196", "start": "4:17:42" },
+      { "name": "2", "twitch": "2283169019", "start": "39:18" }
     ]
   },
   {
