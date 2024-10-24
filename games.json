@@ -451,7 +451,11 @@
         { "name": "Shark Siege", "start": "1:30:13" },
         { "name": "Клеть", "start": "2:13:24" }
       ] },
-      { "name": "Stalcraft: X (с Димами)", "twitch": "2227459008", "start": "2:07:28" }
+      { "name": "Stalcraft: X (с Димами)", "twitch": "2227459008", "start": "2:07:28" },
+      { "twitch": "2283954295", "subrefs": [
+        { "name": "Subterranauts", "start": "5:29:57" },
+        { "name": "Nuclear Nightmare", "start": "6:29:43" }
+      ] }
     ]
   },
   {
@@ -871,7 +875,8 @@
       { "name": "4", "twitch": "1533471620", "start": "8:52" },
       { "name": "5", "twitch": "1587098639", "start": "3:23:29" },
       { "name": "6", "twitch": "1778887686", "start": "5:40:11" },
-      { "name": "7", "twitch": "1804882802", "start": "4:24:56" }
+      { "name": "7", "twitch": "1804882802", "start": "4:24:56" },
+      { "name": "8", "twitch": "2283954295", "start": "3:17:30" }
     ]
   },
   {
@@ -2877,7 +2882,6 @@
       ] },
       { "twitch": "1939916692", "subrefs": [
         { "name": "Teke-teke", "start": "40:28" },
-        { "name": "While We Wait Here (демо)", "start": "1:14:31" },
         { "name": "Something In The Well", "start": "1:42:10" },
         { "name": "Mimic", "start": "2:02:34" },
         { "name": "Masked Devourer", "start": "2:18:49" },
@@ -5619,7 +5623,6 @@
         { "name": "Urayama", "start": "4:27:23" }
       ] },
       { "name": "Bad Omens: 8th Apartment", "twitch": "2246630814", "start": "4:46:32" },
-      { "name": "THRESHOLD (демо)", "twitch": "2249129409", "start": "31:17" },
       { "name": "Water Delivery", "twitch": "2258364525,2258462533", "start": "1:58:57" },
       { "name": "Ignited Entry", "twitch": "2259131911,2259184395", "start": "4:40:32" },
       { "name": "Arctic Eggs", "twitch": "2259920440,2259955568,2260022618", "start": "2:23:40" },
@@ -5660,6 +5663,24 @@
         { "name": "Creature Packets", "start": "2:53:57" },
         { "name": "True Nightmare: Roadside Сafe (демо)", "start": "3:41:07" }
       ] }
+    ]
+  },
+  {
+    "name": "THRESHOLD",
+    "category": "finished",
+    "id": "threshold",
+    "streams": [
+      { "name": "Демо", "twitch": "2249129409", "start": "31:17" },
+      { "name": "Прохождение", "twitch": "2283954295", "start": "34:55" }
+    ]
+  },
+  {
+    "name": "While We Wait Here",
+    "category": "ongoing",
+    "id": "wwwh",
+    "streams": [
+      { "name": "Демо", "twitch": "1939916692", "start": "1:14:31" },
+      { "name": "Релиз", "twitch": "2283954295", "start": "1:43:06" }
     ]
   },
   {
