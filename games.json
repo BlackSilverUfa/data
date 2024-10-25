@@ -580,7 +580,8 @@
       { "name": "15", "twitch": "2232659937", "start": "1:54:10" },
       { "name": "16", "twitch": "2238825958", "start": "1:33:00" },
       { "name": "17", "twitch": "2244890208", "start": "2:35:26" },
-      { "name": "18", "twitch": "2252500218", "start": "2:32:15" }
+      { "name": "18", "twitch": "2252500218", "start": "2:32:15" },
+      { "name": "19", "twitch": "2284843090", "start": "2:17:44" }
     ]
   },
   {
@@ -5659,10 +5660,18 @@
       { "twitch": "2280809196", "subrefs": [
         { "name": "KARMA: The Dark World", "start": "53:38" },
         { "name": "Paraedolon", "start": "2:00:38" },
-        { "name": "Dollmare (демо)", "start": "2:14:57" },
         { "name": "Creature Packets", "start": "2:53:57" },
         { "name": "True Nightmare: Roadside Сafe (демо)", "start": "3:41:07" }
       ] }
+    ]
+  },
+  {
+    "name": "Dollmare",
+    "category": "ongoing",
+    "id": "dollmare",
+    "streams": [
+      { "name": "Демо", "twitch": "2280809196", "start": "2:14:57" },
+      { "name": "Релиз", "twitch": "2284843090", "start": "14:03" }
     ]
   },
   {
