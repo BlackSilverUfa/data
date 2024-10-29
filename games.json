@@ -5088,7 +5088,8 @@
         { "name": "Waffle Cone Willie (демо)", "start": "5:56:18" }
       ] },
       { "name": "Unknown 9: Awakening", "twitch": "2279931089,2279943471,2279948458", "start": "1:41:50" },
-      { "name": "The Bookman", "twitch": "2280809196", "start": "3:19:50" }
+      { "name": "The Bookman", "twitch": "2280809196", "start": "3:19:50" },
+      { "name": "Finding Frankie", "twitch": "2288283392", "start": "2:32:30" }
     ]
   },
   {
@@ -5662,16 +5663,18 @@
         { "name": "Paraedolon", "start": "2:00:38" },
         { "name": "Creature Packets", "start": "2:53:57" },
         { "name": "True Nightmare: Roadside Сafe (демо)", "start": "3:41:07" }
-      ] }
+      ] },
+      { "name": "The Hungry Fly", "twitch": "2288283392", "start": "6:32:56" }
     ]
   },
   {
     "name": "Dollmare",
-    "category": "ongoing",
+    "category": "finished",
     "id": "dollmare",
     "streams": [
       { "name": "Демо", "twitch": "2280809196", "start": "2:14:57" },
-      { "name": "Релиз", "twitch": "2284843090", "start": "14:03" }
+      { "name": "1", "twitch": "2284843090", "start": "14:03" },
+      { "name": "2", "twitch": "2288283392", "start": "43:04" }
     ]
   },
   {
@@ -5685,11 +5688,12 @@
   },
   {
     "name": "While We Wait Here",
-    "category": "ongoing",
+    "category": "finished",
     "id": "wwwh",
     "streams": [
       { "name": "Демо", "twitch": "1939916692", "start": "1:14:31" },
-      { "name": "Релиз", "twitch": "2283954295", "start": "1:43:06" }
+      { "name": "1", "twitch": "2283954295", "start": "1:43:06" },
+      { "name": "2", "twitch": "2288283392", "start": "2:32:30" }
     ]
   },
   {
