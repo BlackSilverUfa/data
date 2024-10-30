@@ -5643,7 +5643,6 @@
         { "name": "Hail to the Rainbow (демо)", "start": "53:58" },
         { "name": "Below, Rusted Gods (демо)", "start": "2:13:46" },
         { "name": "ФУ: Зеленые Глаза (демо)", "start": "2:54:16" },
-        { "name": "Creepy Shift: Roadside Diner (демо)", "start": "4:03:21" },
         { "name": "Fear the Timeloop (демо)", "start": "4:24:46" }
       ] },
       { "twitch": "2275791324", "subrefs": [
@@ -5653,7 +5652,6 @@
         { "name": "Bad Parenting 1: Mr. Red Face", "start": "4:18:09" }
       ] },
       { "twitch": "2276579699", "subrefs": [
-        { "name": "Liminalcore (демо)", "start": "1:37:59" },
         { "name": "BrokenLore: LOW (демо)", "start": "2:11:01" },
         { "name": "BrokenLore: Don't Watch (демо)", "start": "2:33:28" },
         { "name": "Voyager-19", "start": "4:51:33" }
@@ -5664,7 +5662,26 @@
         { "name": "Creature Packets", "start": "2:53:57" },
         { "name": "True Nightmare: Roadside Сafe (демо)", "start": "3:41:07" }
       ] },
-      { "name": "The Hungry Fly", "twitch": "2288283392", "start": "6:32:56" }
+      { "name": "The Hungry Fly", "twitch": "2288283392", "start": "6:32:56" },
+      { "name": "Puppet House", "twitch": "2289109470", "start": "1:17:32" }
+    ]
+  },
+  {
+    "name": "Creepy Shift: Roadside Diner",
+    "category": "finished",
+    "id": "creepy-shift-rd",
+    "streams": [
+      { "name": "Демо", "twitch": "2274972530", "start": "4:03:21" },
+      { "name": "Релиз", "twitch": "2289109470", "start": "3:55:55" }
+    ]
+  },
+  {
+    "name": "Liminalcore",
+    "category": "ongoing",
+    "id": "liminalcore",
+    "streams": [
+      { "name": "Chapter 1", "twitch": "2276579699", "start": "1:37:59" },
+      { "name": "Chapter 2", "twitch": "2289109470", "start": "16:55" }
     ]
   },
   {
@@ -7461,7 +7478,8 @@
         { "name": "Часть 3 #2", "start": "48:13" }
       ] },
       { "name": "Часть 4 #3", "twitch": "1989452096", "start": "2:51:00" },
-      { "name": "Часть 4 #4", "twitch": "1995822970", "start": "5:16:47" }
+      { "name": "Часть 4 #4", "twitch": "1995822970", "start": "5:16:47" },
+      { "name": "Часть 7", "twitch": "2289109470", "start": "4:59:23" }
     ]
   },
   {
