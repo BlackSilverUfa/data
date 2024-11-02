@@ -5091,7 +5091,11 @@
       { "name": "Unknown 9: Awakening", "twitch": "2279931089,2279943471,2279948458", "start": "1:41:50" },
       { "name": "The Bookman", "twitch": "2280809196", "start": "3:19:50" },
       { "name": "Finding Frankie", "twitch": "2288283392", "start": "2:32:30" },
-      { "name": "Dragon Age: The Veilguard", "twitch": "2290757467" }
+      { "name": "Dragon Age: The Veilguard", "twitch": "2290757467" },
+      { "twitch": "2291735052", "subrefs": [
+        { "name": "Massacre At The Mirage", "start": "2:53:44" },
+        { "name": "Ells Tales: Egg", "start": "4:09:10" }
+      ] }
     ]
   },
   {
@@ -5665,7 +5669,14 @@
         { "name": "True Nightmare: Roadside Сafe (демо)", "start": "3:41:07" }
       ] },
       { "name": "The Hungry Fly", "twitch": "2288283392", "start": "6:32:56" },
-      { "name": "Puppet House", "twitch": "2289109470", "start": "1:17:32" }
+      { "name": "Puppet House", "twitch": "2289109470", "start": "1:17:32" },
+      { "twitch": "2291735052", "subrefs": [
+        { "name": "Chorus of Carcosa (демо)", "start": "49:54" },
+        { "name": "Level Headed", "start": "1:20:33" },
+        { "name": "Invasion of The Halloween Fiends", "start": "1:39:27" },
+        { "name": "Blind Exposure", "start": "2:43:43" },
+        { "name": "Night Reception", "start": "4:31:04" }
+      ] }
     ]
   },
   {
