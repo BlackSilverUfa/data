@@ -5665,7 +5665,7 @@
         { "name": "True Nightmare: Roadside Сafe (демо)", "start": "3:41:07" }
       ] },
       { "name": "The Hungry Fly", "twitch": "2288283392", "start": "6:32:56" },
-      { "name": "Puppet House", "twitch": "2289109470", "segment": 1, "start": "1:17:32" }
+      { "name": "Puppet House", "twitch": "2289109470", "start": "1:17:32" }
     ]
   },
   {
@@ -5674,7 +5674,7 @@
     "id": "creepy-shift-rd",
     "streams": [
       { "name": "Демо", "twitch": "2274972530", "start": "4:03:21" },
-      { "name": "Релиз", "twitch": "2289109470", "segment": 1, "start": "3:55:55" }
+      { "name": "Релиз", "twitch": "2289109470", "start": "3:55:55" }
     ]
   },
   {
@@ -5683,7 +5683,7 @@
     "id": "liminalcore",
     "streams": [
       { "name": "Chapter 1", "twitch": "2276579699", "start": "1:37:59" },
-      { "name": "Chapter 2", "twitch": "2289109470", "segment": 0, "start": "16:55" }
+      { "name": "Chapter 2", "twitch": "2289109470", "start": "16:55" }
     ]
   },
   {
@@ -7481,7 +7481,7 @@
       ] },
       { "name": "Часть 4 #3", "twitch": "1989452096", "start": "2:51:00" },
       { "name": "Часть 4 #4", "twitch": "1995822970", "start": "5:16:47" },
-      { "name": "Часть 7", "twitch": "2289109470", "segment": 1, "start": "4:59:23" }
+      { "name": "Часть 7", "twitch": "2289109470", "start": "4:59:23" }
     ]
   },
   {
