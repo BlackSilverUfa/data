@@ -5092,15 +5092,33 @@
       { "name": "The Bookman", "twitch": "2280809196", "start": "3:19:50" },
       { "name": "Finding Frankie", "twitch": "2288283392", "start": "2:32:30" },
       { "name": "Dragon Age: The Veilguard", "twitch": "2290757467" },
-      { "twitch": "2291735052", "subrefs": [
-        { "name": "Massacre At The Mirage", "start": "2:53:44" },
-        { "name": "Ells Tales: Egg", "start": "4:09:10" }
-      ] },
+      { "name": "Ells Tales: Egg", "twitch": "2291735052", "start": "4:09:10" },
       { "twitch": "2298341279", "subrefs": [
         { "name": "That Time I Got Trapped", "start": "2:24:59" },
-        { "name": "White Knuckle", "start": "3:16:17" },
-        { "name": "The Inn-Sanity", "start": "3:35:51" }
+        { "name": "White Knuckle", "start": "3:16:17" }
+      ] },
+      { "twitch": "2299110802", "subrefs": [
+        { "name": "Slitterhead", "start": "11:09" },
+        { "name": "Manny's Murderous Movie Theatre", "start": "5:42:44" }
       ] }
+    ]
+  },
+  {
+    "name": "Massacre At The Mirage",
+    "category": "finished",
+    "id": "massacre-mirage",
+    "streams": [
+      { "name": "1", "twitch": "2291735052", "start": "2:53:44" },
+      { "name": "2", "twitch": "2299110802", "start": "4:17:17" }
+    ]
+  },
+  {
+    "name": "The Inn-Sanity",
+    "category": "finished",
+    "id": "inn-sanity",
+    "streams": [
+      { "name": "1", "twitch": "2298341279", "start": "3:35:51" },
+      { "name": "2", "twitch": "2299110802", "start": "1:57:35" }
     ]
   },
   {
