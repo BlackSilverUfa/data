@@ -3058,7 +3058,8 @@
     "id": "dont-scream",
     "streams": [
       { "name": "1", "twitch": "1970199475", "start": "38:41" },
-      { "name": "2", "twitch": "1971007084", "start": "39:55" }
+      { "name": "2", "twitch": "1971007084", "start": "39:55" },
+      { "name": "3", "twitch": "2300733935", "start": "1:56:33" }
     ]
   },
   {
@@ -5084,7 +5085,6 @@
         { "name": "Secret Agent Wizard Boy and the International Crime Syndicate (демо)", "start": "26:00" },
         { "name": "The Precinct (демо)", "start": "1:14:43" },
         { "name": "Zaru", "start": "2:47:18" },
-        { "name": "Hi! These Are Your Eyeballs", "start": "3:08:21" },
         { "name": "Targeosity", "start": "3:50:51" },
         { "name": "Waffle Cone Willie (демо)", "start": "5:56:18" }
       ] },
@@ -5092,7 +5092,6 @@
       { "name": "The Bookman", "twitch": "2280809196", "start": "3:19:50" },
       { "name": "Finding Frankie", "twitch": "2288283392", "start": "2:32:30" },
       { "name": "Dragon Age: The Veilguard", "twitch": "2290757467" },
-      { "name": "Ells Tales: Egg", "twitch": "2291735052", "start": "4:09:10" },
       { "twitch": "2298341279", "subrefs": [
         { "name": "That Time I Got Trapped", "start": "2:24:59" },
         { "name": "White Knuckle", "start": "3:16:17" }
@@ -5105,6 +5104,24 @@
         { "name": "My Hotel", "start": "1:18:34" },
         { "name": "Hollowbody", "start": "3:10:16" }
       ] }
+    ]
+  },
+  {
+    "name": "Ells Tales: Egg",
+    "category": "finished",
+    "id": "ells-tales-egg",
+    "streams": [
+      { "name": "1", "twitch": "2291735052", "start": "4:09:10" },
+      { "name": "2", "twitch": "2300733935", "start": "3:49:55" }
+    ]
+  },
+  {
+    "name": "Hi! These Are Your Eyeballs",
+    "category": "ongoing",
+    "id": "htaye",
+    "streams": [
+      { "name": "1", "twitch": "2276579699", "start": "3:08:21" },
+      { "name": "2", "twitch": "2300733935", "start": "2:30:26" }
     ]
   },
   {
@@ -5533,7 +5550,6 @@
       ] },
       { "twitch": "2140448165", "subrefs": [
         { "name": "The Cursed Tape", "start": "1:11:16" },
-        { "name": "Is This Game Trying to Kill Me?: Preface", "start": "1:54:34" },
         { "name": "Void Whispers", "start": "2:41:35" },
         { "name": "Cursed Enigma: The Midnight Apartment", "start": "3:26:35" }
       ] },
@@ -5710,7 +5726,17 @@
         { "name": "The Broken Vow", "start": "1:59:38" },
         { "name": "Scarlet Lake (демо)", "start": "2:35:01" }
       ] },
-      { "name": "Project Borealis: Prologue", "twitch": "2299935115", "start": "50:38" }
+      { "name": "Project Borealis: Prologue", "twitch": "2299935115", "start": "50:38" },
+      { "name": "Chakana", "twitch": "2300733935", "start": "3:06:27" }
+    ]
+  },
+  {
+    "name": "Is This Game Trying to Kill Me?",
+    "category": "ongoing",
+    "id": "itgttkm",
+    "streams": [
+      { "name": "Preface", "twitch": "2140448165", "start": "1:54:34" },
+      { "name": "1", "twitch": "2300733935", "start": "35:38" }
     ]
   },
   {
@@ -7527,7 +7553,8 @@
       { "name": "Часть 4 #3", "twitch": "1989452096", "start": "2:51:00" },
       { "name": "Часть 4 #4", "twitch": "1995822970", "start": "5:16:47" },
       { "name": "Часть 7 #1", "twitch": "2289109470", "start": "4:59:23" },
-      { "name": "Часть 7 #2", "twitch": "2299935115", "start": "4:27:21" }
+      { "name": "Часть 7 #2", "twitch": "2299935115", "start": "4:27:21" },
+      { "name": "Часть 7 #3", "twitch": "2300733935", "start": "4:25:42" }
     ]
   },
   {
