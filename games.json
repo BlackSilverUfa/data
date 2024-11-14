@@ -5103,6 +5103,10 @@
       { "twitch": "2299935115", "subrefs": [
         { "name": "My Hotel", "start": "1:18:34" },
         { "name": "Hollowbody", "start": "3:10:16" }
+      ] },
+      { "twitch": "2301535990", "subrefs": [
+        { "name": "Sofie: The Echoes", "start": "2:40:23" },
+        { "name": "Connection: The Nightmare Within", "start": "2:54:15" }
       ] }
     ]
   },
@@ -5727,7 +5731,8 @@
         { "name": "Scarlet Lake (демо)", "start": "2:35:01" }
       ] },
       { "name": "Project Borealis: Prologue", "twitch": "2299935115", "start": "50:38" },
-      { "name": "Chakana", "twitch": "2300733935", "start": "3:06:27" }
+      { "name": "Chakana", "twitch": "2300733935", "start": "3:06:27" },
+      { "name": "In The Facade We Trust (демо)", "twitch": "2301535990", "start": "57:46" }
     ]
   },
   {
@@ -5736,7 +5741,8 @@
     "id": "itgttkm",
     "streams": [
       { "name": "Preface", "twitch": "2140448165", "start": "1:54:34" },
-      { "name": "1", "twitch": "2300733935", "start": "35:38" }
+      { "name": "1", "twitch": "2300733935", "start": "35:38" },
+      { "name": "2", "twitch": "2301535990", "start": "1:26:36" }
     ]
   },
   {
@@ -5890,8 +5896,9 @@
     "category": "finished",
     "id": "tormenture",
     "streams": [
-      { "name": "1", "twitch": "2169221839", "start": "6:52:27" },
-      { "name": "2", "twitch": "2173541595", "start": "4:38:30" }
+      { "name": "1 (демо)", "twitch": "2169221839", "start": "6:52:27" },
+      { "name": "2", "twitch": "2173541595", "start": "4:38:30" },
+      { "name": "1 (релиз)", "twitch": "2301535990", "start": "3:18:00" }
     ]
   },
   {
@@ -7554,7 +7561,8 @@
       { "name": "Часть 4 #4", "twitch": "1995822970", "start": "5:16:47" },
       { "name": "Часть 7 #1", "twitch": "2289109470", "start": "4:59:23" },
       { "name": "Часть 7 #2", "twitch": "2299935115", "start": "4:27:21" },
-      { "name": "Часть 7 #3", "twitch": "2300733935", "start": "4:25:42" }
+      { "name": "Часть 7 #3", "twitch": "2300733935", "start": "4:25:42" },
+      { "name": "Часть 7 #4", "twitch": "2301535990", "start": "3:56:46" }
     ]
   },
   {
