@@ -5732,7 +5732,11 @@
       ] },
       { "name": "Project Borealis: Prologue", "twitch": "2299935115", "start": "50:38" },
       { "name": "Chakana", "twitch": "2300733935", "start": "3:06:27" },
-      { "name": "In The Facade We Trust (демо)", "twitch": "2301535990", "start": "57:46" }
+      { "name": "In The Facade We Trust (демо)", "twitch": "2301535990", "start": "57:46" },
+      { "twitch": "2303193751", "subrefs": [
+        { "name": "Newspaper Day", "start": "1:07:36" },
+        { "name": "Догони меня, Виталик! (Take Me, Vitaly)", "start": "2:01:59" }
+      ] }
     ]
   },
   {
@@ -7562,7 +7566,8 @@
       { "name": "Часть 7 #1", "twitch": "2289109470", "start": "4:59:23" },
       { "name": "Часть 7 #2", "twitch": "2299935115", "start": "4:27:21" },
       { "name": "Часть 7 #3", "twitch": "2300733935", "start": "4:25:42" },
-      { "name": "Часть 7 #4", "twitch": "2301535990", "start": "3:56:46" }
+      { "name": "Часть 7 #4", "twitch": "2301535990", "start": "3:56:46" },
+      { "name": "Часть 7 #5", "twitch": "2303193751", "start": "4:35:28" }
     ]
   },
   {
