@@ -104,7 +104,7 @@
   "001605240": { "youtube": "iTIk_i3GHYs", "official": false },
   "001605270": { "youtube": "LVgf_QPbexs", "official": false },
   "001605310": { "youtube": "D3QzfV86j_w", "official": false },
-  "001607030": { "youtube": "gU8s-7orIqU", "official": false },
+  "001607030": {  },
   "001607100": { "youtube": "MghUVl30hbM" },
   "001607210": { "youtube": "_7sbzmaFvxI" },
   "001607230": { "youtube": "GApKHWo_Cuc" },
@@ -1050,7 +1050,7 @@
     { "youtube": "ZSAAbo5nuQc", "start": "22:34" }
   ],
   "426474797": [
-    { "youtube": "VRmQE4rW13I" },
+    {  },
     {
       "youtube": "EQye_zCdYdw", "offset": "5:36:46", "official": false,
       "note": "Эта часть стрима не попала на официальную запись."
