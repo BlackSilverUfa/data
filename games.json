@@ -3278,7 +3278,8 @@
         { "name": "Gears", "start": "5:26:26" }
       ] },
       { "name": "Gears 2 #3", "twitch": "2228324519", "start": "3:39:42" },
-      { "name": "1873", "twitch": "2258364525,2258462533", "start": "3:36:53" }
+      { "name": "1873", "twitch": "2258364525,2258462533", "start": "3:36:53" },
+      { "name": "Tales Beyond The Tomb: Pineville Night Stalker", "twitch": "2311507423", "start": "1:46:47" }
     ]
   },
   {
@@ -5110,6 +5111,10 @@
       { "twitch": "2301535990", "subrefs": [
         { "name": "Sofie: The Echoes", "start": "2:40:23" },
         { "name": "Connection: The Nightmare Within", "start": "2:54:15" }
+      ] },
+      { "twitch": "2311507423", "subrefs": [
+        { "name": "Ratshaker", "start": "1:19:14" },
+        { "name": "Ratshaker", "start": "4:52:42", "hidden": true }
       ] }
     ]
   },
