@@ -5771,6 +5771,10 @@
       { "twitch": "2313112515", "subrefs": [
         { "name": "Fullbright Presents: Toilet Spiders", "start": "1:43:45" },
         { "name": "Evil Holiday", "start": "2:46:21" }
+      ] },
+      { "twitch": "2313844075", "subrefs": [
+        { "name": "This House Eats People", "start": "1:41:12" },
+        { "name": "QR Dead", "start": "2:02:53" }
       ] }
     ]
   },
@@ -5781,7 +5785,8 @@
     "streams": [
       { "name": "Preface", "twitch": "2140448165", "start": "1:54:34" },
       { "name": "1", "twitch": "2300733935", "start": "35:38" },
-      { "name": "2", "twitch": "2301535990", "start": "1:26:36" }
+      { "name": "2", "twitch": "2301535990", "start": "1:26:36" },
+      { "name": "3", "twitch": "2313844075", "start": "50:09" }
     ]
   },
   {
@@ -7603,7 +7608,8 @@
       { "name": "Часть 7 #3", "twitch": "2300733935", "start": "4:25:42" },
       { "name": "Часть 7 #4", "twitch": "2301535990", "start": "3:56:46" },
       { "name": "Часть 7 #5", "twitch": "2303193751", "start": "4:35:28" },
-      { "name": "Часть 7 #6", "twitch": "2313112515", "start": "4:24:03" }
+      { "name": "Часть 7 #6", "twitch": "2313112515", "start": "4:24:03" },
+      { "name": "Часть 7 #7", "twitch": "2313844075", "start": "4:35:22" }
     ]
   },
   {
