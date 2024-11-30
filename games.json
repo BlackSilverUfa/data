@@ -5126,6 +5126,11 @@
             ]
           }
         }
+      ] },
+      { "twitch": "2314688699", "subrefs": [
+        { "name": "Crash Bandicoot", "start": "1:18:49" },
+        { "name": "Vampire Hunter D", "start": "2:36:08" },
+        { "name": "X-Files, The", "start": "3:52:16" }
       ] }
     ]
   },
@@ -9841,7 +9846,8 @@
       { "name": "8", "twitch": "1614024019" },
       { "name": "9", "twitch": "1860536794" },
       { "name": "10", "twitch": "2118671984" },
-      { "name": "11", "twitch": "2160830982" }
+      { "name": "11", "twitch": "2160830982" },
+      { "name": "12", "twitch": "2314688699" }
     ]
   },
   {
