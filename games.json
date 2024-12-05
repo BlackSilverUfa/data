@@ -5152,7 +5152,17 @@
         { "name": "Crash Bandicoot", "start": "1:18:49" },
         { "name": "Vampire Hunter D", "start": "2:36:08" },
         { "name": "X-Files, The", "start": "3:52:16" }
-      ] }
+      ] },
+      { "name": "Madness Inside", "twitch": "2318829596", "start": "3:24:40" }
+    ]
+  },
+  {
+    "name": "Unknown Tapes",
+    "category": "ongoing",
+    "id": "unknown-tapes",
+    "streams": [
+      { "name": "Демо", "twitch": "2149736276", "start": "1:04:33" },
+      { "name": "Релиз", "twitch": "2318829596", "start": "2:21:26" }
     ]
   },
   {
@@ -5634,7 +5644,6 @@
       ] },
       { "name": "Навь (демо)", "twitch": "2147955328", "start": "1:01:26" },
       { "twitch": "2149736276", "subrefs": [
-        { "name": "Unknown Tapes (демо)", "start": "1:04:33" },
         { "name": "Overtime Heroes Exit 8", "start": "2:42:25" },
         { "name": "Sonic.EXE", "start": "3:30:19" },
         { "name": "Midnight Lane", "start": "3:55:08" },
@@ -5675,8 +5684,7 @@
       { "twitch": "2191494883", "subrefs": [
         { "name": "Egg Fried Rice", "start": "1:06:52" },
         { "name": "The Other One", "start": "3:38:59" },
-        { "name": "Cassiculus", "start": "3:58:08" },
-        { "name": "It's just a prank", "start": "4:40:01" }
+        { "name": "Cassiculus", "start": "3:58:08" }
       ] },
       { "twitch": "2197410316", "subrefs": [
         { "name": "Finding Her", "start": "2:29:53" },
@@ -5801,7 +5809,18 @@
       { "twitch": "2313844075", "subrefs": [
         { "name": "This House Eats People", "start": "1:41:12" },
         { "name": "QR Dead", "start": "2:02:53" }
-      ] }
+      ] },
+      { "name": "Forest Ranger Services: The Pilot", "twitch": "2318829596", "start": "4:09:20" }
+    ]
+  },
+  {
+    "name": "Bober Bros",
+    "category": "infinite",
+    "id": "bober",
+    "type": "list",
+    "streams": [
+      { "name": "Bober Bros: It's Just A Prank", "twitch": "2191494883", "start": "4:40:01" },
+      { "name": "Bober Bros: The Hole", "twitch": "2318829596", "start": "1:14:12" }
     ]
   },
   {
