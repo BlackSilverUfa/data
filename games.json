@@ -5153,8 +5153,16 @@
         { "name": "Vampire Hunter D", "start": "2:36:08" },
         { "name": "X-Files, The", "start": "3:52:16" }
       ] },
-      { "name": "Madness Inside", "twitch": "2318829596", "start": "3:24:40" },
-      { "name": "Indiana Jones and the Great Circle", "twitch": "2319595408", "start": "24:16" }
+      { "name": "Madness Inside", "twitch": "2318829596", "start": "3:24:40" }
+    ]
+  },
+  {
+    "name": "Indiana Jones and the Great Circle",
+    "category": "ongoing",
+    "id": "indiana-jones-tgc",
+    "streams": [
+      { "name": "1", "twitch": "2319595408", "start": "24:16" },
+      { "name": "2", "twitch": "2320517980", "start": "12:52" }
     ]
   },
   {
