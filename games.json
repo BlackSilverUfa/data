@@ -488,7 +488,7 @@
   },
   {
     "name": "Pilgrim",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "pilgrim",
     "streams": [
       { "name": "1", "twitch": "2193968354", "start": "2:47:05" },
@@ -5817,8 +5817,8 @@
   {
     "name": "Bober Bros",
     "category": "infinite",
-    "id": "bober",
     "type": "list",
+    "id": "bober",
     "streams": [
       { "name": "Bober Bros: It's Just A Prank", "twitch": "2191494883", "start": "4:40:01" },
       { "name": "Bober Bros: The Hole", "twitch": "2318829596", "start": "1:14:12" }
