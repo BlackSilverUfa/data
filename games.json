@@ -6574,7 +6574,7 @@
   },
   {
     "name": "Crime Scene Cleaner",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "csc",
     "streams": [
       { "name": "1 (демо)", "twitch": "1949835858", "start": "28:03" },
