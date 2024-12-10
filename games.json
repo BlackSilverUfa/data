@@ -1895,7 +1895,8 @@
       { "name": "2020", "twitch": "832197729", "segment": 1, "start": "12:34:01" },
       { "name": "2021 (обзор)", "twitch": "1229405550", "start": "4:01:43" },
       { "name": "2022 (обзор)", "twitch": "1674396025", "start": "26:07" },
-      { "name": "2023 (обзор)", "twitch": "1999409596", "start": "41:43" }
+      { "name": "2023 (обзор)", "twitch": "1999409596", "start": "41:43" },
+      { "name": "2024 (обзор)", "twitch": "2323151072", "start": "40:36" }
     ]
   },
   {
@@ -2625,7 +2626,6 @@
       { "name": "Bloodwash", "twitch": "1594431864", "start": "3:29:56" },
       { "name": "Night At the Gates of Hell", "twitch": "1595342822", "start": "1:50:25" },
       { "twitch": "1607244038", "subrefs": [
-        { "name": "Go Home Annie: An SCP Game (демо)", "start": "1:47:33" },
         { "name": "Convenient", "start": "2:42:05" },
         { "name": "Late Night Mop", "start": "4:16:00" },
         { "name": "The Death: Than Trung", "start": "4:32:51" }
@@ -2674,6 +2674,15 @@
         { "name": "The Thing - P.T. (by Stefano Cagnani)", "start": "5:38:25" }
       ] },
       { "name": "Crimson Snow", "twitch": "1693798502", "start": "1:39:13" }
+    ]
+  },
+  {
+    "name": "Go Home Annie: An SCP Game",
+    "category": "ongoing",
+    "id": "go-home-annie",
+    "streams": [
+      { "name": "Демо", "twitch": "1607244038", "start": "1:47:33" },
+      { "name": "Релиз", "twitch": "2323151072", "start": "2:18:27" }
     ]
   },
   {
