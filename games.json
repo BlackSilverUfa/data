@@ -2678,11 +2678,12 @@
   },
   {
     "name": "Go Home Annie: An SCP Game",
-    "category": "ongoing",
+    "category": "finished",
     "id": "go-home-annie",
     "streams": [
       { "name": "Демо", "twitch": "1607244038", "start": "1:47:33" },
-      { "name": "Релиз", "twitch": "2323151072", "start": "2:18:27" }
+      { "name": "1", "twitch": "2323151072", "start": "2:18:27" },
+      { "name": "2", "twitch": "2323950442", "start": "1:17:05" }
     ]
   },
   {
@@ -2857,7 +2858,6 @@
         { "name": "Survival & Horror: Mortanis Prisoners (демо)", "start": "1:54:44" },
         { "name": "The Horror Within", "start": "2:20:02" },
         { "name": "Decadence", "start": "2:35:04" },
-        { "name": "Miside (демо)", "start": "3:08:16" },
         { "name": "Other Side", "start": "4:07:47" },
         { "name": "Chosen Who", "start": "4:14:48" },
         { "name": "Call of the Fire", "start": "5:02:03" },
@@ -3023,6 +3023,15 @@
         { "name": "How to Build a Snowman", "start": "1:41:22" },
         { "name": "Slay Bells", "start": "2:07:23" }
       ] }
+    ]
+  },
+  {
+    "name": "MiSide",
+    "category": "finished",
+    "id": "miside",
+    "streams": [
+      { "name": "Демо", "twitch": "1867374437", "start": "3:08:16" },
+      { "name": "Прохождение", "twitch": "2323950442", "start": "2:49:12" }
     ]
   },
   {
