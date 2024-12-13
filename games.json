@@ -1900,7 +1900,8 @@
       { "name": "2020", "twitch": "832197729", "segment": 1, "start": "12:34:01" },
       { "name": "2021 (обзор)", "twitch": "1229405550", "start": "4:01:43" },
       { "name": "2022 (обзор)", "twitch": "1674396025", "start": "26:07" },
-      { "name": "2023 (обзор)", "twitch": "1999409596", "start": "41:43" }
+      { "name": "2023 (обзор)", "twitch": "1999409596", "start": "41:43" },
+      { "name": "2024 (обзор)", "twitch": "2325599811", "start": "25:05" }
     ]
   },
   {
@@ -5176,7 +5177,8 @@
         { "name": "Vampire Hunter D", "start": "2:36:08" },
         { "name": "X-Files, The", "start": "3:52:16" }
       ] },
-      { "name": "Madness Inside", "twitch": "2318829596", "start": "3:24:40" }
+      { "name": "Madness Inside", "twitch": "2318829596", "start": "3:24:40" },
+      { "name": "Legacy of Kain: Soul Reaver Remastered", "twitch": "2325599811", "start": "4:32:35" }
     ]
   },
   {
@@ -6911,7 +6913,8 @@
     "streams": [
       { "name": "1", "twitch": "1690952607", "start": "38:18" },
       { "name": "2", "twitch": "1691914672", "start": "34:30" },
-      { "name": "3", "twitch": "1692856301", "start": "29:40" }
+      { "name": "3", "twitch": "1692856301", "start": "29:40" },
+      { "name": "Remastered", "twitch": "2325599811", "start": "3:21:03" }
     ]
   },
   {
