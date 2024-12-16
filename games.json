@@ -5846,7 +5846,14 @@
         { "name": "This House Eats People", "start": "1:41:12" },
         { "name": "QR Dead", "start": "2:02:53" }
       ] },
-      { "name": "Forest Ranger Services: The Pilot", "twitch": "2318829596", "start": "4:09:20" }
+      { "name": "Forest Ranger Services: The Pilot", "twitch": "2318829596", "start": "4:09:20" },
+      { "twitch": "2328201934", "subrefs": [
+        { "name": "The Cabin Factory", "start": "1:08:41" },
+        { "name": "Scauage", "start": "2:37:29" },
+        { "name": "Paragnosia", "start": "3:31:49" },
+        { "name": "Blood Cleaner", "start": "4:19:06" },
+        { "name": "Satanic (демо)", "start": "4:44:37" }
+      ] }
     ]
   },
   {
