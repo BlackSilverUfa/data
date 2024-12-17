@@ -460,7 +460,8 @@
         { "name": "Fast Food Simulator", "start": "3:24:24" },
         { "name": "Zort", "start": "5:00:53" },
         { "name": "Make Way", "start": "6:52:58" }
-      ] }
+      ] },
+      { "name": "Clueless Crew", "twitch": "2329008888", "start": "2:16:29" }
     ]
   },
   {
@@ -606,7 +607,8 @@
       { "name": "18", "twitch": "2252500218", "start": "2:32:15" },
       { "name": "19", "twitch": "2284843090", "start": "2:17:44" },
       { "name": "20", "twitch": "2315594499", "start": "6:19:13" },
-      { "name": "21", "twitch": "2316412703", "start": "6:35:10" }
+      { "name": "21", "twitch": "2316412703", "start": "6:35:10" },
+      { "name": "22", "twitch": "2329008888", "start": "2:47:46" }
     ]
   },
   {
@@ -5178,7 +5180,8 @@
         { "name": "X-Files, The", "start": "3:52:16" }
       ] },
       { "name": "Madness Inside", "twitch": "2318829596", "start": "3:24:40" },
-      { "name": "Legacy of Kain: Soul Reaver Remastered", "twitch": "2325599811", "start": "4:32:35" }
+      { "name": "Legacy of Kain: Soul Reaver Remastered", "twitch": "2325599811", "start": "4:32:35" },
+      { "name": "The Spirit of the Samurai", "twitch": "2329008888", "start": "1:00:18" }
     ]
   },
   {
