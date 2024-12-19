@@ -461,7 +461,8 @@
         { "name": "Zort", "start": "5:00:53" },
         { "name": "Make Way", "start": "6:52:58" }
       ] },
-      { "name": "Clueless Crew", "twitch": "2329008888", "start": "2:16:29" }
+      { "name": "Clueless Crew", "twitch": "2329008888", "start": "2:16:29" },
+      { "name": "Carry The Glass", "twitch": "2330665979", "start": "2:06:22" }
     ]
   },
   {
@@ -5857,7 +5858,8 @@
         { "name": "Paragnosia", "start": "3:31:49" },
         { "name": "Blood Cleaner", "start": "4:19:06" },
         { "name": "Satanic (демо)", "start": "4:44:37" }
-      ] }
+      ] },
+      { "name": "Gift Collector", "twitch": "2330665979", "start": "1:02:56" }
     ]
   },
   {
