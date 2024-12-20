@@ -152,7 +152,7 @@
   "001612170": { "youtube": "tpqGLhzBv-E", "official": false },
   "001612200": { "youtube": "HWQwyADOgEw" },
   "001612240": { "youtube": "D-MaGVURYNI", "official": false },
-  "001612290": {  },
+  "001612290": { "youtube": "zaBNclrL95Y", "official": false },
   "001701050": {
     "youtube": "Ydqg1a3M0WM", "official": false,
     "note": "Стрим прерван по техническим причинам."
@@ -312,7 +312,7 @@
   "210024030": { "youtube": "FAjRM5KGsnw" },
   "210846597": { "youtube": "sR_zEhQt7_g" },
   "212431882": { "youtube": "JS7cNXnzCTA" },
-  "212678883": {  },
+  "212678883": { "youtube": "vuNtD1T3v-s", "official": false },
   "213247693": { "youtube": "GPga2h4UUXc" },
   "213846142": { "youtube": "8GFZF96owuA" },
   "215612485": { "youtube": "PSFYqx5cHvk" },
@@ -410,7 +410,7 @@
   "241916500": { "youtube": "pncG-ihazqw" },
   "242721044": { "youtube": "oYgM2WtjarA" },
   "243462684": { "youtube": "BRZjP1JQbtg" },
-  "245043791": {  },
+  "245043791": { "youtube": "uLrETQShJx4", "official": false },
   "245415969": { "youtube": "1BxRQZ1-gIg", "offset": "3:03" },
   "246167971": { "youtube": "7nuDDDVoCLA" },
   "246543709": { "youtube": "5Lq5Wrdtw4I" },
@@ -575,7 +575,7 @@
     { "youtube": "CrD8TeJzryQ", "offset": "2:25:32" }
   ],
   "286989766": [
-    {  },
+    { "youtube": "Rultk81cezI", "offset": "-0:04" },
     { "youtube": "BKZPjgX6iWo", "offset": "3:12:18" }
   ],
   "287404564": { "youtube": "4CyF46YCiiE", "offset": "-0:04" },
@@ -632,7 +632,7 @@
   ],
   "292591348": { "youtube": "LF5LDq64YS8", "official": false },
   "293012700": { "youtube": "paGDFxFjh_g" },
-  "293415850": {  },
+  "293415850": { "youtube": "vE38irVbcAI", "official": false },
   "294220536": {
     "youtube": "6tgFRrNLbYo", "official": false,
     "note": "<a href=\"https://youtu.be/gmR-WlWe5xw\">Официальная запись</a> сломана (недоступно качество выше 360p)"
@@ -839,7 +839,7 @@
   "362192911": { "youtube": "lGf2q-aH-Nc" },
   "362701428": { "youtube": "xx1El5MIjmY" },
   "362762169": { "youtube": "OA85Zvho_M0", "official": false },
-  "362795883": {  },
+  "362795883": { "youtube": "lBLaZszDq50", "official": false },
   "363313548": { "youtube": "Uzsri8xFsX0", "official": false },
   "364318283": [
     { "youtube": "Jezfjddywaw" },
@@ -1047,7 +1047,7 @@
     { "youtube": "ZSAAbo5nuQc", "start": "22:34" }
   ],
   "426474797": [
-    {  },
+    { "youtube": "RoAnAt9K3GU", "official": false },
     {
       "youtube": "EQye_zCdYdw", "offset": "5:36:46", "official": false,
       "note": "Эта часть стрима не попала на официальную запись."
@@ -1255,12 +1255,13 @@
     "offsets": ["0:00", "4:18:06"]
   },
   "495816363": {
+    "youtube": "xkhMqFbYtnI", "official": false,
     "note": "<a href=\"https://youtu.be/4XYQNkwZxu8\">Официальная запись</a> сломана (недоступно качество выше 360p)"
   },
   "496247270": { "youtube": "Q4E0QtlVaGM" },
   "496714817": { "youtube": "Ng00JHWfWfQ", "official": false },
   "497190114": { "youtube": "1vY-kZW7bEU" },
-  "497590135": {  },
+  "497590135": { "youtube": "YKEDcG9CUY0", "official": false },
   "498426882": { "youtube": "fY2AWBzw7mQ" },
   "498846687": { "youtube": "UYmB5rE6jmI" },
   "499849877": { "youtube": "gQec_qLEeCg", "official": false },
@@ -1300,7 +1301,7 @@
     "youtube": "8_VogvYGWfM", "official": false,
     "note": "<a href=\"https://youtu.be/w8nJdnXrSJU\">Официальная запись</a> сломана (недоступно качество выше 360p)"
   },
-  "516941489": {  },
+  "516941489": { "youtube": "VKiaEmvHGkA", "official": false },
   "517802976": { "youtube": "Ry8PU3SdDcQ", "official": false },
   "518306588": { "youtube": "AK1CYqvyHIc" },
   "518751002": {
@@ -1359,7 +1360,7 @@
     "note": "<a href=\"https://youtu.be/iGIMaIchmJ8\">Официальная запись</a> сломана (недоступно качество выше 360p)"
   },
   "538458255": { "youtube": "M9_D7ZAwDsQ", "official": false },
-  "542106142": {  },
+  "542106142": { "youtube": "CIPziTuzFKk", "official": false },
   "542613780": {
     "youtube": "VyTld6xoWyg", "official": false,
     "note": "<a href=\"https://youtu.be/mUQJ1Nr5svY\">Официальная запись</a> сломана (недоступно качество выше 360p)"
