@@ -5294,7 +5294,7 @@
   },
   {
     "name": "Enotria: The Last Song",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "enotria",
     "streams": [
       { "name": "Демо", "twitch": "2170904450", "start": "19:54" },
@@ -5303,7 +5303,7 @@
   },
   {
     "name": "The Gravedigger",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "gravedigger",
     "streams": [
       { "name": "1", "twitch": "2233576575", "start": "49:52" },
@@ -5312,7 +5312,7 @@
   },
   {
     "name": "Star Trucker",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "star-trucker",
     "streams": [
       { "name": "Демо", "twitch": "2054830363", "start": "4:11:44" },
