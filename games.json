@@ -5184,8 +5184,16 @@
       ] },
       { "name": "Madness Inside", "twitch": "2318829596", "start": "3:24:40" },
       { "name": "Legacy of Kain: Soul Reaver Remastered", "twitch": "2325599811", "start": "4:32:35" },
-      { "name": "The Spirit of the Samurai", "twitch": "2329008888", "start": "1:00:18" },
-      { "name": "Nancy Drew: The Phantom of Venice (Нэнси Дрю. Призрак Венеции)", "twitch": "2334886719", "start": "21:49" }
+      { "name": "The Spirit of the Samurai", "twitch": "2329008888", "start": "1:00:18" }
+    ]
+  },
+  {
+    "name": "Nancy Drew: The Phantom of Venice (Нэнси Дрю. Призрак Венеции)",
+    "category": "finished",
+    "id": "nancy-drew-pov",
+    "streams": [
+      { "name": "1", "twitch": "2334886719", "start": "21:49" },
+      { "name": "2", "twitch": "2335583863", "start": "15:47" }
     ]
   },
   {
