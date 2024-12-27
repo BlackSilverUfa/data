@@ -405,7 +405,6 @@
       { "name": "Overwatch 2", "twitch": "1623036890", "start": "54:11" },
       { "name": "Ghostbusters: Spirits Unleashed", "twitch": "1624846104", "start": "4:27:41" },
       { "name": "Inout", "twitch": "1804882802", "start": "2:04:46" },
-      { "name": "Super Bunny Man", "twitch": "1866511537", "start": "1:17:25" },
       { "twitch": "1895922463", "subrefs": [
         { "name": "Holy Purge", "start": "2:30:58" },
         { "name": "Surrounded", "start": "3:50:05" },
@@ -461,8 +460,25 @@
         { "name": "Zort", "start": "5:00:53" },
         { "name": "Make Way", "start": "6:52:58" }
       ] },
-      { "name": "Clueless Crew", "twitch": "2329008888", "start": "2:16:29" },
-      { "name": "Carry The Glass", "twitch": "2330665979", "start": "2:06:22" }
+      { "name": "Clueless Crew", "twitch": "2329008888", "start": "2:16:29" }
+    ]
+  },
+  {
+    "name": "Super Bunny Man",
+    "category": "co-op",
+    "id": "super-bunny-man",
+    "streams": [
+      { "name": "1", "twitch": "1866511537", "start": "1:17:25" },
+      { "name": "2", "twitch": "2337138336", "start": "5:32:05" }
+    ]
+  },
+  {
+    "name": "Carry The Glass",
+    "category": "finished",
+    "id": "carry-the-glass",
+    "streams": [
+      { "name": "1", "twitch": "2330665979", "start": "2:06:22" },
+      { "name": "2", "twitch": "2330665979", "start": "2:16:06" } 
     ]
   },
   {
@@ -5184,7 +5200,8 @@
       ] },
       { "name": "Madness Inside", "twitch": "2318829596", "start": "3:24:40" },
       { "name": "Legacy of Kain: Soul Reaver Remastered", "twitch": "2325599811", "start": "4:32:35" },
-      { "name": "The Spirit of the Samurai", "twitch": "2329008888", "start": "1:00:18" }
+      { "name": "The Spirit of the Samurai", "twitch": "2329008888", "start": "1:00:18" },
+      { "name": "Liminal Shift", "twitch": "2337138336", "start": "33:50" }
     ]
   },
   {
