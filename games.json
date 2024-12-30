@@ -5205,7 +5205,11 @@
       { "name": "Madness Inside", "twitch": "2318829596", "start": "3:24:40" },
       { "name": "Legacy of Kain: Soul Reaver Remastered", "twitch": "2325599811", "start": "4:32:35" },
       { "name": "The Spirit of the Samurai", "twitch": "2329008888", "start": "1:00:18" },
-      { "name": "Liminal Shift", "twitch": "2337138336", "start": "33:50" }
+      { "name": "Liminal Shift", "twitch": "2337138336", "start": "33:50" },
+      { "twitch": "2339752178", "subrefs": [
+        { "name": "Schoolboy Runaway", "start": "1:03:59" },
+        { "name": "A Christmas Story", "start": "3:38:21" }
+      ] }
     ]
   },
   {
@@ -5898,7 +5902,14 @@
         { "name": "Reindeer Games", "start": "3:14:27" },
         { "name": "Night at the Office", "start": "4:45:15" }
       ] },
-      { "name": "The Liminal Dimension", "twitch": "2338009081", "start": "1:19:17" }
+      { "name": "The Liminal Dimension", "twitch": "2338009081", "start": "1:19:17" },
+      { "twitch": "2339752178", "subrefs": [
+        { "name": "Блочный дом 9", "start": "2:06:32" },
+        { "name": "Don't Stay Awake", "start": "3:52:08" },
+        { "name": "Gut Loaded", "start": "4:06:40" },
+        { "name": "Demono: Home Alone", "start": "4:22:20" },
+        { "name": "Krampen", "start": "4:31:41" }
+      ] }
     ]
   },
   {
