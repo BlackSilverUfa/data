@@ -5214,6 +5214,32 @@
     ]
   },
   {
+    "name": "Первый взгляд 2025",
+    "id": "first-2025",
+    "category": "first",
+    "type": "list",
+    "streams": [
+      { "twitch": "2344984796", "subrefs": [
+        { "name": "Limoria", "start": "1:04:32" }
+      ] }
+    ]
+  },
+  {
+    "name": "Прохождения за один стрим 2025",
+    "category": "finished",
+    "type": "list",
+    "id": "single-2025",
+    "streams": [
+      { "twitch": "2344984796", "subrefs": [
+        { "name": "Welcome Home", "start": "2:02:45" },
+        { "name": "Deliverance Protocol", "start": "3:14:24" },
+        { "name": "Dead Mall", "start": "3:29:20" },
+        { "name": "DeathOmen (демо)", "start": "3:42:57" },
+        { "name": "Cursed Baby", "start": "4:47:06" } 
+      ] }
+    ]
+  },
+  {
     "name": "Nancy Drew: The Phantom of Venice (Нэнси Дрю. Призрак Венеции)",
     "category": "finished",
     "id": "nancy-drew-pov",
@@ -9993,6 +10019,14 @@
       { "name": "10", "twitch": "2118671984" },
       { "name": "11", "twitch": "2160830982" },
       { "name": "12", "twitch": "2314688699" }
+    ]
+  },
+  {
+    "name": "Вечер Всратых Хорроров (ВВХ) 2025",
+    "category": "infinite",
+    "id": "horrors-2025",
+    "streams": [
+      { "name": "1", "twitch": "2344984796" }
     ]
   },
   {
