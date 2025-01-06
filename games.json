@@ -5215,13 +5215,11 @@
   },
   {
     "name": "Первый взгляд 2025",
-    "id": "first-2025",
     "category": "first",
     "type": "list",
+    "id": "first-2025",
     "streams": [
-      { "twitch": "2344984796", "subrefs": [
-        { "name": "Limoria", "start": "1:04:32" }
-      ] }
+      { "name": "Limoria", "twitch": "2344984796", "start": "1:04:32" }
     ]
   },
   {
@@ -5235,7 +5233,7 @@
         { "name": "Deliverance Protocol", "start": "3:14:24" },
         { "name": "Dead Mall", "start": "3:29:20" },
         { "name": "DeathOmen (демо)", "start": "3:42:57" },
-        { "name": "Cursed Baby", "start": "4:47:06" } 
+        { "name": "Cursed Baby", "start": "4:47:06" }
       ] }
     ]
   },
