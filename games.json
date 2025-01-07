@@ -6007,7 +6007,7 @@
   },
   {
     "name": "Crowded. Followed.",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "crowded-followed",
     "streams": [
       { "name": "Демо 1", "twitch": "1970199475", "start": "2:33:09" },
