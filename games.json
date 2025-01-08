@@ -5219,7 +5219,8 @@
     "type": "list",
     "id": "first-2025",
     "streams": [
-      { "name": "Limoria", "twitch": "2344984796", "start": "1:04:32" }
+      { "name": "Limoria", "twitch": "2344984796", "start": "1:04:32" },
+      { "name": "Banebush (Тварюк)", "twitch": "2347617783", "start": "3:48:26" }
     ]
   },
   {
@@ -5234,6 +5235,10 @@
         { "name": "Dead Mall", "start": "3:29:20" },
         { "name": "DeathOmen (демо)", "start": "3:42:57" },
         { "name": "Cursed Baby", "start": "4:47:06" }
+      ] },
+      { "twitch": "2347617783", "subrefs": [
+        { "name": "Writer: Chapter 1", "start": "52:36" },
+        { "name": "Hell Dive", "start": "1:48:22" }
       ] }
     ]
   },
@@ -10024,7 +10029,8 @@
     "category": "infinite",
     "id": "horrors-2025",
     "streams": [
-      { "name": "1", "twitch": "2344984796" }
+      { "name": "1", "twitch": "2344984796" },
+      { "name": "2", "twitch": "2347617783" }
     ]
   },
   {
