@@ -66,7 +66,7 @@
   },
   "001512220": { "youtube": "SclxD3qRimw", "official": false },
   "001512250": { "youtube": "W8LaXlABlqQ", "official": false },
-  "001601070": { "youtube": "m-sv_4uZus8" },
+  "001601070": {  },
   "001601120": { "youtube": "UmsjmBwiw_8" },
   "001601190": { "youtube": "ACvIhT0tIOc", "official": false },
   "001601260": { "youtube": "AdRUKRq7hBY" },
@@ -452,7 +452,7 @@
   "259798230": { "youtube": "aO1vU8MX33I", "offset": "-0:05" },
   "260173384": { "youtube": "4E1DlNdCh-8", "offset": "-0:04" },
   "260957900": { "youtube": "9LMtF-UDsag", "official": false },
-  "262352362": { "youtube": "9l2yN7oxd14", "official": false },
+  "262352362": {  },
   "262696959": [
     { "youtube": "cLYassVF_zw", "offset": "13:59" },
     { "youtube": "9_im59hQ0Xw", "offset": "2:15:18" }
@@ -575,7 +575,7 @@
     { "youtube": "CrD8TeJzryQ", "offset": "2:25:32" }
   ],
   "286989766": [
-    { "youtube": "Rultk81cezI", "offset": "-0:04" },
+    { "direct": "https://bsufiles.drhx.ru/streams/286989766.mp4", "offset": "-0:04" },
     { "youtube": "BKZPjgX6iWo", "offset": "3:12:18" }
   ],
   "287404564": { "youtube": "4CyF46YCiiE", "offset": "-0:04" },
@@ -632,7 +632,7 @@
   ],
   "292591348": { "youtube": "LF5LDq64YS8", "official": false },
   "293012700": { "youtube": "paGDFxFjh_g" },
-  "293415850": { "youtube": "vE38irVbcAI", "official": false },
+  "293415850": {  },
   "294220536": {
     "youtube": "6tgFRrNLbYo", "official": false,
     "note": "<a href=\"https://youtu.be/gmR-WlWe5xw\">Официальная запись</a> сломана (недоступно качество выше 360p)"
@@ -2080,7 +2080,6 @@
   "1141635163": { "youtube": "fsdERaq524M" },
   "1142576899": { "youtube": "eKsb_ToEIco" },
   "1143525237": {
-    "youtube": "xHG1M4d2WDs", "official": false,
     "note": "<a href=\"https://youtu.be/E1grG3nfoDI\">Официальная запись</a> сломана (недоступно качество выше 360p)"
   },
   "1145536174": { "youtube": "OhblOpX0qRg" },
