@@ -575,7 +575,10 @@
     { "youtube": "CrD8TeJzryQ", "offset": "2:25:32" }
   ],
   "286989766": [
-    { "direct": "https://bsufiles.drhx.ru/streams/286989766.mp4", "offset": "-0:04" },
+    {
+      "offset": "-0:04",
+      "direct": "https://bsufiles.drhx.ru/streams/286989766.mp4"
+    },
     { "youtube": "BKZPjgX6iWo", "offset": "3:12:18" }
   ],
   "287404564": { "youtube": "4CyF46YCiiE", "offset": "-0:04" },
@@ -3491,5 +3494,8 @@
   "2344984796": { "youtube": "yBcnQsZVzD0" },
   "2345830539": { "youtube": "3EIUu1BWuyA" },
   "2347617783": {  },
-  "2348485792": { "youtube": "kg8WpKaE4SE" }
+  "2348485792": { "youtube": "kg8WpKaE4SE" },
+  "2349362268": {  },
+  "2349415065": {  },
+  "2349362268,2349415065": { "offsets": ["0:00", "1:35:10+2"] }
 }

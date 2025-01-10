@@ -3157,7 +3157,11 @@
       { "name": "Jisatsu", "twitch": "2005613219", "start": "1:35:43" },
       { "name": "Shinkansen 0", "twitch": "2102886465", "start": "56:52" },
       { "name": "Okaeri", "twitch": "2157418915", "start": "2:55:32" },
-      { "name": "The Bathhouse: Restored Edition", "twitch": "2224031390", "start": "1:46:44" }
+      { "name": "The Bathhouse: Restored Edition", "twitch": "2224031390", "start": "1:46:44" },
+      { "twitch": "2349362268,2349415065", "subrefs": [
+        { "name": "Cursed Digicam", "start": "36:32" },
+        { "name": "Cursed Digicam (продолжение)", "start": "1:38:44", "hidden": true }
+      ] }
     ]
   },
   {
@@ -5219,7 +5223,8 @@
     "id": "first-2025",
     "streams": [
       { "name": "Limoria", "twitch": "2344984796", "start": "1:04:32" },
-      { "name": "Slender: Reborn", "twitch": "2348485792", "start": "51:03" }
+      { "name": "Slender: Reborn", "twitch": "2348485792", "start": "51:03" },
+      { "name": "Amenti", "twitch": "2349362268,2349415065", "start": "1:38:44" }
     ]
   },
   {
@@ -5237,7 +5242,8 @@
     "id": "among-ashes",
     "streams": [
       { "name": "Демо", "twitch": "2123000940,2123160474", "start": "2:55:17" },
-      { "name": "1", "twitch": "2348485792", "start": "2:23:25" }
+      { "name": "1", "twitch": "2348485792", "start": "2:23:25" },
+      { "name": "2", "twitch": "2349362268,2349415065", "start": "3:00:43" }
     ]
   },
   {
