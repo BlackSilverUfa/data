@@ -5238,7 +5238,13 @@
       { "name": "Limoria", "twitch": "2344984796", "start": "1:04:32" },
       { "name": "Slender: Reborn", "twitch": "2348485792", "start": "51:03" },
       { "name": "Amenti", "twitch": "2349362268,2349415065", "start": "1:38:44" },
-      { "name": "Mutation", "twitch": "2350342790", "start": "46:06" }
+      { "name": "Mutation", "twitch": "2350342790", "start": "46:06" },
+      { "twitch": "2351321587", "subrefs": [
+        { "name": "Mystic Rest Stop", "start": "45:28" },
+        { "name": "Klaws", "start": "3:31:57" },
+        { "name": "Locomotive 115", "start": "3:49:42" },
+        { "name": "Undead Realm: Ego", "start": "4:23:59" }
+      ] }
     ]
   },
   {
@@ -5276,6 +5282,9 @@
       { "twitch": "2347617783", "subrefs": [
         { "name": "Writer: Chapter 1", "start": "52:36" },
         { "name": "Hell Dive", "start": "1:48:22" }
+      ] },
+      { "twitch": "2351321587", "subrefs": [
+        { "name": "Laser Tag Massacre", "start": "1:47:15" }
       ] }
     ]
   },
@@ -10073,7 +10082,8 @@
     "category": "infinite",
     "id": "horrors-2025",
     "streams": [
-      { "name": "1", "twitch": "2344984796" }
+      { "name": "1", "twitch": "2344984796" },
+      { "name": "2", "twitch": "2351321587" }
     ]
   },
   {
