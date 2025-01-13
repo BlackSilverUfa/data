@@ -5283,9 +5283,7 @@
         { "name": "Writer: Chapter 1", "start": "52:36" },
         { "name": "Hell Dive", "start": "1:48:22" }
       ] },
-      { "twitch": "2351321587", "subrefs": [
-        { "name": "Laser Tag Massacre", "start": "1:47:15" }
-      ] }
+      { "name": "Laser Tag Massacre", "twitch": "2351321587", "start": "1:47:15" }
     ]
   },
   {
