@@ -5237,7 +5237,6 @@
     "streams": [
       { "name": "Limoria", "twitch": "2344984796", "start": "1:04:32" },
       { "name": "Slender: Reborn", "twitch": "2348485792", "start": "51:03" },
-      { "name": "Amenti", "twitch": "2349362268,2349415065", "start": "1:38:44" },
       { "name": "Mutation", "twitch": "2350342790", "start": "46:06" },
       { "twitch": "2351321587", "subrefs": [
         { "name": "Mystic Rest Stop", "start": "45:28" },
@@ -5245,6 +5244,15 @@
         { "name": "Locomotive 115", "start": "3:49:42" },
         { "name": "Undead Realm: Ego", "start": "4:23:59" }
       ] }
+    ]
+  },
+  {
+    "name": "Amenti",
+    "category": "finished",
+    "id": "amenti",
+    "streams": [
+      { "name": "1", "twitch": "2349362268,2349415065", "start": "1:38:44" },
+      { "name": "2", "twitch": "2354817492", "start": "1:03:31" }
     ]
   },
   {
@@ -5283,7 +5291,11 @@
         { "name": "Writer: Chapter 1", "start": "52:36" },
         { "name": "Hell Dive", "start": "1:48:22" }
       ] },
-      { "name": "Laser Tag Massacre", "twitch": "2351321587", "start": "1:47:15" }
+      { "name": "Laser Tag Massacre", "twitch": "2351321587", "start": "1:47:15" },
+      { "twitch": "2354817492", "subrefs": [
+        { "name": "Trapped: Family Vacation", "start": "1:46:13" },
+        { "name": "Odyssey to the Frozen Legion (демо)", "start": "4:09:52" }
+      ] }
     ]
   },
   {
