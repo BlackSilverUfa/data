@@ -5241,13 +5241,28 @@
       { "twitch": "2351321587", "subrefs": [
         { "name": "Mystic Rest Stop", "start": "45:28" },
         { "name": "Klaws", "start": "3:31:57" },
-        { "name": "Locomotive 115", "start": "3:49:42" },
-        { "name": "Undead Realm: Ego", "start": "4:23:59" }
+        { "name": "Locomotive 115", "start": "3:49:42" }
       ] },
-      { "twitch": "2355689752", "subrefs": [
-        { "name": "Emergency Cleanup Co.", "start": "44:46" },
-        { "name": "Tyrant's Realm", "start": "1:32:48" }
-      ] }
+      { "name": "Tyrant's Realm", "twitch": "2355689752", "start": "1:32:48" },
+      { "name": "The First Berserker: Khazan", "twitch": "2356647169", "start": "2:10:53" }
+    ]
+  },
+  {
+    "name": "Undead Realm: Ego",
+    "category": "ongoing",
+    "id": "undead-realm-ego",
+    "streams": [
+      { "name": "1", "twitch": "2351321587", "start": "4:23:59" },
+      { "name": "2", "twitch": "2356647169", "start": "4:15:37" }
+    ]
+  },
+  {
+    "name": "Emergency Cleanup Co.",
+    "category": "ongoing",
+    "id": "emergency-cleanup",
+    "streams": [
+      { "name": "1", "twitch": "2355689752", "start": "44:46" },
+      { "name": "2", "twitch": "2356647169", "start": "58:34" } 
     ]
   },
   {
