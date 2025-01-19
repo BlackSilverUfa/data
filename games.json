@@ -5244,7 +5244,11 @@
         { "name": "Locomotive 115", "start": "3:49:42" }
       ] },
       { "name": "Tyrant's Realm", "twitch": "2355689752", "start": "1:32:48" },
-      { "name": "The First Berserker: Khazan", "twitch": "2356647169", "start": "2:10:53" }
+      { "name": "The First Berserker: Khazan", "twitch": "2356647169", "start": "2:10:53" },
+      { "twitch": "2357631932", "subrefs": [
+        { "name": "Haunting of Joni Evers", "start": "1:41:33" },
+        { "name": "These Darker Tides", "start": "4:35:23" }
+      ] }
     ]
   },
   {
@@ -5318,6 +5322,12 @@
       { "twitch": "2355689752", "subrefs": [
         { "name": "The Paddy Field", "start": "2:24:45" },
         { "name": "Make Good Choices", "start": "3:51:22" }
+      ] },
+      { "twitch": "2357631932", "subrefs": [
+        { "name": "From The Past", "start": "39:59" },
+        { "name": "Daemonologie", "start": "2:22:41" },
+        { "name": "For Sale", "start": "3:07:56" },
+        { "name": "The Whitaker's Library", "start": "4:12:52" }
       ] }
     ]
   },
@@ -10116,7 +10126,8 @@
     "id": "horrors-2025",
     "streams": [
       { "name": "1", "twitch": "2344984796" },
-      { "name": "2", "twitch": "2351321587" }
+      { "name": "2", "twitch": "2351321587" },
+      { "name": "3", "twitch": "2357631932" }
     ]
   },
   {
