@@ -3366,7 +3366,8 @@
       { "name": "Gears 2 #3", "twitch": "2228324519", "start": "3:39:42" },
       { "name": "1873", "twitch": "2258364525,2258462533", "start": "3:36:53" },
       { "name": "Tales Beyond The Tomb: Pineville Night Stalker", "twitch": "2311507423", "start": "1:46:47" },
-      { "name": "Tales Beyond The Tomb: The Farm's Secret", "twitch": "2334057711", "start": "1:35:02" }
+      { "name": "Tales Beyond The Tomb: The Farm's Secret", "twitch": "2334057711", "start": "1:35:02" },
+      { "name": "Tales Beyond The Tomb: The Last Vigil", "twitch": "2365019673", "start": "1:56:10" }
     ]
   },
   {
@@ -5248,7 +5249,8 @@
       { "twitch": "2357631932", "subrefs": [
         { "name": "Haunting of Joni Evers", "start": "1:41:33" },
         { "name": "These Darker Tides", "start": "4:35:23" }
-      ] }
+      ] },
+      { "name": "SCP: Fragmented Minds", "twitch": "2365019673", "start": "4:05:43" }
     ]
   },
   {
