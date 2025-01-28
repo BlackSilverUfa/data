@@ -4936,7 +4936,6 @@
       ] },
       { "name": "REVEIL (демо)", "twitch": "1939916692", "start": "4:02:16" },
       { "name": "Assassin's Creed Mirage", "twitch": "1942318458", "start": "19:13" },
-      { "name": "Dreamcore (демо)", "twitch": "1944892729", "start": "2:58:29" },
       { "name": "SCP-479: Shadows of the Mind", "twitch": "1945778448", "start": "3:31:10" },
       { "name": "Chiyo (демо)", "twitch": "1949027899", "start": "4:38:37" },
       { "twitch": "1950762078", "subrefs": [
@@ -5250,7 +5249,20 @@
         { "name": "Haunting of Joni Evers", "start": "1:41:33" },
         { "name": "These Darker Tides", "start": "4:35:23" }
       ] },
-      { "name": "SCP: Fragmented Minds", "twitch": "2365019673", "start": "4:05:43" }
+      { "name": "SCP: Fragmented Minds", "twitch": "2365019673", "start": "4:05:43" },
+      { "twitch": "2365888651", "subrefs": [
+        { "name": "Order 13", "start": "2:27:41" },
+        { "name": "Laundry Room Dilemma", "start": "4:41:37" }
+      ] }
+    ]
+  },
+  {
+    "name": "Dreamcore",
+    "category": "ongoing",
+    "id": "dreamcore",
+    "streams": [
+      { "name": "Демо", "twitch": "1944892729", "start": "2:58:29" },
+      { "name": "Релиз", "twitch": "2365888651", "start": "31:53" }
     ]
   },
   {
@@ -5339,6 +5351,12 @@
         { "name": "Daemonologie", "start": "2:22:41" },
         { "name": "For Sale", "start": "3:07:56" },
         { "name": "The Whitaker's Library", "start": "4:12:52" }
+      ] },
+      { "twitch": "2365888651", "subrefs": [
+        { "name": "Evil Lurks Below (демо)", "start": "2:16:38" },
+        { "name": "The Motel", "start": "2:58:40" },
+        { "name": "Struggling", "start": "3:56:03" },
+        { "name": "Blob", "start": "4:27:31" }
       ] }
     ]
   },
@@ -10138,7 +10156,8 @@
     "streams": [
       { "name": "1", "twitch": "2344984796" },
       { "name": "2", "twitch": "2351321587" },
-      { "name": "3", "twitch": "2357631932" }
+      { "name": "3", "twitch": "2357631932" },
+      { "name": "4", "twitch": "2365888651" }
     ]
   },
   {
