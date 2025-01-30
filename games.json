@@ -4009,7 +4009,7 @@
     "id": "first-2017",
     "streams": [
       { "twitch": "001701051", "subrefs": [
-        { "name": "Captured", "start": "20:03" },
+        { "name": "Captured (2017)", "start": "20:03" },
         { "name": "Wick", "start": "43:15" },
         { "name": "Locked Fears", "start": "1:01:29" }
       ] },
@@ -5355,7 +5355,7 @@
       { "twitch": "2365888651", "subrefs": [
         { "name": "Evil Lurks Below (демо)", "start": "2:16:38" },
         { "name": "The Motel", "start": "2:58:40" },
-        { "name": "Struggling", "start": "3:56:03" },
+        { "name": "Struggling (by Aaron Young)", "start": "3:56:03" },
         { "name": "Blob", "start": "4:27:31" }
       ] }
     ]
