@@ -5265,7 +5265,8 @@
       { "twitch": "2370447160", "subrefs": [
         { "name": "Back Rooms: The Old Watcher", "start": "3:06:37" },
         { "name": "Satan's Dungeon", "start": "4:15:10" }
-      ] }
+      ] },
+      { "name": "Kingdom Come: Deliverance II", "twitch": "2372189405", "start": "3:00:21" }
     ]
   },
   {
@@ -10388,7 +10389,8 @@
       { "name": "8", "twitch": "238317087" },
       { "name": "9", "twitch": "246167971" },
       { "name": "10", "twitch": "259798230" },
-      { "name": "From the Ashes DLC", "twitch": "281472149", "segment": 2 }
+      { "name": "From the Ashes DLC", "twitch": "281472149", "segment": 2 },
+      { "name": "Перед 2-й частью", "twitch": "2372189405", "start": "56:02" }
     ]
   },
   {
