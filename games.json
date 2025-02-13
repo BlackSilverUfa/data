@@ -1964,7 +1964,8 @@
       { "name": "2019", "twitch": "519609666" },
       { "name": "2021", "twitch": "927781155", "start": "8:58:26" },
       { "name": "Horizon Forbidden West", "twitch": "1036865162", "start": "8:00:27" },
-      { "name": "Январь 2024", "twitch": "2049365981", "start": "25:23" }
+      { "name": "Январь 2024", "twitch": "2049365981", "start": "25:23" },
+      { "name": "Февраль 2025 (обзор)", "twitch": "2380042056", "start": "48:23" }
     ]
   },
   {
@@ -5266,7 +5267,12 @@
         { "name": "Back Rooms: The Old Watcher", "start": "3:06:37" },
         { "name": "Satan's Dungeon", "start": "4:15:10" }
       ] },
-      { "name": "Static Dread", "twitch": "2375686253", "start": "3:04:54" }
+      { "name": "Static Dread", "twitch": "2375686253", "start": "3:04:54" },
+      { "twitch": "2380042056", "subrefs": [
+        { "name": "Twisted Tower (демо)", "start": "2:30:45" },
+        { "name": "Sancticide (демо)", "start": "3:11:03" },
+        { "name": "Slender Threads", "start": "4:09:46" }
+      ] }
     ]
   },
   {
