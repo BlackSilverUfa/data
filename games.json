@@ -460,7 +460,8 @@
       { "twitch": "2369442712", "subrefs": [
         { "name": "The Headliners", "start": "3:45:57" },
         { "name": "Hired 2 Die", "start": "5:19:11" }
-      ] }
+      ] },
+      { "name": "PowerWash Simulator", "twitch": "2380835608", "start": "1:12:49" }
     ]
   },
   {
@@ -4375,6 +4376,15 @@
     ]
   },
   {
+    "name": "Slender Threads",
+    "category": "ongoing",
+    "id": "slender-threads",
+    "streams": [
+      { "name": "Демо", "twitch": "905895866", "start": "5:41:00" },
+      { "name": "Релиз", "twitch": "2380042056", "start": "4:09:46" }
+    ]
+  },
+  {
     "name": "Первый взгляд 2021",
     "category": "first",
     "type": "list",
@@ -4392,7 +4402,6 @@
         { "name": "Potentia (демо)", "start": "1:51:53" },
         { "name": "Minute of Islands (демо)", "start": "4:51:05" },
         { "name": "Escape (демо)", "start": "5:35:43" },
-        { "name": "Slender Threads (демо)", "start": "5:41:00" },
         { "name": "Tasomachi (демо)", "start": "5:48:58" }
       ] },
       { "name": "What Lives Below (демо)", "twitch": "916293705" },
@@ -5270,9 +5279,9 @@
       { "name": "Static Dread", "twitch": "2375686253", "start": "3:04:54" },
       { "twitch": "2380042056", "subrefs": [
         { "name": "Twisted Tower (демо)", "start": "2:30:45" },
-        { "name": "Sancticide (демо)", "start": "3:11:03" },
-        { "name": "Slender Threads", "start": "4:09:46" }
-      ] }
+        { "name": "Sancticide (демо)", "start": "3:11:03" }
+      ] },
+      { "name": "Avowed", "twitch": "2380835608", "start": "5:01:19" }
     ]
   },
   {
@@ -7631,7 +7640,8 @@
       { "name": "20 (Shadow of Erdtree #4)", "twitch": "2181214426", "start": "11:22" },
       { "name": "21 (Shadow of Erdtree #5)", "twitch": "2182067794", "start": "11:15" },
       { "name": "22 (Shadow of Erdtree #6)", "twitch": "2182941480", "start": "9:00" },
-      { "name": "23 (Shadow of Erdtree #7)", "twitch": "2183779952", "start": "10:34" }
+      { "name": "23 (Shadow of Erdtree #7)", "twitch": "2183779952", "start": "10:34" },
+      { "name": "24 (Nightreign, network test)", "twitch": "2380835608", "start": "30:46" }
     ]
   },
   {
