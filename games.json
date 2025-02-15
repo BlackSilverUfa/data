@@ -461,7 +461,13 @@
         { "name": "The Headliners", "start": "3:45:57" },
         { "name": "Hired 2 Die", "start": "5:19:11" }
       ] },
-      { "name": "PowerWash Simulator", "twitch": "2380835608", "start": "1:12:49" }
+      { "name": "PowerWash Simulator", "twitch": "2380835608", "start": "1:12:49" },
+      { "twitch": "2381722688", "subrefs": [
+        { "name": "Treasure Hunters", "start": "4:11:23" },
+        { "name": "Emissary Zero", "start": "5:06:30" },
+        { "name": "Pit of Goblin", "start": "6:02:00" },
+        { "name": "Biped 2 (демо)", "start": "6:48:53" }
+      ] }
     ]
   },
   {
@@ -6299,7 +6305,8 @@
       { "name": "13", "twitch": "2264093759", "start": "26:55" },
       { "name": "14", "twitch": "2264864573", "start": "4:48:06" },
       { "name": "15", "twitch": "2350342790", "start": "1:16:11" },
-      { "name": "16", "twitch": "2369442712", "start": "3:03:30" }
+      { "name": "16", "twitch": "2369442712", "start": "3:03:30" },
+      { "name": "17", "twitch": "2381722688", "start": "3:19:19"  }
     ]
   },
   {
@@ -7641,7 +7648,8 @@
       { "name": "21 (Shadow of Erdtree #5)", "twitch": "2182067794", "start": "11:15" },
       { "name": "22 (Shadow of Erdtree #6)", "twitch": "2182941480", "start": "9:00" },
       { "name": "23 (Shadow of Erdtree #7)", "twitch": "2183779952", "start": "10:34" },
-      { "name": "24 (Nightreign, network test)", "twitch": "2380835608", "start": "30:46" }
+      { "name": "24 (Nightreign, network test #1)", "twitch": "2380835608", "start": "30:46" },
+      { "name": "25 (Nightreign, network test #2)", "twitch": "2381722688", "start": "13:07"  }
     ]
   },
   {
