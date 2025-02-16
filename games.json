@@ -5287,7 +5287,11 @@
         { "name": "Twisted Tower (демо)", "start": "2:30:45" },
         { "name": "Sancticide (демо)", "start": "3:11:03" }
       ] },
-      { "name": "Avowed", "twitch": "2380835608", "start": "5:01:19" }
+      { "name": "Avowed", "twitch": "2380835608", "start": "5:01:19" },
+      { "twitch": "2382739461", "subrefs": [
+        { "name": "Expedition to the Backrooms", "start": "54:30" },
+        { "name": "Paranormal Night Shift", "start": "3:04:22" }
+      ] }
     ]
   },
   {
@@ -5399,7 +5403,13 @@
         { "name": "Mr. Meat", "start": "4:28:34" }
       ] },
       { "name": "Dream Cage", "twitch": "2375686253", "start": "1:12:47" },
-      { "name": "The Pink Panther: Hocus Pokus Pink (Розовая Пантера: Фокус-Покус)", "twitch": "2376629644", "start": "28:02" }
+      { "name": "The Pink Panther: Hocus Pokus Pink (Розовая Пантера: Фокус-Покус)", "twitch": "2376629644", "start": "28:02" },
+      { "twitch": "2382739461", "subrefs": [
+        { "name": "Bad Cheese (демо)", "start": "1:34:31" },
+        { "name": "Who am I?", "start": "2:03:23" },
+        { "name": "Whale Flesh", "start": "3:57:11" },
+        { "name": "Benny Bash (демо)", "start": "4:38:07" }
+      ] }
     ]
   },
   {
@@ -10207,7 +10217,8 @@
       { "name": "2", "twitch": "2351321587" },
       { "name": "3", "twitch": "2357631932" },
       { "name": "4", "twitch": "2365888651" },
-      { "name": "5", "twitch": "2370447160" }
+      { "name": "5", "twitch": "2370447160" },
+      { "name": "6", "twitch": "2382739461" }
     ]
   },
   {
