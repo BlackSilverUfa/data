@@ -5291,7 +5291,8 @@
       { "twitch": "2382739461", "subrefs": [
         { "name": "Expedition to the Backrooms", "start": "54:30" },
         { "name": "Paranormal Night Shift", "start": "3:04:22" }
-      ] }
+      ] },
+      { "name": "Panelka", "twitch": "2383640509", "start": "3:58:45" }
     ]
   },
   {
@@ -5409,6 +5410,10 @@
         { "name": "Who am I?", "start": "2:03:23" },
         { "name": "Whale Flesh", "start": "3:57:11" },
         { "name": "Benny Bash (демо)", "start": "4:38:07" }
+      ] },
+      { "twitch": "2383640509", "subrefs": [
+        { "name": "A Game About Digging A Hole", "start": "25:29" },
+        { "name": "Like a Dragon: Pirate Yakuza in Hawaii (демо)", "start": "2:39:48" }
       ] }
     ]
   },
