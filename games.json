@@ -982,7 +982,8 @@
       { "name": "4", "twitch": "1191176581", "start": "1:27:45" },
       { "name": "5", "twitch": "2016955242", "start": "5:25:54" },
       { "name": "6", "twitch": "2046157845", "start": "4:22:11" },
-      { "name": "7", "twitch": "2338009081", "start": "6:25:20" }
+      { "name": "7", "twitch": "2338009081", "start": "6:25:20" },
+      { "name": "8", "twitch": "2385381606", "start": "6:23:49" }
     ]
   },
   {
@@ -1603,7 +1604,8 @@
       { "name": "13", "twitch": "436769739", "segment": 1, "start": "3:47:22" },
       { "name": "14", "twitch": "445866715" },
       { "name": "15", "twitch": "487949971", "start": "53:20" },
-      { "name": "16", "twitch": "560235613", "start": "2:09:28" }
+      { "name": "16", "twitch": "560235613", "start": "2:09:28" },
+      { "name": "17", "twitch": "2385381606", "start": "3:16:54" }
     ]
   },
   {
@@ -5288,11 +5290,18 @@
         { "name": "Sancticide (демо)", "start": "3:11:03" }
       ] },
       { "name": "Avowed", "twitch": "2380835608", "start": "5:01:19" },
-      { "twitch": "2382739461", "subrefs": [
-        { "name": "Expedition to the Backrooms", "start": "54:30" },
-        { "name": "Paranormal Night Shift", "start": "3:04:22" }
-      ] },
-      { "name": "Panelka", "twitch": "2383640509", "start": "3:58:45" }
+      { "name": "Expedition to the Backrooms", "twitch": "2382739461", "start": "54:30" },
+      { "name": "Panelka", "twitch": "2383640509", "start": "3:58:45" },
+      { "name": "Jump King Quest", "twitch": "2385381606", "start": "1:16:17" }
+    ]
+  },
+  {
+    "name": "Paranormal Night Shift",
+    "category": "ongoing",
+    "id": "par-night-shift",
+    "streams": [
+      { "name": "1", "twitch": "2382739461", "start": "3:04:22" },
+      { "name": "2", "twitch": "2385381606", "start": "2:34:09" }
     ]
   },
   {
@@ -5414,7 +5423,8 @@
       { "twitch": "2383640509", "subrefs": [
         { "name": "A Game About Digging A Hole", "start": "25:29" },
         { "name": "Like a Dragon: Pirate Yakuza in Hawaii (демо)", "start": "2:39:48" }
-      ] }
+      ] },
+      { "name": "Acts of Blood (демо)", "twitch": "2385381606", "start": "40:32" }
     ]
   },
   {
