@@ -5302,6 +5302,10 @@
         { "name": "Killing Floor III (демо)", "start": "2:05:52" },
         { "name": "Deepest Trench", "start": "2:55:48" },
         { "name": "Beholder: Conductor (демо)", "start": "4:19:01" }
+      ] },
+      { "twitch": "2389049577", "subrefs": [
+        { "name": "Suffocate", "start": "56:42" },
+        { "name": "The Unholy Priest", "start": "4:20:04" }
       ] }
     ]
   },
@@ -5438,6 +5442,11 @@
       { "twitch": "2387156230", "subrefs": [
         { "name": "Dune: Awakening (демо)", "start": "45:52" },
         { "name": "Radiolight (демо)", "start": "3:19:04" }
+      ] },
+      { "twitch": "2389049577", "subrefs": [
+        { "name": "Backrooms Level X (демо)", "start": "25:22" },
+        { "name": "Baptiste (демо)", "start": "34:24" },
+        { "name": "Unforgotten: Ordinance", "start": "3:12:01" }
       ] }
     ]
   },
@@ -5980,7 +5989,6 @@
       ] },
       { "twitch": "2173541595", "subrefs": [
         { "name": "[Nightmare Files] Clap Clap", "start": "47:43" },
-        { "name": "Bite Night", "start": "2:06:29" },
         { "name": "The Crawler", "start": "2:52:56" },
         { "name": "Don't Let Her In", "start": "3:10:11" },
         { "name": "Mbembe Radio", "start": "4:11:09" }
@@ -6090,7 +6098,6 @@
       { "twitch": "2291735052", "subrefs": [
         { "name": "Chorus of Carcosa (демо)", "start": "49:54" },
         { "name": "Level Headed", "start": "1:20:33" },
-        { "name": "Invasion of The Halloween Fiends", "start": "1:39:27" },
         { "name": "Blind Exposure", "start": "2:43:43" },
         { "name": "Night Reception", "start": "4:31:04" }
       ] },
@@ -6136,6 +6143,17 @@
         { "name": "Demono: Home Alone", "start": "4:22:20" },
         { "name": "Krampen", "start": "4:31:41" }
       ] }
+    ]
+  },
+  {
+    "name": "MyGrandfather Games",
+    "category": "finished",
+    "id": "mgf-games",
+    "type": "list",
+    "streams": [
+      { "name": "Bite Night", "twitch": "2173541595", "start": "2:06:29" },
+      { "name": "Invasion of The Halloween Fiends", "twitch": "2291735052", "start": "1:39:27" },
+      { "name": "Hell of a Birthday", "twitch": "2389049577", "start": "2:00:16" }
     ]
   },
   {
@@ -10248,7 +10266,8 @@
       { "name": "3", "twitch": "2357631932" },
       { "name": "4", "twitch": "2365888651" },
       { "name": "5", "twitch": "2370447160" },
-      { "name": "6", "twitch": "2382739461" }
+      { "name": "6", "twitch": "2382739461" },
+      { "name": "7", "twitch": "2389049577" }
     ]
   },
   {
