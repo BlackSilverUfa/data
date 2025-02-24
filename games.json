@@ -6148,8 +6148,8 @@
   {
     "name": "MyGrandfather Games",
     "category": "finished",
-    "id": "mgf-games",
     "type": "list",
+    "id": "mgf-games",
     "streams": [
       { "name": "Bite Night", "twitch": "2173541595", "start": "2:06:29" },
       { "name": "Invasion of The Halloween Fiends", "twitch": "2291735052", "start": "1:39:27" },
