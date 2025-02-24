@@ -4258,7 +4258,6 @@
       ] },
       { "name": "Planet Zoo", "twitch": "504672487", "start": "3:50:24" },
       { "name": "Shenmue III", "twitch": "510472726", "start": "3:19:55" },
-      { "name": "Gothic - Playable Teaser", "twitch": "521336731" },
       { "name": "The Paperman", "twitch": "524865260", "start": "2:49:10" }
     ]
   },
@@ -5306,7 +5305,22 @@
       { "twitch": "2389049577", "subrefs": [
         { "name": "Suffocate", "start": "56:42" },
         { "name": "The Unholy Priest", "start": "4:20:04" }
+      ] },
+      { "twitch": "2389893992", "subrefs": [
+        { "name": "Chernobylite 2: Exclusion Zone (демо)", "start": "45:44" },
+        { "name": "Farm Renovator (демо)", "start": "2:06:16" },
+        { "name": "Idea Fix (демо)", "start": "3:03:47" },
+        { "name": "Solarpunk", "start": "5:08:04" }
       ] }
+    ]
+  },
+  {
+    "name": "Gothic 1 Remake",
+    "category": "ongoing",
+    "id": "gothic-1-remake",
+    "streams": [
+      { "name": "Playable Teaser", "twitch": "521336731", "start": "7:38" },
+      { "name": "Демо", "twitch": "2389893992", "start": "4:03:13" }
     ]
   },
   {
@@ -5447,6 +5461,9 @@
         { "name": "Backrooms Level X (демо)", "start": "25:22" },
         { "name": "Baptiste (демо)", "start": "34:24" },
         { "name": "Unforgotten: Ordinance", "start": "3:12:01" }
+      ] },
+      { "twitch": "2389893992", "subrefs": [
+        { "name": "Stygian: Outer Gods (демо)", "start": "2:34:12" }
       ] }
     ]
   },
