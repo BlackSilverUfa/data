@@ -5462,9 +5462,7 @@
         { "name": "Baptiste (демо)", "start": "34:24" },
         { "name": "Unforgotten: Ordinance", "start": "3:12:01" }
       ] },
-      { "twitch": "2389893992", "subrefs": [
-        { "name": "Stygian: Outer Gods (демо)", "start": "2:34:12" }
-      ] }
+      { "name": "Stygian: Outer Gods (демо)", "twitch": "2389893992", "start": "2:34:12" }
     ]
   },
   {
