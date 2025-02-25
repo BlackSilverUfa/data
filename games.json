@@ -5311,6 +5311,12 @@
         { "name": "Farm Renovator (демо)", "start": "2:06:16" },
         { "name": "Idea Fix (демо)", "start": "3:03:47" },
         { "name": "Solarpunk", "start": "5:08:04" }
+      ] },
+      { "twitch": "2390754958", "subrefs": [
+        { "name": "Total Chaos (демо)", "start": "29:50" },
+        { "name": "The 18th Attic (демо)", "start": "2:42:38" },
+        { "name": "The Northern Path (Северный путь) (демо)", "start": "2:59:35" },
+        { "name": "We Took That Trip (демо)", "start": "3:55:06" }
       ] }
     ]
   },
@@ -5462,7 +5468,12 @@
         { "name": "Baptiste (демо)", "start": "34:24" },
         { "name": "Unforgotten: Ordinance", "start": "3:12:01" }
       ] },
-      { "name": "Stygian: Outer Gods (демо)", "twitch": "2389893992", "start": "2:34:12" }
+      { "name": "Stygian: Outer Gods (демо)", "twitch": "2389893992", "start": "2:34:12" },
+      { "twitch": "2390754958", "subrefs": [
+        { "name": "RoadCraft (демо)", "start": "1:41:02" },
+        { "name": "Salvage Protocol (демо)", "start": "3:33:37" },
+        { "name": "Neverlooted Dungeon (демо)", "start": "4:15:24" }
+      ] }
     ]
   },
   {
