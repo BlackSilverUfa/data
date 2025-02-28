@@ -5220,20 +5220,17 @@
         { "name": "Sofie: The Echoes", "start": "2:40:23" },
         { "name": "Connection: The Nightmare Within", "start": "2:54:15" }
       ] },
-      { "twitch": "2313112515", "subrefs": [
-        { "name": "Machine", "start": "3:46:29" },
-        {
-          "name": "UNHEIM", "start": "3:52:23",
-          "blacklist": {
-            "users": [
-              "blackufa"
-            ],
-            "messages": [
-              "^[№#]?[0-9]$"
-            ]
-          }
+      {
+        "name": "UNHEIM", "twitch": "2313112515", "start": "3:52:23",
+        "blacklist": {
+          "users": [
+            "blackufa"
+          ],
+          "messages": [
+            "^[№#]?[0-9]$"
+          ]
         }
-      ] },
+      },
       { "twitch": "2314688699", "subrefs": [
         { "name": "Crash Bandicoot", "start": "1:18:49" },
         { "name": "Vampire Hunter D", "start": "2:36:08" },
@@ -5305,7 +5302,6 @@
       { "twitch": "2389893992", "subrefs": [
         { "name": "Chernobylite 2: Exclusion Zone (демо)", "start": "45:44" },
         { "name": "Farm Renovator (демо)", "start": "2:06:16" },
-        { "name": "Idea Fix (демо)", "start": "3:03:47" },
         { "name": "Solarpunk", "start": "5:08:04" }
       ] },
       { "twitch": "2390754958", "subrefs": [
@@ -10017,6 +10013,15 @@
       { "name": "1", "twitch": "344508969", "segment": 1, "start": "2:26:26" },
       { "name": "2", "twitch": "344946351", "start": "2:14:23" },
       { "name": "3", "twitch": "351262416", "start": "3:34:46" }
+    ]
+  },
+  {
+    "name": "Idea Fix",
+    "category": "ongoing",
+    "id": "idea-fix",
+    "streams": [
+      { "name": "1 (демо)", "twitch": "2313112515", "start": "3:46:29" },
+      { "name": "2 (демо)", "twitch": "2389893992", "start": "3:03:47" }
     ]
   },
   {
