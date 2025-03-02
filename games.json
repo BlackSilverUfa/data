@@ -4584,7 +4584,6 @@
       { "name": "Weird West", "twitch": "1444100764", "start": "4:40:10" },
       { "twitch": "1445142982", "subrefs": [
         { "name": "Remnants of R'lyeh (демо)" },
-        { "name": "Out of Sight (демо)", "start": "3:52:10" },
         { "name": "HandCop", "start": "4:58:18" }
       ] },
       { "twitch": "1451875048", "subrefs": [
@@ -4777,6 +4776,15 @@
         { "name": "Who Knocks", "start": "1:47:05" }
       ] },
       { "name": "The Thing (by PanzerCat)", "twitch": "1690952607", "start": "3:54:09" }
+    ]
+  },
+  {
+    "name": "Out of Sight",
+    "category": "ongoing",
+    "id": "out-of-sight",
+    "streams": [
+      { "name": "Демо 1", "twitch": "1445142982", "start": "3:52:10" },
+      { "name": "Демо 2", "twitch": "2395173756", "start": "59:35" }
     ]
   },
   {
@@ -5315,6 +5323,13 @@
         { "name": "Truck Mechanic: Dangerous Paths (демо)", "start": "2:56:34" },
         { "name": "Do No Harm (демо)", "start": "4:38:54" },
         { "name": "Anoxia Station (демо)", "start": "5:32:00" }
+      ] },
+      { "twitch": "2395173756", "subrefs": [
+        { "name": "Through the Backrooms", "start": "31:34" },
+        { "name": "Flesh Made Fear (демо)", "start": "2:25:08" },
+        { "name": "Anomaly Living", "start": "3:20:48" },
+        { "name": "The Bakerville Case (демо)", "start": "3:38:06" },
+        { "name": "From the Other Side", "start": "3:59:12" }
       ] }
     ]
   },
@@ -5487,6 +5502,11 @@
       { "twitch": "2391565194", "subrefs": [
         { "name": "Arctic Awakening (демо)", "start": "35:38" },
         { "name": "The Bench (демо)", "start": "3:38:23" }
+      ] },
+      { "twitch": "2395173756", "subrefs": [
+        { "name": "The Well: Episode 1", "start": "1:22:44" },
+        { "name": "The Derailed (демо)", "start": "1:55:40" },
+        { "name": "The Moth Inside Me", "start": "4:40:16" }
       ] }
     ]
   },
@@ -10317,7 +10337,8 @@
       { "name": "4", "twitch": "2365888651" },
       { "name": "5", "twitch": "2370447160" },
       { "name": "6", "twitch": "2382739461" },
-      { "name": "7", "twitch": "2389049577" }
+      { "name": "7", "twitch": "2389049577" },
+      { "name": "8", "twitch": "2395173756" }
     ]
   },
   {
