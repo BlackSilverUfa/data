@@ -5203,7 +5203,6 @@
       { "name": "Butcher's Creek (демо)", "twitch": "2274972530", "start": "3:44:24" },
       { "name": "CAPTURED", "twitch": "2275791324", "start": "1:15:33" },
       { "twitch": "2276579699", "subrefs": [
-        { "name": "Secret Agent Wizard Boy and the International Crime Syndicate (демо)", "start": "26:00" },
         { "name": "The Precinct (демо)", "start": "1:14:43" },
         { "name": "Zaru", "start": "2:47:18" },
         { "name": "Targeosity", "start": "3:50:51" },
@@ -5253,6 +5252,15 @@
         { "name": "Schoolboy Runaway", "start": "1:03:59" },
         { "name": "A Christmas Story", "start": "3:38:21" }
       ] }
+    ]
+  },
+  {
+    "name": "Secret Agent Wizard Boy and the International Crime Syndicate",
+    "category": "ongoing",
+    "id": "sawbatics",
+    "streams": [
+      { "name": "Демо 1", "twitch": "2276579699", "start": "26:00" },
+      { "name": "Демо 2", "twitch": "2402902685", "start": "2:36:15" }
     ]
   },
   {
