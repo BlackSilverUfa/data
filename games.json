@@ -5353,10 +5353,16 @@
         { "name": "Despelote", "start": "4:30:50" }
       ] },
       { "name": "Labyrinth of the Demon King (демо)", "twitch": "2397713947", "start": "3:46:38" },
-      { "twitch": "2404564177", "subrefs": [
-        { "name": "Flashing Dark", "start": "1:01:12" },
-        { "name": "AM (демо)", "start": "4:19:46" }
-      ] }
+      { "name": "AM (демо)", "twitch": "2404564177", "start": "4:19:46" }
+    ]
+  },
+  {
+    "name": "Flashing Dark",
+    "category": "finished",
+    "id": "flashing-dark",
+    "streams": [
+      { "name": "1", "twitch": "2404564177", "start": "1:01:12" },
+      { "name": "2", "twitch": "2405375731", "start": "2:16:27" }
     ]
   },
   {
@@ -5445,7 +5451,8 @@
       { "name": "2", "twitch": "2356647169", "start": "58:34" },
       { "name": "3", "twitch": "2396035230", "start": "27:12" },
       { "name": "4", "twitch": "2396868866", "start": "21:05" },
-      { "name": "5", "twitch": "2397713947", "start": "25:42" }
+      { "name": "5", "twitch": "2397713947", "start": "25:42" },
+      { "name": "6", "twitch": "2405375731", "start": "15:16" }
     ]
   },
   {
@@ -5565,6 +5572,10 @@
       { "twitch": "2404564177", "subrefs": [
         { "name": "Salt (Соль)", "start": "3:58:35" },
         { "name": "Late Night Shift by Morvyne", "start": "4:52:16" }
+      ] },
+      { "twitch": "2405375731", "subrefs": [
+        { "name": "No.8 High School", "start": "3:13:57" },
+        { "name": "That's Not My Neighbor", "start": "3:49:38" }
       ] }
     ]
   },
