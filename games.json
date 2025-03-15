@@ -4566,7 +4566,6 @@
         { "name": "Blink: The Last Night", "start": "4:26:37" }
       ] },
       { "name": "Witching Hour (демо)", "twitch": "1265545024", "start": "1:25:24" },
-      { "name": "Star Citizen", "twitch": "1268793469" },
       { "twitch": "1273302913", "subrefs": [
         { "name": "Concluse 2", "start": "1:12:46" },
         { "name": "Experiment: Groceries", "start": "3:10:38" },
@@ -5452,7 +5451,8 @@
       { "name": "3", "twitch": "2396035230", "start": "27:12" },
       { "name": "4", "twitch": "2396868866", "start": "21:05" },
       { "name": "5", "twitch": "2397713947", "start": "25:42" },
-      { "name": "6", "twitch": "2405375731", "start": "15:16" }
+      { "name": "6", "twitch": "2405375731", "start": "15:16" },
+      { "name": "7", "twitch": "2406277677", "start": "23:51" }
     ]
   },
   {
@@ -10841,6 +10841,15 @@
       { "name": "1", "twitch": "1880378307", "start": "2:55:16" },
       { "name": "2", "twitch": "1881238247", "start": "4:03:45" },
       { "name": "3", "twitch": "1886428924", "start": "4:12:14" }
+    ]
+  },
+  {
+    "name": "Star Citizen",
+    "category": "ongoing",
+    "id": "star-citizen",
+    "streams": [
+      { "name": "1", "twitch": "1268793469", "start": "30:27" },
+      { "name": "2", "twitch": "2406277677", "start": "1:01:35" }
     ]
   }
 ]
