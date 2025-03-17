@@ -5372,11 +5372,12 @@
   },
   {
     "name": "Split Fiction (с Дашей)",
-    "category": "ongoing",
+    "category": "finished",
     "id": "split-fiction",
     "streams": [
       { "name": "1", "twitch": "2399353737", "start": "16:57" },
-      { "name": "2", "twitch": "2403688381", "start": "15:56" }
+      { "name": "2", "twitch": "2403688381", "start": "15:56" },
+      { "name": "3", "twitch": "2408023676", "start": "24:33" }
     ]
   },
   {
