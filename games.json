@@ -3619,7 +3619,8 @@
       { "name": "8", "twitch": "1937183107", "start": "7:11" },
       { "name": "9", "twitch": "2260729879", "start": "39:33" },
       { "name": "10", "twitch": "2262411114,2262432253,2262500580", "start": "42:21" },
-      { "name": "11 (тест нового ПК)", "twitch": "2402231265", "start": "6:45" }
+      { "name": "11 (тест нового ПК)", "twitch": "2402231265", "start": "6:45" },
+      { "name": "12", "twitch": "2408851513", "start": "4:55:56" }
     ]
   },
   {
@@ -4246,10 +4247,7 @@
       { "name": "Stygian: Reign of the Old Ones", "twitch": "490059507" },
       { "name": "Ghostbusters", "twitch": "490488498", "start": "4:01:22" },
       { "name": "Home Sweet Home: Episode II", "twitch": "491017258", "start": "3:04:35" },
-      { "twitch": "499849877", "subrefs": [
-        { "name": "Cooking Simulator" },
-        { "name": "House Flipper", "start": "2:37:41" }
-      ] },
+      { "name": "Cooking Simulator", "twitch": "499849877", "start": "21:15" },
       { "twitch": "504248004", "subrefs": [
         { "name": "Need for Speed Heat" },
         { "name": "Red Dead Redemption 2 (PC)", "start": "2:06:04" }
@@ -5358,7 +5356,8 @@
         { "name": "Centum", "start": "2:17:49" },
         { "name": "Hollowglass", "start": "3:04:24" },
         { "name": "Level 13", "start": "3:40:51" }
-      ] }
+      ] },
+      { "name": "The Call of Karen", "twitch": "2408851513", "start": "23:11" }
     ]
   },
   {
@@ -5591,7 +5590,8 @@
         { "name": "The Boba Teashop (демо)", "start": "1:59:41" },
         { "name": "Gyoza", "start": "2:49:30" },
         { "name": "Banned Tapes (демо)", "start": "3:27:06" }
-      ] }
+      ] },
+      { "name": "Half-Life 2 RTX (демо)", "twitch": "2408851513", "start": "2:13:49" }
     ]
   },
   {
@@ -10866,6 +10866,15 @@
     "streams": [
       { "name": "1", "twitch": "1268793469", "start": "30:27" },
       { "name": "2", "twitch": "2406277677", "start": "1:01:35" }
+    ]
+  },
+  {
+    "name": "House Flipper",
+    "category": "ongoing",
+    "id": "house-flipper",
+    "streams": [
+      { "name": "1", "twitch": "499849877", "start": "2:37:41" },
+      { "name": "2", "twitch": "2408851513", "start": "31:34" }
     ]
   }
 ]
