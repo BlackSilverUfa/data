@@ -5358,7 +5358,8 @@
         { "name": "Level 13", "start": "3:40:51" }
       ] },
       { "name": "The Call of Karen", "twitch": "2408851513", "start": "23:11" },
-      { "name": "Assassin's Creed Shadows", "twitch": "2409685874", "start": "6:35" }
+      { "name": "Assassin's Creed Shadows", "twitch": "2409685874", "start": "6:35" },
+      { "name": "Look Outside", "twitch": "2413239862", "start": "4:22:36" }
     ]
   },
   {
@@ -5592,7 +5593,13 @@
         { "name": "Gyoza", "start": "2:49:30" },
         { "name": "Banned Tapes (демо)", "start": "3:27:06" }
       ] },
-      { "name": "Half-Life 2 RTX (демо)", "twitch": "2408851513", "start": "2:13:49" }
+      { "name": "Half-Life 2 RTX (демо)", "twitch": "2408851513", "start": "2:13:49" },
+      { "twitch": "2413239862", "subrefs": [
+        { "name": "The Backrooms: Forsaken", "start": "1:19:41" },
+        { "name": "SCP: November 2010", "start": "3:17:39" },
+        { "name": "Midnight Taco", "start": "3:46:47" },
+        { "name": "Abyss Under Lock", "start": "4:03:27" }
+      ] }
     ]
   },
   {
@@ -6241,7 +6248,6 @@
       { "name": "The Hungry Fly", "twitch": "2288283392", "start": "6:32:56" },
       { "name": "Puppet House", "twitch": "2289109470", "start": "1:17:32" },
       { "twitch": "2291735052", "subrefs": [
-        { "name": "Chorus of Carcosa (демо)", "start": "49:54" },
         { "name": "Level Headed", "start": "1:20:33" },
         { "name": "Blind Exposure", "start": "2:43:43" },
         { "name": "Night Reception", "start": "4:31:04" }
@@ -10425,7 +10431,8 @@
       { "name": "7", "twitch": "2389049577" },
       { "name": "8", "twitch": "2395173756" },
       { "name": "9", "twitch": "2404564177" },
-      { "name": "10", "twitch": "2407222715" }
+      { "name": "10", "twitch": "2407222715" },
+      { "name": "11", "twitch": "2413239862" }
     ]
   },
   {
@@ -10876,6 +10883,15 @@
     "streams": [
       { "name": "1", "twitch": "499849877", "start": "2:37:41" },
       { "name": "2", "twitch": "2408851513", "start": "31:34" }
+    ]
+  },
+  {
+    "name": "Chorus of Carcosa",
+    "category": "ongoing",
+    "id": "chorus-of-carcosa",
+    "streams": [
+      { "name": "Демо 1", "twitch": "2291735052", "start": "49:54" },
+      { "name": "Демо 2", "twitch": "2413239862", "start": "4:57:30" }
     ]
   }
 ]
