@@ -5360,7 +5360,11 @@
       { "name": "Assassin's Creed Shadows", "twitch": "2409685874", "start": "6:35" },
       { "name": "Look Outside", "twitch": "2413239862", "start": "4:22:36" },
       { "name": "Atomfall", "twitch": "2414091659", "start": "1:40:48" },
-      { "name": "Only Way is Down", "twitch": "2414922417", "start": "4:27:49" }
+      { "name": "Only Way is Down", "twitch": "2414922417", "start": "4:27:49" },
+      { "twitch": "2415788561", "subrefs": [
+        { "name": "PIONER", "start": "1:22:54" },
+        { "name": "Shadow of the Road (демо)", "start": "4:20:03" }
+      ] }
     ]
   },
   {
@@ -10901,7 +10905,8 @@
     "id": "electirian-sim",
     "streams": [
       { "name": "1", "twitch": "1608110648", "start": "2:09:00" },
-      { "name": "2", "twitch": "2414922417", "start": "41:38" }
+      { "name": "2", "twitch": "2414922417", "start": "41:38" },
+      { "name": "3", "twitch": "2415788561", "start": "19:08" }
     ]
   },
   {
