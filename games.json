@@ -5364,6 +5364,10 @@
       { "twitch": "2415788561", "subrefs": [
         { "name": "PIONER", "start": "1:22:54" },
         { "name": "Shadow of the Road (демо)", "start": "4:20:03" }
+      ] },
+      { "twitch": "2417484051", "subrefs": [
+        { "name": "DOOMED Detective Game", "start": "5:22:12" },
+        { "name": "Wreckfest 2", "start": "5:29:03" }
       ] }
     ]
   },
@@ -5604,6 +5608,10 @@
         { "name": "SCP: November 2010", "start": "3:17:39" },
         { "name": "Midnight Taco", "start": "3:46:47" },
         { "name": "Abyss Under Lock", "start": "4:03:27" }
+      ] },
+      { "twitch": "2417484051", "subrefs": [
+        { "name": "Car Repair (демо)", "start": "31:46" },
+        { "name": "Drive Beyond Horizons", "start": "1:43:05" }
       ] }
     ]
   },
