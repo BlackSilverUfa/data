@@ -467,7 +467,8 @@
         { "name": "Emissary Zero", "start": "5:06:30" },
         { "name": "Pit of Goblin", "start": "6:02:00" },
         { "name": "Biped 2 (демо)", "start": "6:48:53" }
-      ] }
+      ] },
+      { "name": "R.E.P.O.", "twitch": "2418438204", "start": "2:18:15" }
     ]
   },
   {
@@ -10914,7 +10915,8 @@
     "streams": [
       { "name": "1", "twitch": "1608110648", "start": "2:09:00" },
       { "name": "2", "twitch": "2414922417", "start": "41:38" },
-      { "name": "3", "twitch": "2415788561", "start": "19:08" }
+      { "name": "3", "twitch": "2415788561", "start": "19:08" },
+      { "name": "4", "twitch": "2418438204", "start": "34:34" }
     ]
   },
   {
