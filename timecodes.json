@@ -3148,7 +3148,8 @@
       "2:50:34~2:55:50": "Музыка удалена средствами YouTube",
       "3:33:29~3:36:43": "Good Charlotte - Break Apart Her Heart",
       "4:00:57~4:05:15": "Junkie XL - Cities In Dust",
-      "4:18:34~4:18:55": "Не указано (SME)"
+      "4:18:34~4:18:55": "Не указано (SME)",
+      "4:26:56~4:31:48": "Laura Branigan - Self Control"
     }
   },
   "277440900": {
@@ -9725,6 +9726,10 @@
       "4:57:45~4:58:39": "Kate Bush - Wow",
       "5:17:13~5:17:50": "Ozzy Osbourne - Bark at the Moon",
       "5:25:25~5:26:06": "Michael Jackson - Billie Jean",
+      "Laura Branigan - Self Control": [
+        "5:26:07~5:27:01",
+        "5:28:06~5:31:39"
+      ],
       "5:45:24~5:46:49": "Tito Puente & His Orchestra - Mambo Gozon",
       "6:10:08~6:12:23": "Michael Jackson - Wanna Be Startin' Somethin'"
     },
