@@ -5623,7 +5623,8 @@
         { "name": "Trucker Horror", "start": "2:05:28" },
         { "name": "The Stalked 2", "start": "2:42:12" },
         { "name": "The Curse of Beatriz", "start": "4:29:12" }
-      ] }
+      ] },
+      { "name": "iDigging", "twitch": "2421079975", "start": "41:23" }
     ]
   },
   {
@@ -6688,7 +6689,8 @@
     "id": "vaudeville",
     "streams": [
       { "name": "1", "twitch": "1990296421", "start": "1:09:39" },
-      { "name": "2", "twitch": "2002100435", "start": "1:29:33" }
+      { "name": "2", "twitch": "2002100435", "start": "1:29:33" },
+      { "name": "3", "twitch": "2421079975", "start": "33:46" }
     ]
   },
   {
@@ -8791,7 +8793,8 @@
       { "name": "7 (4D)", "twitch": "1984225169", "start": "5:10:07" },
       { "name": "8", "twitch": "1989452096", "start": "4:04:03" },
       { "name": "9", "twitch": "1999409596" },
-      { "name": "10 (с тремя Димами)", "twitch": "2012687193", "start": "50:02" }
+      { "name": "10 (с тремя Димами)", "twitch": "2012687193", "start": "50:02" },
+      { "name": "11 (с Димами)", "twitch": "2421079975", "start": "2:23:45" }
     ]
   },
   {
