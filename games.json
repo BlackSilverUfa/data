@@ -1869,7 +1869,8 @@
       { "name": "Square Enix Presents (Весна 2021)", "twitch": "953865835", "start": "3:04:45" },
       { "name": "Resident Evil Showcase (Апрель 2021)", "twitch": "988804108", "start": "27:07" },
       { "name": "WitcherCon", "twitch": "1081385499,1081403044", "start": "4:01:35" },
-      { "name": "Dead Space Remake Dev Stream", "twitch": "1134934289", "start": "3:57:26" }
+      { "name": "Dead Space Remake Dev Stream", "twitch": "1134934289", "start": "3:57:26" },
+      { "name": "Nintendo Direct: Nintendo Switch 2", "twitch": "2421947533,2422099767", "start": "7:30" }
     ]
   },
   {
@@ -5373,6 +5374,10 @@
       { "twitch": "2419376159,2419517419", "subrefs": [
         { "name": "Backrooms: New Gate", "start": "22:16" },
         { "name": "Overtime Anomaly", "start": "4:13:54" }
+      ] },
+      { "twitch": "2421947533,2422099767", "subrefs": [
+        { "name": "Silverpine Creek", "start": "1:43:55" },
+        { "name": "Sinfeld: Evil Resident", "start": "3:09:47" }
       ] }
     ]
   },
@@ -5624,7 +5629,15 @@
         { "name": "The Stalked 2", "start": "2:42:12" },
         { "name": "The Curse of Beatriz", "start": "4:29:12" }
       ] },
-      { "name": "iDigging", "twitch": "2421079975", "start": "41:23" }
+      { "name": "iDigging", "twitch": "2421079975", "start": "41:23" },
+      { "twitch": "2421947533,2422099767", "subrefs": [
+        { "name": "The Station", "start": "1:17:22" },
+        { "name": "The Dog", "start": "1:27:48" },
+        { "name": "Fused 240", "start": "2:44:59" },
+        { "name": "My Dear Sheep", "start": "4:04:30" },
+        { "name": "Reverend", "start": "4:11:39" },
+        { "name": "Veins of Darkness", "start": "4:26:12" }
+      ] }
     ]
   },
   {
@@ -10460,7 +10473,8 @@
       { "name": "9", "twitch": "2404564177" },
       { "name": "10", "twitch": "2407222715" },
       { "name": "11", "twitch": "2413239862" },
-      { "name": "12", "twitch": "2419376159,2419517419" }
+      { "name": "12", "twitch": "2419376159,2419517419" },
+      { "name": "13", "twitch": "2421947533,2422099767" }
     ]
   },
   {
