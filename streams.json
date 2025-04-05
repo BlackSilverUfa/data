@@ -574,7 +574,7 @@
     { "youtube": "CrD8TeJzryQ", "offset": "2:25:32" }
   ],
   "286989766": [
-    { "youtube": "Rultk81cezI", "offset": "-0:04" },
+    { "youtube": "Ak64Y8UHzr4", "offset": "-0:04", "official": false },
     { "youtube": "BKZPjgX6iWo", "offset": "3:12:18" }
   ],
   "287404564": { "youtube": "4CyF46YCiiE", "offset": "-0:04" },
@@ -631,7 +631,7 @@
   ],
   "292591348": { "youtube": "LF5LDq64YS8", "official": false },
   "293012700": { "youtube": "paGDFxFjh_g" },
-  "293415850": { "youtube": "vE38irVbcAI", "official": false },
+  "293415850": {  },
   "294220536": {
     "youtube": "6tgFRrNLbYo", "official": false,
     "note": "<a href=\"https://youtu.be/gmR-WlWe5xw\">Официальная запись</a> сломана (недоступно качество выше 360p)"
@@ -1111,7 +1111,7 @@
   "440765344": { "youtube": "oA20eqJRTUw" },
   "442171113": { "youtube": "R7aeAZUkaZo", "official": false },
   "442647463": { "youtube": "7KFKZTMmhmY", "cuts": ["1:01:30~1:01:50"] },
-  "443118072": { "youtube": "dH2BbOVhOi4" },
+  "443118072": {  },
   "444021917": { "youtube": "5wEM9XJIHGI" },
   "444061926": { "youtube": "4R8p28KHAlU" },
   "444161282": { "youtube": "NSgJL5HvisQ" },
