@@ -5382,7 +5382,8 @@
       { "twitch": "2424644952", "subrefs": [
         { "name": "VIDeoPHOBIA", "start": "3:31:03" },
         { "name": "OVERDOSE", "start": "4:10:09" }
-      ] }
+      ] },
+      { "name": "Ace Ventura", "twitch": "2425592645", "start": "3:39:14" }
     ]
   },
   {
@@ -5649,7 +5650,8 @@
         { "name": "Forbidden Eye", "start": "3:05:32" },
         { "name": "Needle Sleep", "start": "3:18:42" },
         { "name": "Where the Walls Breathe", "start": "4:30:47" }
-      ] }
+      ] },
+      { "name": "Pink Panther: Pinkadelic Pursuit (Розовая Пантера: Розовая погоня)", "twitch": "2425592645", "start": "23:12" }
     ]
   },
   {
