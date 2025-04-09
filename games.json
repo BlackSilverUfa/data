@@ -5383,7 +5383,8 @@
         { "name": "VIDeoPHOBIA", "start": "3:31:03" },
         { "name": "OVERDOSE", "start": "4:10:09" }
       ] },
-      { "name": "Ace Ventura", "twitch": "2425592645", "start": "3:39:14" }
+      { "name": "Ace Ventura", "twitch": "2425592645", "start": "3:39:14" },
+      { "name": "Half Sword (демо)", "twitch": "2428159105", "start": "2:31:22" }
     ]
   },
   {
@@ -5651,7 +5652,8 @@
         { "name": "Needle Sleep", "start": "3:18:42" },
         { "name": "Where the Walls Breathe", "start": "4:30:47" }
       ] },
-      { "name": "Pink Panther: Pinkadelic Pursuit (Розовая Пантера: Розовая погоня)", "twitch": "2425592645", "start": "23:12" }
+      { "name": "Pink Panther: Pinkadelic Pursuit (Розовая Пантера: Розовая погоня)", "twitch": "2425592645", "start": "23:12" },
+      { "name": "METAL EDEN (демо)", "twitch": "2428159105", "start": "1:14:23" }
     ]
   },
   {
@@ -10960,7 +10962,8 @@
       { "name": "1", "twitch": "1608110648", "start": "2:09:00" },
       { "name": "2", "twitch": "2414922417", "start": "41:38" },
       { "name": "3", "twitch": "2415788561", "start": "19:08" },
-      { "name": "4", "twitch": "2418438204", "start": "34:34" }
+      { "name": "4", "twitch": "2418438204", "start": "34:34" },
+      { "name": "5", "twitch": "2428159105", "start": "18:59" }
     ]
   },
   {
