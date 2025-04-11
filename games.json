@@ -5384,7 +5384,8 @@
         { "name": "OVERDOSE", "start": "4:10:09" }
       ] },
       { "name": "Ace Ventura", "twitch": "2425592645", "start": "3:39:14" },
-      { "name": "Sunset Motel (демо)", "twitch": "2429013341", "start": "14:00" }
+      { "name": "Sunset Motel (демо)", "twitch": "2429013341", "start": "14:00" },
+      { "name": "Blue Prince", "twitch": "2429872307", "start": "1:35:24" }
     ]
   },
   {
@@ -10990,7 +10991,11 @@
     "id": "half-sword",
     "streams": [
       { "name": "1", "twitch": "2428159105", "start": "2:31:22" },
-      { "name": "2", "twitch": "2429013341", "start": "1:00:10" }
+      { "name": "2", "twitch": "2429013341", "start": "1:00:10" },
+      { "twitch": "2429872307", "subrefs": [
+        { "name": "3", "start": "11:40" },
+        { "name": "3 (продолжение)", "start": "4:28:18", "hidden": true }
+      ] }
     ]
   },
   {
