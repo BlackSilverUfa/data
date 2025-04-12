@@ -11012,8 +11012,8 @@
     "category": "co-op",
     "id": "repo",
     "streams": [
-      { "name": "R.E.P.O.", "twitch": "2418438204", "start": "2:18:15" },
-      { "name": "R.E.P.O.", "twitch": "2430812705", "start": "1:55:37" }
+      { "name": "1", "twitch": "2418438204", "start": "2:18:15" },
+      { "name": "2", "twitch": "2430812705", "start": "1:55:37" }
     ]
   }
 ]
