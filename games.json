@@ -467,7 +467,6 @@
         { "name": "Pit of Goblin", "start": "6:02:00" },
         { "name": "Biped 2 (демо)", "start": "6:48:53" }
       ] },
-      { "name": "R.E.P.O.", "twitch": "2418438204", "start": "2:18:15" },
       { "name": "House Flipper 2 (с Дашей)", "twitch": "2420220429", "start": "14:39" },
       { "name": "Pushing It! Together: Sisyphus Co-Op", "twitch": "2429013341", "start": "2:21:47" }
     ]
@@ -10995,7 +10994,8 @@
       { "twitch": "2429872307", "subrefs": [
         { "name": "3", "start": "11:40" },
         { "name": "3 (продолжение)", "start": "4:28:18", "hidden": true }
-      ] }
+      ] },
+      { "name": "4", "twitch": "2430812705", "start": "15:07" }
     ]
   },
   {
@@ -11005,6 +11005,15 @@
     "streams": [
       { "name": "1", "twitch": "2381722688", "start": "5:06:30" },
       { "name": "2", "twitch": "2429013341", "start": "4:11:42" }
+    ]
+  },
+  {
+    "name": "R.E.P.O.",
+    "category": "co-op",
+    "id": "repo",
+    "streams": [
+      { "name": "R.E.P.O.", "twitch": "2418438204", "start": "2:18:15" },
+      { "name": "R.E.P.O.", "twitch": "2430812705", "start": "1:55:37" }
     ]
   }
 ]
