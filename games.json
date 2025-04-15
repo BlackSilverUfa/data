@@ -5384,11 +5384,11 @@
       ] },
       { "name": "Ace Ventura", "twitch": "2425592645", "start": "3:39:14" },
       { "name": "Sunset Motel (демо)", "twitch": "2429013341", "start": "14:00" },
-      { "name": "Blue Prince", "twitch": "2429872307", "start": "1:35:24" },
       { "twitch": "2431763545", "subrefs": [
         { "name": "CloverPit (демо)", "start": "3:31:49" },
         { "name": "Project SEVER (демо)", "start": "3:56:52" }
-      ] }
+      ] },
+      { "name": "Into the Dead: Our Darkest Days", "twitch": "2433416193", "start": "4:02:45" }
     ]
   },
   {
@@ -11004,7 +11004,8 @@
         { "name": "3", "start": "11:40" },
         { "name": "3 (продолжение)", "start": "4:28:18", "hidden": true }
       ] },
-      { "name": "4", "twitch": "2430812705", "start": "15:07" }
+      { "name": "4", "twitch": "2430812705", "start": "15:07" },
+      { "name": "5", "twitch": "2433416193", "start": "5:24:03" }
     ]
   },
   {
@@ -11032,6 +11033,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2407222715", "start": "41:12" },
       { "name": "Прохождение", "twitch": "2431763545", "start": "23:50" }
+    ]
+  },
+  {
+    "name": "Blue Prince",
+    "category": "ongoing",
+    "id": "blue-prince",
+    "streams": [
+      { "name": "1", "twitch": "2429872307", "start": "1:35:24" },
+      { "name": "2", "twitch": "2433416193", "start": "11:48" }
     ]
   }
 ]
