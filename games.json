@@ -5210,10 +5210,7 @@
       { "name": "The Bookman", "twitch": "2280809196", "start": "3:19:50" },
       { "name": "Finding Frankie", "twitch": "2288283392", "start": "2:32:30" },
       { "name": "Dragon Age: The Veilguard", "twitch": "2290757467" },
-      { "twitch": "2298341279", "subrefs": [
-        { "name": "That Time I Got Trapped", "start": "2:24:59" },
-        { "name": "White Knuckle", "start": "3:16:17" }
-      ] },
+      { "name": "That Time I Got Trapped", "twitch": "2298341279", "start": "2:24:59" },
       { "twitch": "2299110802", "subrefs": [
         { "name": "Slitterhead", "start": "11:09" },
         { "name": "Manny's Murderous Movie Theatre", "start": "5:42:44" }
@@ -5388,7 +5385,11 @@
         { "name": "CloverPit (демо)", "start": "3:31:49" },
         { "name": "Project SEVER (демо)", "start": "3:56:52" }
       ] },
-      { "name": "Into the Dead: Our Darkest Days", "twitch": "2433416193", "start": "4:02:45" }
+      { "name": "Into the Dead: Our Darkest Days", "twitch": "2433416193", "start": "4:02:45" },
+      { "twitch": "2436090384", "subrefs": [
+        { "name": "Haunted House Renovator (демо)", "start": "51:12" },
+        { "name": "Mandragora: Whispers of the Witch Tree", "start": "1:53:15" }
+      ] }
     ]
   },
   {
@@ -5471,7 +5472,7 @@
   },
   {
     "name": "Undead Realm: Ego",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "undead-realm-ego",
     "streams": [
       { "name": "1", "twitch": "2351321587", "start": "4:23:59" },
@@ -11007,7 +11008,8 @@
       { "name": "4", "twitch": "2430812705", "start": "15:07" },
       { "name": "5", "twitch": "2433416193", "start": "5:24:03" },
       { "name": "6 (ночной стрим)", "twitch": "2433841442", "start": "3:26" },
-      { "name": "7", "twitch": "2434299325", "start": "4:03:03" }
+      { "name": "7", "twitch": "2434299325", "start": "4:03:03" },
+      { "name": "8", "twitch": "2436090384", "start": "5:26:06" }
     ]
   },
   {
@@ -11044,7 +11046,17 @@
     "streams": [
       { "name": "1", "twitch": "2429872307", "start": "1:35:24" },
       { "name": "2", "twitch": "2433416193", "start": "11:48" },
-      { "name": "3", "twitch": "2434299325", "start": "12:45" }
+      { "name": "3", "twitch": "2434299325", "start": "12:45" },
+      { "name": "4", "twitch": "2436090384", "start": "3:14:56" }
+    ]
+  },
+  {
+    "name": "White Knuckle",
+    "category": "ongoing",
+    "id": "white-knuckle",
+    "streams": [
+      { "name": "Демо", "twitch": "2298341279", "start": "3:16:17" },
+      { "name": "Релиз", "twitch": "2436090384", "start": "1:00:00" }
     ]
   }
 ]
