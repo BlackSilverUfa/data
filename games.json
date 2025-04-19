@@ -467,7 +467,6 @@
         { "name": "Pit of Goblin", "start": "6:02:00" },
         { "name": "Biped 2 (демо)", "start": "6:48:53" }
       ] },
-      { "name": "House Flipper 2 (с Дашей)", "twitch": "2420220429", "start": "14:39" },
       { "name": "Pushing It! Together: Sisyphus Co-Op", "twitch": "2429013341", "start": "2:21:47" }
     ]
   },
@@ -11057,6 +11056,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2298341279", "start": "3:16:17" },
       { "name": "Релиз", "twitch": "2436090384", "start": "1:00:00" }
+    ]
+  },
+  {
+    "name": "House Flipper 2 (с Дашей)",
+    "category": "co-op",
+    "id": "house-flipper-2",
+    "streams": [
+      { "name": "1", "twitch": "2420220429", "start": "14:39" },
+      { "name": "2", "twitch": "2437029851", "start": "15:34" }
     ]
   }
 ]
