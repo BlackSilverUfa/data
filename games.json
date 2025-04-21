@@ -5389,7 +5389,13 @@
         { "name": "Haunted House Renovator (демо)", "start": "51:12" },
         { "name": "Mandragora: Whispers of the Witch Tree", "start": "1:53:15" }
       ] },
-      { "name": "Discussion Over Dinner", "twitch": "2437947286", "start": "4:21:32" }
+      { "name": "Discussion Over Dinner", "twitch": "2437947286", "start": "4:21:32" },
+      { "twitch": "2438710443", "subrefs": [
+        { "name": "Moth", "start": "5:23:19" },
+        { "name": "Improbability Control Bureau", "start": "6:13:20" },
+        { "name": "Below Benni's", "start": "6:23:59" },
+        { "name": "Somnifuge", "start": "6:30:22" }
+      ] }
     ]
   },
   {
@@ -5463,7 +5469,7 @@
   },
   {
     "name": "Resistance: Fall of Man",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "resistance-fom",
     "streams": [
       { "name": "1", "twitch": "2358563275", "start": "15:29" },
@@ -5618,7 +5624,6 @@
       { "twitch": "2407222715", "subrefs": [
         { "name": "Project Hailstorm", "start": "58:55" },
         { "name": "Lobotrypo (демо)", "start": "1:24:58" },
-        { "name": "The Boba Teashop (демо)", "start": "1:59:41" },
         { "name": "Gyoza", "start": "2:49:30" },
         { "name": "Banned Tapes (демо)", "start": "3:27:06" }
       ] },
@@ -5667,6 +5672,10 @@
         { "name": "Creepy Shift: House For Sale", "start": "1:29:22" },
         { "name": "Cosmic Fear (демо)", "start": "3:30:00" },
         { "name": "Sanity Loops (демо)", "start": "4:44:53" }
+      ] },
+      { "twitch": "2438710443", "subrefs": [
+        { "name": "Red Finger", "start": "4:48:31" },
+        { "name": "Don't Feed It", "start": "5:10:38" }
       ] }
     ]
   },
@@ -10509,7 +10518,8 @@
       { "name": "13", "twitch": "2421947533,2422099767" },
       { "name": "14", "twitch": "2424644952" },
       { "name": "15", "twitch": "2431763545" },
-      { "name": "16", "twitch": "2437947286" }
+      { "name": "16", "twitch": "2437947286" },
+      { "name": "17", "twitch": "2438710443" }
     ]
   },
   {
@@ -11054,7 +11064,8 @@
       { "name": "1", "twitch": "2429872307", "start": "1:35:24" },
       { "name": "2", "twitch": "2433416193", "start": "11:48" },
       { "name": "3", "twitch": "2434299325", "start": "12:45" },
-      { "name": "4", "twitch": "2436090384", "start": "3:14:56" }
+      { "name": "4", "twitch": "2436090384", "start": "3:14:56" },
+      { "name": "5", "twitch": "2438710443", "start": "12:05" }
     ]
   },
   {
@@ -11073,6 +11084,15 @@
     "streams": [
       { "name": "1", "twitch": "2420220429", "start": "14:39" },
       { "name": "2", "twitch": "2437029851", "start": "15:34" }
+    ]
+  },
+  {
+    "name": "The Boba Teashop",
+    "category": "finished",
+    "id": "boba-teashop",
+    "streams": [
+      { "name": "Демо", "twitch": "2407222715", "start": "1:59:41" },
+      { "name": "Прохождение", "twitch": "2438710443", "start": "3:28:40" }
     ]
   }
 ]
