@@ -5396,7 +5396,7 @@
         { "name": "Below Benni's", "start": "6:23:59" },
         { "name": "Somnifuge", "start": "6:30:22" }
       ] },
-      { "name": "The Elder Scrolls IV: Oblivion Remastered", "twitch": "2440378669", "start": "6:54" }
+      { "name": "Clair Obscur: Expedition 33", "twitch": "2441246464", "start": "10:55" }
     ]
   },
   {
@@ -11094,6 +11094,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2407222715", "start": "1:59:41" },
       { "name": "Прохождение", "twitch": "2438710443", "start": "3:28:40" }
+    ]
+  },
+  {
+    "name": "The Elder Scrolls IV: Oblivion Remastered",
+    "category": "ongoing",
+    "id": "tes4r",
+    "streams": [
+      { "name": "1", "twitch": "2440378669", "start": "6:54" },
+      { "name": "2", "twitch": "2441246464", "start": "2:41:41" }
     ]
   }
 ]
