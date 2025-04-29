@@ -11110,13 +11110,14 @@
   },
   {
     "name": "The Elder Scrolls IV: Oblivion Remastered",
-    "category": "ongoing",
+    "category": "finished",
     "id": "tes4r",
     "streams": [
       { "name": "1", "twitch": "2440378669", "start": "6:54" },
       { "name": "2", "twitch": "2441246464", "start": "2:41:41" },
       { "name": "3", "twitch": "2442097456", "start": "11:15" },
-      { "name": "4", "twitch": "2444808287", "start": "10:43" }
+      { "name": "4", "twitch": "2444808287", "start": "10:43" },
+      { "name": "5", "twitch": "2445639339", "start": "9:09" }
     ]
   },
   {
