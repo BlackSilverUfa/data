@@ -5403,6 +5403,11 @@
       { "twitch": "2444003656", "subrefs": [
         { "name": "Seclusion", "start": "38:47" },
         { "name": "Backrooms: Exit from Supermarket Horror (демо)", "start": "1:07:44" }
+      ] },
+      { "twitch": "2449126768", "subrefs": [
+        { "name": "ARC Raiders", "start": "38:00" },
+        { "name": "Cop Bastard (демо)", "start": "4:26:14" },
+        { "name": "ARC Raiders (продолжение)", "start": "5:13:13", "hidden": true }
       ] }
     ]
   },
