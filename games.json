@@ -5412,6 +5412,11 @@
         { "name": "Sunken Veins", "start": "2:30:42" },
         { "name": "Besmirch", "start": "3:26:48" },
         { "name": "Forest 6174", "start": "3:53:38" }
+      ] },
+      { "twitch": "2450891536", "subrefs": [
+        { "name": "KIBORG", "start": "2:05:40" },
+        { "name": "Quarantine Zone", "start": "4:35:44" },
+        { "name": "Captain Blood (Приключение Капитана Блада)", "start": "6:21:06" }
       ] }
     ]
   },
@@ -6238,7 +6243,6 @@
       { "name": "Doki Doki AI Interrogation", "twitch": "2162458886", "start": "50:27" },
       { "twitch": "2169221839", "subrefs": [
         { "name": "Phantom Line (демо)", "start": "1:26:27" },
-        { "name": "Steel Seed (демо)", "start": "4:51:54" },
         { "name": "Reason Unfound (демо)", "start": "6:23:23" }
       ] },
       { "twitch": "2173541595", "subrefs": [
@@ -11168,6 +11172,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2365888651", "start": "2:16:38" },
       { "name": "Прохождение", "twitch": "2450093054", "start": "4:30:02" }
+    ]
+  },
+  {
+    "name": "Steel Seed",
+    "category": "ongoing",
+    "id": "steel-seed",
+    "streams": [
+      { "name": "Демо", "twitch": "2169221839", "start": "4:51:54" },
+      { "name": "Релиз", "twitch": "2450891536", "start": "21:55" }
     ]
   }
 ]
