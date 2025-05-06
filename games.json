@@ -461,7 +461,6 @@
         { "name": "The Headliners", "start": "3:45:57" },
         { "name": "Hired 2 Die", "start": "5:19:11" }
       ] },
-      { "name": "PowerWash Simulator", "twitch": "2380835608", "start": "1:12:49" },
       { "twitch": "2381722688", "subrefs": [
         { "name": "Treasure Hunters", "start": "4:11:23" },
         { "name": "Pit of Goblin", "start": "6:02:00" },
@@ -471,7 +470,8 @@
       { "twitch": "2443150012", "subrefs": [
         { "name": "Darkwater", "start": "1:08:19" },
         { "name": "Backrooms Cleanup Crew", "start": "2:51:27" }
-      ] }
+      ] },
+      { "name": "Puppet Team", "twitch": "2451705218", "start": "3:44:30" }
     ]
   },
   {
@@ -5417,7 +5417,8 @@
         { "name": "KIBORG", "start": "2:05:40" },
         { "name": "Quarantine Zone", "start": "4:35:44" },
         { "name": "Captain Blood (Приключение Капитана Блада)", "start": "6:21:06" }
-      ] }
+      ] },
+      { "name": "Trench Tales (демо)", "twitch": "2451705218", "start": "31:09" }
     ]
   },
   {
@@ -11096,7 +11097,8 @@
       { "name": "2", "twitch": "2433416193", "start": "11:48" },
       { "name": "3", "twitch": "2434299325", "start": "12:45" },
       { "name": "4", "twitch": "2436090384", "start": "3:14:56" },
-      { "name": "5", "twitch": "2438710443", "start": "12:05" }
+      { "name": "5", "twitch": "2438710443", "start": "12:05" },
+      { "name": "6", "twitch": "2451705218", "start": "59:38" }
     ]
   },
   {
@@ -11181,6 +11183,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2169221839", "start": "4:51:54" },
       { "name": "Релиз", "twitch": "2450891536", "start": "21:55" }
+    ]
+  },
+  {
+    "name": "PowerWash Simulator",
+    "category": "co-op",
+    "id": "powerwash-sim",
+    "streams": [
+      { "name": "1", "twitch": "2380835608", "start": "1:12:49" },
+      { "name": "2", "twitch": "2451705218", "start": "6:26:27" }
     ]
   }
 ]
