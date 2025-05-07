@@ -5418,7 +5418,11 @@
         { "name": "Quarantine Zone", "start": "4:35:44" },
         { "name": "Captain Blood (Приключение Капитана Блада)", "start": "6:21:06" }
       ] },
-      { "name": "Trench Tales (демо)", "twitch": "2451705218", "start": "31:09" }
+      { "name": "Trench Tales (демо)", "twitch": "2451705218", "start": "31:09" },
+      { "twitch": "2452604064,2452700284", "subrefs": [
+        { "name": "BECROWNED (демо)", "start": "3:40:00" },
+        { "name": "Creepy Support (демо)", "start": "4:41:11" }
+      ] }
     ]
   },
   {
@@ -5707,7 +5711,8 @@
         { "name": "World Alone: Dreampools", "start": "26:36" },
         { "name": "Nip For Speed 2: Search For Pussy", "start": "1:18:12" },
         { "name": "Reflection", "start": "1:47:03" }
-      ] }
+      ] },
+      { "name": "Run Away From Me. Alexandra (демо)", "twitch": "2452604064,2452700284", "start": "3:18:12" }
     ]
   },
   {
@@ -10766,7 +10771,7 @@
   },
   {
     "name": "Kingdom Come: Deliverance II",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "kingdom-com-deliverance-ii",
     "streams": [
       { "name": "1", "twitch": "2372189405", "start": "3:00:21" },
@@ -11090,7 +11095,7 @@
   },
   {
     "name": "Blue Prince",
-    "category": "ongoing",
+    "category": "finished",
     "id": "blue-prince",
     "streams": [
       { "name": "1", "twitch": "2429872307", "start": "1:35:24" },
@@ -11098,7 +11103,8 @@
       { "name": "3", "twitch": "2434299325", "start": "12:45" },
       { "name": "4", "twitch": "2436090384", "start": "3:14:56" },
       { "name": "5", "twitch": "2438710443", "start": "12:05" },
-      { "name": "6", "twitch": "2451705218", "start": "59:38" }
+      { "name": "6", "twitch": "2451705218", "start": "59:38" },
+      { "name": "7", "twitch": "2452604064,2452700284", "start": "30:33" }
     ]
   },
   {
