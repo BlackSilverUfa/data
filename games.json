@@ -5422,8 +5422,7 @@
       { "twitch": "2452604064,2452700284", "subrefs": [
         { "name": "BECROWNED (демо)", "start": "3:40:00" },
         { "name": "Creepy Support (демо)", "start": "4:41:11" }
-      ] },
-      { "name": "The Midnight Walk", "twitch": "2453443091", "start": "59:36" }
+      ] }
     ]
   },
   {
@@ -5610,10 +5609,7 @@
         { "name": "Like a Dragon: Pirate Yakuza in Hawaii (демо)", "start": "2:39:48" }
       ] },
       { "name": "Acts of Blood (демо)", "twitch": "2385381606", "start": "40:32" },
-      { "twitch": "2387156230", "subrefs": [
-        { "name": "Dune: Awakening (демо)", "start": "45:52" },
-        { "name": "Radiolight (демо)", "start": "3:19:04" }
-      ] },
+      { "name": "Radiolight (демо)", "twitch": "2387156230", "start": "3:19:04" },
       { "twitch": "2389049577", "subrefs": [
         { "name": "Backrooms Level X (демо)", "start": "25:22" },
         { "name": "Baptiste (демо)", "start": "34:24" },
@@ -11199,6 +11195,24 @@
     "streams": [
       { "name": "1", "twitch": "2380835608", "start": "1:12:49" },
       { "name": "2", "twitch": "2451705218", "start": "6:26:27" }
+    ]
+  },
+  {
+    "name": "The Midnight Walk",
+    "category": "finished",
+    "id": "midnight-walk",
+    "streams": [
+      { "name": "1", "twitch": "2453443091", "start": "59:36" },
+      { "name": "2", "twitch": "2455121344", "start": "9:44" }
+    ]
+  },
+  {
+    "name": "Dune: Awakening",
+    "category": "ongoing",
+    "id": "dune-awakening",
+    "streams": [
+      { "name": "Демо", "twitch": "2387156230", "start": "45:52" },
+      { "name": "Релиз", "twitch": "2455121344", "start": "3:26:21" }
     ]
   }
 ]
