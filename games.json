@@ -4904,7 +4904,6 @@
         { "name": "Only Up!", "start": "2:47:50" }
       ] },
       { "twitch": "1855403959", "subrefs": [
-        { "name": "Ebola Village (демо)", "start": "1:04:39" },
         { "name": "SCP: Observer", "start": "1:53:58" },
         { "name": "Horror Stories: Harvest Hunt", "start": "5:05:14" }
       ] },
@@ -5202,7 +5201,6 @@
       { "name": "Butcher's Creek (демо)", "twitch": "2274972530", "start": "3:44:24" },
       { "name": "CAPTURED", "twitch": "2275791324", "start": "1:15:33" },
       { "twitch": "2276579699", "subrefs": [
-        { "name": "The Precinct (демо)", "start": "1:14:43" },
         { "name": "Zaru", "start": "2:47:18" },
         { "name": "Targeosity", "start": "3:50:51" },
         { "name": "Waffle Cone Willie (демо)", "start": "5:56:18" }
@@ -11235,6 +11233,24 @@
     "streams": [
       { "name": "Демо", "twitch": "2387156230", "start": "45:52" },
       { "name": "Релиз", "twitch": "2455121344", "start": "3:26:21" }
+    ]
+  },
+  {
+    "name": "The Precinct",
+    "category": "ongoing",
+    "id": "precinct",
+    "streams": [
+      { "name": "Демо", "twitch": "2276579699", "start": "1:14:43" },
+      { "name": "Релиз", "twitch": "2459354500", "start": "43:15" }
+    ]
+  },
+  {
+    "name": "Ebola Village",
+    "category": "ongoing",
+    "id": "ebola-village",
+    "streams": [
+      { "name": "Демо", "twitch": "1855403959", "start": "1:04:39" },
+      { "name": "1", "twitch": "2459354500", "start": "2:37:28" }
     ]
   }
 ]
