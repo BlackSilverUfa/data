@@ -5424,6 +5424,13 @@
       { "twitch": "2456047504", "subrefs": [
         { "name": "Roaming Backrooms", "start": "29:07" },
         { "name": "Babka", "start": "1:56:36" }
+      ] },
+      { "twitch": "2461099212", "subrefs": [
+        { "name": "Выбор наказания", "start": "23:01" },
+        { "name": "Backrooms Liminal Escape", "start": "44:43" },
+        { "name": "Room Service", "start": "2:30:47" },
+        { "name": "Letters of Bernard Thorne", "start": "2:54:26" },
+        { "name": "Vlad Circus: Curse of Asmodeus (демо)", "start": "4:10:45" }
       ] }
     ]
   },
@@ -5728,7 +5735,8 @@
         { "name": "Creepy Waves FM: Train Depart", "start": "2:27:28" },
         { "name": "Creepy Waves FM: Bugs Fixer", "start": "3:07:28" },
         { "name": "Stolen Blood", "start": "4:33:12" }
-      ] }
+      ] },
+      { "name": "Manivore", "twitch": "2461099212", "start": "1:08:30" }
     ]
   },
   {
@@ -10572,7 +10580,8 @@
       { "name": "17", "twitch": "2438710443" },
       { "name": "18", "twitch": "2444003656" },
       { "name": "19", "twitch": "2450093054" },
-      { "name": "20", "twitch": "2456047504" }
+      { "name": "20", "twitch": "2456047504" },
+      { "name": "21", "twitch": "2461099212" }
     ]
   },
   {
