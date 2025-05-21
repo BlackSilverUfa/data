@@ -5432,7 +5432,8 @@
         { "name": "Letters of Bernard Thorne", "start": "2:54:26" },
         { "name": "Vlad Circus: Curse of Asmodeus (демо)", "start": "4:10:45" }
       ] },
-      { "name": "One Hand Clapping", "twitch": "2461999486", "start": "25:11" }
+      { "name": "One Hand Clapping", "twitch": "2461999486", "start": "25:11" },
+      { "name": "Cash Cleaner Simulator", "twitch": "2464472748,2464555922", "start": "27:17" }
     ]
   },
   {
@@ -5636,7 +5637,6 @@
       ] },
       { "name": "Stygian: Outer Gods (демо)", "twitch": "2389893992", "start": "2:34:12" },
       { "twitch": "2390754958", "subrefs": [
-        { "name": "RoadCraft (демо)", "start": "1:41:02" },
         { "name": "Salvage Protocol (демо)", "start": "3:33:37" },
         { "name": "Neverlooted Dungeon (демо)", "start": "4:15:24" }
       ] },
@@ -11269,6 +11269,15 @@
         { "name": "2", "start": "57:24" },
         { "name": "2 (продолжение)", "start": "2:41:27", "hidden": true }
       ] }
+    ]
+  },
+  {
+    "name": "RoadCraft",
+    "category": "co-op",
+    "id": "roadcraft",
+    "streams": [
+      { "name": "Демо", "twitch": "2390754958", "start": "1:41:02" },
+      { "name": "1", "twitch": "2464472748,2464555922", "start": "2:11:49" }
     ]
   }
 ]
