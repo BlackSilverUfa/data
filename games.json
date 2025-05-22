@@ -5433,7 +5433,11 @@
         { "name": "Vlad Circus: Curse of Asmodeus (демо)", "start": "4:10:45" }
       ] },
       { "name": "One Hand Clapping", "twitch": "2461999486", "start": "25:11" },
-      { "name": "Cash Cleaner Simulator", "twitch": "2464472748,2464555922", "start": "27:17" }
+      { "name": "Cash Cleaner Simulator", "twitch": "2464472748,2464555922", "start": "27:17" },
+      { "twitch": "2465344778", "subrefs": [
+        { "name": "Bus Flipper Simulator (демо)", "start": "45:55" },
+        { "name": "Tainted Grail: The Fall of Avalon (демо)", "start": "2:03:50" }
+      ] }
     ]
   },
   {
