@@ -5432,7 +5432,6 @@
         { "name": "Letters of Bernard Thorne", "start": "2:54:26" },
         { "name": "Vlad Circus: Curse of Asmodeus (демо)", "start": "4:10:45" }
       ] },
-      { "name": "One Hand Clapping", "twitch": "2461999486", "start": "25:11" },
       { "name": "Cash Cleaner Simulator", "twitch": "2464472748,2464555922", "start": "27:17" },
       { "twitch": "2465344778", "subrefs": [
         { "name": "Bus Flipper Simulator (демо)", "start": "45:55" },
@@ -11282,6 +11281,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2390754958", "start": "1:41:02" },
       { "name": "1", "twitch": "2464472748,2464555922", "start": "2:11:49" }
+    ]
+  },
+  {
+    "name": "One Hand Clapping",
+    "category": "finished",
+    "id": "one-hand-clapping",
+    "streams": [
+      { "name": "1", "twitch": "2461999486", "start": "25:11" },
+      { "name": "2", "twitch": "2467093723", "start": "22:07" }
     ]
   }
 ]
