@@ -5920,7 +5920,8 @@
       { "name": "1", "twitch": "2242337852", "start": "3:06:24" },
       { "name": "2", "twitch": "2243137535", "start": "1:25:30" },
       { "name": "3", "twitch": "2249923453", "start": "51:07" },
-      { "name": "4", "twitch": "2253290479", "start": "3:10:20" }
+      { "name": "4", "twitch": "2253290479", "start": "3:10:20" },
+      { "name": "5", "twitch": "2472314909", "start": "4:17:00" }
     ]
   },
   {
@@ -8026,9 +8027,17 @@
       { "name": "20 (Shadow of Erdtree #4)", "twitch": "2181214426", "start": "11:22" },
       { "name": "21 (Shadow of Erdtree #5)", "twitch": "2182067794", "start": "11:15" },
       { "name": "22 (Shadow of Erdtree #6)", "twitch": "2182941480", "start": "9:00" },
-      { "name": "23 (Shadow of Erdtree #7)", "twitch": "2183779952", "start": "10:34" },
-      { "name": "24 (Nightreign, network test #1)", "twitch": "2380835608", "start": "30:46" },
-      { "name": "25 (Nightreign, network test #2)", "twitch": "2381722688", "start": "13:07" }
+      { "name": "23 (Shadow of Erdtree #7)", "twitch": "2183779952", "start": "10:34" }
+    ]
+  },
+  {
+    "name": "Elden Ring: Nightreign",
+    "category": "co-op",
+    "id": "elden-ring-nightreign",
+    "streams": [
+      { "name": "Network test #1", "twitch": "2380835608", "start": "30:46" },
+      { "name": "Network test #2", "twitch": "2381722688", "start": "13:07" },
+      { "name": "Релиз", "twitch": "2472314909", "start": "16:36" }
     ]
   },
   {
