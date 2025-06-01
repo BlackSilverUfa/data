@@ -5446,6 +5446,11 @@
         { "name": "Below Nowhere", "start": "2:39:35" },
         { "name": "Hello Neigbour 3 (демо)", "start": "3:49:02" },
         { "name": "Midnight Special", "start": "4:44:13" }
+      ] },
+      { "twitch": "2474256633", "subrefs": [
+        { "name": "Remorses", "start": "3:29:52" },
+        { "name": "White Room Protocol (демо)", "start": "4:32:33" },
+        { "name": "Nightmare Visions", "start": "4:50:20" }
       ] }
     ]
   },
@@ -5767,6 +5772,14 @@
         { "name": "Dead Tapes: Fading Father", "start": "1:56:31" },
         { "name": "The Oily Depths (демо)", "start": "3:22:44" },
         { "name": "PHASE ZERO (демо)", "start": "3:55:55" }
+      ] },
+      { "twitch": "2474256633", "subrefs": [
+        { "name": "LIMINALPHOBIA (демо)", "start": "18:00" },
+        { "name": "Uncanny Tales: 1992 (демо)", "start": "47:53" },
+        { "name": "Thunderhead", "start": "1:08:47" },
+        { "name": "Nightmares Awake (демо)", "start": "1:29:37" },
+        { "name": "SCP: Control Error", "start": "2:07:58" },
+        { "name": "The Gretlow Tapes (демо)", "start": "2:56:22" }
       ] }
     ]
   },
@@ -9797,7 +9810,7 @@
       { "name": "4", "twitch": "498426882", "start": "3:18:02" },
       { "name": "5", "twitch": "564858921", "start": "2:24:02" },
       { "name": "6", "twitch": "565405331", "start": "5:39:50" },
-      { "name": "7", "twitch": "2473333907", "start": "43:33" }
+      { "name": "7 (Reborn)", "twitch": "2473333907", "start": "43:33" }
     ]
   },
   {
@@ -10624,7 +10637,8 @@
       { "name": "20", "twitch": "2456047504" },
       { "name": "21", "twitch": "2461099212" },
       { "name": "22", "twitch": "2467989555" },
-      { "name": "23", "twitch": "2470596250" }
+      { "name": "23", "twitch": "2470596250" },
+      { "name": "24", "twitch": "2474256633" }
     ]
   },
   {
