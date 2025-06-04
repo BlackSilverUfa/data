@@ -1980,7 +1980,8 @@
       { "name": "2021", "twitch": "927781155", "start": "8:58:26" },
       { "name": "Horizon Forbidden West", "twitch": "1036865162", "start": "8:00:27" },
       { "name": "Январь 2024", "twitch": "2049365981", "start": "25:23" },
-      { "name": "Февраль 2025 (обзор)", "twitch": "2380042056", "start": "48:23" }
+      { "name": "Февраль 2025 (обзор)", "twitch": "2380042056", "start": "48:23" },
+      { "name": "Июнь 2025", "twitch": "2477119604,2477127804", "start": "1:23:41" }
     ]
   },
   {
@@ -5453,7 +5454,8 @@
         { "name": "White Room Protocol (демо)", "start": "4:32:33" },
         { "name": "Nightmare Visions", "start": "4:50:20" }
       ] },
-      { "name": "Hell is Us (демо)", "twitch": "2475897673", "start": "15:19" }
+      { "name": "Hell is Us (демо)", "twitch": "2475897673", "start": "15:19" },
+      { "name": "Aspis (Аспис)", "twitch": "2477119604,2477127804", "start": "15:17" }
     ]
   },
   {
