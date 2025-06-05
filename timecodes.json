@@ -2903,7 +2903,7 @@
       "1:41:58~1:44:34": "Не указано",
       "2:49:38~2:53:57": "Hadouken! - Mecha Love",
       "3:14:34~3:17:54": "Cage The Elephant - Always Something",
-      "3:50:54~3:57:06": "Type O Negative - Black No. 1 (Little Miss Scare -All)",
+      "3:48:58~3:57:06": "Type O Negative - Black No. 1 (Little Miss Scare -All)",
       "4:08:54~4:14:26": "Shinedown - Diamond Eyes"
     },
     "2:24:57": "Clone Drone in the Danger Zone",
@@ -10500,6 +10500,10 @@
       "1:12:12~1:17:38"
     ],
     "Проблемы с правообладателями": {
+      "Rick James - Cold Blooded": [
+        "33:26~33:48",
+        "3:57:56~3:58:06"
+      ],
       "Cypress Hill - How I Could Just Kill a Man": [
         "1:19:47~1:20:35",
         "1:22:15~1:22:32",
@@ -35234,6 +35238,9 @@
       "5:03:46": "TowerBorne",
       "5:05:36": "Clockwork Revolution"
     },
+    "Проблемы с правообладателями": {
+      "4:09:33~4:10:23": "Reverend Gary Davis - Death Don't Have No Mercy"
+    },
     "Starfield Direct": {
       "5:11:33": "Начало"
     },
@@ -47477,7 +47484,7 @@
     "5:25": "Стримлер"
   },
   "2477127804": {
-    "Aspis (Аспис)": {
+    "Aspis (Аспис) (демо)": {
       "5:21": "Меню",
       "6:06": "Интро",
       "6:25": "Игра",
