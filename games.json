@@ -1913,6 +1913,14 @@
     ]
   },
   {
+    "name": "неПрофессиональный \"E3\" 2025",
+    "category": "expos",
+    "id": "e3-2025",
+    "streams": [
+      { "name": "Summer Game Fest", "twitch": "2478883069", "start": "1:10:41" }
+    ]
+  },
+  {
     "name": "PlayStation Showcase",
     "category": "expos",
     "id": "ps-showcase",
