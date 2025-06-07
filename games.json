@@ -1917,7 +1917,8 @@
     "category": "expos",
     "id": "e3-2025",
     "streams": [
-      { "name": "Summer Game Fest", "twitch": "2478883069", "start": "1:10:41" }
+      { "name": "Summer Game Fest", "twitch": "2478883069", "start": "1:10:41" },
+      { "name": "Трейлеры", "twitch": "2479512551" }
     ]
   },
   {
