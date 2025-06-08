@@ -1918,7 +1918,15 @@
     "id": "e3-2025",
     "streams": [
       { "name": "Summer Game Fest", "twitch": "2478883069", "start": "1:10:41" },
-      { "name": "Трейлеры", "twitch": "2479512551" }
+      { "twitch": "2479512551", "subrefs": [
+        { "name": "Summer Games Fest (обзор)", "start": "27:38" },
+        { "name": "Devolver Direct (обзор)", "start": "2:02:04" },
+        { "name": "НашЫ игры", "start": "2:20:15" }
+      ] },
+      { "twitch": "2480467576,2480584019", "subrefs": [
+        { "name": "Future Games Show (обзор)", "start": "21:44" },
+        { "name": "Xbox Games Showcase", "start": "4:04:17" }
+      ] }
     ]
   },
   {
@@ -5473,7 +5481,8 @@
         { "name": "Mario Kart World", "start": "2:05:10" },
         { "name": "Nintendo Switch 2 Welcome Tour", "start": "2:26:45" },
         { "name": "Fast Fusion", "start": "2:38:51" }
-      ] }
+      ] },
+      { "name": "PIGFACE (демо)", "twitch": "2480467576,2480584019", "start": "3:14:10" }
     ]
   },
   {
@@ -5802,6 +5811,13 @@
         { "name": "Nightmares Awake (демо)", "start": "1:29:37" },
         { "name": "SCP: Control Error", "start": "2:07:58" },
         { "name": "The Gretlow Tapes (демо)", "start": "2:56:22" }
+      ] },
+      { "twitch": "2480467576,2480584019", "subrefs": [
+        { "name": "The Backrooms: Found Footage", "start": "47:15" },
+        { "name": "Matreshka (демо)", "start": "1:07:53" },
+        { "name": "Who's at the Door?", "start": "1:31:16" },
+        { "name": "Sharks and Minnows", "start": "2:02:48" },
+        { "name": "Krysolov", "start": "3:40:06" }
       ] }
     ]
   },
@@ -10663,7 +10679,8 @@
       { "name": "21", "twitch": "2461099212" },
       { "name": "22", "twitch": "2467989555" },
       { "name": "23", "twitch": "2470596250" },
-      { "name": "24", "twitch": "2474256633" }
+      { "name": "24", "twitch": "2474256633" },
+      { "name": "25", "twitch": "2480467576,2480584019" }
     ]
   },
   {
