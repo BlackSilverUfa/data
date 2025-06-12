@@ -5273,7 +5273,7 @@
   },
   {
     "name": "Secret Agent Wizard Boy and the International Crime Syndicate",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "sawbatics",
     "streams": [
       { "name": "Демо 1", "twitch": "2276579699", "start": "26:00" },
@@ -5482,7 +5482,11 @@
         { "name": "Nintendo Switch 2 Welcome Tour", "start": "2:26:45" },
         { "name": "Fast Fusion", "start": "2:38:51" }
       ] },
-      { "name": "PIGFACE (демо)", "twitch": "2480467576,2480584019", "start": "3:14:10" }
+      { "name": "PIGFACE (демо)", "twitch": "2480467576,2480584019", "start": "3:14:10" },
+      { "twitch": "2483947367", "subrefs": [
+        { "name": "MindsEye", "start": "31:16" },
+        { "name": "Baby Steps (демо)", "start": "3:13:58" }
+      ] }
     ]
   },
   {
@@ -6671,16 +6675,22 @@
     "type": "list",
     "id": "vhs",
     "streams": [
-      { "twitch": "2228324519", "subrefs": [
-        { "name": "I Ate Old Man's Liver", "start": "3:23:27" },
-        { "name": "No, I'm Not Human #1", "start": "3:39:42" }
-      ] },
-      { "name": "No, I'm Not Human #2", "twitch": "2231748428", "start": "5:03:53" },
-      { "name": "No, I'm Not Human #3", "twitch": "2236123674", "start": "4:07:55" },
+      { "name": "I Ate Old Man's Liver", "twitch": "2228324519", "start": "3:23:27" },
       { "twitch": "2236986219", "subrefs": [
         { "name": "Sensation", "start": "3:58:49" },
         { "name": "All Along the Toon Tower", "start": "4:18:18" }
       ] }
+    ]
+  },
+  {
+    "name": "No, I'm not a Human",
+    "category": "abandoned",
+    "id": "nimnah",
+    "streams": [
+      { "name": "1", "twitch": "2228324519", "start": "3:39:42" },
+      { "name": "2", "twitch": "2231748428", "start": "5:03:53" },
+      { "name": "3", "twitch": "2236123674", "start": "4:07:55" },
+      { "name": "4", "twitch": "2483947367", "start": "5:05:22" }
     ]
   },
   {
