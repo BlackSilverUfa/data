@@ -5149,10 +5149,7 @@
         { "name": "The Rogue Prince of Persia", "start": "13:23" },
         { "name": "Soulmask", "start": "1:24:50" }
       ] },
-      { "twitch": "2169221839", "subrefs": [
-        { "name": "The Alters (демо)", "start": "2:16:26" },
-        { "name": "FUMES (демо)", "start": "4:34:06" }
-      ] },
+      { "name": "FUMES (демо)", "twitch": "2169221839", "start": "4:34:06" },
       { "name": "Flintlock: The Siege of Dawn", "twitch": "2170904450", "start": "2:17:10" },
       { "twitch": "2172620884", "subrefs": [
         { "name": "Fallen Aces", "start": "43:19" },
@@ -5486,7 +5483,8 @@
       { "twitch": "2483947367", "subrefs": [
         { "name": "MindsEye", "start": "31:16" },
         { "name": "Baby Steps (демо)", "start": "3:13:58" }
-      ] }
+      ] },
+      { "name": "Five Nights at Freddy's: Secret of the Mimic", "twitch": "2484807936", "start": "5:39:21" }
     ]
   },
   {
@@ -11395,6 +11393,15 @@
     "streams": [
       { "name": "1", "twitch": "2461999486", "start": "25:11" },
       { "name": "2", "twitch": "2467093723", "start": "22:07" }
+    ]
+  },
+  {
+    "name": "The Alters",
+    "category": "ongoing",
+    "id": "alters",
+    "streams": [
+      { "name": "Демо", "twitch": "2169221839", "start": "2:16:26" },
+      { "name": "1", "twitch": "2484807936", "start": "31:03" }
     ]
   }
 ]
