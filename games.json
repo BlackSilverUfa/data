@@ -5585,7 +5585,7 @@
   },
   {
     "name": "Emergency Cleanup Co.",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "emergency-cleanup",
     "streams": [
       { "name": "1", "twitch": "2355689752", "start": "44:46" },
@@ -11125,7 +11125,7 @@
   },
   {
     "name": "Star Citizen",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "star-citizen",
     "streams": [
       { "name": "1", "twitch": "1268793469", "start": "30:27" },
