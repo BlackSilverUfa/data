@@ -5484,7 +5484,11 @@
         { "name": "MindsEye", "start": "31:16" },
         { "name": "Baby Steps (демо)", "start": "3:13:58" }
       ] },
-      { "name": "Five Nights at Freddy's: Secret of the Mimic", "twitch": "2484807936", "start": "5:39:21" }
+      { "twitch": "2485778585", "subrefs": [
+        { "name": "Fecal Freighter", "start": "1:49:16" },
+        { "name": "Dr. Viscera", "start": "2:04:59" },
+        { "name": "Emotionless: The Last Ticket", "start": "3:08:32" }
+      ] }
     ]
   },
   {
@@ -5820,6 +5824,12 @@
         { "name": "Who's at the Door?", "start": "1:31:16" },
         { "name": "Sharks and Minnows", "start": "2:02:48" },
         { "name": "Krysolov", "start": "3:40:06" }
+      ] },
+      { "twitch": "2485778585", "subrefs": [
+        { "name": "Liminal City (демо)", "start": "36:42" },
+        { "name": "Cameraman: The Pilot Episode (демо)", "start": "1:16:08" },
+        { "name": "Clown is Hungry (демо)", "start": "1:32:22" },
+        { "name": "Fire in the Dark (демо)", "start": "2:28:27" }
       ] }
     ]
   },
@@ -10688,7 +10698,8 @@
       { "name": "22", "twitch": "2467989555" },
       { "name": "23", "twitch": "2470596250" },
       { "name": "24", "twitch": "2474256633" },
-      { "name": "25", "twitch": "2480467576,2480584019" }
+      { "name": "25", "twitch": "2480467576,2480584019" },
+      { "name": "26", "twitch": "2485778585" }
     ]
   },
   {
@@ -11402,6 +11413,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2169221839", "start": "2:16:26" },
       { "name": "1", "twitch": "2484807936", "start": "31:03" }
+    ]
+  },
+  {
+    "name": "Five Nights at Freddy's: Secret of the Mimic",
+    "category": "ongoing",
+    "id": "fnaf-sotm",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "2484807936", "start": "5:39:21" },
+      { "name": "1", "twitch": "2485778585", "start": "3:46:52" }
     ]
   }
 ]
