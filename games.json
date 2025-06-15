@@ -656,7 +656,8 @@
       { "name": "20", "twitch": "2315594499", "start": "6:19:13" },
       { "name": "21", "twitch": "2316412703", "start": "6:35:10" },
       { "name": "22", "twitch": "2329008888", "start": "2:47:46" },
-      { "name": "23", "twitch": "2369442712", "start": "6:17:09" }
+      { "name": "23", "twitch": "2369442712", "start": "6:17:09" },
+      { "name": "24", "twitch": "2486684400", "start": "1:13:34" }
     ]
   },
   {
@@ -5488,7 +5489,8 @@
         { "name": "Fecal Freighter", "start": "1:49:16" },
         { "name": "Dr. Viscera", "start": "2:04:59" },
         { "name": "Emotionless: The Last Ticket", "start": "3:08:32" }
-      ] }
+      ] },
+      { "name": "Ratatan (демо)", "twitch": "2486684400", "start": "37:36" }
     ]
   },
   {
