@@ -5279,7 +5279,7 @@
   },
   {
     "name": "ORDER 13",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "order-13",
     "streams": [
       { "name": "Демо 1", "twitch": "2365888651", "start": "2:27:41" },
