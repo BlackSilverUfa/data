@@ -5490,7 +5490,8 @@
         { "name": "Dr. Viscera", "start": "2:04:59" },
         { "name": "Emotionless: The Last Ticket", "start": "3:08:32" }
       ] },
-      { "name": "Ratatan (демо)", "twitch": "2486684400", "start": "37:36" }
+      { "name": "Ratatan (демо)", "twitch": "2486684400", "start": "37:36" },
+      { "name": "Doomer Simulator", "twitch": "2487532854", "start": "32:23" }
     ]
   },
   {
@@ -5832,7 +5833,8 @@
         { "name": "Cameraman: The Pilot Episode (демо)", "start": "1:16:08" },
         { "name": "Clown is Hungry (демо)", "start": "1:32:22" },
         { "name": "Fire in the Dark (демо)", "start": "2:28:27" }
-      ] }
+      ] },
+      { "name": "Blasfemia", "twitch": "2487532854", "start": "1:52:50" }
     ]
   },
   {
