@@ -6380,7 +6380,6 @@
         { "name": "Don't Let Her In", "start": "3:10:11" },
         { "name": "Mbembe Radio", "start": "4:11:09" }
       ] },
-      { "name": "Still Wakes the Deep", "twitch": "2175081669", "start": "14:13" },
       { "twitch": "2191494883", "subrefs": [
         { "name": "Egg Fried Rice", "start": "1:06:52" },
         { "name": "The Other One", "start": "3:38:59" },
@@ -6755,7 +6754,8 @@
       { "name": "15", "twitch": "2350342790", "start": "1:16:11" },
       { "name": "16", "twitch": "2369442712", "start": "3:03:30" },
       { "name": "17", "twitch": "2381722688", "start": "3:19:19" },
-      { "name": "18", "twitch": "2386237387", "start": "3:48:59" }
+      { "name": "18", "twitch": "2386237387", "start": "3:48:59" },
+      { "name": "19", "twitch": "2489222718", "start": "5:15:25" }
     ]
   },
   {
@@ -11425,7 +11425,17 @@
     "id": "fnaf-sotm",
     "streams": [
       { "name": "Первый взгляд", "twitch": "2484807936", "start": "5:39:21" },
-      { "name": "1", "twitch": "2485778585", "start": "3:46:52" }
+      { "name": "1", "twitch": "2485778585", "start": "3:46:52" },
+      { "name": "2", "twitch": "2489222718", "start": "3:32:39" }
+    ]
+  },
+  {
+    "name": "Still Wakes the Deep",
+    "category": "finished",
+    "id": "still-wakes",
+    "streams": [
+      { "name": "Прохождение", "twitch": "2175081669", "start": "14:13" },
+      { "name": "Siren's Rest", "twitch": "2489222718", "start": "25:26" }
     ]
   }
 ]
