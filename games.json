@@ -6280,7 +6280,6 @@
         { "name": "Eclipsium (демо)", "start": "4:21:01" }
       ] },
       { "name": "Midnight Scenes: A Safe Place", "twitch": "2104774881", "start": "43:45" },
-      { "name": "", "twitch": "2107695454", "start": "4:15:30" },
       { "twitch": "2113378651", "subrefs": [
         { "name": "No Players Online (демо)", "start": "47:53" },
         { "name": "Anomaly Exit", "start": "2:58:57" },
@@ -11441,7 +11440,10 @@
     "category": "ongoing",
     "id": "stellar-blade",
     "streams": [
-      { "name": "Демо", "twitch": "2107695454", "start": "37:14" },
+      { "twitch": "2107695454", "subrefs": [
+        { "name": "Демо", "start": "37:14" },
+        { "name": "Демо (продолжение)", "start": "4:15:30", "hidden": true }
+      ] },
       { "name": "ПК", "twitch": "2490150024", "start": "34:11" }
     ]
   }
