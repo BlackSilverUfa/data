@@ -5491,7 +5491,8 @@
         { "name": "Emotionless: The Last Ticket", "start": "3:08:32" }
       ] },
       { "name": "Ratatan (демо)", "twitch": "2486684400", "start": "37:36" },
-      { "name": "Doomer Simulator", "twitch": "2487532854", "start": "32:23" }
+      { "name": "Doomer Simulator", "twitch": "2487532854", "start": "32:23" },
+      { "name": "Batman: Arkham Knight", "twitch": "2490150024", "start": "3:40:31" }
     ]
   },
   {
@@ -6279,10 +6280,7 @@
         { "name": "Eclipsium (демо)", "start": "4:21:01" }
       ] },
       { "name": "Midnight Scenes: A Safe Place", "twitch": "2104774881", "start": "43:45" },
-      { "twitch": "2107695454", "subrefs": [
-        { "name": "Stellar Blade (демо)", "start": "37:14" },
-        { "name": "Stellar Blade (продолжение)", "start": "4:15:30", "hidden": true }
-      ] },
+      { "name": "", "twitch": "2107695454", "start": "4:15:30" },
       { "twitch": "2113378651", "subrefs": [
         { "name": "No Players Online (демо)", "start": "47:53" },
         { "name": "Anomaly Exit", "start": "2:58:57" },
@@ -11436,6 +11434,15 @@
     "streams": [
       { "name": "Прохождение", "twitch": "2175081669", "start": "14:13" },
       { "name": "Siren's Rest", "twitch": "2489222718", "start": "25:26" }
+    ]
+  },
+  {
+    "name": "Stellar Blade",
+    "category": "ongoing",
+    "id": "stellar-blade",
+    "streams": [
+      { "name": "Демо", "twitch": "2107695454", "start": "37:14" },
+      { "name": "ПК", "twitch": "2490150024", "start": "34:11" }
     ]
   }
 ]
