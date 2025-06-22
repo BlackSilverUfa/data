@@ -3407,7 +3407,8 @@
       { "name": "Tales Beyond The Tomb: Pineville Night Stalker", "twitch": "2311507423", "start": "1:46:47" },
       { "name": "Tales Beyond The Tomb: The Farm's Secret", "twitch": "2334057711", "start": "1:35:02" },
       { "name": "Tales Beyond The Tomb: The Last Vigil", "twitch": "2365019673", "start": "1:56:10" },
-      { "name": "Poop Killer - Flush or Die!", "twitch": "2404564177", "start": "2:17:15" }
+      { "name": "Poop Killer - Flush or Die!", "twitch": "2404564177", "start": "2:17:15" },
+      { "name": "Tales Beyond the Tomb: White Silence", "twitch": "2492884790", "start": "42:26" }
     ]
   },
   {
@@ -5492,7 +5493,8 @@
       ] },
       { "name": "Ratatan (демо)", "twitch": "2486684400", "start": "37:36" },
       { "name": "Doomer Simulator", "twitch": "2487532854", "start": "32:23" },
-      { "name": "Batman: Arkham Knight", "twitch": "2490150024", "start": "3:40:31" }
+      { "name": "Batman: Arkham Knight", "twitch": "2490150024", "start": "3:40:31" },
+      { "name": "The Rotting Man (демо)", "twitch": "2492884790", "start": "25:03" }
     ]
   },
   {
@@ -5835,7 +5837,11 @@
         { "name": "Clown is Hungry (демо)", "start": "1:32:22" },
         { "name": "Fire in the Dark (демо)", "start": "2:28:27" }
       ] },
-      { "name": "Blasfemia", "twitch": "2487532854", "start": "1:52:50" }
+      { "name": "Blasfemia", "twitch": "2487532854", "start": "1:52:50" },
+      { "twitch": "2492884790", "subrefs": [
+        { "name": "Road of Fear", "start": "3:50:53" },
+        { "name": "Silent Still 2", "start": "4:45:53" }
+      ] }
     ]
   },
   {
@@ -10700,7 +10706,8 @@
       { "name": "23", "twitch": "2470596250" },
       { "name": "24", "twitch": "2474256633" },
       { "name": "25", "twitch": "2480467576,2480584019" },
-      { "name": "26", "twitch": "2485778585" }
+      { "name": "26", "twitch": "2485778585" },
+      { "name": "27", "twitch": "2492884790" }
     ]
   },
   {
