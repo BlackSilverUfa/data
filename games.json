@@ -11203,7 +11203,7 @@
   },
   {
     "name": "Electrician Simulator",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "electirian-sim",
     "streams": [
       { "name": "1", "twitch": "1608110648", "start": "2:09:00" },
@@ -11383,7 +11383,8 @@
       { "name": "1", "twitch": "2380835608", "start": "1:12:49" },
       { "name": "2", "twitch": "2451705218", "start": "6:26:27" },
       { "name": "3", "twitch": "2469707621", "start": "4:57:18" },
-      { "name": "4", "twitch": "2475897673", "start": "6:42:58" }
+      { "name": "4", "twitch": "2475897673", "start": "6:42:58" },
+      { "name": "5", "twitch": "2506869345", "start": "5:02:54" }
     ]
   },
   {
@@ -11434,7 +11435,8 @@
       { "name": "Демо", "twitch": "2390754958", "start": "1:41:02" },
       { "name": "1", "twitch": "2464472748,2464555922", "start": "2:11:49" },
       { "name": "2", "twitch": "2469707621", "start": "1:39:22" },
-      { "name": "3", "twitch": "2475897673", "start": "4:23:55" }
+      { "name": "3", "twitch": "2475897673", "start": "4:23:55" },
+      { "name": "4", "twitch": "2506869345", "start": "2:03:34" }
     ]
   },
   {
@@ -11484,6 +11486,14 @@
         { "name": "Демо (продолжение)", "start": "4:15:30", "hidden": true }
       ] },
       { "name": "ПК", "twitch": "2490150024", "start": "34:11" }
+    ]
+  },
+  {
+    "name": "Не оформлено",
+    "category": "other",
+    "id": "todo",
+    "streams": [
+      { "name": "Saloon Simulator", "twitch": "2506869345", "start": "35:38" }
     ]
   }
 ]
