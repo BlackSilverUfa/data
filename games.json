@@ -11509,7 +11509,14 @@
         { "name": "The Echo Paradox #2", "start": "37:33" },
         { "name": "BrokenLore: LOW", "start": "3:33:59" }
       ] },
-      { "name": "PEAK", "twitch": "2510385552", "start": "3:28:24" }
+      { "name": "PEAK", "twitch": "2510385552", "start": "3:28:24" },
+      { "twitch": "2511344577", "subrefs": [
+        { "name": "Paradise Nowhere", "start": "18:50" },
+        { "name": "The Green Light", "start": "45:15" },
+        { "name": "Dread Flats", "start": "1:11:00" },
+        { "name": "Gordy", "start": "3:10:18" },
+        { "name": "Shift at Midnight", "start": "4:38:24" }
+      ] }
     ]
   }
 ]
