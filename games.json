@@ -5508,7 +5508,8 @@
       { "twitch": "2506017612", "subrefs": [
         { "name": "Car Dealer Simulator", "start": "21:39" },
         { "name": "System Shock 2: 25th Anniversary Remaster", "start": "1:37:14" }
-      ] }
+      ] },
+      { "name": "Donkey Kong Bananza", "twitch": "2515697927", "start": "22:17" }
     ]
   },
   {
@@ -11409,7 +11410,8 @@
     "id": "dune-awakening",
     "streams": [
       { "name": "Демо", "twitch": "2387156230", "start": "45:52" },
-      { "name": "Релиз", "twitch": "2455121344", "start": "3:26:21" }
+      { "name": "Релиз", "twitch": "2455121344", "start": "3:26:21" },
+      { "name": "Кооп", "twitch": "2515697927", "start": "3:20:35" }
     ]
   },
   {
