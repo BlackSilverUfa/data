@@ -5515,8 +5515,7 @@
         { "name": "Bark", "start": "1:11:40" },
         { "name": "The Echo Paradox", "start": "2:01:35" },
         { "name": "Paranormal Torment", "start": "3:26:59" }
-      ] },
-      { "name": "Donkey Kong Bananza", "twitch": "2515697927", "start": "22:17" }
+      ] }
     ]
   },
   {
@@ -11510,6 +11509,14 @@
     ]
   },
   {
+    "name": "Peak",
+    "category": "co-op",
+    "id": "peak",
+    "streams": [
+      { "name": "3", "twitch": "2516607797", "start": "3:21:04" }
+    ]
+  },
+  {
     "name": "Не оформлено",
     "category": "other",
     "id": "todo",
@@ -11533,6 +11540,15 @@
         { "name": "Special Events", "start": "3:04:27" },
         { "name": "Neverwinter Nights 2: Enhanced Edition", "start": "3:10:08" }
       ] }
+    ]
+  },
+  {
+    "name": "Donkey Kong Bananza",
+    "category": "ongoing",
+    "id": "donkey-kong-bananza",
+    "streams": [
+      { "name": "1", "twitch": "2515697927", "start": "22:17" },
+      { "name": "2", "twitch": "2516607797", "start": "15:43" }
     ]
   }
 ]
