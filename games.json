@@ -2778,7 +2778,7 @@
       { "name": "2", "twitch": "2138806382", "start": "48:36" },
       { "name": "3", "twitch": "2245831758", "start": "38:29" },
       { "name": "4", "twitch": "2506017612", "start": "3:04:20" },
-      { "name": "5", "twitch": "2508662587", "start": "1:45:59" }
+      { "name": "5", "twitch": "2508662587", "start": "1:46:15" }
     ]
   },
   {
@@ -5513,7 +5513,6 @@
       { "twitch": "2507784545", "subrefs": [
         { "name": "The Puppy", "start": "52:14" },
         { "name": "Bark", "start": "1:11:40" },
-        { "name": "The Echo Paradox", "start": "2:01:35" },
         { "name": "Paranormal Torment", "start": "3:26:59" }
       ] }
     ]
@@ -6504,10 +6503,7 @@
         { "name": "Devious Path", "start": "3:03:27" },
         { "name": "Bad Parenting 1: Mr. Red Face", "start": "4:18:09" }
       ] },
-      { "twitch": "2276579699", "subrefs": [
-        { "name": "BrokenLore: LOW (демо)", "start": "2:11:01" },
-        { "name": "Voyager-19", "start": "4:51:33" }
-      ] },
+      { "name": "Voyager-19", "twitch": "2276579699", "start": "4:51:33" },
       { "twitch": "2280809196", "subrefs": [
         { "name": "KARMA: The Dark World", "start": "53:38" },
         { "name": "Paraedolon", "start": "2:00:38" },
@@ -11522,10 +11518,6 @@
     "category": "other",
     "id": "todo",
     "streams": [
-      { "twitch": "2508662587", "subrefs": [
-        { "name": "The Echo Paradox #2", "start": "37:33" },
-        { "name": "BrokenLore: LOW", "start": "3:33:59" }
-      ] },
       { "twitch": "2511344577", "subrefs": [
         { "name": "Paradise Nowhere", "start": "18:50" },
         { "name": "The Green Light", "start": "45:15" },
@@ -11549,6 +11541,24 @@
     "streams": [
       { "name": "1", "twitch": "2515697927", "start": "22:17" },
       { "name": "2", "twitch": "2516607797", "start": "15:43" }
+    ]
+  },
+  {
+    "name": "The Echo Paradox",
+    "category": "finished",
+    "id": "echo-paradox",
+    "streams": [
+      { "name": "1", "twitch": "2507784545", "start": "2:01:35" },
+      { "name": "2", "twitch": "2508662587", "start": "37:49" }
+    ]
+  },
+  {
+    "name": "BrokenLore: LOW",
+    "category": "finished",
+    "id": "brokenlore-low",
+    "streams": [
+      { "name": "Демо", "twitch": "2276579699", "start": "2:11:01" },
+      { "name": "Прохождение", "twitch": "2508662587", "start": "3:33:41" }
     ]
   }
 ]
