@@ -4743,7 +4743,6 @@
         { "name": "Revelations: Persona", "start": "3:10:13" },
         { "name": "Carmageddon II", "start": "4:30:49" }
       ] },
-      { "name": "The Complex: Found Footage", "twitch": "1588071501", "start": "53:53" },
       { "twitch": "1592425669", "subrefs": [
         { "name": "My Time at Sandrock", "start": "3:05:37" },
         { "name": "Wo Long: Fallen Dynasty (демо)", "start": "4:14:19" }
@@ -5514,6 +5513,10 @@
         { "name": "The Puppy", "start": "52:14" },
         { "name": "Bark", "start": "1:11:40" },
         { "name": "Paranormal Torment", "start": "3:26:59" }
+      ] },
+      { "twitch": "2517564061", "subrefs": [
+        { "name": "Nightmare Shift", "start": "2:34:54" },
+        { "name": "Office After Hours", "start": "4:30:38" }
       ] }
     ]
   },
@@ -10753,7 +10756,10 @@
       { "name": "25", "twitch": "2480467576,2480584019" },
       { "name": "26", "twitch": "2485778585" },
       { "name": "27", "twitch": "2492884790" },
-      { "name": "28", "twitch": "2505174390" }
+      { "name": "28", "twitch": "2505174390" },
+      { "name": "29", "twitch": "2507784545" },
+      { "name": "30", "twitch": "2511344577" },
+      { "name": "31", "twitch": "2517564061" }
     ]
   },
   {
@@ -11559,6 +11565,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2276579699", "start": "2:11:01" },
       { "name": "Прохождение", "twitch": "2508662587", "start": "3:33:41" }
+    ]
+  },
+  {
+    "name": "The Complex: Found Footage",
+    "category": "finished",
+    "id": "the-complex-ff",
+    "streams": [
+      { "name": "1", "twitch": "1588071501", "start": "53:53" },
+      { "name": "2", "twitch": "2517564061", "start": "27:22" }
     ]
   }
 ]
