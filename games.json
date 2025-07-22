@@ -2729,7 +2729,6 @@
         { "name": "Death Relives (демо)", "start": "2:58:43" }
       ] },
       { "twitch": "1635763389", "subrefs": [
-        { "name": "Luto (демо)", "start": "21:21" },
         { "name": "Bughouse", "start": "1:25:11" },
         { "name": "Skinned Alive", "start": "2:40:47" },
         { "name": "The Lies We Tell Ourselves (демо)", "start": "4:31:59" }
@@ -6510,8 +6509,7 @@
       { "twitch": "2280809196", "subrefs": [
         { "name": "KARMA: The Dark World", "start": "53:38" },
         { "name": "Paraedolon", "start": "2:00:38" },
-        { "name": "Creature Packets", "start": "2:53:57" },
-        { "name": "True Nightmare: Roadside Сafe (демо)", "start": "3:41:07" }
+        { "name": "Creature Packets", "start": "2:53:57" }
       ] },
       { "name": "The Hungry Fly", "twitch": "2288283392", "start": "6:32:56" },
       { "name": "Puppet House", "twitch": "2289109470", "start": "1:17:32" },
@@ -11574,6 +11572,24 @@
     "streams": [
       { "name": "1", "twitch": "1588071501", "start": "53:53" },
       { "name": "2", "twitch": "2517564061", "start": "27:22" }
+    ]
+  },
+  {
+    "name": "Luto",
+    "category": "ongoing",
+    "id": "luto",
+    "streams": [
+      { "name": "Демо", "twitch": "1635763389", "start": "21:21" },
+      { "name": "1", "twitch": "2519328152", "start": "39:46" }
+    ]
+  },
+  {
+    "name": "True Nightmare: Roadside Сafe",
+    "category": "finished",
+    "id": "true-nightmare-rc",
+    "streams": [
+      { "name": "Демо", "twitch": "2280809196", "start": "3:41:07" },
+      { "name": "Прохождение", "twitch": "2519328152", "start": "3:43:07" }
     ]
   }
 ]
