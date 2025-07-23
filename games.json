@@ -5513,10 +5513,7 @@
         { "name": "Bark", "start": "1:11:40" },
         { "name": "Paranormal Torment", "start": "3:26:59" }
       ] },
-      { "twitch": "2517564061", "subrefs": [
-        { "name": "Nightmare Shift", "start": "2:34:54" },
-        { "name": "Office After Hours", "start": "4:30:38" }
-      ] },
+      { "name": "Nightmare Shift", "twitch": "2517564061", "start": "2:34:54" },
       { "twitch": "2511344577", "subrefs": [
         { "name": "Paradise Nowhere (демо)", "start": "18:43" },
         { "name": "The Green Light (демо)", "start": "43:21" }
@@ -5853,7 +5850,6 @@
       { "twitch": "2480467576,2480584019", "subrefs": [
         { "name": "The Backrooms: Found Footage", "start": "47:15" },
         { "name": "Matreshka (демо)", "start": "1:07:53" },
-        { "name": "Who's at the Door?", "start": "1:31:16" },
         { "name": "Sharks and Minnows", "start": "2:02:48" },
         { "name": "Krysolov", "start": "3:40:06" }
       ] },
@@ -11582,7 +11578,8 @@
     "id": "luto",
     "streams": [
       { "name": "Демо", "twitch": "1635763389", "start": "21:21" },
-      { "name": "1", "twitch": "2519328152", "start": "39:46" }
+      { "name": "1", "twitch": "2519328152", "start": "39:46" },
+      { "name": "2", "twitch": "2520182695", "start": "27:36" }
     ]
   },
   {
@@ -11592,6 +11589,24 @@
     "streams": [
       { "name": "Демо", "twitch": "2280809196", "start": "3:41:07" },
       { "name": "Прохождение", "twitch": "2519328152", "start": "3:43:07" }
+    ]
+  },
+  {
+    "name": "Who's at the Door?",
+    "category": "finished",
+    "id": "whos-at-the-door",
+    "streams": [
+      { "name": "1", "twitch": "2480467576,2480584019", "start": "1:31:16" },
+      { "name": "2", "twitch": "2520182695", "start": "3:17:45" }
+    ]
+  },
+  {
+    "name": "Office After Hours",
+    "category": "finished",
+    "id": "office-after-hours",
+    "streams": [
+      { "name": "1", "twitch": "2517564061", "start": "4:30:38" },
+      { "name": "2", "twitch": "2520182695", "start": "4:43:26" }
     ]
   }
 ]
