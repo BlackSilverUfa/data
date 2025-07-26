@@ -5335,7 +5335,6 @@
       ] },
       { "twitch": "2387156230", "subrefs": [
         { "name": "Soulframe (демо)", "start": "1:19:52" },
-        { "name": "Killing Floor III (демо)", "start": "2:05:52" },
         { "name": "Deepest Trench", "start": "2:55:48" },
         { "name": "Beholder: Conductor (демо)", "start": "4:19:01" }
       ] },
@@ -7369,7 +7368,8 @@
       { "name": "10", "twitch": "2241467494", "start": "31:06" },
       { "name": "11", "twitch": "2243137535", "start": "15:11" },
       { "name": "12", "twitch": "2244890208", "start": "24:41" },
-      { "name": "13", "twitch": "2246630814", "start": "23:56" }
+      { "name": "13", "twitch": "2246630814", "start": "23:56" },
+      { "name": "14", "twitch": "2522856060", "start": "31:52" }
     ]
   },
   {
@@ -7478,7 +7478,8 @@
       { "name": "3 (с Димами)", "twitch": "1830612078", "start": "2:36:04" },
       { "name": "4 (с Димами)", "twitch": "1902891024", "start": "46:52" },
       { "name": "5 (с тремя Димами)", "twitch": "2011805602", "start": "1:13:48" },
-      { "name": "5 (с тремя Димами)", "twitch": "2172620884", "start": "4:05:00" }
+      { "name": "5 (с тремя Димами)", "twitch": "2172620884", "start": "4:05:00" },
+      { "name": "6 (4D)", "twitch": "2522856060", "start": "3:58:00" }
     ]
   },
   {
@@ -11366,7 +11367,7 @@
   },
   {
     "name": "Post Trauma",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "post-trauma",
     "streams": [
       { "name": "Демо", "twitch": "1218281049,1218409784", "start": "2:47:49" },
@@ -11608,6 +11609,15 @@
     "streams": [
       { "name": "1", "twitch": "2517564061", "start": "4:30:38" },
       { "name": "2", "twitch": "2520182695", "start": "4:43:26" }
+    ]
+  },
+  {
+    "name": "Killing Floor III",
+    "category": "co-op",
+    "id": "killing-floor-3",
+    "streams": [
+      { "name": "Демо", "twitch": "2387156230", "start": "2:05:52" },
+      { "name": "1", "twitch": "2522856060", "start": "2:18:20" }
     ]
   }
 ]
