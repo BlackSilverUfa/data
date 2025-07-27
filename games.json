@@ -2724,10 +2724,7 @@
         { "name": "The Shadow over Route 80", "start": "1:18:40" },
         { "name": "Father's Day", "start": "2:07:07" }
       ] },
-      { "twitch": "1634888055", "subrefs": [
-        { "name": "Please Don't Litter", "start": "1:56:34" },
-        { "name": "Death Relives (демо)", "start": "2:58:43" }
-      ] },
+      { "name": "Please Don't Litter", "twitch": "1634888055", "start": "1:56:34" },
       { "twitch": "1635763389", "subrefs": [
         { "name": "Bughouse", "start": "1:25:11" },
         { "name": "Skinned Alive", "start": "2:40:47" },
@@ -5517,7 +5514,11 @@
         { "name": "Paradise Nowhere (демо)", "start": "18:43" },
         { "name": "The Green Light (демо)", "start": "43:21" }
       ] },
-      { "name": "WUCHANG: Fallen Feathers", "twitch": "2521049196", "start": "20:47" }
+      { "name": "WUCHANG: Fallen Feathers", "twitch": "2521049196", "start": "20:47" },
+      { "twitch": "2523773918", "subrefs": [
+        { "name": "Walking In", "start": "21:27" },
+        { "name": "S.p.l.i.t", "start": "1:34:28" }
+      ] }
     ]
   },
   {
@@ -5880,6 +5881,12 @@
         { "name": "Dread Flats", "start": "1:11:43" },
         { "name": "Gordy", "start": "3:10:12" },
         { "name": "Shift at Midnight (демо)", "start": "4:38:41" }
+      ] },
+      { "twitch": "2523773918", "subrefs": [
+        { "name": "Analog: Skin off", "start": "54:59" },
+        { "name": "The Miller Farm", "start": "2:27:03" },
+        { "name": "Bleak Haven (демо)", "start": "3:18:31" },
+        { "name": "Eight Feet Tall", "start": "4:47:57" }
       ] }
     ]
   },
@@ -10764,7 +10771,8 @@
       { "name": "28", "twitch": "2505174390" },
       { "name": "29", "twitch": "2507784545" },
       { "name": "30", "twitch": "2511344577" },
-      { "name": "31", "twitch": "2517564061" }
+      { "name": "31", "twitch": "2517564061" },
+      { "name": "32", "twitch": "2523773918" }
     ]
   },
   {
@@ -11618,6 +11626,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2387156230", "start": "2:05:52" },
       { "name": "1", "twitch": "2522856060", "start": "2:18:20" }
+    ]
+  },
+  {
+    "name": "Death Relives",
+    "category": "ongoing",
+    "id": "death-relives",
+    "streams": [
+      { "name": "Демо", "twitch": "1634888055", "start": "2:58:43" },
+      { "name": "Релиз", "twitch": "2523773918", "start": "4:14:47" }
     ]
   }
 ]
