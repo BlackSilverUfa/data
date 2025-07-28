@@ -5517,6 +5517,10 @@
       { "twitch": "2523773918", "subrefs": [
         { "name": "Walking In", "start": "21:27" },
         { "name": "S.p.l.i.t", "start": "1:34:28" }
+      ] },
+      { "twitch": "2513947018", "subrefs": [
+        { "name": "Eriksholm: The Stolen Dream", "start": "22:33" },
+        { "name": "Neverwinter Nights 2: Enhanced Edition", "start": "2:24:22" }
       ] }
     ]
   },
@@ -6801,7 +6805,7 @@
       { "name": "18", "twitch": "2386237387", "start": "3:48:59" },
       { "name": "19", "twitch": "2489222718", "start": "5:15:25" },
       { "name": "20", "twitch": "2513085560", "start": "8:29" },
-      { "name": "21", "twitch": "2513947018", "start": "4:30:40" }
+      { "name": "21", "twitch": "2513947018", "start": "4:30:55" }
     ]
   },
   {
@@ -11530,19 +11534,6 @@
       { "name": "1", "twitch": "2510385552", "start": "3:30:01" },
       { "name": "2", "twitch": "2513085560", "start": "1:04:21" },
       { "name": "3", "twitch": "2516607797", "start": "3:21:04" }
-    ]
-  },
-  {
-    "name": "Не оформлено",
-    "category": "other",
-    "id": "todo",
-    "streams": [
-      { "twitch": "2513947018", "subrefs": [
-        { "name": "Eriksholm: The Stolen Dream", "start": "22:08" },
-        { "name": "Neverwinter Nights 2: Enhanced Edition", "start": "2:23:44" },
-        { "name": "Special Events", "start": "3:04:27" },
-        { "name": "Neverwinter Nights 2: Enhanced Edition", "start": "3:10:08" }
-      ] }
     ]
   },
   {
