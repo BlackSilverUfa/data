@@ -3040,7 +3040,6 @@
         { "name": "CHORDOSIS: Episode 1", "start": "1:23:58" }
       ] },
       { "name": "TELEFORUM", "twitch": "1957481459", "start": "3:50:38" },
-      { "name": "Лихо одноглазое (One-Eyed Likho) (демо)", "twitch": "1959105799", "start": "41:11" },
       { "name": "Suspicious Person Information", "twitch": "1970199475", "start": "2:48:16" },
       { "twitch": "1971837037", "subrefs": [
         { "name": "Faith 64", "start": "1:19:14" },
@@ -7379,7 +7378,8 @@
       { "name": "11", "twitch": "2243137535", "start": "15:11" },
       { "name": "12", "twitch": "2244890208", "start": "24:41" },
       { "name": "13", "twitch": "2246630814", "start": "23:56" },
-      { "name": "14", "twitch": "2522856060", "start": "31:52" }
+      { "name": "14", "twitch": "2522856060", "start": "31:52" },
+      { "name": "15", "twitch": "2524621393", "start": "40:00" }
     ]
   },
   {
@@ -11625,6 +11625,15 @@
     "streams": [
       { "name": "Демо", "twitch": "1634888055", "start": "2:58:43" },
       { "name": "Релиз", "twitch": "2523773918", "start": "4:14:47" }
+    ]
+  },
+  {
+    "name": "Лихо одноглазое (One-Eyed Likho)",
+    "category": "finished",
+    "id": "one-eyed-likho",
+    "streams": [
+      { "name": "Демо", "twitch": "1959105799", "start": "41:11" },
+      { "name": "Релиз", "twitch": "2524621393", "start": "1:43:41" }
     ]
   }
 ]
