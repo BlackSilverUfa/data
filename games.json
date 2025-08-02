@@ -1875,7 +1875,8 @@
       { "name": "WitcherCon", "twitch": "1081385499,1081403044", "start": "4:01:35" },
       { "name": "Dead Space Remake Dev Stream", "twitch": "1134934289", "start": "3:57:26" },
       { "name": "Nintendo Direct: Nintendo Switch 2", "twitch": "2421947533,2422099767", "start": "7:30" },
-      { "name": "Nintendo Direct (июль 2025)", "twitch": "2527282113", "start": "31:46" }
+      { "name": "Nintendo Direct (июль 2025)", "twitch": "2527282113", "start": "31:46" },
+      { "name": "THQ Nordic Digital Showcase 2025", "twitch": "2529080504", "start": "51:29" }
     ]
   },
   {
@@ -5447,7 +5448,6 @@
         { "name": "Babka", "start": "1:56:36" }
       ] },
       { "twitch": "2461099212", "subrefs": [
-        { "name": "Выбор наказания", "start": "23:01" },
         { "name": "Backrooms Liminal Escape", "start": "44:43" },
         { "name": "Room Service", "start": "2:30:47" },
         { "name": "Letters of Bernard Thorne", "start": "2:54:26" },
@@ -5521,6 +5521,10 @@
       { "twitch": "2513947018", "subrefs": [
         { "name": "Eriksholm: The Stolen Dream", "start": "22:33" },
         { "name": "Neverwinter Nights 2: Enhanced Edition", "start": "2:24:22" }
+      ] },
+      { "twitch": "2529080504", "subrefs": [
+        { "name": "Ells Tales: Chairbound", "start": "1:31:50" },
+        { "name": "NINJA GAIDEN: Ragebound", "start": "4:08:28" }
       ] }
     ]
   },
