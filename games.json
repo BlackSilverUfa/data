@@ -4167,7 +4167,6 @@
         { "name": "Party Hard", "start": "1:38:18" }
       ] },
       { "name": "Adoption", "twitch": "289052085", "segment": 1 },
-      { "name": "True Fear: Forsaken Souls Part 1", "twitch": "290213414", "segment": 1 },
       { "name": "Fractured Lands", "twitch": "291791543", "segment": 0 },
       { "name": "Egress", "twitch": "292591348" },
       { "twitch": "293415850", "subrefs": [
@@ -11395,7 +11394,7 @@
   },
   {
     "name": "Robotization: The Last Human (демо)",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "robotization",
     "streams": [
       { "name": "1", "twitch": "1725890606", "start": "2:12:26" },
@@ -11651,6 +11650,15 @@
     "streams": [
       { "name": "1", "twitch": "2526430465", "start": "28:12" },
       { "name": "2", "twitch": "2527282113", "start": "1:34:14" }
+    ]
+  },
+  {
+    "name": "True Fear: Forsaken Souls Part 1",
+    "category": "ongoing",
+    "id": "true-fear-fs1",
+    "streams": [
+      { "name": "Первый взгляд", "twitch": "290213414", "segment": 1 },
+      { "name": "1", "twitch": "2529979157", "start": "18:53" }
     ]
   }
 ]
