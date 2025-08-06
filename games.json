@@ -5521,10 +5521,7 @@
         { "name": "Eriksholm: The Stolen Dream", "start": "22:33" },
         { "name": "Neverwinter Nights 2: Enhanced Edition", "start": "2:24:22" }
       ] },
-      { "twitch": "2529080504", "subrefs": [
-        { "name": "Ells Tales: Chairbound", "start": "1:31:50" },
-        { "name": "NINJA GAIDEN: Ragebound", "start": "4:08:28" }
-      ] }
+      { "name": "NINJA GAIDEN: Ragebound", "twitch": "2529080504", "start": "4:08:28" }
     ]
   },
   {
@@ -7496,7 +7493,8 @@
       { "name": "4 (с Димами)", "twitch": "1902891024", "start": "46:52" },
       { "name": "5 (с тремя Димами)", "twitch": "2011805602", "start": "1:13:48" },
       { "name": "5 (с тремя Димами)", "twitch": "2172620884", "start": "4:05:00" },
-      { "name": "6 (4D)", "twitch": "2522856060", "start": "3:58:00" }
+      { "name": "6 (4D)", "twitch": "2522856060", "start": "3:58:00" },
+      { "name": "7 (4D)", "twitch": "2532558215", "start": "2:20:31" }
     ]
   },
   {
@@ -11540,7 +11538,8 @@
     "streams": [
       { "name": "1", "twitch": "2510385552", "start": "3:30:01" },
       { "name": "2", "twitch": "2513085560", "start": "1:04:21" },
-      { "name": "3", "twitch": "2516607797", "start": "3:21:04" }
+      { "name": "3", "twitch": "2516607797", "start": "3:21:04" },
+      { "name": "4 (финал)", "twitch": "2532558215", "start": "4:46:34" }
     ]
   },
   {
@@ -11659,6 +11658,15 @@
     "streams": [
       { "name": "Первый взгляд", "twitch": "290213414", "segment": 1 },
       { "name": "1", "twitch": "2529979157", "start": "18:53" }
+    ]
+  },
+  {
+    "name": "Ells Tales: Chairbound",
+    "category": "ongoing",
+    "id": "ells-tales-chair",
+    "streams": [
+      { "name": "1", "twitch": "2529080504", "start": "1:31:50" },
+      { "name": "2", "twitch": "2532558215", "start": "44:37" }
     ]
   }
 ]
