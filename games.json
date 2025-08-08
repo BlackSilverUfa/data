@@ -5522,10 +5522,7 @@
         { "name": "Neverwinter Nights 2: Enhanced Edition", "start": "2:24:22" }
       ] },
       { "name": "NINJA GAIDEN: Ragebound", "twitch": "2529080504", "start": "4:08:28" },
-      { "twitch": "2533434372", "subrefs": [
-        { "name": "Battlefield 6 (бета)", "start": "1:28" },
-        { "name": "Mafia: The Old Country", "start": "54:52" }
-      ] }
+      { "name": "Battlefield 6 (бета)", "twitch": "2533434372", "start": "1:28" }
     ]
   },
   {
@@ -11671,6 +11668,15 @@
     "streams": [
       { "name": "1", "twitch": "2529080504", "start": "1:31:50" },
       { "name": "2", "twitch": "2532558215", "start": "44:37" }
+    ]
+  },
+  {
+    "name": "Mafia: The Old Country",
+    "category": "finished",
+    "id": "mafia-toc",
+    "streams": [
+      { "name": "1", "twitch": "2533434372", "start": "54:52" },
+      { "name": "2", "twitch": "2534392013,2534676528", "start": "5:41" }
     ]
   }
 ]
