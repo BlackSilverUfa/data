@@ -5522,7 +5522,12 @@
         { "name": "Neverwinter Nights 2: Enhanced Edition", "start": "2:24:22" }
       ] },
       { "name": "NINJA GAIDEN: Ragebound", "twitch": "2529080504", "start": "4:08:28" },
-      { "name": "Battlefield 6 (бета)", "twitch": "2533434372", "start": "1:28" }
+      { "name": "Battlefield 6 (бета)", "twitch": "2533434372", "start": "1:28" },
+      { "twitch": "2536326874", "subrefs": [
+        { "name": "Liminal Exit", "start": "29:57" },
+        { "name": "O.M.N.I.S.: Overnight Train", "start": "56:40" },
+        { "name": "The Hollow Lighthouse", "start": "3:05:43" }
+      ] }
     ]
   },
   {
@@ -5872,7 +5877,6 @@
       { "twitch": "2505174390", "subrefs": [
         { "name": "Rohner's Backrooms", "start": "28:17" },
         { "name": "Don't Mess With Bober", "start": "1:09:04" },
-        { "name": "Loan Shark (демо)", "start": "2:05:59" },
         { "name": "Place (демо)", "start": "4:05:07" },
         { "name": "Bunker 73", "start": "4:39:51" }
       ] },
@@ -5891,6 +5895,11 @@
         { "name": "The Miller Farm", "start": "2:27:03" },
         { "name": "Bleak Haven (демо)", "start": "3:18:31" },
         { "name": "Eight Feet Tall", "start": "4:47:57" }
+      ] },
+      { "twitch": "2536326874", "subrefs": [
+        { "name": "Mom's Hotel", "start": "1:13:32" },
+        { "name": "The Last Ski Trip", "start": "2:02:08" },
+        { "name": "Peasant Nightmare", "start": "4:28:34" }
       ] }
     ]
   },
@@ -10781,7 +10790,8 @@
       { "name": "29", "twitch": "2507784545" },
       { "name": "30", "twitch": "2511344577" },
       { "name": "31", "twitch": "2517564061" },
-      { "name": "32", "twitch": "2523773918" }
+      { "name": "32", "twitch": "2523773918" },
+      { "name": "33", "twitch": "2536326874" }
     ]
   },
   {
@@ -11677,6 +11687,15 @@
     "streams": [
       { "name": "1", "twitch": "2533434372", "start": "54:52" },
       { "name": "2", "twitch": "2534392013,2534676528", "start": "5:41" }
+    ]
+  },
+  {
+    "name": "Loan Shark",
+    "category": "finished",
+    "id": "loan-shark",
+    "streams": [
+      { "name": "Демо", "twitch": "2505174390", "start": "2:05:59" },
+      { "name": "Прохождение", "twitch": "2536326874", "start": "3:30:28" }
     ]
   }
 ]
