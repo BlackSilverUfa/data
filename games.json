@@ -5316,7 +5316,6 @@
         { "name": "Back Rooms: The Old Watcher", "start": "3:06:37" },
         { "name": "Satan's Dungeon", "start": "4:15:10" }
       ] },
-      { "name": "Static Dread (демо)", "twitch": "2375686253", "start": "3:04:54" },
       { "twitch": "2380042056", "subrefs": [
         { "name": "Twisted Tower (демо)", "start": "2:30:45" },
         { "name": "Sancticide (демо)", "start": "3:11:03" }
@@ -11703,6 +11702,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2505174390", "start": "2:05:59" },
       { "name": "Прохождение", "twitch": "2536326874", "start": "3:30:28" }
+    ]
+  },
+  {
+    "name": "Static Dread: The Lighthouse",
+    "category": "ongoing",
+    "id": "static-dread",
+    "streams": [
+      { "name": "Демо", "twitch": "2375686253", "start": "3:04:54" },
+      { "name": "1", "twitch": "2538025119", "start": "26:22" }
     ]
   }
 ]
