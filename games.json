@@ -5452,10 +5452,7 @@
         { "name": "Vlad Circus: Curse of Asmodeus (демо)", "start": "4:10:45" }
       ] },
       { "name": "Cash Cleaner Simulator", "twitch": "2464472748,2464555922", "start": "27:17" },
-      { "twitch": "2465344778", "subrefs": [
-        { "name": "Bus Flipper Simulator (демо)", "start": "45:55" },
-        { "name": "Tainted Grail: The Fall of Avalon (демо)", "start": "2:03:50" }
-      ] },
+      { "name": "Tainted Grail: The Fall of Avalon (демо)", "twitch": "2465344778", "start": "2:03:50" },
       { "twitch": "2467989555", "subrefs": [
         { "name": "Hotel 188", "start": "19:20" },
         { "name": "Jawbone Hollow", "start": "4:53:50" }
@@ -5526,7 +5523,8 @@
         { "name": "Liminal Exit", "start": "29:57" },
         { "name": "O.M.N.I.S.: Overnight Train", "start": "56:40" },
         { "name": "The Hollow Lighthouse", "start": "3:05:43" }
-      ] }
+      ] },
+      { "name": "One Man's Trash", "twitch": "2539754944", "start": "1:38:48" }
     ]
   },
   {
@@ -11467,7 +11465,7 @@
   },
   {
     "name": "The Precinct",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "precinct",
     "streams": [
       { "name": "Демо", "twitch": "2276579699", "start": "1:14:43" },
@@ -11711,6 +11709,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2375686253", "start": "3:04:54" },
       { "name": "1", "twitch": "2538025119", "start": "26:22" }
+    ]
+  },
+  {
+    "name": "Bus Flipper Simulator",
+    "category": "ongoing",
+    "id": "bus-flipper",
+    "streams": [
+      { "name": "Демо", "twitch": "2465344778", "start": "45:55" },
+      { "name": "Релиз", "twitch": "2539754944", "start": "39:00" }
     ]
   }
 ]
