@@ -11672,11 +11672,12 @@
   },
   {
     "name": "True Fear: Forsaken Souls Part 1",
-    "category": "ongoing",
+    "category": "finished",
     "id": "true-fear-fs1",
     "streams": [
       { "name": "Первый взгляд", "twitch": "290213414", "segment": 1 },
-      { "name": "1", "twitch": "2529979157", "start": "18:53" }
+      { "name": "1", "twitch": "2529979157", "start": "18:53" },
+      { "name": "2", "twitch": "2541580117", "start": "24:42" }
     ]
   },
   {
