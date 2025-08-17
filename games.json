@@ -5525,7 +5525,12 @@
         { "name": "The Hollow Lighthouse", "start": "3:05:43" }
       ] },
       { "name": "One Man's Trash", "twitch": "2539754944", "start": "1:38:48" },
-      { "name": "GONE Fishing", "twitch": "2540650368", "start": "40:01" }
+      { "name": "GONE Fishing", "twitch": "2540650368", "start": "40:01" },
+      { "twitch": "2542477703", "subrefs": [
+        { "name": "BackRooms X", "start": "13:50" },
+        { "name": "Crank it!", "start": "4:12:24" },
+        { "name": "Japan Stigmatized Property", "start": "4:41:07" }
+      ] }
     ]
   },
   {
@@ -5905,6 +5910,13 @@
         { "name": "Deadcam", "start": "3:02:42" },
         { "name": "SLACKJAW", "start": "3:58:11" },
         { "name": "Them", "start": "4:59:34" }
+      ] },
+      { "twitch": "2542477703", "subrefs": [
+        { "name": "Zooparasite", "start": "1:08:59" },
+        { "name": "Garbage Take Out Day", "start": "2:06:02" },
+        { "name": "Death Flush", "start": "2:21:16" },
+        { "name": "Restorer", "start": "3:02:07" },
+        { "name": "Dressing room", "start": "3:56:30" }
       ] }
     ]
   },
@@ -10797,7 +10809,8 @@
       { "name": "30", "twitch": "2511344577" },
       { "name": "31", "twitch": "2517564061" },
       { "name": "32", "twitch": "2523773918" },
-      { "name": "33", "twitch": "2536326874" }
+      { "name": "33", "twitch": "2536326874" },
+      { "name": "34", "twitch": "2542477703" }
     ]
   },
   {
