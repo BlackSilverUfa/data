@@ -124,10 +124,11 @@
   },
   {
     "name": "Metal Gear Solid ∆: Snake Eater",
-    "category": "ongoing",
+    "category": "finished",
     "id": "mgs-delta",
     "streams": [
-      { "name": "1", "twitch": "2549314470", "start": "30:09" }
+      { "name": "1", "twitch": "2549314470", "start": "30:09" },
+      { "name": "2", "twitch": "2550120334", "start": "9:38" }
     ]
   },
   {
