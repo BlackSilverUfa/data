@@ -758,7 +758,8 @@
     "streams": [
       { "name": "Бета 1 (кооп)", "twitch": "1624846104", "start": "2:20:43" },
       { "name": "Бета 2 (соло)", "twitch": "1657037267", "start": "17:40" },
-      { "name": "Релиз (кооп)", "twitch": "2547630139", "start": "50:50" }
+      { "name": "1", "twitch": "2547630139", "start": "50:50" },
+      { "name": "2", "twitch": "2553592576", "start": "4:47:11" }
     ]
   },
   {
@@ -3085,7 +3086,6 @@
         { "name": "Loggerhead (демо)", "start": "2:13:21" }
       ] },
       { "twitch": "1994975780", "subrefs": [
-        { "name": "The Exit 8", "start": "42:33" },
         { "name": "Graveyard Shift", "start": "2:17:09" },
         { "name": "Buried Alive: Breathless Rescue", "start": "3:42:27" },
         { "name": "Fatal Midnight", "start": "4:58:05" }
@@ -5957,7 +5957,8 @@
         { "name": "Inside the Flesh Engine (демо)", "start": "1:17:35" },
         { "name": "Petsitting", "start": "3:29:36" },
         { "name": "In the Forest with a Beaver", "start": "3:54:37" }
-      ] }
+      ] },
+      { "name": "Koloboke: Sickness Simulator (демо)", "twitch": "2553592576", "start": "2:08:02" }
     ]
   },
   {
@@ -6400,8 +6401,7 @@
         { "name": "Y. Village: The Visitors", "start": "1:22:32" },
         { "name": "Hibernation", "start": "3:11:24" },
         { "name": "Carne Vescens", "start": "3:26:36" },
-        { "name": "Silver Falls", "start": "3:43:51" },
-        { "name": "Eclipsium (демо)", "start": "4:21:01" }
+        { "name": "Silver Falls", "start": "3:43:51" }
       ] },
       { "name": "Midnight Scenes: A Safe Place", "twitch": "2104774881", "start": "43:45" },
       { "twitch": "2113378651", "subrefs": [
@@ -11612,7 +11612,8 @@
       { "name": "2", "twitch": "2513085560", "start": "1:04:21" },
       { "name": "3", "twitch": "2516607797", "start": "3:21:04" },
       { "name": "4 (финал)", "twitch": "2532558215", "start": "4:46:34" },
-      { "name": "5", "twitch": "2540650368", "start": "2:10:23" }
+      { "name": "5", "twitch": "2540650368", "start": "2:10:23" },
+      { "name": "6", "twitch": "2553592576", "start": "3:20:14" }
     ]
   },
   {
@@ -11779,6 +11780,24 @@
     "streams": [
       { "name": "Демо", "twitch": "2465344778", "start": "45:55" },
       { "name": "Релиз", "twitch": "2539754944", "start": "39:00" }
+    ]
+  },
+  {
+    "name": "The Exit 8",
+    "category": "ongoing",
+    "id": "exit-8",
+    "streams": [
+      { "name": "1", "twitch": "1994975780", "start": "42:33" },
+      { "name": "2", "twitch": "2553592576", "start": "1:21:34" }
+    ]
+  },
+  {
+    "name": "Eclipsium",
+    "category": "finished",
+    "id": "eclipsium",
+    "streams": [
+      { "name": "Демо 1", "twitch": "2103837925", "start": "4:21:01" },
+      { "name": "Демо 2", "twitch": "2553592576", "start": "2:49:04" }
     ]
   }
 ]
