@@ -5572,7 +5572,8 @@
       { "twitch": "2557063195", "subrefs": [
         { "name": "Auto-Crisis", "start": "35:26" },
         { "name": "A Twisted Place (демо)", "start": "2:21:02" }
-      ] }
+      ] },
+      { "name": "Hollow Knight: Silksong", "twitch": "2557850800", "start": "2:24:15" }
     ]
   },
   {
@@ -10352,7 +10353,8 @@
       { "name": "12", "twitch": "439860739" },
       { "name": "13", "twitch": "440294828" },
       { "name": "14", "twitch": "440765344" },
-      { "name": "15", "twitch": "461911206" }
+      { "name": "15", "twitch": "461911206" },
+      { "name": "16 (заново, перед Silksong)", "twitch": "2557850800", "start": "23:42" }
     ]
   },
   {
