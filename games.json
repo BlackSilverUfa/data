@@ -5572,8 +5572,7 @@
       { "twitch": "2557063195", "subrefs": [
         { "name": "Auto-Crisis", "start": "35:26" },
         { "name": "A Twisted Place (демо)", "start": "2:21:02" }
-      ] },
-      { "name": "Hollow Knight: Silksong", "twitch": "2557850800", "start": "2:24:15" }
+      ] }
     ]
   },
   {
@@ -11640,7 +11639,8 @@
       { "name": "3", "twitch": "2516607797", "start": "3:21:04" },
       { "name": "4 (финал)", "twitch": "2532558215", "start": "4:46:34" },
       { "name": "5", "twitch": "2540650368", "start": "2:10:23" },
-      { "name": "6", "twitch": "2553592576", "start": "3:20:14" }
+      { "name": "6", "twitch": "2553592576", "start": "3:20:14" },
+      { "name": "7 (соло)", "twitch": "2558658244", "start": "5:40:27" }
     ]
   },
   {
@@ -11843,6 +11843,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2382739461", "start": "1:34:31" },
       { "name": "Релиз", "twitch": "2557063195", "start": "3:46:21" }
+    ]
+  },
+  {
+    "name": "Hollow Knight: Silksong",
+    "category": "ongoing",
+    "id": "hk-silksong",
+    "streams": [
+      { "name": "1", "twitch": "2557850800", "start": "2:24:15" },
+      { "name": "2", "twitch": "2558658244", "start": "15:15" }
     ]
   }
 ]
