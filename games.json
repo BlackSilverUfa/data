@@ -5577,6 +5577,10 @@
       { "twitch": "2557063195", "subrefs": [
         { "name": "Auto-Crisis", "start": "35:26" },
         { "name": "A Twisted Place (демо)", "start": "2:21:02" }
+      ] },
+      { "twitch": "2560483396", "subrefs": [
+        { "name": "The Backrooms: Reset", "start": "20:33" },
+        { "name": "Den-Den: Tokyo Horror (демо)", "start": "4:55:11" }
       ] }
     ]
   },
@@ -5899,7 +5903,6 @@
       ] },
       { "twitch": "2474256633", "subrefs": [
         { "name": "LIMINALPHOBIA (демо)", "start": "18:00" },
-        { "name": "Uncanny Tales: 1992 (демо)", "start": "47:53" },
         { "name": "Thunderhead", "start": "1:08:47" },
         { "name": "Nightmares Awake (демо)", "start": "1:29:37" },
         { "name": "SCP: Control Error", "start": "2:07:58" },
@@ -5977,6 +5980,12 @@
         { "name": "Gutter Night", "start": "1:40:22" },
         { "name": "Middle of Nowhere: No Power Village", "start": "2:09:38" },
         { "name": "Храм Детей (демо)", "start": "2:47:29" }
+      ] },
+      { "twitch": "2560483396", "subrefs": [
+        { "name": "Blood Bear", "start": "28:15" },
+        { "name": "Fear the Unknown: Jamie Story", "start": "2:24:15" },
+        { "name": "The Butterfly", "start": "3:37:31" },
+        { "name": "ZahmahreL", "start": "4:12:57" }
       ] }
     ]
   },
@@ -10882,7 +10891,8 @@
       { "name": "34", "twitch": "2542477703" },
       { "name": "35", "twitch": "2548515834" },
       { "name": "36", "twitch": "2554541400" },
-      { "name": "37", "twitch": "2557063195" }
+      { "name": "37", "twitch": "2557063195" },
+      { "name": "38", "twitch": "2560483396" }
     ]
   },
   {
@@ -11859,6 +11869,15 @@
       { "name": "1", "twitch": "2557850800", "start": "2:24:15" },
       { "name": "2", "twitch": "2558658244", "start": "15:15" },
       { "name": "3", "twitch": "2559531337", "start": "13:11" }
+    ]
+  },
+  {
+    "name": "Uncanny Tales: 1992",
+    "category": "finished",
+    "id": "uncanny-tales",
+    "streams": [
+      { "name": "Демо", "twitch": "2474256633", "start": "47:53" },
+      { "name": "Прохождение", "twitch": "2560483396", "start": "1:28:27" }
     ]
   }
 ]
