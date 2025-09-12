@@ -1893,7 +1893,8 @@
       { "name": "Dead Space Remake Dev Stream", "twitch": "1134934289", "start": "3:57:26" },
       { "name": "Nintendo Direct: Nintendo Switch 2", "twitch": "2421947533,2422099767", "start": "7:30" },
       { "name": "Nintendo Direct (июль 2025)", "twitch": "2527282113", "start": "31:46" },
-      { "name": "THQ Nordic Digital Showcase 2025", "twitch": "2529080504", "start": "51:29" }
+      { "name": "THQ Nordic Digital Showcase 2025", "twitch": "2529080504", "start": "51:29" },
+      { "name": "Nintendo Direct (сентябрь 2025)", "twitch": "2564525802", "start": "11:53" }
     ]
   },
   {
@@ -5582,7 +5583,8 @@
       { "twitch": "2560483396", "subrefs": [
         { "name": "The Backrooms: Reset", "start": "20:33" },
         { "name": "Den-Den: Tokyo Horror (демо)", "start": "4:55:11" }
-      ] }
+      ] },
+      { "name": "Sunken Engine", "twitch": "2564525802", "start": "4:21:23" }
     ]
   },
   {
@@ -5987,6 +5989,10 @@
         { "name": "Fear the Unknown: Jamie Story", "start": "2:24:15" },
         { "name": "The Butterfly", "start": "3:37:31" },
         { "name": "ZahmahreL", "start": "4:12:57" }
+      ] },
+      { "twitch": "2564525802", "subrefs": [
+        { "name": "Dead Reset", "start": "1:12:02" },
+        { "name": "Blueman (демо)", "start": "3:44:07" }
       ] }
     ]
   },
