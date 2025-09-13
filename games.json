@@ -459,7 +459,6 @@
         { "name": "Nuclear Nightmare", "start": "6:29:43" }
       ] },
       { "twitch": "2324789015", "subrefs": [
-        { "name": "Fast Food Simulator", "start": "3:24:24" },
         { "name": "Zort", "start": "5:00:53" },
         { "name": "Make Way", "start": "6:52:58" }
       ] },
@@ -486,6 +485,10 @@
         { "name": "Unpossess", "start": "3:24:42" },
         { "name": "4 Rush Together", "start": "4:24:46" },
         { "name": "Oblin Party", "start": "4:31:42" }
+      ] },
+      { "twitch": "2565334988", "subrefs": [
+        { "name": "Keep Digging", "start": "3:19:19" },
+        { "name": "Chained in the Backrooms", "start": "5:42:26" }
       ] }
     ]
   },
@@ -5563,7 +5566,6 @@
         { "name": "The Hollow Lighthouse", "start": "3:05:43" }
       ] },
       { "name": "One Man's Trash", "twitch": "2539754944", "start": "1:38:48" },
-      { "name": "GONE Fishing", "twitch": "2540650368", "start": "40:01" },
       { "twitch": "2542477703", "subrefs": [
         { "name": "BackRooms X", "start": "13:50" },
         { "name": "Japan Stigmatized Property", "start": "4:41:07" }
@@ -11877,7 +11879,8 @@
       { "name": "2", "twitch": "2558658244", "start": "15:15" },
       { "name": "3", "twitch": "2559531337", "start": "13:11" },
       { "name": "4", "twitch": "2561240653", "start": "37:06" },
-      { "name": "5", "twitch": "2562042708", "start": "13:17" }
+      { "name": "5", "twitch": "2562042708", "start": "13:17" },
+      { "name": "6", "twitch": "2565334988", "start": "13:22" }
     ]
   },
   {
@@ -11887,6 +11890,24 @@
     "streams": [
       { "name": "Демо", "twitch": "2474256633", "start": "47:53" },
       { "name": "Прохождение", "twitch": "2560483396", "start": "1:28:27" }
+    ]
+  },
+  {
+    "name": "GONE Fishing",
+    "category": "ongoing",
+    "id": "gone-fishing",
+    "streams": [
+      { "name": "Демо", "twitch": "2540650368", "start": "40:01" },
+      { "name": "Кооп", "twitch": "2565334988", "start": "5:02:49" }
+    ]
+  },
+  {
+    "name": "Fast Food Simulator",
+    "category": "co-op",
+    "id": "fast-food-sim",
+    "streams": [
+      { "name": "1", "twitch": "2324789015", "start": "3:24:24" },
+      { "name": "2", "twitch": "2565334988", "start": "6:03:47" }
     ]
   }
 ]
