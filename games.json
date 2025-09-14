@@ -5995,6 +5995,12 @@
       { "twitch": "2564525802", "subrefs": [
         { "name": "Dead Reset", "start": "1:12:02" },
         { "name": "Blueman (демо)", "start": "3:44:07" }
+      ] },
+      { "twitch": "2566251413", "subrefs": [
+        { "name": "Liminal Trauma (демо)", "start": "2:09:40" },
+        { "name": "Human Harvest", "start": "2:41:51" },
+        { "name": "Digested (демо)", "start": "2:49:34" },
+        { "name": "Silent Residence", "start": "3:27:48" }
       ] }
     ]
   },
@@ -10901,7 +10907,8 @@
       { "name": "35", "twitch": "2548515834" },
       { "name": "36", "twitch": "2554541400" },
       { "name": "37", "twitch": "2557063195" },
-      { "name": "38", "twitch": "2560483396" }
+      { "name": "38", "twitch": "2560483396" },
+      { "name": "39", "twitch": "2566251413" }
     ]
   },
   {
