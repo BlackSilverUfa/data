@@ -5586,7 +5586,8 @@
         { "name": "The Backrooms: Reset", "start": "20:33" },
         { "name": "Den-Den: Tokyo Horror (демо)", "start": "4:55:11" }
       ] },
-      { "name": "Sunken Engine", "twitch": "2564525802", "start": "4:21:23" }
+      { "name": "Sunken Engine", "twitch": "2564525802", "start": "4:21:23" },
+      { "name": "The Lift (демо)", "twitch": "2568619841", "start": "28:39" }
     ]
   },
   {
@@ -6867,10 +6868,11 @@
     "category": "abandoned",
     "id": "nimnah",
     "streams": [
-      { "name": "1", "twitch": "2228324519", "start": "3:39:42" },
+      { "name": "1 (демо)", "twitch": "2228324519", "start": "3:39:42" },
       { "name": "2", "twitch": "2231748428", "start": "5:03:53" },
       { "name": "3", "twitch": "2236123674", "start": "4:07:55" },
-      { "name": "4", "twitch": "2483947367", "start": "5:05:22" }
+      { "name": "4", "twitch": "2483947367", "start": "5:05:22" },
+      { "name": "Релиз", "twitch": "2568619841", "start": "2:09:15" }
     ]
   },
   {
@@ -11631,7 +11633,7 @@
   },
   {
     "name": "Five Nights at Freddy's: Secret of the Mimic",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "fnaf-sotm",
     "streams": [
       { "name": "Первый взгляд", "twitch": "2484807936", "start": "5:39:21" },
@@ -11650,7 +11652,7 @@
   },
   {
     "name": "Stellar Blade",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "stellar-blade",
     "streams": [
       { "twitch": "2107695454", "subrefs": [
