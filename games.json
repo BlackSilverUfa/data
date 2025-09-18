@@ -5587,7 +5587,7 @@
         { "name": "Den-Den: Tokyo Horror (демо)", "start": "4:55:11" }
       ] },
       { "name": "Sunken Engine", "twitch": "2564525802", "start": "4:21:23" },
-      { "name": "The Lift (демо)", "twitch": "2568619841", "start": "28:39" }
+      { "name": "Dying Light: The Beast", "twitch": "2569405622", "start": "4:52:31" }
     ]
   },
   {
@@ -6872,7 +6872,8 @@
       { "name": "2", "twitch": "2231748428", "start": "5:03:53" },
       { "name": "3", "twitch": "2236123674", "start": "4:07:55" },
       { "name": "4", "twitch": "2483947367", "start": "5:05:22" },
-      { "name": "Релиз", "twitch": "2568619841", "start": "2:09:15" }
+      { "name": "1 (релиз)", "twitch": "2568619841", "start": "2:09:15" },
+      { "name": "2", "twitch": "2569405622", "start": "50:19" }
     ]
   },
   {
@@ -11917,6 +11918,15 @@
     "streams": [
       { "name": "1", "twitch": "2324789015", "start": "3:24:24" },
       { "name": "2", "twitch": "2565334988", "start": "6:03:47" }
+    ]
+  },
+  {
+    "name": "The Lift (демо)",
+    "category": "ongoing",
+    "id": "the-lift",
+    "streams": [
+      { "name": "1", "twitch": "2568619841", "start": "28:39" },
+      { "name": "2", "twitch": "2569405622", "start": "7:31" }
     ]
   }
 ]
