@@ -6002,6 +6002,11 @@
         { "name": "Human Harvest", "start": "2:41:51" },
         { "name": "Digested (демо)", "start": "2:49:34" },
         { "name": "Silent Residence", "start": "3:27:48" }
+      ] },
+      { "twitch": "2570229778", "subrefs": [
+        { "name": "The Lightkeeper", "start": "3:02:18" },
+        { "name": "August Night", "start": "5:08:55" },
+        { "name": "SNAP SNAP", "start": "5:39:48" }
       ] }
     ]
   },
@@ -10911,7 +10916,8 @@
       { "name": "36", "twitch": "2554541400" },
       { "name": "37", "twitch": "2557063195" },
       { "name": "38", "twitch": "2560483396" },
-      { "name": "39", "twitch": "2566251413" }
+      { "name": "39", "twitch": "2566251413" },
+      { "name": "40", "twitch": "2570229778" }
     ]
   },
   {
@@ -11890,7 +11896,8 @@
       { "name": "3", "twitch": "2559531337", "start": "13:11" },
       { "name": "4", "twitch": "2561240653", "start": "37:06" },
       { "name": "5", "twitch": "2562042708", "start": "13:17" },
-      { "name": "6", "twitch": "2565334988", "start": "13:22" }
+      { "name": "6", "twitch": "2565334988", "start": "13:22" },
+      { "name": "7", "twitch": "2570229778", "start": "13:27" }
     ]
   },
   {
