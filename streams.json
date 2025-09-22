@@ -98,7 +98,7 @@
   "001605070": { "youtube": "8ty_Aq13Rlw" },
   "001605080": { "youtube": "dRuOZGJmcVg", "official": false },
   "001605090": { "youtube": "bi7ppSLLOyE", "official": false },
-  "001605120": { "youtube": "8R6yPR36WtY", "official": false },
+  "001605120": {  },
   "001605140": { "youtube": "Y-crlryfFtQ", "official": false },
   "001605141": { "youtube": "TrXcVDIlexw", "official": false },
   "001605240": { "youtube": "iTIk_i3GHYs", "official": false },
@@ -329,7 +329,6 @@
   "219463387": { "youtube": "tj3Rx47t8FI" },
   "219489801": { "youtube": "Pcq0fsgbrOA" },
   "219819121": {
-    "youtube": "4tbKXowGdSk",
     "note": "Twitch удалил некоторые участки звуковой дорожки (см. таймкоды)"
   },
   "220513992": { "youtube": "CE21Sxn4xzE" },
