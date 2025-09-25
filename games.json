@@ -5518,10 +5518,7 @@
         { "name": "Nintendo Switch 2 Welcome Tour", "start": "2:26:45" },
         { "name": "Fast Fusion", "start": "2:38:51" }
       ] },
-      { "twitch": "2483947367", "subrefs": [
-        { "name": "MindsEye", "start": "31:16" },
-        { "name": "Baby Steps (демо)", "start": "3:13:58" }
-      ] },
+      { "name": "MindsEye", "twitch": "2483947367", "start": "31:16" },
       { "twitch": "2485778585", "subrefs": [
         { "name": "Fecal Freighter", "start": "1:49:16" },
         { "name": "Dr. Viscera", "start": "2:04:59" },
@@ -5585,7 +5582,8 @@
         { "name": "Den-Den: Tokyo Horror (демо)", "start": "4:55:11" }
       ] },
       { "name": "Sunken Engine", "twitch": "2564525802", "start": "4:21:23" },
-      { "name": "Dying Light: The Beast", "twitch": "2569405622", "start": "4:52:31" }
+      { "name": "Dying Light: The Beast", "twitch": "2569405622", "start": "4:52:31" },
+      { "name": "Motorslice (демо)", "twitch": "2575282328", "start": "14:02" }
     ]
   },
   {
@@ -11961,6 +11959,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2480467576,2480584019", "start": "3:14:10" },
       { "name": "Релиз", "twitch": "2571174483", "start": "4:29:23" }
+    ]
+  },
+  {
+    "name": "Baby Steps",
+    "category": "ongoing",
+    "id": "baby-steps",
+    "streams": [
+      { "name": "Демо", "twitch": "2483947367", "start": "3:13:58" },
+      { "name": "Релиз", "twitch": "2575282328", "start": "1:13:43" }
     ]
   }
 ]
