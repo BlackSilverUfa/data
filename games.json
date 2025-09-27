@@ -5582,7 +5582,6 @@
         { "name": "Den-Den: Tokyo Horror (демо)", "start": "4:55:11" }
       ] },
       { "name": "Sunken Engine", "twitch": "2564525802", "start": "4:21:23" },
-      { "name": "Dying Light: The Beast", "twitch": "2569405622", "start": "4:52:31" },
       { "name": "Motorslice (демо)", "twitch": "2575282328", "start": "14:02" }
     ]
   },
@@ -11967,7 +11966,17 @@
     "id": "baby-steps",
     "streams": [
       { "name": "Демо", "twitch": "2483947367", "start": "3:13:58" },
-      { "name": "Релиз", "twitch": "2575282328", "start": "1:13:43" }
+      { "name": "1", "twitch": "2575282328", "start": "1:13:43" },
+      { "name": "2", "twitch": "2577004877,2577175377", "start": "5:08" }
+    ]
+  },
+  {
+    "name": "Dying Light: The Beast",
+    "category": "co-op",
+    "id": "dying-light-beast",
+    "streams": [
+      { "name": "Соло", "twitch": "2569405622", "start": "4:52:31" },
+      { "name": "1", "twitch": "2577004877,2577175377", "start": "2:59:34" }
     ]
   }
 ]
