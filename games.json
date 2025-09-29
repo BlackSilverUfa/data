@@ -3883,7 +3883,8 @@
       { "name": "Новый год 2024 (клипы)", "twitch": "2018850210" },
       { "name": "Тестовый стрим (20.02.24)", "twitch": "2068467078" },
       { "name": "Новый год 2025 (клипы)", "twitch": "2340621815" },
-      { "name": "Nintendo Switch 2", "twitch": "2478592997", "start": "59:18" }
+      { "name": "Nintendo Switch 2", "twitch": "2478592997", "start": "59:18" },
+      { "name": "Подкаст про Silent Hill ƒ (WeLoveGames, Dmitry Bale)", "twitch": "2578806165", "start": "1:54:54" }
     ]
   },
   {
@@ -5587,7 +5588,7 @@
   },
   {
     "name": "Silent Hill ƒ",
-    "category": "ongoing",
+    "category": "finished",
     "id": "sh-f",
     "streams": [
       { "name": "1", "twitch": "2572833460", "start": "30:45" },
