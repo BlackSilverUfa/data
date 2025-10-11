@@ -5596,8 +5596,7 @@
         { "name": "IRE: A Prologue (демо)", "start": "2:04:03" },
         { "name": "Side Effects (демо)", "start": "3:37:58" },
         { "name": "Owl Lights", "start": "4:50:19" }
-      ] },
-      { "name": "Ratatouille", "twitch": "2583885410", "start": "16:22" }
+      ] }
     ]
   },
   {
@@ -12035,6 +12034,15 @@
     "streams": [
       { "name": "Демо 1", "twitch": "1701325068", "start": "1:46:03" },
       { "name": "Демо 2", "twitch": "2582997412", "start": "3:23:24" }
+    ]
+  },
+  {
+    "name": "Ratatouille",
+    "category": "finished",
+    "id": "ratatouille",
+    "streams": [
+      { "name": "1", "twitch": "2583885410", "start": "16:22" },
+      { "name": "2", "twitch": "2588974324", "start": "38:58" }
     ]
   }
 ]
