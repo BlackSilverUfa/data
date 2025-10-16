@@ -6077,7 +6077,8 @@
         { "name": "Beneath (демо)", "start": "30:46" },
         { "name": "Ghost Ripper (демо)", "start": "1:46:36" },
         { "name": "Whispering Fog (демо)", "start": "2:48:26" }
-      ] }
+      ] },
+      { "name": "Skinfreak", "twitch": "2593267290", "start": "37:31" }
     ]
   },
   {
@@ -11655,7 +11656,7 @@
   },
   {
     "name": "Dune: Awakening",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "dune-awakening",
     "streams": [
       { "name": "Демо", "twitch": "2387156230", "start": "45:52" },
