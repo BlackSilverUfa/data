@@ -5467,7 +5467,6 @@
         { "name": "Backrooms: Exit from Supermarket Horror (демо)", "start": "1:07:44" }
       ] },
       { "twitch": "2449126768", "subrefs": [
-        { "name": "ARC Raiders", "start": "38:00" },
         { "name": "Cop Bastard (демо)", "start": "4:26:14" },
         { "name": "ARC Raiders (продолжение)", "start": "5:13:13", "hidden": true }
       ] },
@@ -5612,7 +5611,8 @@
         { "name": "Трейлер Rules of Engagement: The Grey State", "start": "16:42" },
         { "name": "Platform 0 (демо)", "start": "1:27:27" },
         { "name": "Holes (демо)", "start": "2:40:06" }
-      ] }
+      ] },
+      { "name": "Painkiller", "twitch": "2594940527", "start": "23:37" }
     ]
   },
   {
@@ -11765,7 +11765,7 @@
   },
   {
     "name": "Donkey Kong Bananza",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "donkey-kong-bananza",
     "streams": [
       { "name": "1", "twitch": "2515697927", "start": "22:17" },
@@ -12052,7 +12052,8 @@
     "streams": [
       { "name": "Соло", "twitch": "2569405622", "start": "4:52:31" },
       { "name": "1", "twitch": "2577004877,2577175377", "start": "2:59:34" },
-      { "name": "2", "twitch": "2577904159", "start": "3:14:20" }
+      { "name": "2", "twitch": "2577904159", "start": "3:14:20" },
+      { "name": "3", "twitch": "2594940527", "start": "3:22:42" }
     ]
   },
   {
@@ -12098,6 +12099,15 @@
     "streams": [
       { "name": "Демо 1", "twitch": "2474256633", "start": "2:56:22" },
       { "name": "Демо 2", "twitch": "2592399538", "start": "3:01:57" }
+    ]
+  },
+  {
+    "name": "ARC Raiders",
+    "category": "ongoing",
+    "id": "arc-raiders",
+    "streams": [
+      { "name": "1", "twitch": "2449126768", "start": "38:00" },
+      { "name": "2", "twitch": "2594940527", "start": "1:18:38" }
     ]
   }
 ]
