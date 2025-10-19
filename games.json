@@ -5613,10 +5613,7 @@
         { "name": "Holes (демо)", "start": "2:40:06" }
       ] },
       { "name": "Painkiller", "twitch": "2594940527", "start": "23:37" },
-      { "twitch": "2595928296", "subrefs": [
-        { "name": "Project: Null Hypothesis", "start": "24:35" },
-        { "name": "Tom Dahl", "start": "2:50:47" }
-      ] }
+      { "name": "Project: Null Hypothesis", "twitch": "2595928296", "start": "24:35" }
     ]
   },
   {
@@ -6085,7 +6082,8 @@
       { "name": "Skinfreak", "twitch": "2593267290", "start": "37:31" },
       { "twitch": "2595928296", "subrefs": [
         { "name": "Last Term", "start": "1:11:17" },
-        { "name": "Sculpture", "start": "2:21:59" }
+        { "name": "Sculpture", "start": "2:21:59" },
+        { "name": "Tom Dahl", "start": "2:50:47" }
       ] }
     ]
   },
