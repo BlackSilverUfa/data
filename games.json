@@ -5617,6 +5617,10 @@
       { "twitch": "2596691266", "subrefs": [
         { "name": "Ground Zero (демо)", "start": "41:30" },
         { "name": "Troleu", "start": "5:01:12" }
+      ] },
+      { "twitch": "2597514893", "subrefs": [
+        { "name": "Ninja Gaiden 4", "start": "21:16" },
+        { "name": "Vampire: The Masquerade - Bloodlines 2", "start": "4:07:58" }
       ] }
     ]
   },
@@ -11815,7 +11819,7 @@
   },
   {
     "name": "Luto",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "luto",
     "streams": [
       { "name": "Демо", "twitch": "1635763389", "start": "21:21" },
