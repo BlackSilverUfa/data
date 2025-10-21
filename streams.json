@@ -3633,14 +3633,14 @@
   "2477649477": { "youtube": "oyZztlpZESo" },
   "2478592997": { "youtube": "O8EvmR6GT80" },
   "2478883069": { "youtube": "FTVcQEYlk-c" },
-  "2479512551": { "youtube": "rV5VCKEkb9U" },
+  "2479512551": {  },
   "2480467576": {  },
   "2480584019": {  },
   "2480467576,2480584019": {
     "youtube": "GN0qjsl1Mlc",
     "offsets": ["0:00", "2:58:14+2"]
   },
-  "2483947367": { "youtube": "xM1xLFqNrkw" },
+  "2483947367": { "youtube": "JXgG6EuUrgs", "official": false },
   "2484807936": { "youtube": "Z-CqQOO8mFI" },
   "2485778585": { "youtube": "67yNx6H-cSs" },
   "2486684400": { "youtube": "nQE-g4HFq0A" },
