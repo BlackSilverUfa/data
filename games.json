@@ -2902,7 +2902,6 @@
         { "name": "Disappearance", "start": "1:56:28" },
         { "name": "Bio Evil 4", "start": "2:16:53" },
         { "name": "My Strange Attic", "start": "4:46:23" },
-        { "name": "The Lacerator (демо)", "start": "4:51:04" },
         { "name": "Materna (демо)", "start": "5:22:53" },
         { "name": "Lucid Dreams", "start": "5:31:33" }
       ] },
@@ -5618,10 +5617,16 @@
         { "name": "Ground Zero (демо)", "start": "41:30" },
         { "name": "Troleu", "start": "5:01:12" }
       ] },
-      { "twitch": "2597514893", "subrefs": [
-        { "name": "Ninja Gaiden 4", "start": "21:16" },
-        { "name": "Vampire: The Masquerade - Bloodlines 2", "start": "4:07:58" }
-      ] }
+      { "name": "Ninja Gaiden 4", "twitch": "2597514893", "start": "21:16" }
+    ]
+  },
+  {
+    "name": "Vampire: The Masquerade - Bloodlines 2",
+    "category": "abandoned",
+    "id": "vampire-masquerade-2",
+    "streams": [
+      { "name": "1", "twitch": "2597514893", "start": "4:07:58" },
+      { "name": "2", "twitch": "2598326556", "start": "8:57" }
     ]
   },
   {
@@ -12135,6 +12140,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2395173756", "start": "1:55:40" },
       { "name": "Прохождение", "twitch": "2596691266", "start": "2:28:39" }
+    ]
+  },
+  {
+    "name": "The Lacerator",
+    "category": "finished",
+    "id": "lacerator",
+    "streams": [
+      { "name": "Демо", "twitch": "1789025191", "start": "4:51:04" },
+      { "name": "Прохождение", "twitch": "2598326556", "start": "3:20:38" }
     ]
   }
 ]
