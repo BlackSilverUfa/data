@@ -5463,8 +5463,7 @@
         { "name": "Backrooms: Exit from Supermarket Horror (демо)", "start": "1:07:44" }
       ] },
       { "twitch": "2449126768", "subrefs": [
-        { "name": "Cop Bastard (демо)", "start": "4:26:14" },
-        { "name": "ARC Raiders (продолжение)", "start": "5:13:13", "hidden": true }
+        { "name": "Cop Bastard (демо)", "start": "4:26:14" }
       ] },
       { "twitch": "2450093054", "subrefs": [
         { "name": "Sunken Veins", "start": "2:30:42" },
@@ -6106,7 +6105,6 @@
         { "name": "Truckful (демо)", "start": "24:36" },
         { "name": "Carimara: Beneath the Forlorn Limbs", "start": "1:14:31" }
       ] },
-      { "name": "Dispatch", "twitch": "2600899873", "start": "3:12:13" },
       { "name": "Lola Maria", "twitch": "2601825205", "start": "4:23:01" },
       { "twitch": "2604295684", "subrefs": [
         { "name": "Forbidden Terror: Board Game", "start": "1:33:08" },
@@ -12145,8 +12143,12 @@
     "category": "ongoing",
     "id": "arc-raiders",
     "streams": [
-      { "name": "1", "twitch": "2449126768", "start": "38:00" },
-      { "name": "2", "twitch": "2594940527", "start": "1:18:38" }
+      { "twitch": "2449126768", "subrefs": [
+        { "name": "1", "twitch": "2449126768", "start": "38:00" },
+        { "name": "1 (продолжение)", "start": "5:13:13", "hidden": true }
+      ] },
+      { "name": "2", "twitch": "2594940527", "start": "1:18:38" },
+      { "name": "3 (с Артёмом)", "twitch": "2605125914", "start": "2:52:22" }
     ]
   },
   {
@@ -12201,6 +12203,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2389049577", "start": "56:42" },
       { "name": "Релиз", "twitch": "2604295684", "start": "3:32:40" }
+    ]
+  },
+  {
+    "name": "Dispatch",
+    "category": "ongoing",
+    "id": "dispatch",
+    "streams": [
+      { "name": "Эпизоды 1, 2", "twitch": "2600899873", "start": "3:12:13" },
+      { "name": "Эпизоды 3, 4", "twitch": "2605125914", "start": "7:17" }
     ]
   }
 ]
