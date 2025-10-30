@@ -12144,7 +12144,7 @@
     "id": "arc-raiders",
     "streams": [
       { "twitch": "2449126768", "subrefs": [
-        { "name": "1", "twitch": "2449126768", "start": "38:00" },
+        { "name": "1", "start": "38:00" },
         { "name": "1 (продолжение)", "start": "5:13:13", "hidden": true }
       ] },
       { "name": "2", "twitch": "2594940527", "start": "1:18:38" },
