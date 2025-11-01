@@ -5462,9 +5462,7 @@
         { "name": "Seclusion", "start": "38:47" },
         { "name": "Backrooms: Exit from Supermarket Horror (демо)", "start": "1:07:44" }
       ] },
-      { "twitch": "2449126768", "subrefs": [
-        { "name": "Cop Bastard (демо)", "start": "4:26:14" }
-      ] },
+      { "name": "Cop Bastard (демо)", "twitch": "2449126768", "start": "4:26:14" },
       { "twitch": "2450093054", "subrefs": [
         { "name": "Sunken Veins", "start": "2:30:42" },
         { "name": "Besmirch", "start": "3:26:48" },
@@ -12079,7 +12077,8 @@
       { "name": "3", "twitch": "2577904159", "start": "16:39" },
       { "name": "4", "twitch": "2599184901", "start": "37:34" },
       { "name": "5", "twitch": "2602597096", "start": "1:05:25" },
-      { "name": "6", "twitch": "2603446878", "start": "4:01" }
+      { "name": "6", "twitch": "2603446878", "start": "4:01" },
+      { "name": "7", "twitch": "2606867913", "start": "30:26" }
     ]
   },
   {
@@ -12148,7 +12147,8 @@
         { "name": "1 (продолжение)", "start": "5:13:13", "hidden": true }
       ] },
       { "name": "2", "twitch": "2594940527", "start": "1:18:38" },
-      { "name": "3 (с Артёмом)", "twitch": "2605125914", "start": "2:52:22" }
+      { "name": "3 (с Артёмом)", "twitch": "2605125914", "start": "2:52:22" },
+      { "name": "4 (с Артёмом)", "twitch": "2606867913", "start": "2:03:54" }
     ]
   },
   {
