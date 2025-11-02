@@ -5621,6 +5621,10 @@
         { "name": "Liminal Shroud (демо)", "start": "54:54" },
         { "name": "Midnight Crane", "start": "2:21:52" },
         { "name": "Geamana Village", "start": "5:10:49" }
+      ] },
+      { "twitch": "2607817978", "subrefs": [
+        { "name": "Night of the Extinct", "start": "1:27:00" },
+        { "name": "Brother Hai's Pho Restaurant", "start": "4:16:29" }
       ] }
     ]
   },
@@ -6107,6 +6111,14 @@
       { "twitch": "2604295684", "subrefs": [
         { "name": "Forbidden Terror: Board Game", "start": "1:33:08" },
         { "name": "Edge", "start": "4:04:21" }
+      ] },
+      { "twitch": "2607817978", "subrefs": [
+        { "name": "Subliminal (демо)", "start": "30:42" },
+        { "name": "Last Stall", "start": "1:06:09" },
+        { "name": "The Radio Tower", "start": "1:51:08" },
+        { "name": "The Roach Hotel", "start": "2:11:28" },
+        { "name": "One Halloween Night", "start": "3:25:24" },
+        { "name": "My Sleeping Girlfriend", "start": "4:46:14" }
       ] }
     ]
   },
@@ -11027,7 +11039,8 @@
       { "name": "46", "twitch": "2592399538" },
       { "name": "47", "twitch": "2595928296" },
       { "name": "48", "twitch": "2601825205" },
-      { "name": "49", "twitch": "2604295684" }
+      { "name": "49", "twitch": "2604295684" },
+      { "name": "50", "twitch": "2607817978" }
     ]
   },
   {
