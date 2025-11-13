@@ -6086,8 +6086,7 @@
       { "twitch": "2582997412", "subrefs": [
         { "name": "Backrooms (?)", "start": "1:00:33" },
         { "name": "Metroliminal (демо)", "start": "1:11:41" },
-        { "name": "Stay With Him", "start": "2:53:31" },
-        { "name": "Junji Ito Maniac: An Infinite Gaol (демо)", "start": "4:11:48" }
+        { "name": "Stay With Him", "start": "2:53:31" }
       ] },
       { "name": "Little Nightmares 3", "twitch": "2587965611", "start": "23:35" },
       { "twitch": "2589892339", "subrefs": [
@@ -12108,7 +12107,8 @@
       { "name": "5", "twitch": "2602597096", "start": "1:05:25" },
       { "name": "6", "twitch": "2603446878", "start": "4:01" },
       { "name": "7", "twitch": "2606867913", "start": "30:26" },
-      { "name": "8", "twitch": "2615504145", "start": "1:11:20" }
+      { "name": "8", "twitch": "2615504145", "start": "1:11:20" },
+      { "name": "9", "twitch": "2617288297", "start": "4:14:34" }
     ]
   },
   {
@@ -12240,12 +12240,22 @@
   },
   {
     "name": "Dispatch",
-    "category": "ongoing",
+    "category": "finished",
     "id": "dispatch",
     "streams": [
       { "name": "Эпизоды 1, 2", "twitch": "2600899873", "start": "3:12:13" },
       { "name": "Эпизоды 3, 4", "twitch": "2605125914", "start": "7:17" },
-      { "name": "Эпизоды 5, 6", "twitch": "2614675112", "start": "26:36" }
+      { "name": "Эпизоды 5, 6", "twitch": "2614675112", "start": "26:36" },
+      { "name": "Эпизоды 7, 8", "twitch": "2617288297", "start": "23:25" }
+    ]
+  },
+  {
+    "name": "Junji Ito Maniac: An Infinite Gaol",
+    "category": "ongoing",
+    "id": "junji-ito-maniac",
+    "streams": [
+      { "name": "Демо", "twitch": "2582997412", "start": "4:11:48" },
+      { "name": "1", "twitch": "2617288297", "start": "4:01:16" }
     ]
   }
 ]
