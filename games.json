@@ -6024,7 +6024,6 @@
         { "name": "Peasant Nightmare", "start": "4:28:34" }
       ] },
       { "twitch": "2537171488", "subrefs": [
-        { "name": "A.I.L.A (демо)", "start": "30:39" },
         { "name": "Lost Luminosity", "start": "1:23:16" },
         { "name": "SLACKJAW", "start": "3:58:11" },
         { "name": "Them", "start": "4:59:34" }
@@ -12302,6 +12301,15 @@
     "streams": [
       { "name": "1", "twitch": "2537171488", "start": "3:02:42" },
       { "name": "2", "twitch": "2625967059", "start": "3:52:44" }
+    ]
+  },
+  {
+    "name": "A.I.L.A",
+    "category": "ongoing",
+    "id": "aila",
+    "streams": [
+      { "name": "Демо", "twitch": "2537171488", "start": "30:39" },
+      { "name": "1", "twitch": "2628460943", "start": "32:15" }
     ]
   }
 ]
