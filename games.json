@@ -6773,7 +6773,6 @@
         { "name": "Grunn", "start": "4:11:59" }
       ] },
       { "twitch": "2274972530", "subrefs": [
-        { "name": "Hail to the Rainbow (демо)", "start": "53:58" },
         { "name": "Below, Rusted Gods (демо)", "start": "2:13:46" },
         { "name": "ФУ: Зеленые Глаза (демо)", "start": "2:54:16" },
         { "name": "Fear the Timeloop (демо)", "start": "4:24:46" }
@@ -12310,6 +12309,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2537171488", "start": "30:39" },
       { "name": "1", "twitch": "2628460943", "start": "32:15" }
+    ]
+  },
+  {
+    "name": "Hail to the Rainbow",
+    "category": "ongoing",
+    "id": "hail-to-the-rainbow",
+    "streams": [
+      { "name": "Демо", "twitch": "2274972530", "start": "53:58" },
+      { "name": "1", "twitch": "2629272689", "start": "28:08" }
     ]
   }
 ]
