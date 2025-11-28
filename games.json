@@ -12317,7 +12317,8 @@
     "id": "hail-to-the-rainbow",
     "streams": [
       { "name": "Демо", "twitch": "2274972530", "start": "53:58" },
-      { "name": "1", "twitch": "2629272689", "start": "28:08" }
+      { "name": "1", "twitch": "2629272689", "start": "28:08" },
+      { "name": "2", "twitch": "2629272689", "start": "18:59" }
     ]
   }
 ]
