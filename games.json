@@ -5633,10 +5633,7 @@
         { "name": "Hypogea", "start": "3:04:46" }
       ] },
       { "name": "Coconut Simulator 2", "twitch": "2623328029", "start": "3:17:15" },
-      { "twitch": "2625967059", "subrefs": [
-        { "name": "Meat Room", "start": "2:08:29" },
-        { "name": "Violent Horror Stories 2", "start": "2:42:52" }
-      ] },
+      { "name": "Meat Room", "twitch": "2625967059", "start": "2:08:29" },
       { "twitch": "2626812026", "subrefs": [
         { "name": "Backrooms: Reminiscence", "start": "35:48" },
         { "name": "Drowned Lake (демо)", "start": "1:43:13" },
@@ -5644,6 +5641,15 @@
       ] }
     ]
   },
+  {
+    "name": "Violent Horror Stories 2",
+    "category": "ongoing",
+    "id": "vhs2",
+    "streams": [
+      { "name": "1", "twitch": "2625967059", "start": "2:42:52" },
+      { "name": "2", "twitch": "2630838765", "start": "4:47:17" }
+    ]
+  }
   {
     "name": "Vampire: The Masquerade - Bloodlines 2",
     "category": "abandoned",
@@ -12308,12 +12314,13 @@
     "id": "aila",
     "streams": [
       { "name": "Демо", "twitch": "2537171488", "start": "30:39" },
-      { "name": "1", "twitch": "2628460943", "start": "32:15" }
+      { "name": "1", "twitch": "2628460943", "start": "32:15" },
+      { "name": "2", "twitch": "2630838765", "start": "32:19" }
     ]
   },
   {
     "name": "Hail to the Rainbow",
-    "category": "ongoing",
+    "category": "finished",
     "id": "hail-to-the-rainbow",
     "streams": [
       { "name": "Демо", "twitch": "2274972530", "start": "53:58" },
