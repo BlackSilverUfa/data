@@ -12041,7 +12041,7 @@
   },
   {
     "name": "Hell is Us",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "hell-is-us",
     "streams": [
       { "name": "Демо", "twitch": "2475897673", "start": "15:19" },
@@ -12320,12 +12320,13 @@
   },
   {
     "name": "A.I.L.A",
-    "category": "ongoing",
+    "category": "finished",
     "id": "aila",
     "streams": [
       { "name": "Демо", "twitch": "2537171488", "start": "30:39" },
       { "name": "1", "twitch": "2628460943", "start": "32:15" },
-      { "name": "2", "twitch": "2630838765", "start": "32:19" }
+      { "name": "2", "twitch": "2630838765", "start": "32:19" },
+      { "name": "3", "twitch": "2632598427", "start": "17:31" }
     ]
   },
   {
