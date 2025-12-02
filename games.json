@@ -6165,7 +6165,7 @@
   },
   {
     "name": "Silent Still II",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "silent-still-ii",
     "streams": [
       { "name": "Демо", "twitch": "2492884790", "start": "4:45:53" },
@@ -12050,7 +12050,7 @@
   },
   {
     "name": "Bad Cheese",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "bad-cheese",
     "streams": [
       { "name": "Демо", "twitch": "2382739461", "start": "1:34:31" },
@@ -12140,7 +12140,8 @@
       { "name": "7", "twitch": "2606867913", "start": "30:26" },
       { "name": "8", "twitch": "2615504145", "start": "1:11:20" },
       { "name": "9", "twitch": "2617288297", "start": "4:14:34" },
-      { "name": "10", "twitch": "2625048351", "start": "13:44" }
+      { "name": "10", "twitch": "2625048351", "start": "13:44" },
+      { "name": "11", "twitch": "2633385044", "start": "6:35" }
     ]
   },
   {
