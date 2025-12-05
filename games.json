@@ -5642,8 +5642,7 @@
         { "name": "Lost in the Backrooms", "start": "23:56" },
         { "name": "Uktena 64: Ultimate", "start": "2:17:42" },
         { "name": "Bonanit - A Menorcan Horror Story", "start": "3:40:18" }
-      ] },
-      { "name": "ROUTINE", "twitch": "2635128008", "start": "1:08:22" }
+      ] }
     ]
   },
   {
@@ -12369,6 +12368,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2579578173", "start": "1:08:59" },
       { "name": "Релиз", "twitch": "2634220292", "start": "29:05" }
+    ]
+  },
+  {
+    "name": "ROUTINE",
+    "category": "finished",
+    "id": "routine",
+    "streams": [
+      { "name": "1", "twitch": "2635128008", "start": "1:08:22" },
+      { "name": "2", "twitch": "2635910295", "start": "23:12" }
     ]
   }
 ]
