@@ -5642,7 +5642,8 @@
         { "name": "Lost in the Backrooms", "start": "23:56" },
         { "name": "Uktena 64: Ultimate", "start": "2:17:42" },
         { "name": "Bonanit - A Menorcan Horror Story", "start": "3:40:18" }
-      ] }
+      ] },
+      { "name": "Backrooms: Missing Persons", "twitch": "2637736556", "start": "42:06" }
     ]
   },
   {
@@ -6171,6 +6172,11 @@
         { "name": "Skinwalkers Valley", "start": "56:21" },
         { "name": "Knife Man", "start": "2:53:42" },
         { "name": "Side Hustle", "start": "3:09:52" }
+      ] },
+      { "twitch": "2637736556", "subrefs": [
+        { "name": "About Fishing (демо)", "start": "1:26:23" },
+        { "name": "Dead Feed", "start": "2:25:23" },
+        { "name": "A Taste of Home", "start": "3:08:05" }
       ] }
     ]
   },
@@ -8773,7 +8779,8 @@
       { "name": "Часть 7 #8", "twitch": "2316412703", "start": "2:36:38" },
       { "name": "Часть 7 #9", "twitch": "2324789015", "start": "2:32:43" },
       { "name": "Часть 7 #10", "twitch": "2334057711", "start": "4:48:29" },
-      { "name": "Часть 7 #11", "twitch": "2336320590", "start": "4:13:09" }
+      { "name": "Часть 7 #11", "twitch": "2336320590", "start": "4:13:09" },
+      { "name": "Часть 8 #1", "twitch": "2637736556", "start": "4:07:05" }
     ]
   },
   {
@@ -11096,7 +11103,8 @@
       { "name": "51", "twitch": "2613840501" },
       { "name": "52", "twitch": "2625967059" },
       { "name": "53", "twitch": "2626812026" },
-      { "name": "54", "twitch": "2631809647" }
+      { "name": "54", "twitch": "2631809647" },
+      { "name": "55", "twitch": "2637736556" }
     ]
   },
   {
