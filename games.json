@@ -5145,7 +5145,6 @@
         { "name": "The Zhukov Line", "start": "5:05:39" }
       ] },
       { "name": "Samosbor", "twitch": "2083745262", "start": "3:53:33" },
-      { "name": "Snow Plowing Simulator", "twitch": "2085706176", "start": "3:25:42" },
       { "twitch": "2086750139", "subrefs": [
         { "name": "Hospital 666", "start": "3:38:14" },
         { "name": "Irritated Mind: Fear of Warehouse (демо)", "start": "5:07:35" }
@@ -7681,7 +7680,8 @@
       { "name": "13", "twitch": "2246630814", "start": "23:56" },
       { "name": "14", "twitch": "2522856060", "start": "31:52" },
       { "name": "15", "twitch": "2524621393", "start": "40:00" },
-      { "name": "16", "twitch": "2528145073", "start": "24:02" }
+      { "name": "16", "twitch": "2528145073", "start": "24:02" },
+      { "name": "17", "twitch": "2639361130", "start": "54:54" }
     ]
   },
   {
@@ -12163,7 +12163,8 @@
       { "name": "9", "twitch": "2617288297", "start": "4:14:34" },
       { "name": "10", "twitch": "2625048351", "start": "13:44" },
       { "name": "11", "twitch": "2633385044", "start": "6:35" },
-      { "name": "12", "twitch": "2634220292", "start": "5:00:06" }
+      { "name": "12", "twitch": "2634220292", "start": "5:00:06" },
+      { "name": "13", "twitch": "2639361130", "start": "4:10:02" }
     ]
   },
   {
@@ -12405,6 +12406,15 @@
     "streams": [
       { "name": "Cat Named Mojave (демо)", "twitch": "2456047504", "start": "50:10" },
       { "name": "Cat Named Mojave", "twitch": "2638573850", "start": "2:15:50" }
+    ]
+  },
+  {
+    "name": "Snow Plowing Simulator",
+    "category": "ongoing",
+    "id": "snow-plowing-sim",
+    "streams": [
+      { "name": "1", "twitch": "2085706176", "start": "3:25:42" },
+      { "name": "2", "twitch": "2639361130", "start": "33:43" }
     ]
   }
 ]
