@@ -5627,10 +5627,7 @@
         { "name": "Kola Abyss", "start": "3:30:41" }
       ] },
       { "name": "Leaf it Alone", "twitch": "2614675112", "start": "2:49:40" },
-      { "twitch": "2615504145", "subrefs": [
-        { "name": "Egging On", "start": "25:35" },
-        { "name": "Hypogea", "start": "3:04:46" }
-      ] },
+      { "name": "Hypogea", "twitch": "2615504145", "start": "3:04:46" },
       { "name": "Coconut Simulator 2", "twitch": "2623328029", "start": "3:17:15" },
       { "name": "Meat Room", "twitch": "2625967059", "start": "2:08:29" },
       { "twitch": "2626812026", "subrefs": [
@@ -12149,7 +12146,7 @@
   },
   {
     "name": "Baby Steps",
-    "category": "ongoing",
+    "category": "finished",
     "id": "baby-steps",
     "streams": [
       { "name": "Демо", "twitch": "2483947367", "start": "3:13:58" },
@@ -12166,7 +12163,8 @@
       { "name": "11", "twitch": "2633385044", "start": "6:35" },
       { "name": "12", "twitch": "2634220292", "start": "5:00:06" },
       { "name": "13", "twitch": "2639361130", "start": "4:10:02" },
-      { "name": "14", "twitch": "2640192290", "start": "2:08:21" }
+      { "name": "14", "twitch": "2640192290", "start": "2:08:21" },
+      { "name": "15", "twitch": "2641000712", "start": "21:45" }
     ]
   },
   {
@@ -12417,6 +12415,15 @@
     "streams": [
       { "name": "1", "twitch": "2085706176", "start": "3:25:42" },
       { "name": "2", "twitch": "2639361130", "start": "33:43" }
+    ]
+  },
+  {
+    "name": "Egging On",
+    "category": "ongoing",
+    "id": "egging-on",
+    "streams": [
+      { "name": "1", "twitch": "2615504145", "start": "25:35" },
+      { "name": "2", "twitch": "2641000712", "start": "3:37:38" }
     ]
   }
 ]
