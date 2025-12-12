@@ -2012,7 +2012,8 @@
       { "name": "2021 (обзор)", "twitch": "1229405550", "start": "4:01:43" },
       { "name": "2022 (обзор)", "twitch": "1674396025", "start": "26:07" },
       { "name": "2023 (обзор)", "twitch": "1999409596", "start": "41:43" },
-      { "name": "2024 (обзор)", "twitch": "2325599811", "start": "25:05" }
+      { "name": "2024 (обзор)", "twitch": "2325599811", "start": "25:05" },
+      { "name": "2025 (обзор)", "twitch": "2641844239", "start": "23:35" }
     ]
   },
   {
@@ -6172,7 +6173,8 @@
         { "name": "Dead Feed", "start": "2:25:23" },
         { "name": "A Taste of Home", "start": "3:08:05" }
       ] },
-      { "name": "Grandma, Is That You?", "twitch": "2638573850", "start": "1:20:56" }
+      { "name": "Grandma, Is That You?", "twitch": "2638573850", "start": "1:20:56" },
+      { "name": "Terminator 2D: NO FATE", "twitch": "2641844239", "start": "2:35:57" }
     ]
   },
   {
@@ -12423,7 +12425,8 @@
     "id": "egging-on",
     "streams": [
       { "name": "1", "twitch": "2615504145", "start": "25:35" },
-      { "name": "2", "twitch": "2641000712", "start": "3:37:38" }
+      { "name": "2", "twitch": "2641000712", "start": "3:37:38" },
+      { "name": "3", "twitch": "2641844239", "start": "4:43:55" }
     ]
   }
 ]
