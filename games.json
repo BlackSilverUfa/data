@@ -12103,7 +12103,7 @@
   },
   {
     "name": "GONE Fishing",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "gone-fishing",
     "streams": [
       { "name": "Демо", "twitch": "2540650368", "start": "40:01" },
