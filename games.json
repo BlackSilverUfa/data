@@ -5641,8 +5641,7 @@
         { "name": "Bonanit - A Menorcan Horror Story", "start": "3:40:18" }
       ] },
       { "name": "Backrooms VHS", "twitch": "2642761281", "start": "53:35" },
-      { "name": "Nancy Drew: The Creature of Kapu Cave (Нэнси Дрю. Чудовище пещеры Капу)", "twitch": "2643658878", "start": "25:04" },
-      { "name": "Cronos: The New Dawn", "twitch": "2644450534", "start": "27:33" }
+      { "name": "Nancy Drew: The Creature of Kapu Cave (Нэнси Дрю. Чудовище пещеры Капу)", "twitch": "2643658878", "start": "25:04" }
     ]
   },
   {
@@ -12437,6 +12436,15 @@
       { "name": "1", "twitch": "2615504145", "start": "25:35" },
       { "name": "2", "twitch": "2641000712", "start": "3:37:38" },
       { "name": "3", "twitch": "2641844239", "start": "4:43:55" }
+    ]
+  },
+  {
+    "name": "Cronos: The New Dawn",
+    "category": "ongoing",
+    "id": "cronos",
+    "streams": [
+      { "name": "1", "twitch": "2644450534", "start": "27:33" },
+      { "name": "2", "twitch": "2645248880", "start": "15:32" }
     ]
   }
 ]
