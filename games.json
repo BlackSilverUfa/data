@@ -12440,12 +12440,13 @@
   },
   {
     "name": "Cronos: The New Dawn",
-    "category": "ongoing",
+    "category": "finished",
     "id": "cronos",
     "streams": [
       { "name": "1", "twitch": "2644450534", "start": "27:33" },
       { "name": "2", "twitch": "2645248880", "start": "15:32" },
-      { "name": "3", "twitch": "2646072502", "start": "14:29" }
+      { "name": "3", "twitch": "2646072502", "start": "14:29" },
+      { "name": "4", "twitch": "2646891027", "start": "20:18" }
     ]
   }
 ]
