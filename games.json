@@ -5642,7 +5642,6 @@
         { "name": "Bonanit - A Menorcan Horror Story", "start": "3:40:18" }
       ] },
       { "name": "Backrooms VHS", "twitch": "2642761281", "start": "53:35" },
-      { "name": "Nancy Drew: The Creature of Kapu Cave (Нэнси Дрю. Чудовище пещеры Капу)", "twitch": "2643658878", "start": "25:04" },
       { "name": "Backrooms — 2005", "twitch": "2648606075", "start": "54:16" }
     ]
   },
@@ -12456,6 +12455,15 @@
       { "name": "2", "twitch": "2645248880", "start": "15:32" },
       { "name": "3", "twitch": "2646072502", "start": "14:29" },
       { "name": "4", "twitch": "2646891027", "start": "20:18" }
+    ]
+  },
+  {
+    "name": "Nancy Drew: The Creature of Kapu Cave (Нэнси Дрю. Чудовище пещеры Капу)",
+    "category": "finished",
+    "id": "nancy-drew-cokc",
+    "streams": [
+      { "name": "1", "twitch": "2643658878", "start": "25:04" },
+      { "name": "2", "twitch": "2649459117", "start": "28:57" }
     ]
   }
 ]
