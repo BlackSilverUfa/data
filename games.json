@@ -5642,7 +5642,8 @@
         { "name": "Bonanit - A Menorcan Horror Story", "start": "3:40:18" }
       ] },
       { "name": "Backrooms VHS", "twitch": "2642761281", "start": "53:35" },
-      { "name": "Backrooms — 2005", "twitch": "2648606075", "start": "54:16" }
+      { "name": "Backrooms — 2005", "twitch": "2648606075", "start": "54:16" },
+      { "name": "Forgot", "twitch": "2651112136", "start": "54:31" }
     ]
   },
   {
@@ -6080,10 +6081,7 @@
         { "name": "The Butterfly", "start": "3:37:31" },
         { "name": "ZahmahreL", "start": "4:12:57" }
       ] },
-      { "twitch": "2564525802", "subrefs": [
-        { "name": "Dead Reset", "start": "1:12:02" },
-        { "name": "Blueman (демо)", "start": "3:44:07" }
-      ] },
+      { "name": "Dead Reset", "twitch": "2564525802", "start": "1:12:02" },
       { "twitch": "2566251413", "subrefs": [
         { "name": "Liminal Trauma (демо)", "start": "2:09:40" },
         { "name": "Human Harvest", "start": "2:41:51" },
@@ -7060,7 +7058,8 @@
       { "name": "3", "twitch": "2236123674", "start": "4:07:55" },
       { "name": "4", "twitch": "2483947367", "start": "5:05:22" },
       { "name": "1 (релиз)", "twitch": "2568619841", "start": "2:09:15" },
-      { "name": "2", "twitch": "2569405622", "start": "50:19" }
+      { "name": "2", "twitch": "2569405622", "start": "50:19" },
+      { "name": "3", "twitch": "2651112136", "start": "3:03:26" }
     ]
   },
   {
@@ -12464,6 +12463,15 @@
     "streams": [
       { "name": "1", "twitch": "2643658878", "start": "25:04" },
       { "name": "2", "twitch": "2649459117", "start": "28:57" }
+    ]
+  },
+  {
+    "name": "Blueman",
+    "category": "ongoing",
+    "id": "blueman",
+    "streams": [
+      { "name": "Демо", "twitch": "2564525802", "start": "3:44:07" },
+      { "name": "Релиз", "twitch": "2651112136", "start": "2:05:15" }
     ]
   }
 ]
