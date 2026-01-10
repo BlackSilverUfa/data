@@ -5659,6 +5659,18 @@
     ]
   },
   {
+    "name": "Первый взгляд 2026",
+    "category": "first",
+    "type": "list",
+    "id": "first-2026",
+    "streams": [
+      { "twitch": "2666154111", "subrefs": [
+        { "name": "Deconstruction Simulator", "start": "1:39:13" },
+        { "name": "My Winter Car", "start": "2:39:08" }
+      ] }
+    ]
+  },
+  {
     "name": "Violent Horror Stories 2",
     "category": "ongoing",
     "id": "vhs2",
@@ -6207,6 +6219,15 @@
         { "name": "Daddy's Christmas", "start": "3:36:24" },
         { "name": "Obsessed: Trace", "start": "3:48:43" }
       ] }
+    ]
+  },
+  {
+    "name": "Прохождения за один стрим 2026",
+    "category": "finished",
+    "type": "list",
+    "id": "single-2026",
+    "streams": [
+      { "name": "Pragmata (демо)", "twitch": "2666154111", "start": "55:34" }
     ]
   },
   {
@@ -12222,7 +12243,7 @@
   },
   {
     "name": "Dyer Expedition",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "dyer-expedition",
     "streams": [
       { "name": "Демо", "twitch": "1855403959", "start": "2:19:20" },
@@ -12231,7 +12252,7 @@
   },
   {
     "name": "The 9th Charnel",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "9th-charnel",
     "streams": [
       { "name": "Демо 1", "twitch": "1701325068", "start": "1:46:03" },
