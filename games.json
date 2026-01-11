@@ -5667,6 +5667,11 @@
       { "twitch": "2666154111", "subrefs": [
         { "name": "Deconstruction Simulator", "start": "1:39:13" },
         { "name": "My Winter Car", "start": "2:39:08" }
+      ] },
+      { "twitch": "2667145812", "subrefs": [
+        { "name": "The Backrooms: Realism", "start": "31:08" },
+        { "name": "MiSide Zero", "start": "4:14:25" },
+        { "name": "Professor Galaktionov: Dawn of the Robopocalypse (Профессор Галактионов и начало робоапокалипсиса)", "start": "4:23:27" }
       ] }
     ]
   },
@@ -6227,7 +6232,14 @@
     "type": "list",
     "id": "single-2026",
     "streams": [
-      { "name": "Pragmata (демо)", "twitch": "2666154111", "start": "55:34" }
+      { "name": "Pragmata (демо)", "twitch": "2666154111", "start": "55:34" },
+      { "twitch": "2667145812", "subrefs": [
+        { "name": "Nightbell", "start": "1:00:26" },
+        { "name": "Terpenie", "start": "2:00:04" },
+        { "name": "It Reaches (демо)", "start": "2:18:48" },
+        { "name": "Lurking", "start": "3:14:42" },
+        { "name": "The Unplace", "start": "3:37:20" }
+      ] }
     ]
   },
   {
@@ -11168,6 +11180,14 @@
       { "name": "58", "twitch": "2648606075" },
       { "name": "59", "twitch": "2654158344" },
       { "name": "60", "twitch": "2656699942" }
+    ]
+  },
+  {
+    "name": "Вечер Всратых Хорроров (ВВХ) 2026",
+    "category": "infinite",
+    "id": "horrors-2026",
+    "streams": [
+      { "name": "1", "twitch": "2667145812" }
     ]
   },
   {
