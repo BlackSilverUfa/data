@@ -5672,6 +5672,11 @@
         { "name": "The Backrooms: Realism", "start": "31:08" },
         { "name": "MiSide Zero", "start": "4:14:25" },
         { "name": "Professor Galaktionov: Dawn of the Robopocalypse (Профессор Галактионов и начало робоапокалипсиса)", "start": "4:23:27" }
+      ] },
+      { "twitch": "2667995781", "subrefs": [
+        { "name": "Entity: The Black Day", "start": "38:34" },
+        { "name": "Quarantine Zone: The Last Check", "start": "1:37:23" },
+        { "name": "Black Ice", "start": "4:13:49" }
       ] }
     ]
   },
@@ -12290,7 +12295,7 @@
   },
   {
     "name": "No Players Online",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "no-players-online",
     "streams": [
       { "name": "Демо 1", "twitch": "2113378651", "start": "47:53" },
