@@ -5675,9 +5675,9 @@
       ] },
       { "twitch": "2667995781", "subrefs": [
         { "name": "Entity: The Black Day", "start": "38:34" },
-        { "name": "Quarantine Zone: The Last Check", "start": "1:37:23" },
         { "name": "Black Ice", "start": "4:13:49" }
-      ] }
+      ] },
+      { "name": "Moving Simulator", "twitch": "2668832796", "start": "20:08" }
     ]
   },
   {
@@ -12552,6 +12552,15 @@
       { "name": "1", "twitch": "2059745251", "start": "1:07:31" },
       { "name": "2", "twitch": "2582997412", "start": "1:00:33" },
       { "name": "3", "twitch": "2654158344", "start": "33:33" }
+    ]
+  },
+  {
+    "name": "Quarantine Zone: The Last Check",
+    "category": "ongoing",
+    "id": "quarantine-zone-tlc",
+    "streams": [
+      { "name": "1", "twitch": "2667995781", "start": "1:37:23" },
+      { "name": "2", "twitch": "2668832796", "start": "1:45:51" }
     ]
   }
 ]
