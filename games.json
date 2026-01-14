@@ -680,7 +680,8 @@
       { "name": "21", "twitch": "2316412703", "start": "6:35:10" },
       { "name": "22", "twitch": "2329008888", "start": "2:47:46" },
       { "name": "23", "twitch": "2369442712", "start": "6:17:09" },
-      { "name": "24", "twitch": "2486684400", "start": "1:13:34" }
+      { "name": "24", "twitch": "2486684400", "start": "1:13:34" },
+      { "name": "25", "twitch": "2669742923", "start": "1:21:05" }
     ]
   },
   {
@@ -5677,7 +5678,8 @@
         { "name": "Entity: The Black Day", "start": "38:34" },
         { "name": "Black Ice", "start": "4:13:49" }
       ] },
-      { "name": "Moving Simulator", "twitch": "2668832796", "start": "20:08" }
+      { "name": "Moving Simulator", "twitch": "2668832796", "start": "20:08" },
+      { "name": "Styx: Blades of Greed", "twitch": "2669742923", "start": "31:32" }
     ]
   },
   {
