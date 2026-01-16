@@ -76,7 +76,7 @@
   "001602200": { "youtube": "RNnDV07Fy-g" },
   "001602270": { "youtube": "aVI4FysAkoY" },
   "001602290": { "youtube": "_FGu_Qmxg3s" },
-  "001602291": { "youtube": "rbzkS3e_vek", "official": false },
+  "001602291": { "note": "На <a href=\"https://youtu.be/rbzkS3e_vek\">YouTube</a> установлено возрастное ограничение." },
   "001602292": { "youtube": "Geawnhkvjcg", "official": false },
   "001603010": { "youtube": "E1afgj3RgYA" },
   "001603100": { "youtube": "bJJzW0pyIxA" },
@@ -1757,7 +1757,7 @@
     "note": "У <a href=\"https://youtu.be/1c08ji3g-aw\">официальной записи</a> почему-то запрещено встраивание."
   },
   "883419848": {
-    "note": "На <a href=\"https://youtu.be/dn9uQy2eePE\">предыдущую запись</a> YouTube установил возрастное ограничение."
+    "note": "На <a href=\"https://youtu.be/dn9uQy2eePE\">YouTube</a> установлено возрастное ограничение."
   },
   "886277729": { "youtube": "ew9dM_1QDcQ" },
   "887445977": { "youtube": "jIGq-DDVWzY", "official": false },
@@ -3060,7 +3060,7 @@
   "1901048765": { "youtube": "pC90x0M9a4s", "source_cuts": ["49:44~50:27"] },
   "1901985410": { "youtube": "LOJ979vay4s" },
   "1902891024": {
-    "note": "На <a href=\"https://youtu.be/SjbFN3qkLGI\">официальной записи</a> установлено возрастное ограничение."
+    "note": "На <a href=\"https://youtu.be/SjbFN3qkLGI\">YouTube</a> установлено возрастное ограничение."
   },
   "1903801654": {  },
   "1903834688": {  },
@@ -3081,7 +3081,7 @@
   "1924362967": { "youtube": "1Cpk9FE-5po" },
   "1925193288": { "youtube": "rA9L0WCUcj4" },
   "1925972150": {
-    "note": "На <a href=\"https://youtu.be/fKTM5Pjwu8s\">официальной записи</a> установлено возрастное ограничение."
+    "note": "На <a href=\"https://youtu.be/fKTM5Pjwu8s\">YouTube</a> установлено возрастное ограничение."
   },
   "1926880821": { "youtube": "MO-_PRIQ0Pc" },
   "1927857923": { "youtube": "8RAl8fQUCd4" },
