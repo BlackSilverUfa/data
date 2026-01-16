@@ -5679,7 +5679,11 @@
         { "name": "Black Ice", "start": "4:13:49" }
       ] },
       { "name": "Moving Simulator", "twitch": "2668832796", "start": "20:08" },
-      { "name": "Styx: Blades of Greed", "twitch": "2669742923", "start": "31:32" }
+      { "name": "Styx: Blades of Greed", "twitch": "2669742923", "start": "31:32" },
+      { "twitch": "2671478206", "subrefs": [
+        { "name": "Mostly Trash, Sometimes Treasure", "start": "46:14" },
+        { "name": "BrokenLore: UNFOLLOW", "start": "52:29" }
+      ] }
     ]
   },
   {
@@ -12562,7 +12566,8 @@
     "id": "quarantine-zone-tlc",
     "streams": [
       { "name": "1", "twitch": "2667995781", "start": "1:37:23" },
-      { "name": "2", "twitch": "2668832796", "start": "1:45:51" }
+      { "name": "2", "twitch": "2668832796", "start": "1:45:51" },
+      { "name": "3", "twitch": "2671478206", "start": "2:55:24" }
     ]
   }
 ]

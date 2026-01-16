@@ -76,7 +76,9 @@
   "001602200": { "youtube": "RNnDV07Fy-g" },
   "001602270": { "youtube": "aVI4FysAkoY" },
   "001602290": { "youtube": "_FGu_Qmxg3s" },
-  "001602291": { "note": "На <a href=\"https://youtu.be/rbzkS3e_vek\">YouTube</a> установлено возрастное ограничение." },
+  "001602291": {
+    "note": "На <a href=\"https://youtu.be/rbzkS3e_vek\">YouTube</a> установлено возрастное ограничение."
+  },
   "001602292": { "youtube": "Geawnhkvjcg", "official": false },
   "001603010": { "youtube": "E1afgj3RgYA" },
   "001603100": { "youtube": "bJJzW0pyIxA" },
@@ -3812,5 +3814,6 @@
   "2667145812": { "youtube": "R77FlZdhNpE" },
   "2667995781": { "youtube": "oVWoVUrPFDc" },
   "2668832796": { "youtube": "tEmhL8EEIGo" },
-  "2669742923": { "youtube": "muEpaHyzcgo", "source_cuts": ["3:38~4:06"] }
+  "2669742923": { "youtube": "muEpaHyzcgo", "source_cuts": ["3:38~4:06"] },
+  "2671478206": {  }
 }
