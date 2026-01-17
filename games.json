@@ -5474,7 +5474,6 @@
       ] },
       { "twitch": "2450891536", "subrefs": [
         { "name": "KIBORG", "start": "2:05:40" },
-        { "name": "Quarantine Zone", "start": "4:35:44" },
         { "name": "Captain Blood (Приключение Капитана Блада)", "start": "6:21:06" }
       ] },
       { "name": "Trench Tales (демо)", "twitch": "2451705218", "start": "31:09" },
@@ -12562,12 +12561,14 @@
   },
   {
     "name": "Quarantine Zone: The Last Check",
-    "category": "ongoing",
+    "category": "finished",
     "id": "quarantine-zone-tlc",
     "streams": [
+      { "name": "Ранний доступ","twitch": "2450891536",  "start": "4:35:44" },
       { "name": "1", "twitch": "2667995781", "start": "1:37:23" },
       { "name": "2", "twitch": "2668832796", "start": "1:45:51" },
-      { "name": "3", "twitch": "2671478206", "start": "2:55:24" }
+      { "name": "3", "twitch": "2671478206", "start": "2:55:24" },
+      { "name": "4", "twitch": "2672425955", "start": "32:08" }
     ]
   }
 ]
