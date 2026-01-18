@@ -12564,7 +12564,7 @@
     "category": "finished",
     "id": "quarantine-zone-tlc",
     "streams": [
-      { "name": "Ранний доступ","twitch": "2450891536",  "start": "4:35:44" },
+      { "name": "Ранний доступ", "twitch": "2450891536", "start": "4:35:44" },
       { "name": "1", "twitch": "2667995781", "start": "1:37:23" },
       { "name": "2", "twitch": "2668832796", "start": "1:45:51" },
       { "name": "3", "twitch": "2671478206", "start": "2:55:24" },
