@@ -5686,7 +5686,8 @@
       { "twitch": "2673385986", "subrefs": [
         { "name": "Liminal: Escape Route", "start": "29:13" },
         { "name": "Static Voice", "start": "2:17:38" }
-      ] }
+      ] },
+      { "name": "Dying Light: The Beast", "twitch": "2675123579", "start": "16:19" }
     ]
   },
   {
@@ -12270,7 +12271,7 @@
     ]
   },
   {
-    "name": "Dying Light: The Beast",
+    "name": "Dying Light: The Beast (кооп)",
     "category": "co-op",
     "id": "dying-light-beast",
     "streams": [
