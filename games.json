@@ -5686,8 +5686,7 @@
       { "twitch": "2673385986", "subrefs": [
         { "name": "Liminal: Escape Route", "start": "29:13" },
         { "name": "Static Voice", "start": "2:17:38" }
-      ] },
-      { "name": "Dying Light: The Beast", "twitch": "2675123579", "start": "16:19" }
+      ] }
     ]
   },
   {
@@ -12588,6 +12587,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2456047504", "start": "1:20:37" },
       { "name": "Прохождение", "twitch": "2673385986", "start": "4:09:59" }
+    ]
+  },
+  {
+    "name": "Dying Light: The Beast",
+    "category": "ongoing",
+    "id": "dl-beast",
+    "streams": [
+      { "name": "1", "twitch": "2675123579", "start": "16:19" },
+      { "name": "2", "twitch": "2675977246", "start": "18:39" }
     ]
   }
 ]
