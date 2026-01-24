@@ -12591,13 +12591,14 @@
   },
   {
     "name": "Dying Light: The Beast",
-    "category": "ongoing",
+    "category": "finished",
     "id": "dl-beast",
     "streams": [
       { "name": "1", "twitch": "2675123579", "start": "16:19" },
       { "name": "2", "twitch": "2675977246", "start": "18:39" },
       { "name": "3", "twitch": "2676850555", "start": "11:20" },
-      { "name": "4", "twitch": "2677736446", "start": "44:22" }
+      { "name": "4", "twitch": "2677736446", "start": "44:22" },
+      { "name": "5", "twitch": "2678685761", "start": "13:22" }
     ]
   }
 ]
