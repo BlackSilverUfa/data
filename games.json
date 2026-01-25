@@ -5686,7 +5686,8 @@
       { "twitch": "2673385986", "subrefs": [
         { "name": "Liminal: Escape Route", "start": "29:13" },
         { "name": "Static Voice", "start": "2:17:38" }
-      ] }
+      ] },
+      { "name": "The Empty Halls", "twitch": "2679753048", "start": "33:58" }
     ]
   },
   {
@@ -6257,6 +6258,11 @@
         { "name": "She Was 98", "start": "1:05:32" },
         { "name": "Deceived of Joy", "start": "2:46:34" },
         { "name": "Foghorns Drown (демо)", "start": "3:49:47" }
+      ] },
+      { "twitch": "2679753048", "subrefs": [
+        { "name": "Babulya", "start": "51:02" },
+        { "name": "Unseen", "start": "1:34:09" },
+        { "name": "Cucina Stellata: Starred Cuisine (демо)", "start": "2:51:17" }
       ] }
     ]
   },
@@ -6960,7 +6966,8 @@
     "streams": [
       { "name": "Bite Night", "twitch": "2173541595", "start": "2:06:29" },
       { "name": "Invasion of The Halloween Fiends", "twitch": "2291735052", "start": "1:39:27" },
-      { "name": "Hell of a Birthday", "twitch": "2389049577", "start": "2:00:16" }
+      { "name": "Hell of a Birthday", "twitch": "2389049577", "start": "2:00:16" },
+      { "name": "Bite Night: Dine or Die", "twitch": "2679753048", "start": "3:07:08" }
     ]
   },
   {
@@ -11206,7 +11213,8 @@
     "id": "horrors-2026",
     "streams": [
       { "name": "1", "twitch": "2667145812" },
-      { "name": "2", "twitch": "2673385986" }
+      { "name": "2", "twitch": "2673385986" },
+      { "name": "3", "twitch": "2679753048" }
     ]
   },
   {
