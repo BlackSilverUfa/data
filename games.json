@@ -5688,10 +5688,7 @@
       ] },
       { "name": "The Empty Halls", "twitch": "2679753048", "start": "33:58" },
       { "name": "Code Vein II", "twitch": "2682450993", "start": "23:23" },
-      { "twitch": "2683344112", "subrefs": [
-        { "name": "Nioh 3 (демо)", "start": "33:01" },
-        { "name": "Cairn", "start": "2:53:31" }
-      ] },
+      { "name": "Nioh 3 (демо)", "twitch": "2683344112", "start": "33:01" },
       { "name": "The Backrooms: Liminal Space", "twitch": "2684248237", "start": "33:49" }
     ]
   },
@@ -11733,7 +11730,8 @@
       { "name": "5", "twitch": "2433416193", "start": "5:24:03" },
       { "name": "6 (ночной стрим)", "twitch": "2433841442", "start": "3:26" },
       { "name": "7", "twitch": "2434299325", "start": "4:03:03" },
-      { "name": "8", "twitch": "2436090384", "start": "5:26:06" }
+      { "name": "8", "twitch": "2436090384", "start": "5:26:06" },
+      { "name": "9", "twitch": "2685159950", "start": "25:12" }
     ]
   },
   {
@@ -12636,6 +12634,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2274972530", "start": "4:24:46" },
       { "name": "Релиз", "twitch": "2684248237", "start": "4:14:14" }
+    ]
+  },
+  {
+    "name": "Cairn",
+    "category": "ongoing",
+    "id": "cairn",
+    "streams": [
+      { "name": "1", "twitch": "2683344112", "start": "2:53:31" },
+      { "name": "2", "twitch": "2685159950", "start": "4:24:42" }
     ]
   }
 ]
