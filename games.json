@@ -5388,7 +5388,6 @@
         { "name": "Solarpunk", "start": "5:08:04" }
       ] },
       { "twitch": "2390754958", "subrefs": [
-        { "name": "The 18th Attic (демо)", "start": "2:42:38" },
         { "name": "The Northern Path (Северный путь) (демо)", "start": "2:59:35" },
         { "name": "We Took That Trip (демо)", "start": "3:55:06" }
       ] },
@@ -5690,7 +5689,12 @@
       { "name": "Code Vein II", "twitch": "2682450993", "start": "23:23" },
       { "name": "Nioh 3 (демо)", "twitch": "2683344112", "start": "33:01" },
       { "name": "The Backrooms: Liminal Space", "twitch": "2684248237", "start": "33:49" },
-      { "name": "Yellow", "twitch": "2686159557", "start": "26:05" }
+      { "name": "Yellow", "twitch": "2686159557", "start": "26:05" },
+      { "twitch": "2688736409", "subrefs": [
+        { "name": "Cleaning Simulator", "start": "34:57" },
+        { "name": "Sector Zero", "start": "1:26:14" },
+        { "name": "New Face On The Block", "start": "1:59:05" }
+      ] }
     ]
   },
   {
@@ -6279,6 +6283,10 @@
         { "name": "Mole (демо)", "start": "2:39:35" },
         { "name": "My Neighbor Stinks", "start": "3:33:33" },
         { "name": "Silent Still 3 (демо)", "start": "4:37:48" }
+      ] },
+      { "twitch": "2688736409", "subrefs": [
+        { "name": "Grimps (демо)", "start": "2:46:53" },
+        { "name": "One Last Clip", "start": "3:24:57" }
       ] }
     ]
   },
@@ -11740,7 +11748,8 @@
       { "name": "6 (ночной стрим)", "twitch": "2433841442", "start": "3:26" },
       { "name": "7", "twitch": "2434299325", "start": "4:03:03" },
       { "name": "8", "twitch": "2436090384", "start": "5:26:06" },
-      { "name": "9", "twitch": "2685159950", "start": "25:12" }
+      { "name": "9", "twitch": "2685159950", "start": "25:12" },
+      { "name": "10", "twitch": "2688736409", "start": "5:48:17" }
     ]
   },
   {
@@ -12652,6 +12661,15 @@
     "streams": [
       { "name": "1", "twitch": "2683344112", "start": "2:53:31" },
       { "name": "2", "twitch": "2685159950", "start": "4:24:42" }
+    ]
+  },
+  {
+    "name": "The 18th Attic",
+    "category": "ongoing",
+    "id": "18th-attic",
+    "streams": [
+      { "name": "Демо", "twitch": "2390754958", "start": "2:42:38" },
+      { "name": "Релиз", "twitch": "2688736409", "start": "4:46:36" }
     ]
   }
 ]
