@@ -3246,7 +3246,8 @@
         { "name": "Cursed Digicam", "start": "36:32" },
         { "name": "Cursed Digicam (продолжение)", "start": "1:38:44", "hidden": true }
       ] },
-      { "name": "Umigari (демо)", "twitch": "2589892339", "start": "1:11:04" }
+      { "name": "Umigari (демо)", "twitch": "2589892339", "start": "1:11:04" },
+      { "name": "Umigari", "twitch": "2689597395", "start": "3:03:06" }
     ]
   },
   {
@@ -11749,7 +11750,8 @@
       { "name": "7", "twitch": "2434299325", "start": "4:03:03" },
       { "name": "8", "twitch": "2436090384", "start": "5:26:06" },
       { "name": "9", "twitch": "2685159950", "start": "25:12" },
-      { "name": "10", "twitch": "2688736409", "start": "5:48:17" }
+      { "name": "10", "twitch": "2688736409", "start": "5:48:17" },
+      { "name": "11", "twitch": "2689597395", "start": "18:22" }
     ]
   },
   {
