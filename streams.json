@@ -1300,7 +1300,10 @@
   "519609666": { "youtube": "53_URt94pg8" },
   "520025510": [
     { "youtube": "VWO7aKQg1hY" },
-    { "direct": "https://bsufiles.drhx.ru/streams/520025510.1.mp4", "offset": "2:56:04" }
+    {
+      "offset": "2:56:04",
+      "direct": "https://bsufiles.drhx.ru/streams/520025510.1.mp4"
+    }
   ],
   "520877239": {
     "youtube": "y3dnSaoz0kM", "official": false,
@@ -3635,7 +3638,7 @@
   "2477649477": { "youtube": "oyZztlpZESo" },
   "2478592997": { "youtube": "O8EvmR6GT80" },
   "2478883069": { "youtube": "FTVcQEYlk-c" },
-  "2479512551": {  },
+  "2479512551": { "youtube": "Brv0-PvzG8U", "official": false },
   "2480467576": {  },
   "2480584019": {  },
   "2480467576,2480584019": {
