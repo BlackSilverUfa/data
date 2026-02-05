@@ -1300,7 +1300,7 @@
   "519609666": { "youtube": "53_URt94pg8" },
   "520025510": [
     { "youtube": "VWO7aKQg1hY" },
-    { "youtube": "4kF3HTR6Ol0", "offset": "2:56:04", "official": false }
+    { "direct": "https://bsufiles.drhx.ru/streams/520025510.1.mp4", "offset": "2:56:04" }
   ],
   "520877239": {
     "youtube": "y3dnSaoz0kM", "official": false,
