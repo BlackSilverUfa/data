@@ -3245,9 +3245,17 @@
       { "twitch": "2349362268,2349415065", "subrefs": [
         { "name": "Cursed Digicam", "start": "36:32" },
         { "name": "Cursed Digicam (продолжение)", "start": "1:38:44", "hidden": true }
-      ] },
-      { "name": "Umigari (демо)", "twitch": "2589892339", "start": "1:11:04" },
-      { "name": "Umigari", "twitch": "2689597395", "start": "3:03:06" }
+      ] }
+    ]
+  },
+  {
+    "name": "Umigari (Chilla's Art)",
+    "category": "finished",
+    "id": "umigari",
+    "streams": [
+      { "name": "Демо", "twitch": "2589892339", "start": "1:11:04" },
+      { "name": "1", "twitch": "2689597395", "start": "3:03:06" },
+      { "name": "2", "twitch": "2690463885", "start": "32:50" }
     ]
   },
   {
