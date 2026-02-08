@@ -5704,6 +5704,12 @@
         { "name": "Cleaning Simulator", "start": "34:57" },
         { "name": "Sector Zero", "start": "1:26:14" },
         { "name": "New Face On The Block", "start": "1:59:05" }
+      ] },
+      { "twitch": "2692371042", "subrefs": [
+        { "name": "The Shattered Mind of Lucas Hayes (демо)", "start": "21:53" },
+        { "name": "The Milgram Experiment (демо)", "start": "38:19" },
+        { "name": "Escape From Yandere", "start": "3:34:00" },
+        { "name": "Floor 13", "start": "4:10:28" }
       ] }
     ]
   },
@@ -6297,6 +6303,13 @@
       { "twitch": "2688736409", "subrefs": [
         { "name": "Grimps (демо)", "start": "2:46:53" },
         { "name": "One Last Clip", "start": "3:24:57" }
+      ] },
+      { "twitch": "2692371042", "subrefs": [
+        { "name": "Uncanny Tales: The Watcher (демо)", "start": "53:59" },
+        { "name": "The Strange Lights", "start": "1:51:16" },
+        { "name": "Crabmeat (демо)", "start": "2:31:06" },
+        { "name": "Perceptum (демо)", "start": "3:17:35" },
+        { "name": "Unusual Tales: Deep Below", "start": "4:18:45" }
       ] }
     ]
   },
@@ -11249,7 +11262,8 @@
       { "name": "2", "twitch": "2673385986" },
       { "name": "3", "twitch": "2679753048" },
       { "name": "4", "twitch": "2684248237" },
-      { "name": "5", "twitch": "2686159557" }
+      { "name": "5", "twitch": "2686159557" },
+      { "name": "6", "twitch": "2692371042" }
     ]
   },
   {
