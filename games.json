@@ -5710,6 +5710,10 @@
         { "name": "The Milgram Experiment (демо)", "start": "38:19" },
         { "name": "Escape From Yandere", "start": "3:34:00" },
         { "name": "Floor 13", "start": "4:10:28" }
+      ] },
+      { "twitch": "2695726320", "subrefs": [
+        { "name": "Bylina (демо)", "start": "2:30:31" },
+        { "name": "Crisol: Theater of Idols", "start": "4:11:05" }
       ] }
     ]
   },
@@ -6310,6 +6314,10 @@
         { "name": "Crabmeat (демо)", "start": "2:31:06" },
         { "name": "Perceptum (демо)", "start": "3:17:35" },
         { "name": "Unusual Tales: Deep Below", "start": "4:18:45" }
+      ] },
+      { "twitch": "2695726320", "subrefs": [
+        { "name": "Replaced (демо)", "start": "49:13" },
+        { "name": "Planet of Lana II: Children of the Leaf (демо)", "start": "1:29:00" }
       ] }
     ]
   },
@@ -12470,7 +12478,7 @@
   },
   {
     "name": "Junji Ito Maniac: An Infinite Gaol",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "junji-ito-maniac",
     "streams": [
       { "name": "Демо", "twitch": "2582997412", "start": "4:11:48" },
