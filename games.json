@@ -5717,8 +5717,7 @@
       { "twitch": "2695726320", "subrefs": [
         { "name": "Bylina (демо)", "start": "2:30:31" },
         { "name": "Crisol: Theater of Idols", "start": "4:11:05" }
-      ] },
-      { "name": "Desperate Housewives: The Game (Отчаянные домохозяйки)", "twitch": "2698426553", "start": "22:15" }
+      ] }
     ]
   },
   {
@@ -12721,6 +12720,15 @@
     "streams": [
       { "name": "1", "twitch": "2696580164", "start": "2:01:41" },
       { "name": "2", "twitch": "2697488820", "start": "2:41:21" }
+    ]
+  },
+  {
+    "name": "Desperate Housewives: The Game (Отчаянные домохозяйки)",
+    "category": "ongoing",
+    "id": "desperate-housewives",
+    "streams": [
+      { "name": "1", "twitch": "2698426553", "start": "22:15" },
+      { "name": "2", "twitch": "2703732476", "start": "27:44" }
     ]
   }
 ]
