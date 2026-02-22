@@ -12495,7 +12495,7 @@
   },
   {
     "name": "Escape the Backrooms",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "escape-the-backrooms",
     "streams": [
       { "name": "1", "twitch": "1563545448", "start": "2:54:46" },
@@ -12513,7 +12513,7 @@
   },
   {
     "name": "Deadcam",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "deadcam",
     "streams": [
       { "name": "1", "twitch": "2537171488", "start": "3:02:42" },
