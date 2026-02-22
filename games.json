@@ -5717,6 +5717,13 @@
       { "twitch": "2695726320", "subrefs": [
         { "name": "Bylina (демо)", "start": "2:30:31" },
         { "name": "Crisol: Theater of Idols", "start": "4:11:05" }
+      ] },
+      { "twitch": "2704669685", "subrefs": [
+        { "name": "Backrooms: Poolrooms", "start": "30:41" },
+        { "name": "Rules: Motel Horizon", "start": "2:15:17" },
+        { "name": "Moonrot", "start": "3:21:30" },
+        { "name": "Skinface", "start": "4:25:32" },
+        { "name": "Deda (Деда)", "start": "4:35:32" }
       ] }
     ]
   },
@@ -6321,6 +6328,12 @@
       { "twitch": "2695726320", "subrefs": [
         { "name": "Replaced (демо)", "start": "49:13" },
         { "name": "Planet of Lana II: Children of the Leaf (демо)", "start": "1:29:00" }
+      ] },
+      { "twitch": "2704669685", "subrefs": [
+        { "name": "Captured 2 (демо)", "start": "58:57" },
+        { "name": "Don't Play This (демо)", "start": "1:56:57" },
+        { "name": "Jaden Williams' The Stalking Stairs", "start": "3:38:08" },
+        { "name": "White Silence", "start": "4:40:13" }
       ] }
     ]
   },
@@ -11274,7 +11287,8 @@
       { "name": "3", "twitch": "2679753048" },
       { "name": "4", "twitch": "2684248237" },
       { "name": "5", "twitch": "2686159557" },
-      { "name": "6", "twitch": "2692371042" }
+      { "name": "6", "twitch": "2692371042" },
+      { "name": "7", "twitch": "2704669685" }
     ]
   },
   {
