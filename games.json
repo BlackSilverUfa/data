@@ -3350,7 +3350,8 @@
       { "name": "2", "twitch": "2700179188,2700299926", "start": "24:08" },
       { "name": "3", "twitch": "2701038008", "start": "25:54" },
       { "name": "4", "twitch": "2706372042", "start": "3:34:09" },
-      { "name": "5", "twitch": "2707253823", "start": "20:56" }
+      { "name": "5", "twitch": "2707253823", "start": "20:56" },
+      { "name": "6", "twitch": "2708051647", "start": "8:41" }
     ]
   },
   {
@@ -5727,7 +5728,8 @@
         { "name": "Moonrot", "start": "3:21:30" },
         { "name": "Skinface", "start": "4:25:32" },
         { "name": "Deda (Деда)", "start": "4:35:32" }
-      ] }
+      ] },
+      { "name": "Resident Evil: Requiem", "twitch": "2708051647", "start": "1:18:39" }
     ]
   },
   {
