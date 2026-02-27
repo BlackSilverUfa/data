@@ -5728,8 +5728,7 @@
         { "name": "Moonrot", "start": "3:21:30" },
         { "name": "Skinface", "start": "4:25:32" },
         { "name": "Deda (Деда)", "start": "4:35:32" }
-      ] },
-      { "name": "Resident Evil: Requiem", "twitch": "2708051647", "start": "1:18:39" }
+      ] }
     ]
   },
   {
@@ -12748,6 +12747,15 @@
     "streams": [
       { "name": "1", "twitch": "2698426553", "start": "22:15" },
       { "name": "2", "twitch": "2703732476", "start": "27:44" }
+    ]
+  },
+  {
+    "name": "Resident Evil: Requiem",
+    "category": "ongoing",
+    "id": "re-requiem",
+    "streams": [
+      { "name": "1", "twitch": "2708051647", "start": "1:18:39" },
+      { "name": "2", "twitch": "2708932266", "start": "9:54" }
     ]
   }
 ]
