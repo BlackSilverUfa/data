@@ -12751,11 +12751,12 @@
   },
   {
     "name": "Resident Evil: Requiem",
-    "category": "ongoing",
+    "category": "finished",
     "id": "re-requiem",
     "streams": [
       { "name": "1", "twitch": "2708051647", "start": "1:18:39" },
-      { "name": "2", "twitch": "2708932266", "start": "9:54" }
+      { "name": "2", "twitch": "2708932266", "start": "9:54" },
+      { "name": "3", "twitch": "2709933308", "start": "18:09" }
     ]
   }
 ]
