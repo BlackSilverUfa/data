@@ -3458,7 +3458,8 @@
       { "name": "Poop Killer - Flush or Die!", "twitch": "2404564177", "start": "2:17:15" },
       { "name": "Tales Beyond the Tomb: White Silence", "twitch": "2492884790", "start": "42:26" },
       { "name": "Tales Beyond The Tomb: Route 86", "twitch": "2548515834", "start": "1:40:25" },
-      { "name": "Within of Static: Ashburg Rental", "twitch": "2648606075", "start": "3:22:30" }
+      { "name": "Within of Static: Ashburg Rental", "twitch": "2648606075", "start": "3:22:30" },
+      { "name": "Within of Static: Northgate Mall", "twitch": "2710950107", "start": "1:03:45" }
     ]
   },
   {
@@ -5728,6 +5729,11 @@
         { "name": "Moonrot", "start": "3:21:30" },
         { "name": "Skinface", "start": "4:25:32" },
         { "name": "Deda (Деда)", "start": "4:35:32" }
+      ] },
+      { "twitch": "2710950107", "subrefs": [
+        { "name": "Scarlet Backrooms (демо)", "start": "26:46" },
+        { "name": "Cthulhu: The Cosmic Abyss", "start": "43:54" },
+        { "name": "Dread Neighbor", "start": "2:50:35" }
       ] }
     ]
   },
@@ -6338,6 +6344,11 @@
         { "name": "Don't Play This (демо)", "start": "1:56:57" },
         { "name": "Jaden Williams' The Stalking Stairs", "start": "3:38:08" },
         { "name": "White Silence", "start": "4:40:13" }
+      ] },
+      { "twitch": "2710950107", "subrefs": [
+        { "name": "CHWAEST: A Creeping Parasite Horror", "start": "3:23:56" },
+        { "name": "The Soul (демо)", "start": "3:49:33" },
+        { "name": "On Thy Knees", "start": "4:20:49" }
       ] }
     ]
   },
@@ -11292,7 +11303,8 @@
       { "name": "4", "twitch": "2684248237" },
       { "name": "5", "twitch": "2686159557" },
       { "name": "6", "twitch": "2692371042" },
-      { "name": "7", "twitch": "2704669685" }
+      { "name": "7", "twitch": "2704669685" },
+      { "name": "8", "twitch": "2710950107" }
     ]
   },
   {
