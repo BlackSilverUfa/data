@@ -5734,12 +5734,13 @@
         { "name": "Scarlet Backrooms (демо)", "start": "26:46" },
         { "name": "Cthulhu: The Cosmic Abyss", "start": "43:54" },
         { "name": "Dread Neighbor", "start": "2:50:35" }
-      ] }
+      ] },
+      { "name": "Creature Kitchen", "twitch": "2712645930", "start": "4:47:44" }
     ]
   },
   {
     "name": "Violent Horror Stories 2",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "vhs2",
     "streams": [
       { "twitch": "2625967059", "subrefs": [
@@ -6086,7 +6087,6 @@
         { "name": "Tape 101 (демо)", "start": "26:05" },
         { "name": "Last Guest", "start": "55:51" },
         { "name": "Dead Tapes: Fading Father", "start": "1:56:31" },
-        { "name": "The Oily Depths (демо)", "start": "3:22:44" },
         { "name": "PHASE ZERO (демо)", "start": "3:55:55" }
       ] },
       { "twitch": "2474256633", "subrefs": [
@@ -6149,7 +6149,6 @@
       ] },
       { "twitch": "2548515834", "subrefs": [
         { "name": "Vigil", "start": "52:38" },
-        { "name": "Inside the Flesh Engine (демо)", "start": "1:17:35" },
         { "name": "Petsitting", "start": "3:29:36" },
         { "name": "In the Forest with a Beaver", "start": "3:54:37" }
       ] },
@@ -6349,7 +6348,8 @@
         { "name": "CHWAEST: A Creeping Parasite Horror", "start": "3:23:56" },
         { "name": "The Soul (демо)", "start": "3:49:33" },
         { "name": "On Thy Knees", "start": "4:20:49" }
-      ] }
+      ] },
+      { "name": "The Night Cleaner", "twitch": "2712645930", "start": "3:25:13" }
     ]
   },
   {
@@ -11304,7 +11304,8 @@
       { "name": "5", "twitch": "2686159557" },
       { "name": "6", "twitch": "2692371042" },
       { "name": "7", "twitch": "2704669685" },
-      { "name": "8", "twitch": "2710950107" }
+      { "name": "8", "twitch": "2710950107" },
+      { "name": "9", "twitch": "2712645930" }
     ]
   },
   {
@@ -12582,7 +12583,7 @@
   },
   {
     "name": "Sleep Awake",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "sleep-awake",
     "streams": [
       { "name": "Демо", "twitch": "2579578173", "start": "1:08:59" },
@@ -12769,6 +12770,24 @@
       { "name": "1", "twitch": "2708051647", "start": "1:18:39" },
       { "name": "2", "twitch": "2708932266", "start": "9:54" },
       { "name": "3", "twitch": "2709933308", "start": "18:09" }
+    ]
+  },
+  {
+    "name": "Inside the Flesh Engine",
+    "category": "finished",
+    "id": "flesh-engine",
+    "streams": [
+      { "name": "Демо", "twitch": "2548515834", "start": "1:17:35" },
+      { "name": "Прохождение", "twitch": "2712645930", "start": "30:47" }
+    ]
+  },
+  {
+    "name": "The Oily Depths",
+    "category": "ongoing",
+    "id": "oily-depths",
+    "streams": [
+      { "name": "Демо", "twitch": "2470596250", "start": "3:22:44" },
+      { "name": "Релиз", "twitch": "2712645930", "start": "2:42:03" }
     ]
   }
 ]
