@@ -5735,7 +5735,11 @@
         { "name": "Cthulhu: The Cosmic Abyss", "start": "43:54" },
         { "name": "Dread Neighbor", "start": "2:50:35" }
       ] },
-      { "name": "Creature Kitchen", "twitch": "2712645930", "start": "4:47:44" }
+      { "name": "Creature Kitchen", "twitch": "2712645930", "start": "4:47:44" },
+      { "twitch": "2714340256", "subrefs": [
+        { "name": "Legacy of Kain: Defiance Remastered", "start": "33:28" },
+        { "name": "Resident Evil", "start": "3:00:03" }
+      ] }
     ]
   },
   {
