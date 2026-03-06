@@ -5736,9 +5736,10 @@
         { "name": "Dread Neighbor", "start": "2:50:35" }
       ] },
       { "name": "Creature Kitchen", "twitch": "2712645930", "start": "4:47:44" },
-      { "twitch": "2714340256", "subrefs": [
-        { "name": "Legacy of Kain: Defiance Remastered", "start": "33:28" },
-        { "name": "Resident Evil", "start": "3:00:03" }
+      { "name": "Legacy of Kain: Defiance Remastered", "twitch": "2714340256", "start": "33:28" },
+      { "twitch": "2715196033", "subrefs": [
+        { "name": "Static Dread: The Submarine (демо)", "start": "30:07" },
+        { "name": "Romeo is a Dead Man", "start": "1:57:44" }
       ] }
     ]
   },
@@ -6353,7 +6354,8 @@
         { "name": "The Soul (демо)", "start": "3:49:33" },
         { "name": "On Thy Knees", "start": "4:20:49" }
       ] },
-      { "name": "The Night Cleaner", "twitch": "2712645930", "start": "3:25:13" }
+      { "name": "The Night Cleaner", "twitch": "2712645930", "start": "3:25:13" },
+      { "name": "Fatal Frame II: Crimson Butterfly Remake (демо)", "twitch": "2715196033", "start": "1:13:05" }
     ]
   },
   {
@@ -12792,6 +12794,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2470596250", "start": "3:22:44" },
       { "name": "Релиз", "twitch": "2712645930", "start": "2:42:03" }
+    ]
+  },
+  {
+    "name": "Resident Evil",
+    "category": "ongoing",
+    "id": "resident-evil",
+    "streams": [
+      { "name": "1", "twitch": "2714340256", "start": "3:00:03" },
+      { "name": "2", "twitch": "2715196033", "start": "3:45:57" }
     ]
   }
 ]
