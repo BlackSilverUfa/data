@@ -10805,11 +10805,12 @@
   },
   {
     "name": "Resident Evil 2",
-    "category": "abandoned",
+    "category": "ongoing",
     "id": "re2",
     "streams": [
       { "name": "1", "twitch": "362192911" },
-      { "name": "2", "twitch": "362701428" }
+      { "name": "2", "twitch": "362701428" },
+      { "name": "1 (заново)", "twitch": "2717868141", "start": "4:53:52" }
     ]
   },
   {
@@ -12626,7 +12627,7 @@
   },
   {
     "name": "Snow Plowing Simulator",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "snow-plowing-sim",
     "streams": [
       { "name": "1", "twitch": "2085706176", "start": "3:25:42" },
@@ -12800,11 +12801,12 @@
   },
   {
     "name": "Resident Evil",
-    "category": "ongoing",
+    "category": "finished",
     "id": "resident-evil",
     "streams": [
       { "name": "1", "twitch": "2714340256", "start": "3:00:03" },
-      { "name": "2", "twitch": "2715196033", "start": "3:45:57" }
+      { "name": "2", "twitch": "2715196033", "start": "3:45:57" },
+      { "name": "3", "twitch": "2717868141", "start": "10:44" }
     ]
   }
 ]
