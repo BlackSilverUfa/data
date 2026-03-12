@@ -6655,12 +6655,13 @@
   },
   {
     "name": "Resident Evil 3: Nemesis",
-    "category": "abandoned",
+    "category": "finished",
     "id": "re3-nemesis",
     "streams": [
       { "name": "1", "twitch": "2118671984", "start": "1:33:05" },
       { "name": "2", "twitch": "2124805276", "start": "3:10:23" },
-      { "name": "1 (заново)", "twitch": "2719508320", "start": "3:29:17" }
+      { "name": "1 (заново)", "twitch": "2719508320", "start": "3:29:17" },
+      { "name": "2", "twitch": "2720312543", "start": "16:21" }
     ]
   },
   {
@@ -12640,7 +12641,7 @@
   },
   {
     "name": "Egging On",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "egging-on",
     "streams": [
       { "name": "1", "twitch": "2615504145", "start": "25:35" },
