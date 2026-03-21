@@ -5746,8 +5746,7 @@
         { "name": "Static Dread: The Submarine (демо)", "start": "30:07" },
         { "name": "Romeo is a Dead Man", "start": "1:57:44" }
       ] },
-      { "name": "Biohazard", "twitch": "2718669408", "start": "10:51" },
-      { "name": "Crimson Desert", "twitch": "2727036170", "start": "7:38" }
+      { "name": "Biohazard", "twitch": "2718669408", "start": "10:51" }
     ]
   },
   {
@@ -12820,6 +12819,15 @@
       { "name": "1", "twitch": "2714340256", "start": "3:00:03" },
       { "name": "2", "twitch": "2715196033", "start": "3:45:57" },
       { "name": "3", "twitch": "2717868141", "start": "10:44" }
+    ]
+  },
+  {
+    "name": "Crimson Desert",
+    "category": "ongoing",
+    "id": "crimson-desert",
+    "streams": [
+      { "name": "1", "twitch": "2727036170", "start": "7:38" },
+      { "name": "2", "twitch": "2727942061", "start": "17:16" }
     ]
   }
 ]
