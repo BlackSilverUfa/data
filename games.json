@@ -5746,7 +5746,8 @@
         { "name": "Static Dread: The Submarine (демо)", "start": "30:07" },
         { "name": "Romeo is a Dead Man", "start": "1:57:44" }
       ] },
-      { "name": "Biohazard", "twitch": "2718669408", "start": "10:51" }
+      { "name": "Biohazard", "twitch": "2718669408", "start": "10:51" },
+      { "name": "Out Fishing (демо)", "twitch": "2728896412", "start": "54:58" }
     ]
   },
   {
@@ -6362,7 +6363,12 @@
       ] },
       { "name": "The Night Cleaner", "twitch": "2712645930", "start": "3:25:13" },
       { "name": "Fatal Frame II: Crimson Butterfly Remake (демо)", "twitch": "2715196033", "start": "1:13:05" },
-      { "name": "Five Hearts Under One Roof 2", "twitch": "2717058640", "start": "29:44" }
+      { "name": "Five Hearts Under One Roof 2", "twitch": "2717058640", "start": "29:44" },
+      { "twitch": "2728896412", "subrefs": [
+        { "name": "Underjoy (демо)", "start": "32:09" },
+        { "name": "They See You", "start": "2:08:29" },
+        { "name": "Tiny Chills: Not From Ear (демо)", "start": "3:48:09" }
+      ] }
     ]
   },
   {
@@ -11324,7 +11330,8 @@
       { "name": "6", "twitch": "2692371042" },
       { "name": "7", "twitch": "2704669685" },
       { "name": "8", "twitch": "2710950107" },
-      { "name": "9", "twitch": "2712645930" }
+      { "name": "9", "twitch": "2712645930" },
+      { "name": "10", "twitch": "2728896412" }
     ]
   },
   {
