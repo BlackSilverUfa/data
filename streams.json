@@ -558,9 +558,9 @@
   "283350700": { "youtube": "u-HsuKCN8TQ", "offset": "-0:04" },
   "284156303": { "youtube": "MUpw9ehsZjg", "offset": "-0:04" },
   "284560594": { "youtube": "sw4BuNNVoio", "official": false },
-  "284955107": { "youtube": "Oj_bRJmuIzY", "offset": "-0:06" },
+  "284955107": { "youtube": "XG4bO1iYwSw", "official": false },
   "285753398": {
-    "youtube": "RugjM_b_dYg", "offset": "-0:04",
+    "youtube": "KxFTNiOAjXM", "offset": "-0:04", "official": false,
     "note": "Чат этого стрима был повреждён из-за <a href=\"https://www.reddit.com/r/Twitch/comments/8zobgr/chat_replay_missing/\">неполадок</a> у Twitch."
   },
   "286171438": [
@@ -568,7 +568,7 @@
       "youtube": "mRj7Q8mbGoQ", "offset": "-0:04", "official": false,
       "note": "<a href=\"https://youtu.be/zXqsM9ntT18\">Официальная запись</a> сломана (недоступно качество выше 360p) <!-- offset=-0:04 -->"
     },
-    { "youtube": "CrD8TeJzryQ", "offset": "2:25:32" }
+    { "youtube": "UXCItThDNMM", "offset": "2:25:32", "official": false }
   ],
   "286989766": [
     { "youtube": "zwePbGaKoP4", "offset": "-0:04", "official": false },
@@ -580,7 +580,7 @@
     "note": "<a href=\"https://youtu.be/PIc2Xs5rMJ4\">Официальная запись</a> сломана (недоступно качество выше 360p) <!-- offset=-0:04 -->"
   },
   "288630615": [
-    { "youtube": "QAYue0tjlL4", "offset": "-0:04" },
+    { "youtube": "u9-dY4S_42E", "offset": "-0:04", "official": false },
     { "youtube": "wahBJgT2ndw", "offset": "1:43:57" }
   ],
   "289052085": [
@@ -589,7 +589,7 @@
       "note": "<a href=\"https://youtu.be/jFWlePURaDI\">Официальная запись</a> сломана (недоступно качество выше 360p) <!-- offset=-0:07 -->"
     },
     { "youtube": "b7GYwovKfao", "offset": "2:16:14" },
-    { "youtube": "z0jqI_stQe8", "offset": "3:21:04" }
+    { "youtube": "XuAbIpeNOdU", "offset": "3:21:04", "official": false }
   ],
   "289825003": {
     "youtube": "jnkaf_KtXjM", "official": false,
@@ -608,7 +608,7 @@
     }
   ],
   "291392607": [
-    { "youtube": "RM90bckJxOc", "offset": "-0:04" },
+    { "youtube": "kwwTsMoyltI", "offset": "-0:04", "official": false },
     {
       "youtube": "WcfgEucvDrM", "offset": "3:11:16", "official": false,
       "note": "<a href=\"https://youtu.be/uc3FDnhrkYE\">Официальная запись</a> сломана (недоступно качество выше 360p) <!-- offset=3:11:16 -->"
@@ -898,11 +898,11 @@
     "youtube": "QtYbiPMm2ME", "official": false,
     "note": "<a href=\"https://youtu.be/c4INB7FN5CM\">Официальную запись</a> невозможно использовать на этом сайте из-за возрастных ограничений"
   },
-  "375535539": { "youtube": "QcsGgN0UMl4" },
+  "375535539": { "youtube": "wzxPNzrr52w", "official": false },
   "376053722": { "youtube": "2lvWEyCYDBM" },
   "376580800": { "youtube": "XWQYmlIFBPQ" },
   "378392606": { "youtube": "md4WSMINUx8" },
-  "379446154": { "youtube": "_pez5HN9TGI" },
+  "379446154": { "youtube": "aXctUF22yw4", "official": false },
   "380648625": { "youtube": "dHtNVLHvIzU" },
   "380934386": {
     "youtube": "atQfEoa8llk", "official": false,
@@ -916,9 +916,9 @@
   "382092665": { "youtube": "G5eXWMZaS8E" },
   "382162351": { "youtube": "D80Sboinge8" },
   "383771606": { "youtube": "bfz66zyAQsk" },
-  "384295329": { "youtube": "F9qIF9vjf7s" },
+  "384295329": { "youtube": "a0rNlvlUO_E", "official": false },
   "385372335": [
-    { "youtube": "Va3s8fHkDqs" },
+    { "youtube": "IuLsDQdW1Rw", "official": false },
     { "youtube": "RPwIU4kM2xo", "offset": "1:56:10", "official": false }
   ],
   "385983486": { "youtube": "vySEpxQvDdE" },
@@ -927,7 +927,7 @@
     "note": "На официальный канал попал только <a href=\"https://youtu.be/_NeGsFRIXzA\">небольшой фрагмент</a> этого стрима."
   },
   "387496098": [
-    { "youtube": "Qxdu_4Y95ys" },
+    { "youtube": "H-JYeNa35a8", "official": false },
     { "youtube": "VD2EvjRfZ-k", "offset": "4:00:25" }
   ],
   "388537884": { "youtube": "burT97AmW94" },
@@ -942,11 +942,11 @@
   "391675645": { "youtube": "d7GGCwVW4NI" },
   "392176181": { "youtube": "UPZlU4SRKCo" },
   "393860794": [
-    { "youtube": "VBRUVKbC2bw" },
+    { "youtube": "9LlHib6GpaM", "official": false },
     { "youtube": "SaEBCu55BEA", "offset": "4:11:48" }
   ],
   "394335768": [
-    { "youtube": "UyUJ6QUJBYQ" },
+    { "youtube": "wyuf39k3108", "official": false },
     { "youtube": "Pq-5lWmmkqc", "offset": "2:52:22" }
   ],
   "394859046": { "youtube": "Vps1tVugURY" },
@@ -3826,7 +3826,7 @@
   "2676850555": { "youtube": "Z3HY8SyxVRg" },
   "2677736446": { "youtube": "hPPIBGz5lbc" },
   "2678685761": { "youtube": "MXpAECxCa24" },
-  "2679753048": { "youtube": "3w5lakYuTBk" },
+  "2679753048": { "youtube": "yW9Y4AdgT94", "official": false },
   "2682450993": { "youtube": "njtdZusKl0c" },
   "2683344112": { "youtube": "IZBGSA3INEg" },
   "2684248237": { "youtube": "j1CxBAoZW3Y" },
