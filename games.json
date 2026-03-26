@@ -5747,8 +5747,7 @@
         { "name": "Romeo is a Dead Man", "start": "1:57:44" }
       ] },
       { "name": "Biohazard", "twitch": "2718669408", "start": "10:51" },
-      { "name": "Out Fishing (демо)", "twitch": "2728896412", "start": "54:58" },
-      { "name": "Resident Evil Code: Veronica", "twitch": "2730499020", "start": "13:27" }
+      { "name": "Out Fishing (демо)", "twitch": "2728896412", "start": "54:58" }
     ]
   },
   {
@@ -12838,6 +12837,15 @@
     "streams": [
       { "name": "1", "twitch": "2727036170", "start": "7:38" },
       { "name": "2", "twitch": "2727942061", "start": "17:16" }
+    ]
+  },
+  {
+    "name": "Resident Evil Code: Veronica",
+    "category": "ongoing",
+    "id": "re-veronica",
+    "streams": [
+      { "name": "1", "twitch": "2730499020", "start": "13:27" },
+      { "name": "2", "twitch": "2732131259,2732272217", "start": "19:15" }
     ]
   }
 ]
