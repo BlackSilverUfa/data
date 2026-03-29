@@ -497,7 +497,6 @@
       ] },
       { "twitch": "2722074621", "subrefs": [
         { "name": "We Gotta Go", "start": "1:45:44" },
-        { "name": "MIMESIS", "start": "2:25:53" },
         { "name": "YAPYAP", "start": "4:28:48" }
       ] }
     ]
@@ -5751,7 +5750,8 @@
         { "name": "Backrooms: No Way Out", "start": "21:07" },
         { "name": "SCP 3008", "start": "47:22" },
         { "name": "Conductor: Eternal Service", "start": "3:33:37" }
-      ] }
+      ] },
+      { "name": "Species: Unknown", "twitch": "2734704380", "start": "1:46:37" }
     ]
   },
   {
@@ -12864,6 +12864,15 @@
     "streams": [
       { "name": "Демо", "twitch": "1642266888,1642407202", "start": "1:55:07" },
       { "name": "Релиз", "twitch": "2733834092", "start": "1:13:46" }
+    ]
+  },
+  {
+    "name": "MIMESIS",
+    "category": "ongoing",
+    "id": "mimesis",
+    "streams": [
+      { "name": "1", "twitch": "2722074621", "start": "2:25:53" },
+      { "name": "2", "twitch": "2734704380", "start": "4:12:56" }
     ]
   }
 ]
