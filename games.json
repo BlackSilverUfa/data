@@ -6388,7 +6388,8 @@
         { "name": "Knock", "start": "4:10:36" },
         { "name": "Rippers Lair", "start": "4:55:33" }
       ] },
-      { "name": "Idols of Ash", "twitch": "2740582496", "start": "1:21:34" }
+      { "name": "Idols of Ash", "twitch": "2740582496", "start": "1:21:34" },
+      { "name": "Resident Evil Survivor", "twitch": "2742091967", "start": "3:25:44" }
     ]
   },
   {
@@ -12869,12 +12870,13 @@
   },
   {
     "name": "Resident Evil Code: Veronica",
-    "category": "ongoing",
+    "category": "finished",
     "id": "re-veronica",
     "streams": [
       { "name": "1", "twitch": "2730499020", "start": "13:27" },
       { "name": "2", "twitch": "2732131259,2732272217", "start": "19:15" },
-      { "name": "3", "twitch": "2737932822", "start": "13:30" }
+      { "name": "3", "twitch": "2737932822", "start": "13:30" },
+      { "name": "4", "twitch": "2742091967", "start": "15:27" }
     ]
   },
   {
