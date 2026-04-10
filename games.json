@@ -5757,11 +5757,7 @@
         { "name": "Lucid Blocks", "start": "49:17" },
         { "name": "He Followed Me", "start": "2:28:22" }
       ] },
-      { "twitch": "2743663862", "subrefs": [
-        { "name": "Samson", "start": "15:45" },
-        { "name": "The Occultist", "start": "3:00:41" },
-        { "name": "Samson (продолжение)", "start": "6:23:46", "hidden": true }
-      ] }
+      { "name": "Road to Vostok (демо)", "twitch": "2744533579", "start": "1:35:35" }
     ]
   },
   {
@@ -12918,6 +12914,24 @@
     "streams": [
       { "name": "Демо", "twitch": "1989452096", "start": "1:17:20" },
       { "name": "Релиз", "twitch": "2739703294", "start": "3:51:12" }
+    ]
+  },
+  {
+    "name": "The Occultist",
+    "category": "ongoing",
+    "id": "occultist",
+    "streams": [
+      { "name": "1", "twitch": "2743663862", "start": "3:00:41" },
+      { "name": "2", "twitch": "2744533579", "start": "2:30:51" }
+    ]
+  },
+  {
+    "name": "Samson",
+    "category": "ongoing",
+    "id": "samson",
+    "streams": [
+      { "name": "1", "twitch": "2743663862", "start": "15:45" },
+      { "name": "2", "twitch": "2744533579", "start": "3:38:31" }
     ]
   }
 ]
