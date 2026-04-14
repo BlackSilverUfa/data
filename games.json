@@ -6355,10 +6355,7 @@
         { "name": "Perceptum (демо)", "start": "3:17:35" },
         { "name": "Unusual Tales: Deep Below", "start": "4:18:45" }
       ] },
-      { "twitch": "2695726320", "subrefs": [
-        { "name": "Replaced (демо)", "start": "49:13" },
-        { "name": "Planet of Lana II: Children of the Leaf (демо)", "start": "1:29:00" }
-      ] },
+      { "name": "Planet of Lana II: Children of the Leaf (демо)", "twitch": "2695726320", "start": "1:29:00" },
       { "twitch": "2704669685", "subrefs": [
         { "name": "Captured 2 (демо)", "start": "58:57" },
         { "name": "Don't Play This (демо)", "start": "1:56:57" },
@@ -9005,7 +9002,8 @@
       { "name": "Часть 7 #10", "twitch": "2334057711", "start": "4:48:29" },
       { "name": "Часть 7 #11", "twitch": "2336320590", "start": "4:13:09" },
       { "name": "Часть 8 #1", "twitch": "2637736556", "start": "4:07:05" },
-      { "name": "I'm on Observation Duty 8", "twitch": "2638573850", "start": "3:33:09" }
+      { "name": "Часть 8 #2", "twitch": "2638573850", "start": "3:33:09" },
+      { "name": "Часть 8 #3", "twitch": "2747843283", "start": "3:19:39" }
     ]
   },
   {
@@ -12934,6 +12932,15 @@
       { "name": "1", "twitch": "2743663862", "start": "15:45" },
       { "name": "2", "twitch": "2744533579", "start": "3:38:31" },
       { "name": "3", "twitch": "2745337959", "start": "10:20" }
+    ]
+  },
+  {
+    "name": "Replaced",
+    "category": "ongoing",
+    "id": "replaced",
+    "streams": [
+      { "name": "Демо", "twitch": "2695726320", "start": "49:13" },
+      { "name": "1", "twitch": "2747843283", "start": "58:16" }
     ]
   }
 ]
