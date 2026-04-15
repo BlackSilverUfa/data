@@ -12926,7 +12926,7 @@
   },
   {
     "name": "Samson",
-    "category": "ongoing",
+    "category": "finished",
     "id": "samson",
     "streams": [
       { "name": "1", "twitch": "2743663862", "start": "15:45" },
@@ -12940,7 +12940,7 @@
     "id": "replaced",
     "streams": [
       { "name": "Демо", "twitch": "2695726320", "start": "49:13" },
-      { "name": "1", "twitch": "2747843283", "start": "58:16" }
+      { "name": "Релиз", "twitch": "2747843283", "start": "58:16" }
     ]
   }
 ]
