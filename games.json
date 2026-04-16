@@ -6314,7 +6314,6 @@
     "type": "list",
     "id": "single-2026",
     "streams": [
-      { "name": "Pragmata (демо)", "twitch": "2666154111", "start": "55:34" },
       { "twitch": "2667145812", "subrefs": [
         { "name": "Nightbell", "start": "1:00:26" },
         { "name": "Terpenie", "start": "2:00:04" },
@@ -12942,6 +12941,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2695726320", "start": "49:13" },
       { "name": "Релиз", "twitch": "2747843283", "start": "58:16" }
+    ]
+  },
+  {
+    "name": "Pragmata",
+    "category": "ongoing",
+    "id": "pragmata",
+    "streams": [
+      { "name": "Демо", "twitch": "2666154111", "start": "55:34" },
+      { "name": "Релиз", "twitch": "2749361346", "start": "1:01:22" }
     ]
   }
 ]
