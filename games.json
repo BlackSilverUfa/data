@@ -12945,12 +12945,13 @@
   },
   {
     "name": "Pragmata",
-    "category": "ongoing",
+    "category": "finished",
     "id": "pragmata",
     "streams": [
       { "name": "Демо", "twitch": "2666154111", "start": "55:34" },
       { "name": "1", "twitch": "2749361346", "start": "1:01:22" },
-      { "name": "2 (тренировки)", "twitch": "2749729975", "start": "4:00" }
+      { "name": "2 (тренировки)", "twitch": "2749729975", "start": "4:00" },
+      { "name": "3", "twitch": "2750139630", "start": "16:42" }
     ]
   }
 ]
