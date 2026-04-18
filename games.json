@@ -5735,7 +5735,6 @@
       ] },
       { "twitch": "2710950107", "subrefs": [
         { "name": "Scarlet Backrooms (демо)", "start": "26:46" },
-        { "name": "Cthulhu: The Cosmic Abyss", "start": "43:54" },
         { "name": "Dread Neighbor", "start": "2:50:35" }
       ] },
       { "name": "Creature Kitchen", "twitch": "2712645930", "start": "4:47:44" },
@@ -5758,7 +5757,8 @@
         { "name": "Lucid Blocks", "start": "49:17" },
         { "name": "He Followed Me", "start": "2:28:22" }
       ] },
-      { "name": "Road to Vostok (демо)", "twitch": "2744533579", "start": "1:35:35" }
+      { "name": "Road to Vostok (демо)", "twitch": "2744533579", "start": "1:35:35" },
+      { "name": "Mouse: P.I. For Hire", "twitch": "2751033289", "start": "28:31" }
     ]
   },
   {
@@ -7302,7 +7302,7 @@
       { "name": "3", "twitch": "2172620884", "start": "3:45:44" },
       { "name": "4", "twitch": "2231748428", "start": "36:55" },
       { "name": "5", "twitch": "2238825958", "start": "56:04" },
-      { "name": "6 (релиз)", "twitch": "2249129409", "start": "4:36:16" },
+      { "name": "6", "twitch": "2249129409", "start": "4:36:16" },
       { "name": "7", "twitch": "2249923453", "start": "19:35" },
       { "name": "8", "twitch": "2250799817", "start": "1:05:18" },
       { "name": "9", "twitch": "2252500218", "start": "29:09" },
@@ -7320,7 +7320,8 @@
       { "name": "21", "twitch": "2513947018", "start": "4:30:55" },
       { "name": "22", "twitch": "2540650368", "start": "1:35:37" },
       { "name": "23", "twitch": "2623328029", "start": "3:55:25" },
-      { "name": "24", "twitch": "2737131562", "start": "4:22:39" }
+      { "name": "24", "twitch": "2737131562", "start": "4:22:39" },
+      { "name": "25 (релиз)", "twitch": "2751033289", "start": "4:14:27" }
     ]
   },
   {
@@ -12952,6 +12953,15 @@
       { "name": "1", "twitch": "2749361346", "start": "1:01:22" },
       { "name": "2 (тренировки)", "twitch": "2749729975", "start": "4:00" },
       { "name": "3", "twitch": "2750139630", "start": "16:42" }
+    ]
+  },
+  {
+    "name": "Cthulhu: The Cosmic Abyss",
+    "category": "ongoing",
+    "id": "cthulhu-ca",
+    "streams": [
+      { "name": "Демо", "twitch": "2710950107", "start": "43:54" },
+      { "name": "Релиз", "twitch": "2751033289", "start": "2:15:46" }
     ]
   }
 ]
