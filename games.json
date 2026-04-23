@@ -688,7 +688,8 @@
       { "name": "23", "twitch": "2369442712", "start": "6:17:09" },
       { "name": "24", "twitch": "2486684400", "start": "1:13:34" },
       { "name": "25", "twitch": "2669742923", "start": "1:21:05" },
-      { "name": "26", "twitch": "2741318217", "start": "3:14:56" }
+      { "name": "26", "twitch": "2741318217", "start": "3:14:56" },
+      { "name": "27", "twitch": "2755040261", "start": "5:01:31" }
     ]
   },
   {
@@ -5758,7 +5759,11 @@
       ] },
       { "name": "Road to Vostok (демо)", "twitch": "2744533579", "start": "1:35:35" },
       { "name": "Mouse: P.I. For Hire", "twitch": "2751033289", "start": "28:31" },
-      { "name": "Bone Fire Effigy", "twitch": "2751915521", "start": "3:29:30" }
+      { "name": "Bone Fire Effigy", "twitch": "2751915521", "start": "3:29:30" },
+      { "twitch": "2755040261", "subrefs": [
+        { "name": "Voodoo Fishin'", "start": "2:18:50" },
+        { "name": "Mind Biotics", "start": "2:53:08" }
+      ] }
     ]
   },
   {
@@ -6390,7 +6395,8 @@
       { "twitch": "2751915521", "subrefs": [
         { "name": "Barking from the Dark", "start": "1:16:16" },
         { "name": "Holface", "start": "2:48:30" }
-      ] }
+      ] },
+      { "name": "The Expanse: Osiris Reborn (бета)", "twitch": "2755040261", "start": "35:02" }
     ]
   },
   {
@@ -11903,7 +11909,8 @@
       { "name": "1", "twitch": "2418438204", "start": "2:18:15" },
       { "name": "2", "twitch": "2430812705", "start": "1:55:37" },
       { "name": "3", "twitch": "2443150012", "start": "3:42:48" },
-      { "name": "4", "twitch": "2540650368", "start": "4:57:57" }
+      { "name": "4", "twitch": "2540650368", "start": "4:57:57" },
+      { "name": "5", "twitch": "2755040261", "start": "3:07:41" }
     ]
   },
   {
