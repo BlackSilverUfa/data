@@ -499,8 +499,7 @@
         { "name": "We Gotta Go", "start": "1:45:44" },
         { "name": "YAPYAP", "start": "4:28:48" }
       ] },
-      { "name": "Cryo", "twitch": "2741318217", "start": "2:18:23" },
-      { "name": "Windrose (с Дашей)", "twitch": "2748601405", "start": "28:56" }
+      { "name": "Cryo", "twitch": "2741318217", "start": "2:18:23" }
     ]
   },
   {
@@ -12993,6 +12992,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2704669685", "start": "1:56:57" },
       { "name": "Прохождение", "twitch": "2751915521", "start": "3:49:50" }
+    ]
+  },
+  {
+    "name": "Windrose",
+    "category": "ongoing",
+    "id": "windrose",
+    "streams": [
+      { "name": "1 (с Дашей)", "twitch": "2748601405", "start": "28:56" },
+      { "name": "2 (4D)", "twitch": "2755846236", "start": "1:14:20" }
     ]
   }
 ]
