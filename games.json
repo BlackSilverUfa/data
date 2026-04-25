@@ -7887,7 +7887,7 @@
   },
   {
     "name": "Crime Scene Cleaner",
-    "category": "abandoned",
+    "category": "ongoing",
     "id": "csc",
     "streams": [
       { "name": "1 (демо)", "twitch": "1949835858", "start": "28:03" },
@@ -7911,7 +7911,11 @@
       { "name": "19", "twitch": "2654992093", "start": "22:54" },
       { "name": "20", "twitch": "2736317269", "start": "21:24" },
       { "name": "21", "twitch": "2741318217", "start": "8:48" },
-      { "name": "22", "twitch": "2745337959", "start": "2:54:30" }
+      { "name": "22", "twitch": "2745337959", "start": "2:54:30" },
+      { "twitch": "2756626215", "subrefs": [
+        { "name": "23", "start": "12:05" },
+        { "name": "23 (продолжение)", "start": "2:30:09", "hidden": true }
+      ] }
     ]
   },
   {
@@ -13000,7 +13004,8 @@
     "id": "windrose",
     "streams": [
       { "name": "1 (с Дашей)", "twitch": "2748601405", "start": "28:56" },
-      { "name": "2 (4D)", "twitch": "2755846236", "start": "1:14:20" }
+      { "name": "2 (4D)", "twitch": "2755846236", "start": "1:14:20" },
+      { "name": "3 (4D)", "twitch": "2756626215", "start": "3:08:35" }
     ]
   }
 ]
