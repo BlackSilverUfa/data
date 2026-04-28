@@ -654,7 +654,8 @@
       { "name": "2", "twitch": "2007394703", "start": "2:18:04" },
       { "name": "3", "twitch": "2008212794", "start": "6:28:45" },
       { "name": "4", "twitch": "2033253291", "start": "2:12:48" },
-      { "name": "5", "twitch": "2059745251", "start": "5:08:00" }
+      { "name": "5", "twitch": "2059745251", "start": "5:08:00" },
+      { "name": "6", "twitch": "2759017892", "start": "3:16:56" }
     ]
   },
   {
@@ -5763,7 +5764,8 @@
         { "name": "Voodoo Fishin'", "start": "2:18:50" },
         { "name": "Mind Biotics", "start": "2:53:08" }
       ] },
-      { "name": "Nancy Drew: The Haunting of Castle Malloy (Нэнси Дрю. Привидение замка Маллой)", "twitch": "2757524561", "start": "35:22" }
+      { "name": "Nancy Drew: The Haunting of Castle Malloy (Нэнси Дрю. Привидение замка Маллой)", "twitch": "2757524561", "start": "35:22" },
+      { "name": "SAROS", "twitch": "2759017892", "start": "12:01" }
     ]
   },
   {
