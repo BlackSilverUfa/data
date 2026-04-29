@@ -5764,8 +5764,7 @@
         { "name": "Voodoo Fishin'", "start": "2:18:50" },
         { "name": "Mind Biotics", "start": "2:53:08" }
       ] },
-      { "name": "Nancy Drew: The Haunting of Castle Malloy (Нэнси Дрю. Привидение замка Маллой)", "twitch": "2757524561", "start": "35:22" },
-      { "name": "SAROS", "twitch": "2759017892", "start": "12:01" }
+      { "name": "Nancy Drew: The Haunting of Castle Malloy (Нэнси Дрю. Привидение замка Маллой)", "twitch": "2757524561", "start": "35:22" }
     ]
   },
   {
@@ -13011,6 +13010,15 @@
       { "name": "2 (4D)", "twitch": "2755846236", "start": "1:14:20" },
       { "name": "3", "twitch": "2756626215", "start": "3:08:35" },
       { "name": "4", "twitch": "2758272920", "start": "2:12:25" }
+    ]
+  },
+  {
+    "name": "SAROS",
+    "category": "abandoned",
+    "id": "saros",
+    "streams": [
+      { "name": "1", "twitch": "2759017892", "start": "12:01" },
+      { "name": "2", "twitch": "2759808794", "start": "15:06" }
     ]
   }
 ]
