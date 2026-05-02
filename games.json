@@ -5763,8 +5763,7 @@
       { "twitch": "2755040261", "subrefs": [
         { "name": "Voodoo Fishin'", "start": "2:18:50" },
         { "name": "Mind Biotics", "start": "2:53:08" }
-      ] },
-      { "name": "Nancy Drew: The Haunting of Castle Malloy (Нэнси Дрю. Привидение замка Маллой)", "twitch": "2757524561", "start": "35:22" }
+      ] }
     ]
   },
   {
@@ -13019,6 +13018,15 @@
     "streams": [
       { "name": "1", "twitch": "2759017892", "start": "12:01" },
       { "name": "2", "twitch": "2759808794", "start": "15:06" }
+    ]
+  },
+  {
+    "name": "Nancy Drew: The Haunting of Castle Malloy (Нэнси Дрю. Привидение замка Маллой)",
+    "category": "ongoing",
+    "id": "nancy-drew-thocm",
+    "streams": [
+      { "name": "1", "twitch": "2757524561", "start": "35:22" },
+      { "name": "2", "twitch": "2762338751", "start": "28:29" }
     ]
   }
 ]
