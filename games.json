@@ -12796,7 +12796,7 @@
   },
   {
     "name": "Fear the Timeloop",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "fear-the-timeloop",
     "streams": [
       { "name": "Демо", "twitch": "2274972530", "start": "4:24:46" },
@@ -12805,7 +12805,7 @@
   },
   {
     "name": "Cairn",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "cairn",
     "streams": [
       { "name": "1", "twitch": "2683344112", "start": "2:53:31" },
