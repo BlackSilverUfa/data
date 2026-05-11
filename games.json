@@ -13040,11 +13040,12 @@
   },
   {
     "name": "Nancy Drew: The Haunting of Castle Malloy (Нэнси Дрю. Привидение замка Маллой)",
-    "category": "ongoing",
+    "category": "finished",
     "id": "nancy-drew-thocm",
     "streams": [
       { "name": "1", "twitch": "2757524561", "start": "35:22" },
-      { "name": "2", "twitch": "2762338751", "start": "28:29" }
+      { "name": "2", "twitch": "2762338751", "start": "28:29" },
+      { "name": "3", "twitch": "2769406049", "start": "35:25" }
     ]
   },
   {
