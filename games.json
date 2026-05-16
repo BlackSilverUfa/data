@@ -5767,8 +5767,7 @@
       { "name": "Dark Pals", "twitch": "2763171417", "start": "4:29:49" },
       { "name": "Unhost", "twitch": "2763951546", "start": "2:37:42" },
       { "name": "Will: Follow the Light", "twitch": "2766232615", "start": "2:06:46" },
-      { "name": "Meltopia", "twitch": "2770136518", "start": "34:39" },
-      { "name": "Forza Horizon 6", "twitch": "2772494226", "start": "25:00" }
+      { "name": "Meltopia", "twitch": "2770136518", "start": "34:39" }
     ]
   },
   {
@@ -13084,7 +13083,7 @@
   },
   {
     "name": "The Dark Pictures: Directive 8020",
-    "category": "finished",
+    "category": "ongoing",
     "id": "directive-8020",
     "streams": [
       { "name": "1", "twitch": "2770136518", "start": "2:09:03" },
@@ -13097,7 +13096,17 @@
     "id": "subnautica-2",
     "streams": [
       { "name": "1", "twitch": "2771698843", "start": "2:58:49" },
-      { "name": "2", "twitch": "2772494226", "start": "3:15:37" }
+      { "name": "2", "twitch": "2772494226", "start": "3:15:37" },
+      { "name": "3", "twitch": "2773358349", "start": "2:06:38" }
+    ]
+  },
+  {
+    "name": "Forza Horizon 6",
+    "category": "ongoing",
+    "id": "forza-horizon-6",
+    "streams": [
+      { "name": "1", "twitch": "2772494226", "start": "25:00" },
+      { "name": "2", "twitch": "2773358349", "start": "30:25" }
     ]
   }
 ]
