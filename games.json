@@ -13137,11 +13137,12 @@
   },
   {
     "name": "007 First Light",
-    "category": "ongoing",
+    "category": "finished",
     "id": "007-fl",
     "streams": [
       { "name": "1", "twitch": "2781317749", "start": "1:30:14" },
-      { "name": "2", "twitch": "2782041032,2782046080", "start": "15:51" }
+      { "name": "2", "twitch": "2782041032,2782046080", "start": "15:51" },
+      { "name": "3", "twitch": "2782821102", "start": "15:56" }
     ]
   }
 ]
