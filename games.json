@@ -6427,7 +6427,7 @@
       ] },
       { "twitch": "2785277543", "subrefs": [
         { "name": "BrokenLore: ASCEND (демо)", "start": "1:37:25" },
-        { "name": "Grief", "twitch": "2785277543", "start": "2:04:21" },
+        { "name": "Grief", "start": "2:04:21" },
         { "name": "Memories: Silenced", "start": "3:59:59" }
       ] }
     ]
