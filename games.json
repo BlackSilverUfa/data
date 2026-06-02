@@ -5775,7 +5775,12 @@
         { "name": "James Bond 007: From Russia with Love", "start": "34:26" },
         { "name": "James Bond 007: Nightfire", "start": "2:28:37" }
       ] },
-      { "name": "Cheap Car Repair", "twitch": "2784414618", "start": "4:33:29" }
+      { "name": "Cheap Car Repair", "twitch": "2784414618", "start": "4:33:29" },
+      { "twitch": "2786781807", "subrefs": [
+        { "name": "Silver Pines (демо)", "start": "1:37:31" },
+        { "name": "Wilderdark (демо)", "start": "2:38:56" },
+        { "name": "Eternal Haunt", "start": "4:11:10" }
+      ] }
     ]
   },
   {
@@ -6014,7 +6019,6 @@
       { "name": "Radiolight (демо)", "twitch": "2387156230", "start": "3:19:04" },
       { "twitch": "2389049577", "subrefs": [
         { "name": "Backrooms Level X (демо)", "start": "25:22" },
-        { "name": "Baptiste (демо)", "start": "34:24" },
         { "name": "Unforgotten: Ordinance", "start": "3:12:01" }
       ] },
       { "name": "Stygian: Outer Gods (демо)", "twitch": "2389893992", "start": "2:34:12" },
@@ -6429,7 +6433,8 @@
         { "name": "BrokenLore: ASCEND (демо)", "start": "1:37:25" },
         { "name": "Grief", "start": "2:04:21" },
         { "name": "Memories: Silenced", "start": "3:59:59" }
-      ] }
+      ] },
+      { "name": "The Skin Stapler", "twitch": "2786781807", "start": "3:04:04" }
     ]
   },
   {
@@ -13175,6 +13180,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2667145812", "start": "2:18:48" },
       { "name": "Релиз", "twitch": "2785277543", "start": "3:37:39" }
+    ]
+  },
+  {
+    "name": "Baptiste",
+    "category": "finished",
+    "id": "baptiste",
+    "streams": [
+      { "name": "1 (демо)", "twitch": "2389049577", "start": "34:24" },
+      { "name": "2 (демо)", "twitch": "2786781807", "start": "2:42:44" }
     ]
   }
 ]
