@@ -2822,7 +2822,8 @@
       { "name": "2", "twitch": "2138806382", "start": "48:36" },
       { "name": "3", "twitch": "2245831758", "start": "38:29" },
       { "name": "4", "twitch": "2506017612", "start": "3:04:20" },
-      { "name": "5", "twitch": "2508662587", "start": "1:46:15" }
+      { "name": "5", "twitch": "2508662587", "start": "1:46:15" },
+      { "name": "6", "twitch": "2787566607", "start": "5:06:27" }
     ]
   },
   {
@@ -5780,6 +5781,10 @@
         { "name": "Silver Pines (демо)", "start": "1:37:31" },
         { "name": "Wilderdark (демо)", "start": "2:38:56" },
         { "name": "Eternal Haunt", "start": "4:11:10" }
+      ] },
+      { "twitch": "2787566607", "subrefs": [
+        { "name": "Onimusha: Way of the Sword (демо)", "start": "1:52:42" },
+        { "name": "Fatekeeper (демо)", "start": "2:56:58" }
       ] }
     ]
   },
