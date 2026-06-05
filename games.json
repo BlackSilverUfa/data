@@ -5882,11 +5882,12 @@
   },
   {
     "name": "Gothic 1 Remake",
-    "category": "abandoned",
+    "category": "ongoing",
     "id": "gothic-1-remake",
     "streams": [
       { "name": "Playable Teaser", "twitch": "521336731", "start": "7:38" },
-      { "name": "Демо", "twitch": "2389893992", "start": "4:03:13" }
+      { "name": "Демо 1", "twitch": "2389893992", "start": "4:03:13" },
+      { "name": "Демо 2", "twitch": "2789301878", "start": "37:06" }
     ]
   },
   {
