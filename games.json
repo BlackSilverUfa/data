@@ -5788,7 +5788,8 @@
         { "name": "Onimusha: Way of the Sword (демо)", "start": "1:52:42" },
         { "name": "Fatekeeper (демо)", "start": "2:56:58" }
       ] },
-      { "name": "Friendly Steps", "twitch": "2788370660", "start": "2:17:46" }
+      { "name": "Friendly Steps", "twitch": "2788370660", "start": "2:17:46" },
+      { "name": "Gate Guard Simulator", "twitch": "2794822086,2794947072", "start": "51:27" }
     ]
   },
   {
@@ -6249,7 +6250,6 @@
         { "name": "Metroliminal (демо)", "start": "1:11:41" },
         { "name": "Stay With Him", "start": "2:53:31" }
       ] },
-      { "name": "Little Nightmares 3", "twitch": "2587965611", "start": "23:35" },
       { "twitch": "2589892339", "subrefs": [
         { "name": "Lost Liminal (демо)", "start": "35:53" },
         { "name": "Last Stop", "start": "2:58:17" },
@@ -13200,6 +13200,18 @@
     "streams": [
       { "name": "1 (демо)", "twitch": "2389049577", "start": "34:24" },
       { "name": "2 (демо)", "twitch": "2786781807", "start": "2:42:44" }
+    ]
+  },
+  {
+    "name": "Little Nightmares 3",
+    "category": "ongoing",
+    "id": "little-nightmares-3",
+    "streams": [
+      { "name": "Прохождение", "twitch": "2587965611", "start": "23:35" },
+      { "twitch": "2794822086,2794947072", "subrefs": [
+        { "name": "The Backstage", "start": "1:56:07" },
+        { "name": "The Backstage (продолжение)", "start": "3:27:13", "hidden": true }
+      ] }
     ]
   }
 ]
