@@ -5789,7 +5789,12 @@
         { "name": "Fatekeeper (демо)", "start": "2:56:58" }
       ] },
       { "name": "Friendly Steps", "twitch": "2788370660", "start": "2:17:46" },
-      { "name": "Gate Guard Simulator", "twitch": "2794822086,2794947072", "start": "51:27" }
+      { "name": "Gate Guard Simulator", "twitch": "2794822086,2794947072", "start": "51:27" },
+      { "twitch": "2801165670", "subrefs": [
+        { "name": "Mortal Shell II", "start": "1:12:01" },
+        { "name": "IRON NEST: Heavy Turret Simulator", "start": "2:12:00" },
+        { "name": "ReStory", "start": "3:54:50" }
+      ] }
     ]
   },
   {
@@ -6443,7 +6448,8 @@
         { "name": "Grief", "start": "2:04:21" },
         { "name": "Memories: Silenced", "start": "3:59:59" }
       ] },
-      { "name": "The Skin Stapler", "twitch": "2786781807", "start": "3:04:04" }
+      { "name": "The Skin Stapler", "twitch": "2786781807", "start": "3:04:04" },
+      { "name": "XenoFeels (демо)", "twitch": "2801165670", "start": "3:13:57" }
     ]
   },
   {
