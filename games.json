@@ -5800,7 +5800,8 @@
         { "name": "Liminality", "start": "27:16" },
         { "name": "The Fatum", "start": "2:18:10" },
         { "name": "Going My Way?", "start": "2:34:24" }
-      ] }
+      ] },
+      { "name": "Molokaust", "twitch": "2802683859", "start": "4:55:35" }
     ]
   },
   {
@@ -6379,7 +6380,6 @@
       { "twitch": "2686159557", "subrefs": [
         { "name": "Toilet 8", "start": "1:03:16" },
         { "name": "Photomaly (демо)", "start": "1:46:35" },
-        { "name": "Mole (демо)", "start": "2:39:35" },
         { "name": "My Neighbor Stinks", "start": "3:33:33" },
         { "name": "Silent Still 3 (демо)", "start": "4:37:48" }
       ] },
@@ -13226,6 +13226,15 @@
         { "name": "The Backstage", "start": "1:56:07" },
         { "name": "The Backstage (продолжение)", "start": "3:27:13", "hidden": true }
       ] }
+    ]
+  },
+  {
+    "name": "Mole",
+    "category": "finished",
+    "id": "mole",
+    "streams": [
+      { "name": "Демо", "twitch": "2686159557", "start": "2:39:35" },
+      { "name": "Прохождение", "twitch": "2802683859", "start": "27:40" }
     ]
   }
 ]
