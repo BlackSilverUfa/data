@@ -5805,7 +5805,8 @@
       { "twitch": "2803484099", "subrefs": [
         { "name": "Vholume (демо)", "start": "25:41" },
         { "name": "No Such Place (демо)", "start": "2:46:58" }
-      ] }
+      ] },
+      { "name": "Resident Evil: Revelations", "twitch": "2806576326", "start": "57:41" }
     ]
   },
   {
@@ -12985,7 +12986,7 @@
   },
   {
     "name": "Forlorn: The Mysteries of Highshadowland",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "forlorn",
     "streams": [
       { "name": "Демо", "twitch": "1642266888,1642407202", "start": "1:55:07" },
