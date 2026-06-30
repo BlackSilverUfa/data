@@ -2823,7 +2823,8 @@
       { "name": "3", "twitch": "2245831758", "start": "38:29" },
       { "name": "4", "twitch": "2506017612", "start": "3:04:20" },
       { "name": "5", "twitch": "2508662587", "start": "1:46:15" },
-      { "name": "6", "twitch": "2787566607", "start": "5:06:27" }
+      { "name": "6", "twitch": "2787566607", "start": "5:06:27" },
+      { "name": "7", "twitch": "2808863863", "start": "2:41:44" }
     ]
   },
   {
@@ -6430,7 +6431,6 @@
         { "name": "Knock", "start": "4:10:36" },
         { "name": "Rippers Lair", "start": "4:55:33" }
       ] },
-      { "name": "Idols of Ash", "twitch": "2740582496", "start": "1:21:34" },
       { "name": "Resident Evil Survivor", "twitch": "2742091967", "start": "3:25:44" },
       { "twitch": "2751915521", "subrefs": [
         { "name": "Barking from the Dark", "start": "1:16:16" },
@@ -13262,7 +13262,17 @@
     "id": "dswtf",
     "streams": [
       { "name": "1", "twitch": "2807358092", "start": "2:28:32" },
-      { "name": "2", "twitch": "2808112062", "start": "40:51" }
+      { "name": "2", "twitch": "2808112062", "start": "40:51" },
+      { "name": "3", "twitch": "2808863863", "start": "46:17" }
+    ]
+  },
+  {
+    "name": "Idols of Ash",
+    "category": "finished",
+    "id": "idols-of-ash",
+    "streams": [
+      { "name": "Демо", "twitch": "2740582496", "start": "1:21:34" },
+      { "name": "Релиз", "twitch": "2808863863", "start": "4:35:46" }
     ]
   }
 ]
