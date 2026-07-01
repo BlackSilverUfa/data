@@ -13258,12 +13258,13 @@
   },
   {
     "name": "Don’t Sleep with the Fishes",
-    "category": "ongoing",
+    "category": "finished",
     "id": "dswtf",
     "streams": [
       { "name": "1", "twitch": "2807358092", "start": "2:28:32" },
       { "name": "2", "twitch": "2808112062", "start": "40:51" },
-      { "name": "3", "twitch": "2808863863", "start": "46:17" }
+      { "name": "3", "twitch": "2808863863", "start": "46:17" },
+      { "name": "3", "twitch": "2809626809", "start": "41:14" }
     ]
   },
   {
@@ -13272,7 +13273,8 @@
     "id": "idols-of-ash",
     "streams": [
       { "name": "Демо", "twitch": "2740582496", "start": "1:21:34" },
-      { "name": "Релиз", "twitch": "2808863863", "start": "4:35:46" }
+      { "name": "1", "twitch": "2808863863", "start": "4:35:46" },
+      { "name": "2", "twitch": "2809626809", "start": "3:33:06" }
     ]
   }
 ]
