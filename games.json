@@ -5819,7 +5819,8 @@
         { "name": "Burglin' Gnomes", "start": "1:27:10" },
         { "name": "Don't Fall", "start": "2:42:48" }
       ] },
-      { "name": "DOOM", "twitch": "2814203775", "start": "32:07" }
+      { "name": "DOOM", "twitch": "2814203775", "start": "32:07" },
+      { "name": "Assassin's Creed Black Flag Resynced", "twitch": "2816505036", "start": "11:00" }
     ]
   },
   {
@@ -13054,7 +13055,7 @@
   },
   {
     "name": "The Occultist",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "occultist",
     "streams": [
       { "name": "1", "twitch": "2743663862", "start": "3:00:41" },
