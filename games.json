@@ -13082,7 +13082,7 @@
   },
   {
     "name": "Replaced",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "replaced",
     "streams": [
       { "name": "Демо", "twitch": "2695726320", "start": "49:13" },
@@ -13329,7 +13329,8 @@
     "id": "ac-black-flag",
     "streams": [
       { "name": "1", "twitch": "2816505036", "start": "11:00" },
-      { "name": "2", "twitch": "2817362538", "start": "16:00" }
+      { "name": "2", "twitch": "2817362538", "start": "16:00" },
+      { "name": "3", "twitch": "2818920239", "start": "19:54" }
     ]
   },
   {
