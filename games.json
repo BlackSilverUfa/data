@@ -5815,12 +5815,10 @@
         { "name": "Spoonscapist", "start": "4:14:24" },
         { "name": "Feed The Pit", "start": "4:19:14" }
       ] },
-      { "twitch": "2813442393", "subrefs": [
-        { "name": "Burglin' Gnomes", "start": "1:27:10" },
-        { "name": "Don't Fall", "start": "2:42:48" }
-      ] },
+      { "name": "Don't Fall", "twitch": "2813442393", "start": "2:42:48" },
       { "name": "DOOM", "twitch": "2814203775", "start": "32:07" },
-      { "name": "Transcendence in the Poolrooms", "twitch": "2818211845", "start": "48:51" }
+      { "name": "Transcendence in the Poolrooms", "twitch": "2818211845", "start": "48:51" },
+      { "name": "Goblin Company", "twitch": "2820530075", "start": "3:31:03" }
     ]
   },
   {
@@ -6480,7 +6478,6 @@
       { "name": "XenoFeels (демо)", "twitch": "2801165670", "start": "3:13:57" },
       { "name": "Crococo", "twitch": "2801954342", "start": "1:10:53" },
       { "twitch": "2803484099", "subrefs": [
-        { "name": "A Game About Chopping Trees (демо)", "start": "49:23" },
         { "name": "Come In", "start": "2:00:15" },
         { "name": "Cozy Game Restoration (демо)", "start": "3:07:09" }
       ] },
@@ -12694,7 +12691,8 @@
       { "name": "4", "twitch": "2625048351", "start": "1:52:49" },
       { "name": "5", "twitch": "2731374579", "start": "1:16:28" },
       { "name": "6", "twitch": "2788370660", "start": "3:37:14" },
-      { "name": "7", "twitch": "2813442393", "start": "4:25:39" }
+      { "name": "7", "twitch": "2813442393", "start": "4:25:39" },
+      { "name": "8", "twitch": "2820530075", "start": "4:59:23" }
     ]
   },
   {
@@ -13040,7 +13038,8 @@
     "id": "mimesis",
     "streams": [
       { "name": "1", "twitch": "2722074621", "start": "2:25:53" },
-      { "name": "2", "twitch": "2734704380", "start": "4:12:56" }
+      { "name": "2", "twitch": "2734704380", "start": "4:12:56" },
+      { "name": "3", "twitch": "2820530075", "start": "2:17:52" }
     ]
   },
   {
@@ -13341,6 +13340,24 @@
     "streams": [
       { "name": "1", "twitch": "2480467576,2480584019", "start": "47:15" },
       { "name": "2", "twitch": "2818211845", "start": "28:41" }
+    ]
+  },
+  {
+    "name": "A Game About Chopping Trees",
+    "category": "ongoing",
+    "id": "chopping-trees",
+    "streams": [
+      { "name": "Демо", "twitch": "2803484099", "start": "49:23" },
+      { "name": "Релиз", "twitch": "2820530075", "start": "19:42" }
+    ]
+  },
+  {
+    "name": "Burglin' Gnomes",
+    "category": "co-op",
+    "id": "burglin-gnomes",
+    "streams": [
+      { "name": "1", "twitch": "2813442393", "start": "1:27:10" },
+      { "name": "2", "twitch": "2820530075", "start": "3:55:06" }
     ]
   }
 ]
