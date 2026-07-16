@@ -5818,7 +5818,8 @@
       { "name": "Don't Fall", "twitch": "2813442393", "start": "2:42:48" },
       { "name": "DOOM", "twitch": "2814203775", "start": "32:07" },
       { "name": "Transcendence in the Poolrooms", "twitch": "2818211845", "start": "48:51" },
-      { "name": "Goblin Company", "twitch": "2820530075", "start": "3:31:03" }
+      { "name": "Goblin Company", "twitch": "2820530075", "start": "3:31:03" },
+      { "name": "The Mound: Omen of Cthulhu", "twitch": "2821341807", "start": "2:36:21" }
     ]
   },
   {
@@ -13320,7 +13321,8 @@
       { "name": "2 (с Дашей)", "twitch": "2814203775", "start": "3:49:36" },
       { "name": "3", "twitch": "2814926697", "start": "4:42:18" },
       { "name": "4", "twitch": "2817362538", "start": "4:29:07" },
-      { "name": "5", "twitch": "2819874424", "start": "11:13" }
+      { "name": "5", "twitch": "2819874424", "start": "11:13" },
+      { "name": "6", "twitch": "2821341807", "start": "3:19:48" }
     ]
   },
   {
@@ -13348,7 +13350,8 @@
     "id": "chopping-trees",
     "streams": [
       { "name": "Демо", "twitch": "2803484099", "start": "49:23" },
-      { "name": "Релиз", "twitch": "2820530075", "start": "19:42" }
+      { "name": "1", "twitch": "2820530075", "start": "19:42" },
+      { "name": "2", "twitch": "2821341807", "start": "16:25" }
     ]
   },
   {
