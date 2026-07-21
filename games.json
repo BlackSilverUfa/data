@@ -6409,7 +6409,6 @@
       ] },
       { "twitch": "2686159557", "subrefs": [
         { "name": "Toilet 8", "start": "1:03:16" },
-        { "name": "Photomaly (демо)", "start": "1:46:35" },
         { "name": "My Neighbor Stinks", "start": "3:33:33" },
         { "name": "Silent Still 3 (демо)", "start": "4:37:48" }
       ] },
@@ -6519,7 +6518,8 @@
         { "name": "Stories to Tell: Greyville Stay", "start": "3:31:55" },
         { "name": "Stories to Tell: The Stoneville Incident (продолжение)", "start": "3:53:19", "hidden": true },
         { "name": "Last Kid on the Bus", "start": "4:17:51" }
-      ] }
+      ] },
+      { "name": "At Night: Freakshow", "twitch": "2825347238", "start": "2:59:11" }
     ]
   },
   {
@@ -11518,7 +11518,8 @@
       { "name": "23", "twitch": "2812712988" },
       { "name": "24", "twitch": "2818211845" },
       { "name": "25", "twitch": "2823795462" },
-      { "name": "26", "twitch": "2824550708" }
+      { "name": "26", "twitch": "2824550708" },
+      { "name": "27", "twitch": "2825347238" }
     ]
   },
   {
@@ -13393,6 +13394,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2452604064,2452700284", "start": "4:41:11" },
       { "name": "Релиз", "twitch": "2822945512", "start": "1:29:17" }
+    ]
+  },
+  {
+    "name": "Photomaly",
+    "category": "finished",
+    "id": "photomaly",
+    "streams": [
+      { "name": "Демо", "twitch": "2686159557", "start": "1:46:35" },
+      { "name": "Прохождение", "twitch": "2825347238", "start": "38:48" }
     ]
   }
 ]
