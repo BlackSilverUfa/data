@@ -5827,7 +5827,11 @@
         { "name": "The Additional Dimension", "start": "57:03" },
         { "name": "Awakeness: YALDA Night", "start": "4:26:42" }
       ] },
-      { "name": "When Will I Get Home?", "twitch": "2824550708", "start": "32:34" }
+      { "name": "When Will I Get Home?", "twitch": "2824550708", "start": "32:34" },
+      { "twitch": "2826169085", "subrefs": [
+        { "name": "Cloudrooms", "start": "20:36" },
+        { "name": "Too Well Hidden", "start": "2:06:07" }
+      ] }
     ]
   },
   {
@@ -6447,7 +6451,6 @@
       ] },
       { "twitch": "2739703294", "subrefs": [
         { "name": "Staged: Open House (демо)", "start": "1:25:41" },
-        { "name": "Mold Rise", "start": "2:10:22" },
         { "name": "I Hear Them", "start": "2:32:01" },
         { "name": "Knock", "start": "4:10:36" },
         { "name": "Rippers Lair", "start": "4:55:33" }
@@ -6519,7 +6522,8 @@
         { "name": "Stories to Tell: The Stoneville Incident (продолжение)", "start": "3:53:19", "hidden": true },
         { "name": "Last Kid on the Bus", "start": "4:17:51" }
       ] },
-      { "name": "At Night: Freakshow", "twitch": "2825347238", "start": "2:59:11" }
+      { "name": "At Night: Freakshow", "twitch": "2825347238", "start": "2:59:11" },
+      { "name": "Tales From the Other Side: Beneath the Roots", "twitch": "2826169085", "start": "52:51" }
     ]
   },
   {
@@ -11519,7 +11523,8 @@
       { "name": "24", "twitch": "2818211845" },
       { "name": "25", "twitch": "2823795462" },
       { "name": "26", "twitch": "2824550708" },
-      { "name": "27", "twitch": "2825347238" }
+      { "name": "27", "twitch": "2825347238" },
+      { "name": "28", "twitch": "2826169085" }
     ]
   },
   {
@@ -13403,6 +13408,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2686159557", "start": "1:46:35" },
       { "name": "Прохождение", "twitch": "2825347238", "start": "38:48" }
+    ]
+  },
+  {
+    "name": "Moldrise",
+    "category": "ongoing",
+    "id": "moldrise",
+    "streams": [
+      { "name": "Демо", "twitch": "2739703294", "start": "2:10:22" },
+      { "name": "Релиз", "twitch": "2826169085", "start": "2:19:05" }
     ]
   }
 ]
