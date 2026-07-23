@@ -3881,7 +3881,7 @@
   "2736317269": { "youtube": "4e5UEhyDQco" },
   "2737131562": { "youtube": "dh2P7ukkjuU" },
   "2737932822": { "youtube": "n39jJKNMK8s" },
-  "2739703294": { "youtube": "P63fJAMU4tQ", "cuts": ["20:30+-27", "25:30+-1:36", "29:55+-20", "39:57+-12"] },
+  "2739703294": { "youtube": "P63fJAMU4tQ", "cuts": ["20:30~20:03", "25:30~23:54", "29:55~29:35", "39:57~39:45"] },
   "2740582496": { "youtube": "DZI9eSH_l74" },
   "2741318217": { "youtube": "a2PnBdDS-W4" },
   "2742091967": { "youtube": "FAcR2A_cti8" },
@@ -3973,5 +3973,5 @@
   "2823795462": { "youtube": "I8kkyBIzfTU", "source_cuts": ["2:30:39~2:31:05"] },
   "2824550708": { "youtube": "y-ws2ZypR6c" },
   "2825347238": { "youtube": "LPJDigmriYE" },
-  "2826169085": {  }
+  "2826169085": { "youtube": "NM8emrctD4I" }
 }
