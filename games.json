@@ -6220,8 +6220,7 @@
       ] },
       { "twitch": "2511344577", "subrefs": [
         { "name": "Dread Flats", "start": "1:11:43" },
-        { "name": "Gordy", "start": "3:10:12" },
-        { "name": "Shift at Midnight (демо)", "start": "4:38:41" }
+        { "name": "Gordy", "start": "3:10:12" }
       ] },
       { "twitch": "2523773918", "subrefs": [
         { "name": "Analog: Skin off", "start": "54:59" },
@@ -6523,7 +6522,8 @@
         { "name": "Last Kid on the Bus", "start": "4:17:51" }
       ] },
       { "name": "At Night: Freakshow", "twitch": "2825347238", "start": "2:59:11" },
-      { "name": "Tales From the Other Side: Beneath the Roots", "twitch": "2826169085", "start": "52:51" }
+      { "name": "Tales From the Other Side: Beneath the Roots", "twitch": "2826169085", "start": "52:51" },
+      { "name": "Nullhome (демо)", "twitch": "2826990964", "start": "32:11" }
     ]
   },
   {
@@ -11524,7 +11524,8 @@
       { "name": "25", "twitch": "2823795462" },
       { "name": "26", "twitch": "2824550708" },
       { "name": "27", "twitch": "2825347238" },
-      { "name": "28", "twitch": "2826169085" }
+      { "name": "28", "twitch": "2826169085" },
+      { "name": "29", "twitch": "2826990964" }
     ]
   },
   {
@@ -13412,11 +13413,21 @@
   },
   {
     "name": "Moldrise",
-    "category": "ongoing",
+    "category": "finished",
     "id": "moldrise",
     "streams": [
       { "name": "Демо", "twitch": "2739703294", "start": "2:10:22" },
-      { "name": "Релиз", "twitch": "2826169085", "start": "2:19:05" }
+      { "name": "1", "twitch": "2826169085", "start": "2:19:05" },
+      { "name": "2", "twitch": "2826990964", "start": "47:08" }
+    ]
+  },
+  {
+    "name": "Shift at Midnight",
+    "category": "ongoing",
+    "id": "shift-at-midnight",
+    "streams": [
+      { "name": "Демо", "twitch": "2511344577", "start": "4:38:41" },
+      { "name": "С Дашей", "twitch": "2826990964", "start": "2:04:01" }
     ]
   }
 ]
