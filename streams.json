@@ -1889,10 +1889,7 @@
   "989503848": { "youtube": "PXQfe8WkuNY", "official": false },
   "990810001": {  },
   "992035730": { "youtube": "vxZho7FfjHY", "official": false },
-  "995413784": [
-    { "youtube": "UTmcGHl6qGA", "offset": "-0:22" },
-    {  }
-  ],
+  "995413784": { "youtube": "JmOSv7LJXPo", "official": false },
   "996609423": { "youtube": "BRYNvV4VMDA", "official": false },
   "997843732": { "youtube": "fqvS9VODd8Y", "official": false },
   "999099020": { "youtube": "ib6cIsvXmh4", "official": false },
@@ -3974,5 +3971,5 @@
   "2824550708": { "youtube": "y-ws2ZypR6c" },
   "2825347238": { "youtube": "LPJDigmriYE" },
   "2826169085": { "youtube": "NM8emrctD4I" },
-  "2826990964": { "source_cuts": ["5:05:40+53"] }
+  "2826990964": { "source_cuts": ["5:05:40~5:06:33"] }
 }
