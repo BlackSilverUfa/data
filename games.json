@@ -5831,8 +5831,7 @@
       { "twitch": "2826169085", "subrefs": [
         { "name": "Cloudrooms", "start": "20:36" },
         { "name": "Too Well Hidden", "start": "2:06:07" }
-      ] },
-      { "name": "Halo: Campaign Evolved", "twitch": "2827738928", "start": "17:54" }
+      ] }
     ]
   },
   {
@@ -13430,6 +13429,16 @@
       { "name": "Демо", "twitch": "2511344577", "start": "4:38:41" },
       { "name": "1 (с Дашей)", "twitch": "2826990964", "start": "2:04:01" },
       { "name": "2", "twitch": "2827738928", "start": "6:15:56" }
+    ]
+  },
+  {
+    "name": "Halo: Campaign Evolved",
+    "category": "finished",
+    "id": "halo-ce",
+    "streams": [
+      { "name": "1", "twitch": "2827738928", "start": "17:54" },
+      { "name": "2 (часть 1)", "twitch": "2828580862", "start": "9:23" },
+      { "name": "2 (часть 2)", "twitch": "2828707037", "start": "1:29" }
     ]
   }
 ]
