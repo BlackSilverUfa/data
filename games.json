@@ -5831,7 +5831,8 @@
       { "twitch": "2826169085", "subrefs": [
         { "name": "Cloudrooms", "start": "20:36" },
         { "name": "Too Well Hidden", "start": "2:06:07" }
-      ] }
+      ] },
+      { "name": "Flash and Die", "twitch": "2829483141", "start": "3:56:43" }
     ]
   },
   {
@@ -6523,7 +6524,11 @@
       ] },
       { "name": "At Night: Freakshow", "twitch": "2825347238", "start": "2:59:11" },
       { "name": "Tales From the Other Side: Beneath the Roots", "twitch": "2826169085", "start": "52:51" },
-      { "name": "Nullhome (демо)", "twitch": "2826990964", "start": "32:11" }
+      { "name": "Nullhome (демо)", "twitch": "2826990964", "start": "32:11" },
+      { "twitch": "2829483141", "subrefs": [
+        { "name": "Your Happy Place", "start": "26:59" },
+        { "name": "Out Here", "start": "3:01:11" }
+      ] }
     ]
   },
   {
@@ -7228,7 +7233,8 @@
       { "name": "Bite Night", "twitch": "2173541595", "start": "2:06:29" },
       { "name": "Invasion of The Halloween Fiends", "twitch": "2291735052", "start": "1:39:27" },
       { "name": "Hell of a Birthday", "twitch": "2389049577", "start": "2:00:16" },
-      { "name": "Bite Night: Dine or Die", "twitch": "2679753048", "start": "3:07:08" }
+      { "name": "Bite Night: Dine or Die", "twitch": "2679753048", "start": "3:07:08" },
+      { "name": "Only Good Babysitters Go to Heaven", "twitch": "2829483141", "start": "1:29:19" }
     ]
   },
   {
@@ -11525,7 +11531,8 @@
       { "name": "26", "twitch": "2824550708" },
       { "name": "27", "twitch": "2825347238" },
       { "name": "28", "twitch": "2826169085" },
-      { "name": "29", "twitch": "2826990964" }
+      { "name": "29", "twitch": "2826990964" },
+      { "name": "30", "twitch": "2829483141" }
     ]
   },
   {
@@ -13158,7 +13165,7 @@
   },
   {
     "name": "Windrose",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "windrose",
     "streams": [
       { "name": "1 (с Дашей)", "twitch": "2748601405", "start": "28:56" },
