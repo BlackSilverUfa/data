@@ -3929,7 +3929,8 @@
       { "name": "Nintendo Switch 2", "twitch": "2478592997", "start": "59:18" },
       { "name": "Подкаст про Silent Hill ƒ (WeLoveGames, Dmitry Bale)", "twitch": "2578806165", "start": "1:54:54" },
       { "name": "Новый год 2026", "twitch": "2657553049" },
-      { "name": "Обзор конференций (лето 2026)", "twitch": "2793259082" }
+      { "name": "Обзор конференций (лето 2026)", "twitch": "2793259082" },
+      { "name": "Выбор наказания (01.08.26)", "twitch": "2834410477", "start": "18:12" }
     ]
   },
   {
@@ -6456,7 +6457,6 @@
       ] },
       { "twitch": "2739703294", "subrefs": [
         { "name": "Staged: Open House (демо)", "start": "1:25:41" },
-        { "name": "I Hear Them", "start": "2:32:01" },
         { "name": "Knock", "start": "4:10:36" },
         { "name": "Rippers Lair", "start": "4:55:33" }
       ] },
@@ -6538,7 +6538,11 @@
         { "name": "Backrooms Anomaly", "start": "41:07" },
         { "name": "Curse of the Abandoned Floor (демо)", "start": "4:00:56" }
       ] },
-      { "name": "Night Plane (демо)", "twitch": "2832718311", "start": "3:33:12" }
+      { "name": "Night Plane (демо)", "twitch": "2832718311", "start": "3:33:12" },
+      { "twitch": "2834475019", "subrefs": [
+        { "name": "Mermade", "start": "2:19:18" },
+        { "name": "Ashes of the Sun", "start": "2:37:57" }
+      ] }
     ]
   },
   {
@@ -11541,7 +11545,8 @@
       { "name": "29", "twitch": "2826990964" },
       { "name": "30", "twitch": "2829483141" },
       { "name": "31", "twitch": "2831074196" },
-      { "name": "32", "twitch": "2832718311" }
+      { "name": "32", "twitch": "2832718311" },
+      { "name": "33", "twitch": "2834475019" }
     ]
   },
   {
@@ -13486,15 +13491,12 @@
     ]
   },
   {
-    "name": "Не оформлено",
-    "category": "other",
-    "id": "todo",
+    "name": "I Hear Them",
+    "category": "finished",
+    "id": "i-hear-them",
     "streams": [
-      { "twitch": "2834475019", "subrefs": [
-        { "name": "I Hear Them", "start": "12:21" },
-        { "name": "Mermade", "start": "2:19:08" },
-        { "name": "Ashes of the Sun", "start": "2:37:55" }
-      ] }
+      { "name": "Демо", "twitch": "2739703294", "start": "2:32:01" },
+      { "name": "Прохождение", "twitch": "2834475019", "start": "14:07" }
     ]
   }
 ]
