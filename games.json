@@ -13205,7 +13205,7 @@
   },
   {
     "name": "BACK*SPACE",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "back-space",
     "streams": [
       { "name": "Демо", "twitch": "2739703294", "start": "32:28" },
@@ -13224,7 +13224,7 @@
   },
   {
     "name": "Matreshka",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "matreshka",
     "streams": [
       { "name": "Демо", "twitch": "2480467576,2480584019", "start": "1:07:53" },
