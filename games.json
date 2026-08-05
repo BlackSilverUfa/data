@@ -5840,7 +5840,8 @@
         { "name": "Prospice (демо)", "start": "2:51:24" },
         { "name": "Switch the Darkness", "start": "4:24:41" }
       ] },
-      { "name": "Даша Васильева. Личное дело Женщины-кошки", "twitch": "2835275414", "start": "18:56" }
+      { "name": "Даша Васильева. Личное дело Женщины-кошки", "twitch": "2835275414", "start": "18:56" },
+      { "name": "Beast of Reincarnation", "twitch": "2837836383", "start": "30:27" }
     ]
   },
   {
@@ -6429,7 +6430,6 @@
         { "name": "One Last Clip", "start": "3:24:57" }
       ] },
       { "twitch": "2692371042", "subrefs": [
-        { "name": "Uncanny Tales: The Watcher (демо)", "start": "53:59" },
         { "name": "The Strange Lights", "start": "1:51:16" },
         { "name": "Crabmeat (демо)", "start": "2:31:06" },
         { "name": "Perceptum (демо)", "start": "3:17:35" },
@@ -13499,6 +13499,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2739703294", "start": "2:32:01" },
       { "name": "Прохождение", "twitch": "2834475019", "start": "14:07" }
+    ]
+  },
+  {
+    "name": "Uncanny Tales: The Watcher",
+    "category": "finished",
+    "id": "uncanny-tales-tw",
+    "streams": [
+      { "name": "Демо", "twitch": "2692371042", "start": "53:59" },
+      { "name": "Прохождение", "twitch": "2837836383", "start": "3:07:31" }
     ]
   }
 ]
