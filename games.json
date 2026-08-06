@@ -505,7 +505,8 @@
         { "name": "FixForce", "start": "3:54:38" }
       ] },
       { "name": "Heave Ho 2", "twitch": "2831873376", "start": "3:24:42" },
-      { "name": "Storebound", "twitch": "2835275414", "start": "2:20:46" }
+      { "name": "Storebound", "twitch": "2835275414", "start": "2:20:46" },
+      { "name": "Big Walk", "twitch": "2838748968", "start": "3:07:41" }
     ]
   },
   {
@@ -4672,7 +4673,8 @@
         { "name": "Concrete Tremor", "start": "4:20:41" }
       ] },
       { "name": "Fused 240", "twitch": "2421947533,2422099767", "start": "2:44:59" },
-      { "name": "Crank it!", "twitch": "2542477703", "start": "4:12:24" }
+      { "name": "Crank it!", "twitch": "2542477703", "start": "4:12:24" },
+      { "name": "Machine Party (кооп)", "twitch": "2838748968", "start": "1:43:12" }
     ]
   },
   {
@@ -5079,7 +5081,6 @@
       { "name": "SCP-479: Shadows of the Mind", "twitch": "1945778448", "start": "3:31:10" },
       { "name": "Chiyo (демо)", "twitch": "1949027899", "start": "4:38:37" },
       { "twitch": "1950762078", "subrefs": [
-        { "name": "Gennady (демо)", "start": "1:34:40" },
         { "name": "The Talos Principle II (демо)", "start": "1:39:52" },
         { "name": "The Thaumaturge (демо)", "start": "2:37:20" },
         { "name": "The Enjenir (демо)", "start": "4:08:54" }
@@ -5841,7 +5842,8 @@
         { "name": "Switch the Darkness", "start": "4:24:41" }
       ] },
       { "name": "Даша Васильева. Личное дело Женщины-кошки", "twitch": "2835275414", "start": "18:56" },
-      { "name": "Beast of Reincarnation", "twitch": "2837836383", "start": "30:27" }
+      { "name": "Beast of Reincarnation", "twitch": "2837836383", "start": "30:27" },
+      { "name": "Echo Zero", "twitch": "2838748968", "start": "1:06:31" }
     ]
   },
   {
@@ -12746,7 +12748,8 @@
       { "name": "7", "twitch": "2813442393", "start": "4:25:39" },
       { "name": "8", "twitch": "2820530075", "start": "4:59:23" },
       { "name": "9", "twitch": "2822945512", "start": "5:09:32" },
-      { "name": "10", "twitch": "2831873376", "start": "4:26:18" }
+      { "name": "10", "twitch": "2831873376", "start": "4:26:18" },
+      { "name": "11", "twitch": "2838748968", "start": "3:47:44" }
     ]
   },
   {
@@ -13507,7 +13510,17 @@
     "id": "uncanny-tales-tw",
     "streams": [
       { "name": "Демо", "twitch": "2692371042", "start": "53:59" },
-      { "name": "Прохождение", "twitch": "2837836383", "start": "3:07:31" }
+      { "name": "1", "twitch": "2837836383", "start": "3:07:31" },
+      { "name": "2 (все ачивки)", "twitch": "2838748968", "start": "14:22" }
+    ]
+  },
+  {
+    "name": "Gennady",
+    "category": "ongoing",
+    "id": "gennady",
+    "streams": [
+      { "name": "Демо", "twitch": "1950762078", "start": "1:34:40" },
+      { "name": "Релиз", "twitch": "2838748968", "start": "32:32" }
     ]
   }
 ]
