@@ -439,7 +439,8 @@
   "257610470": { "youtube": "vXRhoEb1Ea8", "offset": "-0:06" },
   "257985661": { "youtube": "yQh1bnndB4M" },
   "259446831": {
-    "offset": "-0:04", "direct": "https://bsufiles.drhx.ru/streams/259446831.mp4",
+    "offset": "-0:04",
+    "direct": "https://bsufiles.drhx.ru/streams/259446831.mp4",
     "note": "<a href=\"https://youtu.be/L8nR3beOFBs\">Официальную запись</a> невозможно использовать на этом сайте из-за возрастных ограничений"
   },
   "259798230": { "youtube": "aO1vU8MX33I", "offset": "-0:05" },
@@ -3982,5 +3983,5 @@
   "2834410477": { "youtube": "mkwwb6uhqz0", "official": false },
   "2834475019": { "youtube": "vA_UJ5tpGic" },
   "2835275414": { "youtube": "zQGCGMlnDV4" },
-  "2837836383": {  }
+  "2837836383": { "youtube": "jhqzt7Sm3MM" }
 }
