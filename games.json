@@ -6293,10 +6293,7 @@
         { "name": "August Night", "start": "5:08:55" },
         { "name": "SNAP SNAP", "start": "5:39:48" }
       ] },
-      { "twitch": "2579578173", "subrefs": [
-        { "name": "[HERROR] Gas Station Case (демо)", "start": "2:14:17" },
-        { "name": "Knock on the Window", "start": "3:25:38" }
-      ] },
+      { "name": "Knock on the Window", "twitch": "2579578173", "start": "3:25:38" },
       { "name": "Industria II (демо)", "twitch": "2580342642", "start": "4:47:24" },
       { "twitch": "2581220252", "subrefs": [
         { "name": "Backrooms: The Beginning Hour (демо)", "start": "27:56" },
@@ -13257,7 +13254,7 @@
   },
   {
     "name": "Subnautica 2",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "subnautica-2",
     "streams": [
       { "name": "1", "twitch": "2771698843", "start": "2:58:49" },
@@ -13267,7 +13264,7 @@
   },
   {
     "name": "Forza Horizon 6",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "forza-horizon-6",
     "streams": [
       { "name": "1", "twitch": "2772494226", "start": "25:00" },
@@ -13535,6 +13532,15 @@
     "streams": [
       { "name": "Демо 1", "twitch": "2667145812", "start": "3:14:42" },
       { "name": "Демо 2", "twitch": "2839644239,2839724229", "start": "1:22:01" }
+    ]
+  },
+  {
+    "name": "[HERROR] Gas Station Case",
+    "category": "finished",
+    "id": "herror-gsc",
+    "streams": [
+      { "name": "Демо", "twitch": "2579578173", "start": "2:14:17" },
+      { "name": "Прохождение", "twitch": "2850502197", "start": "1:59:02" }
     ]
   }
 ]
