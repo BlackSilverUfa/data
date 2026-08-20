@@ -5844,7 +5844,8 @@
       { "name": "Даша Васильева. Личное дело Женщины-кошки", "twitch": "2835275414", "start": "18:56" },
       { "name": "Beast of Reincarnation", "twitch": "2837836383", "start": "30:27" },
       { "name": "Echo Zero", "twitch": "2838748968", "start": "1:06:31" },
-      { "name": "Kindawn: The Parish Remembers", "twitch": "2839644239,2839724229", "start": "2:22:33" }
+      { "name": "Kindawn: The Parish Remembers", "twitch": "2839644239,2839724229", "start": "2:22:33" },
+      { "name": "The Sinking City 2", "twitch": "2851537750", "start": "1:12:28" }
     ]
   },
   {
@@ -12468,7 +12469,9 @@
     "id": "mafia-toc",
     "streams": [
       { "name": "1", "twitch": "2533434372", "start": "54:52" },
-      { "name": "2", "twitch": "2534392013,2534676528", "start": "5:41" }
+      { "name": "2", "twitch": "2534392013,2534676528", "start": "5:41" },
+      { "name": "3 (DLC: Man of Honor)", "twitch": "2851374246", "start": "1:03:02" },
+      { "name": "4 (DLC: Man of Honor)", "twitch": "2851537750", "start": "7:41" }
     ]
   },
   {
