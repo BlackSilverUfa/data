@@ -3263,7 +3263,8 @@
       { "twitch": "2349362268,2349415065", "subrefs": [
         { "name": "Cursed Digicam", "start": "36:32" },
         { "name": "Cursed Digicam (продолжение)", "start": "1:38:44", "hidden": true }
-      ] }
+      ] },
+      { "name": "Snowed Under", "twitch": "2852312104", "start": "1:11:03" }
     ]
   },
   {
