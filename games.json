@@ -6502,7 +6502,6 @@
         { "name": "Grief", "start": "2:04:21" },
         { "name": "Memories: Silenced", "start": "3:59:59" }
       ] },
-      { "name": "The Skin Stapler", "twitch": "2786781807", "start": "3:04:04" },
       { "name": "XenoFeels (демо)", "twitch": "2801165670", "start": "3:13:57" },
       { "name": "Crococo", "twitch": "2801954342", "start": "1:10:53" },
       { "twitch": "2803484099", "subrefs": [
@@ -13558,6 +13557,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2579578173", "start": "2:14:17" },
       { "name": "Прохождение", "twitch": "2850502197", "start": "1:59:02" }
+    ]
+  },
+  {
+    "name": "The Skin Stapler",
+    "category": "finished",
+    "id": "skin-stapler",
+    "streams": [
+      { "name": "Демо", "twitch": "2786781807", "start": "3:04:04" },
+      { "name": "Прохождение", "twitch": "2855130830", "start": "31:38" }
     ]
   }
 ]
