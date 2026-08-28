@@ -3725,7 +3725,8 @@
       { "name": "11 (тест нового ПК)", "twitch": "2402231265", "start": "6:45" },
       { "name": "12", "twitch": "2408851513", "start": "4:55:56" },
       { "name": "Switch 2", "twitch": "2478592997", "start": "1:05:57" },
-      { "name": "13", "twitch": "2500703382", "start": "25:25" }
+      { "name": "13", "twitch": "2500703382", "start": "25:25" },
+      { "name": "14 (DLSS 5)", "twitch": "2858672788", "start": "49:49" }
     ]
   },
   {
@@ -3937,7 +3938,8 @@
       { "name": "Подкаст про Silent Hill ƒ (WeLoveGames, Dmitry Bale)", "twitch": "2578806165", "start": "1:54:54" },
       { "name": "Новый год 2026", "twitch": "2657553049" },
       { "name": "Обзор конференций (лето 2026)", "twitch": "2793259082" },
-      { "name": "Выбор наказания (01.08.26)", "twitch": "2834410477", "start": "18:12" }
+      { "name": "Выбор наказания (01.08.26)", "twitch": "2834410477", "start": "18:12" },
+      { "name": "DLSS-стрим", "twitch": "2858672788" }
     ]
   },
   {
@@ -4359,10 +4361,7 @@
       { "name": "Ghostbusters", "twitch": "490488498", "start": "4:01:22" },
       { "name": "Home Sweet Home: Episode II", "twitch": "491017258", "start": "3:04:35" },
       { "name": "Cooking Simulator", "twitch": "499849877", "start": "21:15" },
-      { "twitch": "504248004", "subrefs": [
-        { "name": "Need for Speed Heat" },
-        { "name": "Red Dead Redemption 2 (PC)", "start": "2:06:04" }
-      ] },
+      { "name": "Need for Speed Heat", "twitch": "504248004" },
       { "name": "Planet Zoo", "twitch": "504672487", "start": "3:50:24" },
       { "name": "Shenmue III", "twitch": "510472726", "start": "3:19:55" },
       { "name": "The Paperman", "twitch": "524865260", "start": "2:49:10" }
@@ -11886,7 +11885,9 @@
       { "name": "6", "twitch": "335348537", "start": "3:04:45" },
       { "name": "7", "twitch": "337485395", "segment": 0 },
       { "name": "8", "twitch": "338345713", "segment": 0 },
-      { "name": "9", "twitch": "339579917", "segment": 0 }
+      { "name": "9", "twitch": "339579917", "segment": 0 },
+      { "name": "10 (PC)", "twitch": "504248004", "start": "2:06:04" },
+      { "name": "11 (DLSS)", "twitch": "2858672788", "start": "2:56:19" }
     ]
   },
   {
@@ -12330,7 +12331,8 @@
         { "name": "Демо", "start": "37:14" },
         { "name": "Демо (продолжение)", "start": "4:15:30", "hidden": true }
       ] },
-      { "name": "ПК", "twitch": "2490150024", "start": "34:11" }
+      { "name": "ПК", "twitch": "2490150024", "start": "34:11" },
+      { "name": "DLSS 5", "twitch": "2858672788", "start": "3:29:16" }
     ]
   },
   {
