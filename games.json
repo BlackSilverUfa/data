@@ -5860,7 +5860,8 @@
         { "name": "Resonance: A Plague Tale Legacy", "start": "3:16:13" },
         { "name": "Star Wars Zero Company", "start": "5:03:16" }
       ] },
-      { "name": "Witness the Dark #1: Bloody Burger", "twitch": "2859661467", "start": "2:52:55" }
+      { "name": "Witness the Dark #1: Bloody Burger", "twitch": "2859661467", "start": "2:52:55" },
+      { "name": "Madagascar: Escape 2 Africa", "twitch": "2860620549", "start": "26:52" }
     ]
   },
   {
@@ -13332,7 +13333,7 @@
   },
   {
     "name": "Liminal Shroud",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "liminal-shroud",
     "streams": [
       { "name": "Демо", "twitch": "2604295684", "start": "54:54" },
@@ -13341,7 +13342,7 @@
   },
   {
     "name": "It Reaches",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "it-reaches",
     "streams": [
       { "name": "Демо", "twitch": "2667145812", "start": "2:18:48" },
