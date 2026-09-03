@@ -5854,8 +5854,8 @@
         { "name": "Star Wars Zero Company", "start": "5:03:16" }
       ] },
       { "name": "Witness the Dark #1: Bloody Burger", "twitch": "2859661467", "start": "2:52:55" },
-      { "name": "Madagascar: Escape 2 Africa", "twitch": "2860620549", "start": "26:52" },
-      { "name": "Iron Blight", "twitch": "2862392814", "start": "45:34" }
+      { "name": "Iron Blight", "twitch": "2862392814", "start": "45:34" },
+      { "name": "The Blood of Dawnwalker", "twitch": "2864035028", "start": "12:37" }
     ]
   },
   {
@@ -5956,7 +5956,7 @@
   },
   {
     "name": "Gothic 1 Remake",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "gothic-1-remake",
     "streams": [
       { "name": "Playable Teaser", "twitch": "521336731", "start": "7:38" },
@@ -13604,6 +13604,15 @@
     "streams": [
       { "name": "1", "twitch": "2853243279", "start": "3:33:15" },
       { "name": "2", "twitch": "2856864707", "start": "3:45:31" }
+    ]
+  },
+  {
+    "name": "Madagascar: Escape 2 Africa",
+    "category": "finished",
+    "id": "madagascar-2",
+    "streams": [
+      { "name": "1", "twitch": "2860620549", "start": "26:52" },
+      { "name": "2", "twitch": "2864035028", "start": "3:38:00" }
     ]
   }
 ]
