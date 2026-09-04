@@ -5854,8 +5854,7 @@
         { "name": "Star Wars Zero Company", "start": "5:03:16" }
       ] },
       { "name": "Witness the Dark #1: Bloody Burger", "twitch": "2859661467", "start": "2:52:55" },
-      { "name": "Iron Blight", "twitch": "2862392814", "start": "45:34" },
-      { "name": "The Blood of Dawnwalker", "twitch": "2864035028", "start": "12:37" }
+      { "name": "Iron Blight", "twitch": "2862392814", "start": "45:34" }
     ]
   },
   {
@@ -13613,6 +13612,15 @@
     "streams": [
       { "name": "1", "twitch": "2860620549", "start": "26:52" },
       { "name": "2", "twitch": "2864035028", "start": "3:38:00" }
+    ]
+  },
+  {
+    "name": "The Blood of Dawnwalker",
+    "category": "ongoing",
+    "id": "dawnwalker",
+    "streams": [
+      { "name": "1", "twitch": "2864035028", "start": "12:37" },
+      { "name": "2", "twitch": "2864893468", "start": "11:03" }
     ]
   }
 ]
