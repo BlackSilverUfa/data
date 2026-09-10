@@ -6177,7 +6177,6 @@
       ] },
       { "twitch": "2437947286", "subrefs": [
         { "name": "Creepy Shift: House For Sale", "start": "1:29:22" },
-        { "name": "Cosmic Fear (демо)", "start": "3:30:00" },
         { "name": "Sanity Loops (демо)", "start": "4:44:53" }
       ] },
       { "twitch": "2438710443", "subrefs": [
@@ -13360,7 +13359,7 @@
   },
   {
     "name": "Little Nightmares 3",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "little-nightmares-3",
     "streams": [
       { "name": "Прохождение", "twitch": "2587965611", "start": "23:35" },
@@ -13628,6 +13627,15 @@
       { "name": "1", "twitch": "2864035028", "start": "12:37" },
       { "name": "2", "twitch": "2864893468", "start": "11:03" },
       { "name": "3", "twitch": "2865824623,2865899418", "start": "14:23" }
+    ]
+  },
+  {
+    "name": "Cosmic Fear",
+    "category": "ongoing",
+    "id": "cosmic-fear",
+    "streams": [
+      { "name": "Демо", "twitch": "2437947286", "start": "3:30:00" },
+      { "name": "Релиз", "twitch": "2870344809", "start": "2:02:12" }
     ]
   }
 ]
