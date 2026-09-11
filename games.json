@@ -5855,7 +5855,8 @@
       ] },
       { "name": "Witness the Dark #1: Bloody Burger", "twitch": "2859661467", "start": "2:52:55" },
       { "name": "Iron Blight", "twitch": "2862392814", "start": "45:34" },
-      { "name": "Between Places", "twitch": "2866862961", "start": "29:54" }
+      { "name": "Between Places", "twitch": "2866862961", "start": "29:54" },
+      { "name": "Backseat", "twitch": "2871200330", "start": "3:17:52" }
     ]
   },
   {
@@ -13631,11 +13632,12 @@
   },
   {
     "name": "Cosmic Fear",
-    "category": "ongoing",
+    "category": "finished",
     "id": "cosmic-fear",
     "streams": [
       { "name": "Демо", "twitch": "2437947286", "start": "3:30:00" },
-      { "name": "Релиз", "twitch": "2870344809", "start": "2:02:12" }
+      { "name": "1", "twitch": "2870344809", "start": "2:02:12" },
+      { "name": "2", "twitch": "2871200330", "start": "38:57" }
     ]
   }
 ]
