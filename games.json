@@ -5841,7 +5841,6 @@
       { "name": "Даша Васильева. Личное дело Женщины-кошки", "twitch": "2835275414", "start": "18:56" },
       { "name": "Beast of Reincarnation", "twitch": "2837836383", "start": "30:27" },
       { "name": "Echo Zero", "twitch": "2838748968", "start": "1:06:31" },
-      { "name": "Kindawn: The Parish Remembers", "twitch": "2839644239,2839724229", "start": "2:22:33" },
       { "name": "The Sinking City 2", "twitch": "2851537750", "start": "1:12:28" },
       { "name": "Frozen Ship", "twitch": "2853243279", "start": "32:45" },
       { "twitch": "2854225850", "subrefs": [
@@ -6568,7 +6567,8 @@
       { "twitch": "2866862961", "subrefs": [
         { "name": "7 Nights Keeper", "start": "1:34:57" },
         { "name": "Tales of Fear: Episode Zero", "start": "3:03:40" }
-      ] }
+      ] },
+      { "name": "The Pale Mimic", "twitch": "2872140533", "start": "41:45" }
     ]
   },
   {
@@ -13638,6 +13638,15 @@
       { "name": "Демо", "twitch": "2437947286", "start": "3:30:00" },
       { "name": "1", "twitch": "2870344809", "start": "2:02:12" },
       { "name": "2", "twitch": "2871200330", "start": "38:57" }
+    ]
+  },
+  {
+    "name": "Kindawn: The Parish Remembers",
+    "category": "ongoing",
+    "id": "kindawn",
+    "streams": [
+      { "name": "Демо", "twitch": "2839644239,2839724229", "start": "2:22:33" },
+      { "name": "Релиз", "twitch": "2872140533", "start": "3:34:20" }
     ]
   }
 ]
