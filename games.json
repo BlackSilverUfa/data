@@ -5860,7 +5860,11 @@
         { "name": "Inner Rooms (демо)", "start": "1:03:03" },
         { "name": "Jawed (демо)", "start": "2:08:33" }
       ] },
-      { "name": "Marvel's Wolverine", "twitch": "2874733011", "start": "9:32" }
+      { "name": "Marvel's Wolverine", "twitch": "2874733011", "start": "9:32" },
+      { "twitch": "2875653512,2875679207", "subrefs": [
+        { "name": "Take Care of My Heifer", "start": "1:23:31" },
+        { "name": "Rehaunted", "start": "2:10:38" }
+      ] }
     ]
   },
   {
@@ -6574,7 +6578,12 @@
         { "name": "Tales of Fear: Episode Zero", "start": "3:03:40" }
       ] },
       { "name": "The Pale Mimic", "twitch": "2872140533", "start": "41:45" },
-      { "name": "The Final Witness", "twitch": "2873951734", "start": "2:25:43" }
+      { "name": "The Final Witness", "twitch": "2873951734", "start": "2:25:43" },
+      { "twitch": "2875653512,2875679207", "subrefs": [
+        { "name": "FailRooms (демо)", "start": "58:00" },
+        { "name": "Road to Jukai (демо)", "start": "3:35:59" },
+        { "name": "The Night Route", "start": "4:15:13" }
+      ] }
     ]
   },
   {
@@ -11583,7 +11592,8 @@
       { "name": "35", "twitch": "2854225850" },
       { "name": "36", "twitch": "2859661467" },
       { "name": "37", "twitch": "2866862961" },
-      { "name": "38", "twitch": "2873951734" }
+      { "name": "38", "twitch": "2873951734" },
+      { "name": "39 (не ВВХ)", "twitch": "2875653512,2875679207" }
     ]
   },
   {
