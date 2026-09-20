@@ -5865,7 +5865,12 @@
         { "name": "Take Care of My Heifer", "start": "1:23:31" },
         { "name": "Rehaunted", "start": "2:10:38" }
       ] },
-      { "name": "Blackwood", "twitch": "2876512872", "start": "3:22:14" }
+      { "name": "Blackwood", "twitch": "2876512872", "start": "3:22:14" },
+      { "twitch": "2879282795", "subrefs": [
+        { "name": "Tape 101: Liminal Descent", "start": "22:58" },
+        { "name": "Donut Panic (демо)", "start": "2:42:35" },
+        { "name": "The Well is not Empty", "start": "3:41:43" }
+      ] }
     ]
   },
   {
@@ -6585,7 +6590,11 @@
         { "name": "Road to Jukai (демо)", "start": "3:35:59" },
         { "name": "The Night Route", "start": "4:15:13" }
       ] },
-      { "name": "Clive Barker's Hellraiser: Revival (демо)", "twitch": "2876512872", "start": "1:08:24" }
+      { "name": "Clive Barker's Hellraiser: Revival (демо)", "twitch": "2876512872", "start": "1:08:24" },
+      { "twitch": "2879282795", "subrefs": [
+        { "name": "771", "start": "1:44:21" },
+        { "name": "Feed the Fish", "start": "4:41:50" }
+      ] }
     ]
   },
   {
@@ -11596,7 +11605,8 @@
       { "name": "36", "twitch": "2859661467" },
       { "name": "37", "twitch": "2866862961" },
       { "name": "38", "twitch": "2873951734" },
-      { "name": "39 (не ВВХ)", "twitch": "2875653512,2875679207" }
+      { "name": "39 (не ВВХ)", "twitch": "2875653512,2875679207" },
+      { "name": "40", "twitch": "2879282795" }
     ]
   },
   {
