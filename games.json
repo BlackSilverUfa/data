@@ -5870,8 +5870,7 @@
         { "name": "Tape 101: Liminal Descent", "start": "22:58" },
         { "name": "Donut Panic (демо)", "start": "2:42:35" },
         { "name": "The Well is not Empty", "start": "3:41:43" }
-      ] },
-      { "name": "Silent Hill: Townfall", "twitch": "2880107885", "start": "32:38" }
+      ] }
     ]
   },
   {
@@ -13678,6 +13677,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2839644239,2839724229", "start": "2:22:33" },
       { "name": "Релиз", "twitch": "2872140533", "start": "3:34:20" }
+    ]
+  },
+  {
+    "name": "Silent Hill: Townfall",
+    "category": "ongoing",
+    "id": "sh-townfall",
+    "streams": [
+      { "name": "1", "twitch": "2880107885", "start": "32:38" },
+      { "name": "2", "twitch": "2880921823", "start": "12:53" }
     ]
   }
 ]
