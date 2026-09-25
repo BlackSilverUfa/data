@@ -3931,11 +3931,19 @@
       { "name": "Тестовый стрим (20.02.24)", "twitch": "2068467078" },
       { "name": "Новый год 2025 (клипы)", "twitch": "2340621815" },
       { "name": "Nintendo Switch 2", "twitch": "2478592997", "start": "59:18" },
-      { "name": "Подкаст про Silent Hill ƒ (WeLoveGames, Dmitry Bale)", "twitch": "2578806165", "start": "1:54:54" },
       { "name": "Новый год 2026", "twitch": "2657553049" },
       { "name": "Обзор конференций (лето 2026)", "twitch": "2793259082" },
       { "name": "Выбор наказания (01.08.26)", "twitch": "2834410477", "start": "18:12" },
       { "name": "DLSS-стрим", "twitch": "2858672788" }
+    ]
+  },
+  {
+    "name": "Подкасты",
+    "category": "other",
+    "id": "podcast",
+    "streams": [
+      { "name": "Silent Hill ƒ (WeLoveGames, Dmitry Bale)", "twitch": "2578806165", "start": "1:54:54" },
+      { "name": "Silent Hill: Townfall (WeLoveGames, Dmitry Bale)", "twitch": "2883504889", "start": "3:00:11" }
     ]
   },
   {
@@ -8146,7 +8154,8 @@
     "streams": [
       { "name": "Демо", "twitch": "1842665393", "start": "25:56" },
       { "name": "Релиз", "twitch": "1925972150", "start": "4:57:37" },
-      { "name": "1 (заново)", "twitch": "2878263383", "start": "24:17" }
+      { "name": "1 (заново)", "twitch": "2878263383", "start": "24:17" },
+      { "name": "2", "twitch": "2883504889", "start": "28:21" }
     ]
   },
   {
