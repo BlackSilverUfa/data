@@ -5869,10 +5869,7 @@
         { "name": "Jawed (демо)", "start": "2:08:33" }
       ] },
       { "name": "Marvel's Wolverine", "twitch": "2874733011", "start": "9:32" },
-      { "twitch": "2875653512,2875679207", "subrefs": [
-        { "name": "Take Care of My Heifer", "start": "1:23:31" },
-        { "name": "Rehaunted", "start": "2:10:38" }
-      ] },
+      { "name": "Take Care of My Heifer", "twitch": "2875653512,2875679207", "start": "1:23:31" },
       { "name": "Blackwood", "twitch": "2876512872", "start": "3:22:14" },
       { "twitch": "2879282795", "subrefs": [
         { "name": "Tape 101: Liminal Descent", "start": "22:58" },
@@ -5883,8 +5880,7 @@
       { "twitch": "2885449305", "subrefs": [
         { "name": "The Expansion", "start": "47:18" },
         { "name": "Karjala", "start": "1:15:27" },
-        { "name": "Traffic Stop Anomaly", "start": "2:16:05" },
-        { "name": "The Old House", "start": "4:22:11" }
+        { "name": "Traffic Stop Anomaly", "start": "2:16:05" }
       ] }
     ]
   },
@@ -6613,6 +6609,10 @@
       { "twitch": "2885449305", "subrefs": [
         { "name": "Terrible Lizards (демо)", "start": "1:29:46" },
         { "name": "Yellowcreek Stories: The Cabin Watcher", "start": "2:54:36" }
+      ] },
+      { "twitch": "2886317549", "subrefs": [
+        { "name": "Crime Podcast: 1976", "start": "2:31:05" },
+        { "name": "Don't Pick Up (демо)", "start": "3:52:03" }
       ] }
     ]
   },
@@ -13708,6 +13708,24 @@
       { "name": "1", "twitch": "2880107885", "start": "32:38" },
       { "name": "2", "twitch": "2880921823", "start": "12:53" },
       { "name": "3", "twitch": "2881778152", "start": "24:50" }
+    ]
+  },
+  {
+    "name": "The Old House",
+    "category": "finished",
+    "id": "old-house",
+    "streams": [
+      { "name": "Демо", "twitch": "2885449305", "start": "4:22:11" },
+      { "name": "Прохождение", "twitch": "2886317549", "start": "41:42" }
+    ]
+  },
+  {
+    "name": "Rehaunted",
+    "category": "ongoing",
+    "id": "rehaunted",
+    "streams": [
+      { "name": "Демо", "twitch": "2875653512,2875679207", "start": "2:10:38" },
+      { "name": "Релиз", "twitch": "2886317549", "start": "3:37:07" }
     ]
   }
 ]
