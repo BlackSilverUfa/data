@@ -5883,7 +5883,11 @@
         { "name": "Traffic Stop Anomaly", "start": "2:16:05" }
       ] },
       { "name": "The Witcher 3: Wild Hunt Remastered", "twitch": "2887102003", "start": "14:11" },
-      { "name": "Gears of War: E-Day", "twitch": "2889704094", "start": "34:28" }
+      { "name": "Gears of War: E-Day", "twitch": "2889704094", "start": "34:28" },
+      { "twitch": "2890670943", "subrefs": [
+        { "name": "End of Abyss", "start": "40:09" },
+        { "name": "Ace Combat 8: Wings Of Theve", "start": "4:07:33" }
+      ] }
     ]
   },
   {
