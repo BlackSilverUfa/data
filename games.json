@@ -5888,9 +5888,13 @@
         { "name": "End of Abyss", "start": "40:09" },
         { "name": "Ace Combat 8: Wings Of Theve", "start": "4:07:33" }
       ] },
-      { "twitch": "2891673921", "subrefs": [
-        { "name": "Deadpact", "start": "53:18" },
-        { "name": "Shockface", "start": "4:01:20" }
+      { "name": "Shockface", "twitch": "2891673921", "start": "4:01:20" },
+      { "twitch": "2892503691", "subrefs": [
+        { "name": "Ларёк на улице Ленина (Lenin Street Geek Shop)", "start": "1:29:51" },
+        { "name": "Elta: Defy All Gods", "start": "2:59:28" },
+        { "name": "Castlevania: Belmont's Curse (демо)", "start": "3:33:17" },
+        { "name": "Tremen (демо)", "start": "4:19:06" },
+        { "name": "RetroSpace", "start": "4:26:07" }
       ] }
     ]
   },
@@ -13743,6 +13747,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2875653512,2875679207", "start": "2:10:38" },
       { "name": "Релиз", "twitch": "2886317549", "start": "3:37:07" }
+    ]
+  },
+  {
+    "name": "Deadpact",
+    "category": "ongoing",
+    "id": "deadpact",
+    "streams": [
+      { "name": "1", "twitch": "2891673921", "start": "53:18" },
+      { "name": "2", "twitch": "2892503691", "start": "21:30" }
     ]
   }
 ]
