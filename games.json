@@ -13759,11 +13759,12 @@
   },
   {
     "name": "Clive Barker's Hellraiser: Revival",
-    "category": "ongoing",
+    "category": "finished",
     "id": "hellraiser-revival",
     "streams": [
       { "name": "Демо", "twitch": "2876512872", "start": "1:08:24" },
-      { "name": "Релиз", "twitch": "2895051612", "start": "13:55" }
+      { "name": "1", "twitch": "2895051612", "start": "13:55" },
+      { "name": "2", "twitch": "2895918794", "start": "12:07" }
     ]
   }
 ]
