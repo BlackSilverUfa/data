@@ -5629,7 +5629,6 @@
         { "name": "Owl Lights", "start": "4:50:19" }
       ] },
       { "name": "Eilean Mor: The Lost Keepers", "twitch": "2589892339", "start": "2:22:28" },
-      { "name": "Valor Mortis (демо)", "twitch": "2590720116", "start": "12:12" },
       { "twitch": "2591591751", "subrefs": [
         { "name": "Huntsman (демо)", "start": "2:31:19" },
         { "name": "Don't Feed The Cat (демо)", "start": "2:42:15" },
@@ -13786,6 +13785,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2786781807", "start": "1:37:31" },
       { "name": "Релиз", "twitch": "2896927553", "start": "2:10:48" }
+    ]
+  },
+  {
+    "name": "Valor Mortis",
+    "category": "ongoing",
+    "id": "valor-mortis",
+    "streams": [
+      { "name": "Демо", "twitch": "2590720116", "start": "12:12" },
+      { "name": "Релиз", "twitch": "2900446049", "start": "31:43" }
     ]
   }
 ]
