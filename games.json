@@ -13487,7 +13487,7 @@
   },
   {
     "name": "Pratfall",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "pratfall",
     "streams": [
       { "name": "1 (4D)", "twitch": "2813442393", "start": "3:59:49" },
@@ -13519,7 +13519,7 @@
   },
   {
     "name": "A Game About Chopping Trees",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "chopping-trees",
     "streams": [
       { "name": "Демо", "twitch": "2803484099", "start": "49:23" },
