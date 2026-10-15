@@ -5890,7 +5890,6 @@
       { "twitch": "2892503691", "subrefs": [
         { "name": "Ларёк на улице Ленина (Lenin Street Geek Shop)", "start": "1:29:51" },
         { "name": "Elta: Defy All Gods", "start": "2:59:28" },
-        { "name": "Castlevania: Belmont's Curse (демо)", "start": "3:33:17" },
         { "name": "Tremen (демо)", "start": "4:19:06" },
         { "name": "RetroSpace", "start": "4:26:07" }
       ] },
@@ -5898,6 +5897,10 @@
         { "name": "The Backrooms: Threshold (демо)", "start": "31:14" },
         { "name": "Meat Without Master", "start": "3:46:20" },
         { "name": "The Plant Shop", "start": "4:30:19" }
+      ] },
+      { "twitch": "2901366775", "subrefs": [
+        { "name": "Thank You Bus Driver", "start": "1:04:06" },
+        { "name": "Warhammer 40,000: Boltgun 2", "start": "1:40:08" }
       ] }
     ]
   },
@@ -13794,6 +13797,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2590720116", "start": "12:12" },
       { "name": "Релиз", "twitch": "2900446049", "start": "31:43" }
+    ]
+  },
+  {
+    "name": "Castlevania: Belmont's Curse",
+    "category": "ongoing",
+    "id": "castlevania-bc",
+    "streams": [
+      { "name": "Демо", "twitch": "2892503691", "start": "3:33:17" },
+      { "name": "Релиз", "twitch": "2901366775", "start": "3:10:44" }
     ]
   }
 ]
