@@ -5544,7 +5544,6 @@
         { "name": "White Room Protocol (демо)", "start": "4:32:33" },
         { "name": "Nightmare Visions", "start": "4:50:20" }
       ] },
-      { "name": "Aspis (Аспис) (демо)", "twitch": "2477119604,2477127804", "start": "15:17" },
       { "twitch": "2478592997", "subrefs": [
         { "name": "Mario Kart World", "start": "2:05:10" },
         { "name": "Nintendo Switch 2 Welcome Tour", "start": "2:26:45" },
@@ -6648,7 +6647,8 @@
         { "name": "Артур переезжает в Краснодар", "start": "1:16:20" },
         { "name": "What He Left", "start": "1:34:31" },
         { "name": "You Are Hamster", "start": "2:41:45" }
-      ] }
+      ] },
+      { "name": "Pineview Drive: Rising Storm (демо)", "twitch": "2909394350", "start": "1:02:24" }
     ]
   },
   {
@@ -13574,7 +13574,7 @@
   },
   {
     "name": "Shift at Midnight",
-    "category": "ongoing",
+    "category": "abandoned",
     "id": "shift-at-midnight",
     "streams": [
       { "name": "Демо", "twitch": "2511344577", "start": "4:38:41" },
@@ -13831,6 +13831,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2470596250", "start": "1:29:26" },
       { "name": "Релиз", "twitch": "2904151512", "start": "3:39:27" }
+    ]
+  },
+  {
+    "name": "Aspis (Аспис)",
+    "category": "ongoing",
+    "id": "aspis",
+    "streams": [
+      { "name": "Демо", "twitch": "2477119604,2477127804", "start": "15:17" },
+      { "name": "Релиз", "twitch": "2909394350", "start": "2:50:00" }
     ]
   }
 ]
