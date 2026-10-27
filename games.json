@@ -5903,7 +5903,8 @@
         { "name": "Hey, Don't Look at Me (демо)", "start": "2:25:01" },
         { "name": "Incident Reports: Millers Residence (демо)", "start": "4:15:29" },
         { "name": "Blighten", "start": "4:49:51" }
-      ] }
+      ] },
+      { "name": "Remothered: Red Nun's Legacy", "twitch": "2912091872", "start": "4:04:27" }
     ]
   },
   {
@@ -6150,7 +6151,6 @@
         { "name": "Backrooms Level X (демо)", "start": "25:22" },
         { "name": "Unforgotten: Ordinance", "start": "3:12:01" }
       ] },
-      { "name": "Stygian: Outer Gods (демо)", "twitch": "2389893992", "start": "2:34:12" },
       { "twitch": "2390754958", "subrefs": [
         { "name": "Salvage Protocol (демо)", "start": "3:33:37" },
         { "name": "Neverlooted Dungeon (демо)", "start": "4:15:24" }
@@ -13855,6 +13855,15 @@
       { "name": "Демо", "twitch": "2477119604,2477127804", "start": "15:17" },
       { "name": "1", "twitch": "2909394350", "start": "2:50:00" },
       { "name": "2", "twitch": "2911196560,2911276863", "start": "3:29:26" }
+    ]
+  },
+  {
+    "name": "Stygian: Outer Gods",
+    "category": "ongoing",
+    "id": "stygian",
+    "streams": [
+      { "name": "Демо", "twitch": "2389893992", "start": "2:34:12" },
+      { "name": "Релиз", "twitch": "2912091872", "start": "16:35" }
     ]
   }
 ]
