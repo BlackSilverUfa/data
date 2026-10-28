@@ -5903,8 +5903,7 @@
         { "name": "Hey, Don't Look at Me (демо)", "start": "2:25:01" },
         { "name": "Incident Reports: Millers Residence (демо)", "start": "4:15:29" },
         { "name": "Blighten", "start": "4:49:51" }
-      ] },
-      { "name": "Playable Archive", "twitch": "2912958277", "start": "4:25:44" }
+      ] }
     ]
   },
   {
@@ -6660,7 +6659,8 @@
         { "name": "Plushy's Playground: Into the Slide (демо)", "start": "3:14:20" },
         { "name": "CH13: Rest Stop (демо)", "start": "3:56:36" },
         { "name": "Unlisted (демо)", "start": "4:32:43" }
-      ] }
+      ] },
+      { "name": "Playable Archive", "twitch": "2912958277", "start": "4:25:44" }
     ]
   },
   {
