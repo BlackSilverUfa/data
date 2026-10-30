@@ -13811,14 +13811,15 @@
   },
   {
     "name": "Valor Mortis",
-    "category": "ongoing",
+    "category": "finished",
     "id": "valor-mortis",
     "streams": [
       { "name": "Демо", "twitch": "2590720116", "start": "12:12" },
       { "name": "1", "twitch": "2900446049", "start": "31:43" },
       { "name": "2", "twitch": "2904964741", "start": "20:13" },
       { "name": "3", "twitch": "2907533345", "start": "26:14" },
-      { "name": "4", "twitch": "2911196560,2911276863", "start": "12:02" }
+      { "name": "4", "twitch": "2911196560,2911276863", "start": "12:02" },
+      { "name": "5", "twitch": "2914736898", "start": "15:55" }
     ]
   },
   {
