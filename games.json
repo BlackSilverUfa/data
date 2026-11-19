@@ -5902,8 +5902,7 @@
         { "name": "Blighten", "start": "4:49:51" }
       ] },
       { "name": "Phantom Blade Zero", "twitch": "2913818251", "start": "17:16" },
-      { "name": "Derelikt", "twitch": "2928510634", "start": "4:01:09" },
-      { "name": "Grand Theft Auto VI", "twitch": "2932196997", "start": "42:46" }
+      { "name": "Derelikt", "twitch": "2928510634", "start": "4:01:09" }
     ]
   },
   {
@@ -13914,6 +13913,15 @@
     "streams": [
       { "name": "Демо", "twitch": "2910395040", "start": "3:56:36" },
       { "name": "Прохождение", "twitch": "2930442944", "start": "4:20:11" }
+    ]
+  },
+  {
+    "name": "Grand Theft Auto VI",
+    "category": "ongoing",
+    "id": "gta-6",
+    "streams": [
+      { "name": "1", "twitch": "2932196997", "start": "42:46" },
+      { "name": "2", "twitch": "2933513942", "start": "13:44" }
     ]
   }
 ]
